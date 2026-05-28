@@ -1,0 +1,11 @@
+transformers
+torch
+nltk
+textblob
+language-tool-python
+radon
+pylint
+streamlit
+pandas
+scikit-learn
+

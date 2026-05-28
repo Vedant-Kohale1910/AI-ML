@@ -1,0 +1,1 @@
+I used binary search to reduce the time complexity from O(n) to O(log n).

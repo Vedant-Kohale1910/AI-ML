@@ -1,0 +1,6 @@
+transcript,code,time_taken,final_score
+I solved the problem using binary search and optimized time complexity.,"def search(arr, x): return x in arr",22,85
+I was confused during the implementation and struggled with optimization.,for i in range(len(arr)):\n for j in range(len(arr)): pass,48,52
+I used dynamic programming and explained each step clearly.,def fib(n):\n if n<=1:return n\n return fib(n-1)+fib(n-2),30,74
+The approach uses hashing to improve lookup speed.,d={},18,88
+I attempted the question but could not finish in time.,print('Incomplete'),60,45
