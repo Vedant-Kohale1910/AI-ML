@@ -1,0 +1,21 @@
+job_id,company,title,python,sql,machine_learning,communication,data_visualization,cloud,min_projects,min_internships,min_cgpa,salary_lpa,location
+101,TechCorp India,Data Scientist,1,1,1,1,1,0,3,1,8.0,12,Bangalore
+102,FinSoft Solutions,Data Analyst,1,1,0,1,1,0,2,0,7.0,8,Mumbai
+103,CloudBase Pvt Ltd,ML Engineer,1,0,1,0,1,1,4,1,8.5,15,Hyderabad
+104,StartupXYZ,Python Developer,1,0,0,1,0,0,2,0,7.5,7,Pune
+105,HealthTech Ltd,Healthcare Data Analyst,0,1,0,1,1,0,2,1,7.5,9,Chennai
+106,RetailAI Corp,ML Researcher,1,1,1,1,1,1,5,2,8.5,18,Bangalore
+107,EduPlatform,Data Engineer,1,1,0,0,0,1,3,1,7.8,10,Remote
+108,BankingPro,Business Analyst,0,1,0,1,1,0,1,0,7.0,7,Mumbai
+109,CyberSec Inc,AI Security Analyst,1,0,1,1,0,1,4,1,8.0,14,Delhi
+110,GreenEnergy Ltd,Data Analyst,0,1,0,1,1,0,2,0,7.2,7,Ahmedabad
+111,AutoTech Motors,Computer Vision Engineer,1,0,1,0,1,1,5,2,8.5,16,Pune
+112,MarketPlace,Recommendation Engineer,1,1,1,1,0,0,3,1,8.0,13,Bangalore
+113,InsuraTech,Risk Analyst,0,1,0,1,1,0,2,0,7.0,8,Mumbai
+114,TelecomGiant,Network Data Scientist,1,1,1,0,1,1,4,1,8.2,13,Delhi
+115,FoodDelivery App,Analytics Engineer,1,1,0,1,1,0,2,0,7.5,9,Bangalore
+116,SocialMedia Co,NLP Engineer,1,0,1,1,0,0,4,1,8.0,14,Hyderabad
+117,LogisticsPlus,Operations Data Analyst,0,1,0,1,1,0,2,0,6.8,7,Chennai
+118,EdTech Startup,Junior Data Scientist,1,1,1,1,1,0,2,0,7.0,8,Remote
+119,RealEstate AI,Geospatial Data Analyst,0,1,0,1,1,0,1,0,7.0,7,Bangalore
+120,PharmaTech,Bioinformatics Analyst,1,1,1,0,1,0,3,1,8.0,11,Hyderabad
