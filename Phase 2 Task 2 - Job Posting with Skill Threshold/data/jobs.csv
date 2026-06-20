@@ -1,0 +1,9 @@
+job_id,company,role,python,ml,sql,dsa,statistics,deep_learning
+101,DataCorp,Data Scientist,70,65,50,0,60,0
+102,TechFusion,ML Engineer,85,80,70,60,75,70
+103,AnalyticsPro,Data Analyst,50,40,75,0,65,0
+104,DeepMind Labs,AI Researcher,90,95,60,80,85,90
+105,StartupXYZ,Junior Data Scientist,50,45,40,0,40,0
+106,FinanceHub,Quantitative Analyst,65,55,80,0,90,0
+107,RetailAI,ML Ops Engineer,75,70,55,70,50,60
+108,HealthTech,Medical Data Analyst,55,50,70,0,75,0
