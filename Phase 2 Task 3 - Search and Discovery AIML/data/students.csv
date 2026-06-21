@@ -1,0 +1,21 @@
+student_id,name,skills,experience_years,education,location,communication_score
+1,Rahul Sharma,"Python,Machine Learning,SQL,NumPy,Pandas",2,B.Tech Computer Science,Mumbai,85
+2,Priya Mehta,"React,JavaScript,HTML,CSS,TypeScript",1,B.Tech Information Technology,Pune,90
+3,Amit Verma,"Java,Spring Boot,Hibernate,SQL,Maven",3,MCA,Bangalore,78
+4,Sneha Iyer,"Python,Deep Learning,TensorFlow,Keras,Computer Vision",2,M.Tech AI,Hyderabad,82
+5,Rohan Gupta,"Node.js,Express,MongoDB,JavaScript,REST API",2,B.Tech Computer Science,Delhi,75
+6,Kavya Reddy,"Data Analysis,Python,Tableau,Power BI,SQL",1,BCA,Chennai,88
+7,Vikram Nair,"DevOps,Docker,Kubernetes,AWS,CI/CD,Linux",4,B.Tech IT,Bangalore,70
+8,Anjali Singh,"Flutter,Dart,Android,iOS,Firebase",2,B.Tech CS,Jaipur,84
+9,Arjun Patel,"Cybersecurity,Ethical Hacking,Network Security,Python,Linux",3,B.Tech CS,Ahmedabad,72
+10,Neha Kulkarni,"Business Analysis,SQL,Excel,Power BI,Agile",2,MBA,Pune,92
+11,Siddharth Roy,"Python,NLP,Machine Learning,Scikit-learn,NLTK",1,M.Tech CS,Kolkata,80
+12,Divya Pillai,"Graphic Design,Figma,UI/UX,Adobe XD,Photoshop",2,B.Des,Kochi,87
+13,Manish Tiwari,"PHP,Laravel,MySQL,JavaScript,HTML,CSS",3,BCA,Lucknow,73
+14,Pooja Desai,"Cloud Computing,AWS,Azure,GCP,Python,Terraform",3,B.Tech IT,Mumbai,79
+15,Harsh Joshi,"Blockchain,Solidity,Web3,Python,Ethereum",2,B.Tech CS,Vadodara,76
+16,Riya Kapoor,"Java,Android Development,Kotlin,Firebase,REST API",2,B.Tech CS,Delhi,83
+17,Sumit Yadav,"Data Engineering,Python,Apache Spark,Kafka,Airflow,SQL",4,M.Tech DS,Hyderabad,77
+18,Tanvi Choudhary,"Marketing Analytics,Python,R,Google Analytics,SQL",1,MBA,Pune,91
+19,Karthik Menon,"Embedded Systems,C,C++,Arduino,Raspberry Pi,IoT",3,B.Tech ECE,Bangalore,69
+20,Aisha Khan,"Full Stack,React,Node.js,MongoDB,Express,Python",2,B.Tech CS,Mumbai,86

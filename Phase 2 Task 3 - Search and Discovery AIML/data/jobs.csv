@@ -1,0 +1,21 @@
+job_id,title,company,required_skills,min_experience,location,salary_range
+101,Data Scientist,"TechCorp India","Python,Machine Learning,SQL,NumPy,Pandas",1,Mumbai,8-14 LPA
+102,Frontend Developer,"WebSolutions Ltd","React,JavaScript,HTML,CSS,TypeScript",1,Pune,6-10 LPA
+103,Java Backend Developer,"Infosys","Java,Spring Boot,Hibernate,SQL,Maven",2,Bangalore,7-12 LPA
+104,AI/ML Engineer,"DeepMind Labs","Python,Deep Learning,TensorFlow,Keras,Machine Learning",2,Hyderabad,10-18 LPA
+105,Backend Node.js Developer,"StartupX","Node.js,Express,MongoDB,JavaScript,REST API",1,Delhi,6-11 LPA
+106,Data Analyst,"Analytics Co","Python,SQL,Tableau,Excel,Data Analysis",1,Chennai,5-9 LPA
+107,DevOps Engineer,"CloudBase","DevOps,Docker,Kubernetes,AWS,CI/CD,Linux",3,Bangalore,9-16 LPA
+108,Mobile App Developer,"AppWorks","Flutter,Dart,Android,Firebase,REST API",1,Jaipur,6-11 LPA
+109,Cybersecurity Analyst,"SecureNet","Cybersecurity,Ethical Hacking,Network Security,Linux,Python",2,Ahmedabad,8-14 LPA
+110,Business Analyst,"FinServe","Business Analysis,SQL,Excel,Power BI,Agile",2,Pune,7-12 LPA
+111,NLP Engineer,"LinguaAI","Python,NLP,Machine Learning,Scikit-learn,NLTK",1,Kolkata,8-15 LPA
+112,UI/UX Designer,"DesignHub","Figma,UI/UX,Adobe XD,Photoshop,Graphic Design",1,Kochi,5-9 LPA
+113,PHP Developer,"WebDev Co","PHP,Laravel,MySQL,JavaScript,HTML",2,Lucknow,5-8 LPA
+114,Cloud Engineer,"CloudFirst","Cloud Computing,AWS,Azure,Python,Terraform",2,Mumbai,10-17 LPA
+115,Blockchain Developer,"CryptoTech","Blockchain,Solidity,Web3,Python,Ethereum",1,Vadodara,10-18 LPA
+116,Android Developer,"MobileFirst","Android Development,Kotlin,Java,Firebase,REST API",1,Delhi,7-12 LPA
+117,Data Engineer,"BigData Corp","Python,Apache Spark,Kafka,SQL,Airflow",3,Hyderabad,10-16 LPA
+118,Marketing Analyst,"GrowthLabs","Marketing Analytics,Python,Google Analytics,SQL,R",1,Pune,6-10 LPA
+119,IoT Developer,"SmartSys","Embedded Systems,C,C++,Arduino,IoT,Raspberry Pi",2,Bangalore,7-13 LPA
+120,Full Stack Developer,"TechStart","React,Node.js,MongoDB,Express,Python,REST API",1,Mumbai,8-14 LPA
