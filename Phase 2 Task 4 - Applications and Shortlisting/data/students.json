@@ -1,0 +1,419 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Shah",
+    "skills": [
+      "Deep Learning",
+      "Python",
+      "JavaScript",
+      "FastAPI",
+      "Computer Vision",
+      "Data Visualization",
+      "Statistics",
+      "Excel"
+    ],
+    "level": 88,
+    "experience_months": 34
+  },
+  {
+    "id": 2,
+    "name": "Priya Mehta",
+    "skills": [
+      "Docker",
+      "Pandas",
+      "SQL"
+    ],
+    "level": 46,
+    "experience_months": 5
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "skills": [
+      "Computer Vision",
+      "Teamwork",
+      "Git",
+      "Python"
+    ],
+    "level": 80,
+    "experience_months": 12
+  },
+  {
+    "id": 4,
+    "name": "Sneha Iyer",
+    "skills": [
+      "AWS",
+      "Java",
+      "Problem Solving",
+      "Pandas",
+      "Computer Vision",
+      "NumPy",
+      "Docker",
+      "FastAPI"
+    ],
+    "level": 45,
+    "experience_months": 10
+  },
+  {
+    "id": 5,
+    "name": "Karan Joshi",
+    "skills": [
+      "Pandas",
+      "TensorFlow",
+      "FastAPI",
+      "Statistics",
+      "NLP",
+      "React",
+      "R",
+      "Deep Learning"
+    ],
+    "level": 50,
+    "experience_months": 24
+  },
+  {
+    "id": 6,
+    "name": "Divya Nair",
+    "skills": [
+      "PyTorch",
+      "Power BI",
+      "Git"
+    ],
+    "level": 61,
+    "experience_months": 2
+  },
+  {
+    "id": 7,
+    "name": "Arjun Patel",
+    "skills": [
+      "NumPy",
+      "Problem Solving",
+      "Deep Learning",
+      "Scikit-learn",
+      "Machine Learning",
+      "R",
+      "Django",
+      "AWS"
+    ],
+    "level": 84,
+    "experience_months": 23
+  },
+  {
+    "id": 8,
+    "name": "Anjali Singh",
+    "skills": [
+      "NLP",
+      "Java",
+      "Machine Learning",
+      "SQL",
+      "Azure",
+      "Computer Vision",
+      "Django"
+    ],
+    "level": 50,
+    "experience_months": 14
+  },
+  {
+    "id": 9,
+    "name": "Rohan Gupta",
+    "skills": [
+      "Scikit-learn",
+      "FastAPI",
+      "NumPy"
+    ],
+    "level": 85,
+    "experience_months": 23
+  },
+  {
+    "id": 10,
+    "name": "Pooja Reddy",
+    "skills": [
+      "PyTorch",
+      "NLP",
+      "Azure",
+      "FastAPI"
+    ],
+    "level": 89,
+    "experience_months": 4
+  },
+  {
+    "id": 11,
+    "name": "Vikram Rao",
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "Problem Solving",
+      "JavaScript",
+      "Computer Vision",
+      "R",
+      "NumPy"
+    ],
+    "level": 69,
+    "experience_months": 17
+  },
+  {
+    "id": 12,
+    "name": "Nisha Bose",
+    "skills": [
+      "Java",
+      "Problem Solving",
+      "Computer Vision",
+      "Azure",
+      "TensorFlow",
+      "React",
+      "SQL",
+      "Power BI"
+    ],
+    "level": 47,
+    "experience_months": 20
+  },
+  {
+    "id": 13,
+    "name": "Aditya Kumar",
+    "skills": [
+      "FastAPI",
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "Java",
+      "TensorFlow"
+    ],
+    "level": 58,
+    "experience_months": 31
+  },
+  {
+    "id": 14,
+    "name": "Meera Pillai",
+    "skills": [
+      "R",
+      "AWS",
+      "NumPy",
+      "Statistics",
+      "FastAPI",
+      "Tableau"
+    ],
+    "level": 60,
+    "experience_months": 35
+  },
+  {
+    "id": 15,
+    "name": "Siddharth Das",
+    "skills": [
+      "FastAPI",
+      "JavaScript",
+      "Docker",
+      "Pandas",
+      "Power BI",
+      "Scikit-learn",
+      "PyTorch"
+    ],
+    "level": 59,
+    "experience_months": 8
+  },
+  {
+    "id": 16,
+    "name": "Tanya Sharma",
+    "skills": [
+      "Communication",
+      "Machine Learning",
+      "React",
+      "SQL",
+      "Deep Learning",
+      "Statistics",
+      "AWS"
+    ],
+    "level": 55,
+    "experience_months": 27
+  },
+  {
+    "id": 17,
+    "name": "Nikhil Jain",
+    "skills": [
+      "Machine Learning",
+      "Scikit-learn",
+      "R",
+      "Git",
+      "NumPy",
+      "Teamwork",
+      "FastAPI"
+    ],
+    "level": 80,
+    "experience_months": 0
+  },
+  {
+    "id": 18,
+    "name": "Ritu Agarwal",
+    "skills": [
+      "JavaScript",
+      "Deep Learning",
+      "Azure",
+      "Problem Solving",
+      "React",
+      "FastAPI",
+      "AWS",
+      "TensorFlow"
+    ],
+    "level": 52,
+    "experience_months": 18
+  },
+  {
+    "id": 19,
+    "name": "Manish Tiwari",
+    "skills": [
+      "Data Analysis",
+      "NumPy",
+      "Python",
+      "JavaScript",
+      "Tableau",
+      "FastAPI"
+    ],
+    "level": 77,
+    "experience_months": 11
+  },
+  {
+    "id": 20,
+    "name": "Shreya Ghosh",
+    "skills": [
+      "Excel",
+      "Deep Learning",
+      "Power BI",
+      "AWS",
+      "Django",
+      "Tableau",
+      "Teamwork"
+    ],
+    "level": 83,
+    "experience_months": 12
+  },
+  {
+    "id": 21,
+    "name": "Yash Malhotra",
+    "skills": [
+      "PyTorch",
+      "React",
+      "Data Analysis",
+      "Problem Solving"
+    ],
+    "level": 94,
+    "experience_months": 33
+  },
+  {
+    "id": 22,
+    "name": "Kavya Nambiar",
+    "skills": [
+      "Git",
+      "TensorFlow",
+      "Communication"
+    ],
+    "level": 46,
+    "experience_months": 7
+  },
+  {
+    "id": 23,
+    "name": "Deepak Saxena",
+    "skills": [
+      "R",
+      "Tableau",
+      "Data Visualization",
+      "Django",
+      "Computer Vision"
+    ],
+    "level": 48,
+    "experience_months": 15
+  },
+  {
+    "id": 24,
+    "name": "Lakshmi Rajan",
+    "skills": [
+      "Machine Learning",
+      "Excel",
+      "JavaScript",
+      "Communication",
+      "R",
+      "React",
+      "Problem Solving"
+    ],
+    "level": 94,
+    "experience_months": 8
+  },
+  {
+    "id": 25,
+    "name": "Ayush Choudhary",
+    "skills": [
+      "Azure",
+      "Communication",
+      "Problem Solving",
+      "Data Analysis"
+    ],
+    "level": 61,
+    "experience_months": 33
+  },
+  {
+    "id": 26,
+    "name": "Ishaan Bhatt",
+    "skills": [
+      "Pandas",
+      "NLP",
+      "Problem Solving",
+      "React",
+      "JavaScript",
+      "Java",
+      "R"
+    ],
+    "level": 90,
+    "experience_months": 19
+  },
+  {
+    "id": 27,
+    "name": "Swati Desai",
+    "skills": [
+      "Azure",
+      "AWS",
+      "PyTorch",
+      "NumPy",
+      "Teamwork",
+      "Tableau"
+    ],
+    "level": 52,
+    "experience_months": 15
+  },
+  {
+    "id": 28,
+    "name": "Omkar Kulkarni",
+    "skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Python",
+      "Docker"
+    ],
+    "level": 80,
+    "experience_months": 14
+  },
+  {
+    "id": 29,
+    "name": "Preethi Suresh",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Machine Learning",
+      "Java",
+      "AWS",
+      "SQL",
+      "Excel"
+    ],
+    "level": 49,
+    "experience_months": 2
+  },
+  {
+    "id": 30,
+    "name": "Harshil Trivedi",
+    "skills": [
+      "Machine Learning",
+      "Teamwork",
+      "Computer Vision",
+      "FastAPI",
+      "Azure"
+    ],
+    "level": 76,
+    "experience_months": 13
+  }
+]

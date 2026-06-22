@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "role": "ML Engineer",
+    "company": "InferIQ",
+    "required_skills": [
+      "Machine Learning",
+      "Statistics",
+      "Git",
+      "Python",
+      "TensorFlow",
+      "Docker"
+    ],
+    "min_level": 63
+  },
+  {
+    "id": 2,
+    "role": "ML Engineer",
+    "company": "ByteForge",
+    "required_skills": [
+      "Statistics",
+      "Docker",
+      "Git",
+      "TensorFlow",
+      "Python"
+    ],
+    "min_level": 70
+  },
+  {
+    "id": 3,
+    "role": "Data Analyst",
+    "company": "DataBridge",
+    "required_skills": [
+      "Tableau",
+      "Data Analysis",
+      "SQL",
+      "Data Visualization",
+      "Python",
+      "Excel"
+    ],
+    "min_level": 67
+  },
+  {
+    "id": 4,
+    "role": "Data Analyst",
+    "company": "TechNova",
+    "required_skills": [
+      "Excel",
+      "Data Visualization",
+      "Tableau",
+      "Python",
+      "Data Analysis",
+      "SQL"
+    ],
+    "min_level": 52
+  },
+  {
+    "id": 5,
+    "role": "AI Engineer",
+    "company": "QuantumSoft",
+    "required_skills": [
+      "Python",
+      "Docker",
+      "AWS"
+    ],
+    "min_level": 52
+  },
+  {
+    "id": 6,
+    "role": "AI Engineer",
+    "company": "Insightful AI",
+    "required_skills": [
+      "Deep Learning",
+      "NLP",
+      "Docker",
+      "AWS"
+    ],
+    "min_level": 56
+  },
+  {
+    "id": 7,
+    "role": "Data Scientist",
+    "company": "Insightful AI",
+    "required_skills": [
+      "Pandas",
+      "Python",
+      "R",
+      "Statistics"
+    ],
+    "min_level": 64
+  },
+  {
+    "id": 8,
+    "role": "Data Scientist",
+    "company": "TechNova",
+    "required_skills": [
+      "Pandas",
+      "NumPy",
+      "R",
+      "Python",
+      "Machine Learning"
+    ],
+    "min_level": 59
+  },
+  {
+    "id": 9,
+    "role": "Backend Developer",
+    "company": "Nexus Analytics",
+    "required_skills": [
+      "Git",
+      "FastAPI",
+      "Python"
+    ],
+    "min_level": 51
+  },
+  {
+    "id": 10,
+    "role": "Backend Developer",
+    "company": "TechNova",
+    "required_skills": [
+      "Docker",
+      "Git",
+      "Django",
+      "Python",
+      "FastAPI",
+      "SQL"
+    ],
+    "min_level": 52
+  },
+  {
+    "id": 11,
+    "role": "Computer Vision Eng",
+    "company": "DataBridge",
+    "required_skills": [
+      "NumPy",
+      "Python",
+      "Computer Vision",
+      "TensorFlow"
+    ],
+    "min_level": 69
+  },
+  {
+    "id": 12,
+    "role": "Computer Vision Eng",
+    "company": "ByteForge",
+    "required_skills": [
+      "Docker",
+      "Python",
+      "NumPy"
+    ],
+    "min_level": 68
+  },
+  {
+    "id": 13,
+    "role": "NLP Engineer",
+    "company": "ByteForge",
+    "required_skills": [
+      "Git",
+      "Deep Learning",
+      "NLP",
+      "PyTorch"
+    ],
+    "min_level": 62
+  },
+  {
+    "id": 14,
+    "role": "NLP Engineer",
+    "company": "InferIQ",
+    "required_skills": [
+      "Git",
+      "Deep Learning",
+      "PyTorch",
+      "NLP"
+    ],
+    "min_level": 52
+  },
+  {
+    "id": 15,
+    "role": "BI Analyst",
+    "company": "TechNova",
+    "required_skills": [
+      "SQL",
+      "Data Visualization",
+      "Power BI"
+    ],
+    "min_level": 66
+  },
+  {
+    "id": 16,
+    "role": "BI Analyst",
+    "company": "Nexus Analytics",
+    "required_skills": [
+      "Power BI",
+      "Tableau",
+      "SQL",
+      "Excel",
+      "Communication"
+    ],
+    "min_level": 59
+  }
+]
