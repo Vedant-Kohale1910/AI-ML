@@ -1,0 +1,31 @@
+job_id,company,role,location,required_skills,min_cgpa,min_experience_months,posted_date
+JOB2001,InfoSys AI,LLM Engineer,Pune,Python|LLMs|Prompt Engineering|Transformers,7.0,0,2025-06-02
+JOB2002,DataMinds Pvt Ltd,ML Ops Engineer,Remote,Python|Docker|AWS|Spark,6.0,6,2025-06-16
+JOB2003,BrightAI Ventures,AI Research Engineer,Delhi NCR,Python|Deep Learning|NLP|TensorFlow|PyTorch,6.0,0,2025-06-05
+JOB2004,DataMinds Pvt Ltd,Recommendation Systems Engineer,Mumbai,Python|Machine Learning|SQL|Clustering,6.0,12,2025-06-25
+JOB2005,QuickScale Inc,Frontend Developer,Remote,JavaScript|React|HTML|CSS|Git,6.5,12,2025-06-13
+JOB2006,NextGen Analytics,Cloud ML Engineer,Remote,Python|AWS|Docker|Machine Learning,7.5,0,2025-06-19
+JOB2007,QuickScale Inc,AI Product Engineer,Delhi NCR,Python|LLMs|FastAPI,6.0,0,2025-06-21
+JOB2008,BrightAI Ventures,Full Stack Developer,Bangalore,JavaScript|React|Node.js|MongoDB,6.5,0,2025-06-06
+JOB2009,InnoAI Solutions,Deep Learning Engineer,Bangalore,Python|Deep Learning|TensorFlow,7.5,6,2025-06-23
+JOB2010,NextGen Analytics,AI Product Engineer,Bangalore,Python|LLMs|FastAPI|Docker,6.5,0,2025-06-23
+JOB2011,InfoSys AI,LLM Engineer,Bangalore,Python|LLMs|Prompt Engineering|Transformers|FastAPI,6.5,0,2025-06-21
+JOB2012,CloudBase Systems,Recommendation Systems Engineer,Pune,Python|Machine Learning|SQL|Clustering|NumPy,6.0,12,2025-06-08
+JOB2013,InnoAI Solutions,Computer Vision Engineer,Bangalore,Python|Computer Vision|OpenCV|Deep Learning,6.0,0,2025-06-10
+JOB2014,QuickScale Inc,AI Product Engineer,Hyderabad,Python|LLMs|FastAPI|Docker|REST APIs,7.5,0,2025-06-15
+JOB2015,GlobalSoft Technologies,LLM Engineer,Hyderabad,Python|LLMs|Prompt Engineering|Transformers|FastAPI,7.5,6,2025-06-03
+JOB2016,GlobalSoft Technologies,AI Product Engineer,Delhi NCR,Python|LLMs|FastAPI,7.0,12,2025-06-09
+JOB2017,CloudBase Systems,ML Engineer,Delhi NCR,Python|Machine Learning|Scikit-learn,6.0,0,2025-06-19
+JOB2018,InfoSys AI,Data Scientist,Chennai,Python|SQL|Statistics,7.5,0,2025-06-06
+JOB2019,BrightAI Ventures,Recommendation Systems Engineer,Remote,Python|Machine Learning|SQL|Clustering,7.5,0,2025-06-16
+JOB2020,Startup Hub,Research Scientist,Hyderabad,Python|Deep Learning|Statistics|NLP,6.0,0,2025-06-11
+JOB2021,InfoSys AI,Frontend Developer,Hyderabad,JavaScript|React|HTML|CSS|Git,7.5,12,2025-06-02
+JOB2022,Startup Hub,Cloud ML Engineer,Hyderabad,Python|AWS|Docker,7.0,0,2025-06-25
+JOB2023,TechCorp India,Data Engineer,Delhi NCR,Python|SQL|Spark|Kafka|AWS,7.5,6,2025-06-02
+JOB2024,Startup Hub,Full Stack Developer,Chennai,JavaScript|React|Node.js|MongoDB|REST APIs,7.5,6,2025-06-25
+JOB2025,NextGen Analytics,Data Scientist,Chennai,Python|SQL|Statistics,6.5,0,2025-06-15
+JOB2026,TechCorp India,Statistician,Delhi NCR,R|Statistics|Regression,6.5,0,2025-06-10
+JOB2027,ZenData Labs,Deep Learning Engineer,Pune,Python|Deep Learning|TensorFlow,6.0,0,2025-06-04
+JOB2028,BrightAI Ventures,Cloud ML Engineer,Remote,Python|AWS|Docker,6.5,6,2025-06-23
+JOB2029,CoreML Systems,LLM Engineer,Hyderabad,Python|LLMs|Prompt Engineering|Transformers|FastAPI,7.5,6,2025-06-16
+JOB2030,ZenData Labs,Backend Developer,Mumbai,Java|PostgreSQL|REST APIs|Docker,7.5,0,2025-06-20

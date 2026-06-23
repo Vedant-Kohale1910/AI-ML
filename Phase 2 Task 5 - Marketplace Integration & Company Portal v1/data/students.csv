@@ -1,0 +1,71 @@
+student_id,name,email,university,degree,cgpa,skills,experience_months,profile_type
+STU1001,Rahul Sharma,rahul.sharma@email.com,IIT Madras,B.Tech IT,8.7,SQL|NLP|Deep Learning|NumPy,6,ML Engineer
+STU1002,Priya Patel,priya.patel@email.com,IIT Bombay,M.Sc Data Science,8.9,TensorFlow|Python|Pandas|Machine Learning|Deep Learning|Scikit-learn|NLP|Computer Vision,12,ML Engineer
+STU1003,Arjun Mehta,arjun.mehta@email.com,COEP Pune,BCA,7.4,JavaScript|Power BI|Transformers|React|Python|TensorFlow,0,Mixed
+STU1004,Sneha Iyer,sneha.iyer@email.com,VIT Vellore,B.Tech ECE,9.2,Deep Learning|Transformers|Computer Vision|NLP,12,AI Engineer
+STU1005,Karan Singh,karan.singh@email.com,Manipal Institute,BCA,8.4,REST APIs|JavaScript|Git|MongoDB,12,Full Stack Developer
+STU1006,Ananya Gupta,ananya.gupta@email.com,NIT Trichy,B.Tech IT,7.8,Pandas|Deep Learning|NLP|Machine Learning,6,ML Engineer
+STU1007,Rohan Verma,rohan.verma@email.com,IIT Delhi,M.Tech AI,8.3,BERT|Computer Vision|TensorFlow|Prompt Engineering|NLP,0,AI Engineer
+STU1008,Pooja Nair,pooja.nair@email.com,NIT Trichy,B.Tech CSE,9.2,Tableau|Pandas|R|Data Visualization|NumPy|Regression|Python,6,Data Scientist
+STU1009,Vikram Joshi,vikram.joshi@email.com,DTU Delhi,MCA,9.4,TensorFlow|BERT|Computer Vision|Prompt Engineering,12,AI Engineer
+STU1010,Neha Reddy,neha.reddy@email.com,Manipal Institute,MCA,9.5,MongoDB|React|Node.js|CSS|PostgreSQL,6,Full Stack Developer
+STU1011,Aditya Kumar,aditya.kumar@email.com,IIT Delhi,M.Tech AI,8.6,NLP|Prompt Engineering|LLMs|Python|Transformers,18,AI Engineer
+STU1012,Divya Pillai,divya.pillai@email.com,IIIT Hyderabad,B.Tech CSE,8.7,REST APIs|CSS|Docker|MongoDB,0,Full Stack Developer
+STU1013,Siddharth Rao,siddharth.rao@email.com,IIT Madras,M.Tech ML,6.5,Hypothesis Testing|REST APIs|Data Visualization|Node.js|Tableau,12,Mixed
+STU1014,Kavya Menon,kavya.menon@email.com,IIIT Hyderabad,M.Sc Data Science,7.0,Prompt Engineering|Deep Learning|PyTorch|Transformers|BERT,18,AI Engineer
+STU1015,Harsh Aggarwal,harsh.aggarwal@email.com,BITS Pilani,M.Sc Data Science,6.7,R|Python|A/B Testing|NumPy|Power BI|Hypothesis Testing|Tableau|Statistics,6,Data Scientist
+STU1016,Tanvi Shah,tanvi.shah@email.com,IIT Madras,M.Tech AI,8.7,SQL|PyTorch|Machine Learning|Scikit-learn,6,ML Engineer
+STU1017,Nikhil Bose,nikhil.bose@email.com,BITS Pilani,MCA,9.8,R|A/B Testing|Tableau|Data Visualization|Regression|NumPy,12,Data Scientist
+STU1018,Riya Mishra,riya.mishra@email.com,IIT Bombay,M.Sc Data Science,8.4,Prompt Engineering|LLMs|Deep Learning|Computer Vision|Transformers|Python|NLP,0,AI Engineer
+STU1019,Aman Tiwari,aman.tiwari@email.com,IIT Delhi,M.Sc Data Science,7.4,Deep Learning|Machine Learning|Python|Computer Vision,6,ML Engineer
+STU1020,Sakshi Jain,sakshi.jain@email.com,NIT Trichy,B.Tech IT,6.8,Statistics|A/B Testing|Hypothesis Testing|Power BI|Data Visualization|Tableau|R|NumPy,6,Data Scientist
+STU1021,Deepak Choudhary,deepak.choudhary@email.com,COEP Pune,BCA,9.1,Transformers|LLMs|Python|BERT|Computer Vision|Prompt Engineering|PyTorch,0,AI Engineer
+STU1022,Ayesha Khan,ayesha.khan@email.com,IIT Madras,B.Tech ECE,8.0,Data Visualization|R|Power BI|Statistics|Tableau,18,Data Scientist
+STU1023,Suresh Nambiar,suresh.nambiar@email.com,IIT Madras,MCA,8.1,Scikit-learn|Machine Learning|Python|SQL|NumPy|PyTorch|Pandas,0,ML Engineer
+STU1024,Meera Subramaniam,meera.subramaniam@email.com,BITS Pilani,M.Tech ML,7.4,React|REST APIs|Java|HTML,12,Full Stack Developer
+STU1025,Varun Malhotra,varun.malhotra@email.com,IIIT Hyderabad,B.Tech CSE,9.0,NumPy|Scikit-learn|Node.js|Java|Statistics|Transformers,0,Mixed
+STU1026,Shreya Pandey,shreya.pandey@email.com,IIT Delhi,B.Tech IT,8.7,PyTorch|Scikit-learn|Pandas|Statistics|Python|NLP|SQL|Machine Learning,0,ML Engineer
+STU1027,Abhishek Das,abhishek.das@email.com,COEP Pune,BCA,9.6,HTML|Node.js|Java|JavaScript,0,Full Stack Developer
+STU1028,Lalitha Krishnan,lalitha.krishnan@email.com,BITS Pilani,M.Tech ML,7.5,PyTorch|Transformers|NLP|BERT|Prompt Engineering,18,AI Engineer
+STU1029,Mohit Soni,mohit.soni@email.com,IIT Delhi,M.Sc Data Science,8.2,PyTorch|NumPy|Pandas|Machine Learning,0,ML Engineer
+STU1030,Nidhi Kapoor,nidhi.kapoor@email.com,DTU Delhi,B.Tech ECE,8.5,TensorFlow|BERT|PyTorch|Deep Learning,18,AI Engineer
+STU1031,Akash Trivedi,akash.trivedi@email.com,IIT Delhi,M.Tech AI,7.4,Regression|OpenCV|MongoDB,0,Mixed
+STU1032,Bhavna Saxena,bhavna.saxena@email.com,VIT Vellore,M.Sc Data Science,8.8,React|Node.js|LLMs|Java,18,Mixed
+STU1033,Saurabh Garg,saurabh.garg@email.com,IIT Bombay,BCA,9.0,PyTorch|Python|Deep Learning|BERT|TensorFlow|NLP|Prompt Engineering,12,AI Engineer
+STU1034,Kritika Chawla,kritika.chawla@email.com,IIT Delhi,B.Tech IT,9.6,LLMs|Prompt Engineering|Transformers|PyTorch|Python,12,AI Engineer
+STU1035,Tarun Bansal,tarun.bansal@email.com,BITS Pilani,BCA,9.5,Python|NumPy|A/B Testing|R|Statistics|Data Visualization|SQL|Regression,18,Data Scientist
+STU1036,Ishaan Bhatt,ishaan.bhatt@email.com,IIIT Hyderabad,MCA,9.7,Deep Learning|Pandas|SQL|Machine Learning|Computer Vision|TensorFlow,12,ML Engineer
+STU1037,Rupal Chandra,rupal.chandra@email.com,VIT Vellore,MCA,9.1,Statistics|Regression|Tableau|Python|Hypothesis Testing,18,Data Scientist
+STU1038,Devesh Dube,devesh.dube@email.com,NIT Trichy,M.Tech ML,7.7,Statistics|SQL|Tableau|Python|Power BI|Hypothesis Testing,18,Data Scientist
+STU1039,Simran Luthra,simran.luthra@email.com,BITS Pilani,B.Tech IT,9.7,Python|Hypothesis Testing|Data Visualization|Tableau|NumPy,3,Data Scientist
+STU1040,Chirag Patel,chirag.patel@email.com,IIT Bombay,B.Tech IT,8.5,Prompt Engineering|BERT|Python|LLMs|NLP|Deep Learning|Computer Vision,3,AI Engineer
+STU1041,Meenal Ahuja,meenal.ahuja@email.com,IIT Bombay,MCA,6.5,Computer Vision|Prompt Engineering|Deep Learning|TensorFlow|PyTorch|LLMs|NLP,18,AI Engineer
+STU1042,Vijay Thakur,vijay.thakur@email.com,VIT Vellore,BCA,8.7,AWS|Tableau|Deep Learning|Regression,0,Mixed
+STU1043,Ankita Wagh,ankita.wagh@email.com,IIT Madras,M.Sc Data Science,7.9,Transformers|BERT|Computer Vision|Prompt Engineering|NLP|PyTorch,6,AI Engineer
+STU1044,Rajan Subramanian,rajan.subramanian@email.com,COEP Pune,BCA,8.0,A/B Testing|Pandas|Tableau|R|Python|Statistics|Regression|SQL,6,Data Scientist
+STU1045,Preeti Goyal,preeti.goyal@email.com,NIT Trichy,M.Sc Data Science,7.0,Power BI|Statistics|SQL|Pandas|NumPy|Python|A/B Testing|Hypothesis Testing,0,Data Scientist
+STU1046,Sandeep Raj,sandeep.raj@email.com,COEP Pune,M.Tech ML,7.8,A/B Testing|SQL|Power BI|Tableau|Data Visualization|NumPy|R,0,Data Scientist
+STU1047,Urvashi Lal,urvashi.lal@email.com,DTU Delhi,B.Tech CSE,8.3,TensorFlow|Deep Learning|Statistics|Scikit-learn,18,ML Engineer
+STU1048,Manish Sethi,manish.sethi@email.com,Manipal Institute,MCA,9.2,Statistics|PyTorch|Scikit-learn|NumPy|Computer Vision|TensorFlow|Deep Learning,6,ML Engineer
+STU1049,Yamini Batra,yamini.batra@email.com,BITS Pilani,M.Tech ML,8.6,Docker|CSS|MongoDB|Node.js|REST APIs,3,Full Stack Developer
+STU1050,Farhan Qureshi,farhan.qureshi@email.com,VIT Vellore,B.Tech IT,7.0,MongoDB|Node.js|CSS|PostgreSQL,0,Full Stack Developer
+STU1051,Gauri Kulkarni,gauri.kulkarni@email.com,IIIT Hyderabad,M.Tech ML,7.9,Node.js|JavaScript|REST APIs|Git|React,0,Full Stack Developer
+STU1052,Lalit Naik,lalit.naik@email.com,COEP Pune,MCA,8.3,HTML|Java|REST APIs|Docker|CSS|React|PostgreSQL,12,Full Stack Developer
+STU1053,Jasmine Oberoi,jasmine.oberoi@email.com,DTU Delhi,B.Tech CSE,7.8,FastAPI|JavaScript|React|Tableau,12,Mixed
+STU1054,Piyush Rawat,piyush.rawat@email.com,Manipal Institute,B.Tech CSE,6.8,Docker|React|Git|Java|Node.js,6,Full Stack Developer
+STU1055,Shweta Dixit,shweta.dixit@email.com,VIT Vellore,BCA,9.0,Statistics|Python|Pandas|Tableau|NumPy|SQL|Data Visualization,6,Data Scientist
+STU1056,Neeraj Hadke,neeraj.hadke@email.com,VIT Vellore,M.Sc Data Science,8.6,PyTorch|Deep Learning|LLMs|Python|BERT|Computer Vision|Transformers,18,AI Engineer
+STU1057,Archana Deshpande,archana.deshpande@email.com,NIT Trichy,M.Tech AI,8.1,Deep Learning|SQL|Python|Statistics,0,ML Engineer
+STU1058,Suman Biswas,suman.biswas@email.com,IIT Madras,B.Tech IT,9.1,Excel|Clustering|CSS|AWS,0,Mixed
+STU1059,Rakesh Nair,rakesh.nair@email.com,COEP Pune,MCA,9.6,Computer Vision|Python|PyTorch|LLMs,0,AI Engineer
+STU1060,Tanya Madan,tanya.madan@email.com,IIT Delhi,B.Tech CSE,7.6,SQL|Pandas|Deep Learning|Machine Learning|NLP|TensorFlow|Computer Vision|PyTorch,6,ML Engineer
+STU1061,Praveen Hegde,praveen.hegde@email.com,COEP Pune,M.Tech ML,6.8,Prompt Engineering|BERT|Python|Transformers,3,AI Engineer
+STU1062,Amruta Chavan,amruta.chavan@email.com,IIIT Hyderabad,M.Tech ML,8.0,REST APIs|React|Git|MongoDB|Docker,18,Full Stack Developer
+STU1063,Karthik Iyer,karthik.iyer@email.com,NIT Trichy,M.Tech ML,8.4,PostgreSQL|HTML|NLP|React|Power BI,12,Mixed
+STU1064,Swati Agarwal,swati.agarwal@email.com,VIT Vellore,B.Tech ECE,7.6,Java|Docker|PostgreSQL|React|Node.js|JavaScript,6,Full Stack Developer
+STU1065,Vinod Parmar,vinod.parmar@email.com,COEP Pune,M.Tech ML,8.3,Prompt Engineering|TensorFlow|Deep Learning|LLMs,0,AI Engineer
+STU1066,Heena Bhandari,heena.bhandari@email.com,BITS Pilani,BCA,8.1,Docker|Java|JavaScript|MongoDB|Git|Node.js|REST APIs,6,Full Stack Developer
+STU1067,Ashish Tripathi,ashish.tripathi@email.com,BITS Pilani,M.Sc Data Science,6.9,Prompt Engineering|BERT|Computer Vision|LLMs|TensorFlow|NLP|PyTorch,0,AI Engineer
+STU1068,Sudha Rajan,sudha.rajan@email.com,DTU Delhi,B.Tech ECE,8.9,Prompt Engineering|NLP|TensorFlow|Deep Learning,18,AI Engineer
+STU1069,Ajay Khanna,ajay.khanna@email.com,IIT Madras,B.Tech ECE,6.5,Computer Vision|Scikit-learn|Node.js|JavaScript|AWS,6,Mixed
+STU1070,Ritika Datta,ritika.datta@email.com,DTU Delhi,B.Tech IT,9.4,Python|Regression|R|Pandas|Statistics|NumPy,6,Data Scientist

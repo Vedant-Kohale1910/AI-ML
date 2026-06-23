@@ -1,0 +1,12 @@
+metric,value
+Threshold Used,60 / 100
+Total Pairs Evaluated,2100
+True Positives (TP),145
+True Negatives (TN),1867
+False Positives (FP),3
+False Negatives (FN),85
+Accuracy,95.8%
+Precision,98.0%
+Recall,63.0%
+F1 Score,76.7%
+False Positive Rate (FPR),0.2%
