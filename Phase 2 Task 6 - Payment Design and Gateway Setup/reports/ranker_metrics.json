@@ -1,0 +1,77 @@
+{
+  "model": "random_forest_ranker",
+  "features": [
+    "skill_overlap_ratio",
+    "mean_score_on_required",
+    "score_gap_mean",
+    "skills_below_threshold",
+    "nice_to_have_overlap",
+    "cgpa_gap",
+    "max_skill_score",
+    "avg_skill_score",
+    "graduation_recency",
+    "required_skills_count",
+    "min_score_threshold"
+  ],
+  "test_metrics": {
+    "precision": 0.7714,
+    "recall": 1.0,
+    "f1": 0.871,
+    "roc_auc": 1.0,
+    "average_precision": 1.0,
+    "false_positive_rate": 0.0017,
+    "ndcg@10": 1.0,
+    "precision@5": 0.2842,
+    "recall@5": 1.0,
+    "precision@10": 0.1421,
+    "recall@10": 1.0,
+    "precision@20": 0.0711,
+    "recall@20": 1.0
+  },
+  "feature_importances": [
+    {
+      "feature": "skills_below_threshold",
+      "importance": 0.29345618094303216
+    },
+    {
+      "feature": "skill_overlap_ratio",
+      "importance": 0.28367734855552423
+    },
+    {
+      "feature": "score_gap_mean",
+      "importance": 0.24664748715055185
+    },
+    {
+      "feature": "mean_score_on_required",
+      "importance": 0.12197113411007787
+    },
+    {
+      "feature": "min_score_threshold",
+      "importance": 0.02455412574985338
+    },
+    {
+      "feature": "avg_skill_score",
+      "importance": 0.010344799928214974
+    },
+    {
+      "feature": "cgpa_gap",
+      "importance": 0.010146100175822289
+    },
+    {
+      "feature": "required_skills_count",
+      "importance": 0.006650672300589746
+    },
+    {
+      "feature": "max_skill_score",
+      "importance": 0.0023437130264216694
+    },
+    {
+      "feature": "graduation_recency",
+      "importance": 0.00020446304127084568
+    },
+    {
+      "feature": "nice_to_have_overlap",
+      "importance": 3.9750186408290605e-06
+    }
+  ]
+}

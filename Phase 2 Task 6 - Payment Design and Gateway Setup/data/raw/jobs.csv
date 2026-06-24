@@ -1,0 +1,81 @@
+job_id,title,company,location,required_skills,nice_to_have_skills,min_score_threshold,min_cgpa,posted_date,openings
+JD_0001,Frontend Developer,Zoho,Kolkata,"[""JavaScript"", ""React"", ""Node.js"", ""Git"", ""Java"", ""Tableau""]","[""REST APIs"", ""Communication""]",64,6.6,2024-07-12,4
+JD_0002,Data Engineer,Swiggy,Bangalore,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",72,6.8,2024-09-04,9
+JD_0003,Data Analyst,Razorpay,Chennai,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""Deep Learning"", ""Tableau""]","[""Tableau"", ""Communication""]",63,6.4,2024-10-10,3
+JD_0004,Data Engineer,Meesho,Noida,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",69,7.3,2024-06-07,7
+JD_0005,Data Analyst,Meesho,Remote,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel""]","[""Tableau"", ""Communication""]",61,7.5,2024-09-04,4
+JD_0006,Data Analyst,Zomato,Bangalore,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""Tableau"", ""NLP""]","[""Tableau"", ""Communication""]",60,6.1,2024-09-29,3
+JD_0007,Data Engineer,Infosys,Hyderabad,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",70,5.5,2024-07-26,3
+JD_0008,Backend Engineer,Flipkart,Chennai,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",69,6.0,2024-07-02,1
+JD_0009,ML Engineer,MindTree,Ahmedabad,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker"", ""NLP"", ""Problem Solving""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",71,6.6,2024-11-09,9
+JD_0010,Backend Engineer,Freshworks,Mumbai,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL"", ""JavaScript"", ""Machine Learning""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",63,6.6,2024-07-18,2
+JD_0011,Backend Engineer,HCL,Kolkata,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",65,6.5,2024-10-08,9
+JD_0012,Data Analyst,Zoho,Delhi NCR,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""Cloud (AWS/GCP/Azure)""]","[""Tableau"", ""Communication""]",61,6.0,2024-06-05,6
+JD_0013,Data Engineer,Flipkart,Ahmedabad,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",64,7.0,2024-08-25,3
+JD_0014,Data Analyst,Razorpay,Noida,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel""]","[""Tableau"", ""Communication""]",60,7.5,2024-10-01,3
+JD_0015,Data Engineer,CRED,Bangalore,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",65,6.1,2024-06-12,4
+JD_0016,Data Analyst,MindTree,Chennai,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""Communication"", ""React""]","[""Tableau"", ""Communication""]",60,5.6,2024-11-13,4
+JD_0017,Data Scientist,Dunzo,Chennai,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis"", ""Communication""]","[""Deep Learning"", ""NLP"", ""Spark""]",65,5.7,2024-09-03,7
+JD_0018,NLP Engineer,MindTree,Noida,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning"", ""Cloud (AWS/GCP/Azure)"", ""Statistics""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",74,6.2,2024-10-11,5
+JD_0019,Data Engineer,Razorpay,Kolkata,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]","[""Git"", ""Data Analysis""]",64,6.1,2024-06-27,2
+JD_0020,Data Scientist,CRED,Ahmedabad,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis""]","[""Deep Learning"", ""NLP"", ""Spark""]",70,6.9,2024-07-13,8
+JD_0021,Data Scientist,Freshworks,Ahmedabad,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis""]","[""Deep Learning"", ""NLP"", ""Spark""]",67,7.5,2024-08-10,1
+JD_0022,Data Analyst,Razorpay,Bangalore,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""React"", ""Tableau""]","[""Tableau"", ""Communication""]",65,5.8,2024-11-03,8
+JD_0023,Data Analyst,Freshworks,Delhi NCR,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel""]","[""Tableau"", ""Communication""]",57,6.3,2024-10-24,1
+JD_0024,Backend Engineer,TCS,Ahmedabad,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL"", ""Java"", ""React""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",62,5.8,2024-09-02,7
+JD_0025,Data Scientist,Flipkart,Bangalore,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis""]","[""Deep Learning"", ""NLP"", ""Spark""]",70,7.0,2024-10-06,9
+JD_0026,NLP Engineer,Swiggy,Noida,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",75,5.9,2024-11-04,5
+JD_0027,Frontend Developer,Zomato,Hyderabad,"[""JavaScript"", ""React"", ""Node.js"", ""Git""]","[""REST APIs"", ""Communication""]",62,6.4,2024-09-22,2
+JD_0028,Data Engineer,TCS,Kolkata,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)"", ""Node.js"", ""Git""]","[""Git"", ""Data Analysis""]",73,6.6,2024-08-16,3
+JD_0029,Frontend Developer,Freshworks,Kolkata,"[""JavaScript"", ""React"", ""Node.js"", ""Git""]","[""REST APIs"", ""Communication""]",65,5.9,2024-07-22,3
+JD_0030,ML Engineer,Tech Mahindra,Ahmedabad,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",72,6.2,2024-10-20,3
+JD_0031,Backend Engineer,Zoho,Noida,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",61,6.6,2024-09-13,10
+JD_0032,Data Analyst,CRED,Kolkata,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""JavaScript""]","[""Tableau"", ""Communication""]",57,6.2,2024-10-20,10
+JD_0033,ML Engineer,Wipro,Hyderabad,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",67,6.5,2024-08-17,3
+JD_0034,ML Engineer,HCL,Chennai,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker"", ""Java""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",70,7.2,2024-08-04,4
+JD_0035,Frontend Developer,Ola,Ahmedabad,"[""JavaScript"", ""React"", ""Node.js"", ""Git""]","[""REST APIs"", ""Communication""]",63,6.6,2024-10-07,3
+JD_0036,Backend Engineer,Dunzo,Ahmedabad,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",69,5.6,2024-06-08,2
+JD_0037,Data Analyst,Paytm,Ahmedabad,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""Cloud (AWS/GCP/Azure)"", ""Docker""]","[""Tableau"", ""Communication""]",65,6.8,2024-10-06,9
+JD_0038,Data Scientist,Zoho,Chennai,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis"", ""Git"", ""Excel""]","[""Deep Learning"", ""NLP"", ""Spark""]",70,6.4,2024-11-24,1
+JD_0039,ML Engineer,CRED,Mumbai,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",72,6.2,2024-07-07,6
+JD_0040,Data Engineer,Freshworks,Kolkata,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs"", ""NLP""]","[""Git"", ""Data Analysis""]",68,6.6,2024-08-21,4
+JD_0041,NLP Engineer,Meesho,Pune,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",68,5.7,2024-08-14,7
+JD_0042,Data Engineer,Razorpay,Delhi NCR,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",72,7.4,2024-08-20,4
+JD_0043,Data Engineer,HCL,Noida,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",65,6.5,2024-08-18,8
+JD_0044,Data Analyst,Freshworks,Bangalore,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""Docker"", ""Problem Solving""]","[""Tableau"", ""Communication""]",56,5.6,2024-10-05,10
+JD_0045,Data Engineer,Flipkart,Remote,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)"", ""JavaScript"", ""Machine Learning""]","[""Git"", ""Data Analysis""]",73,5.8,2024-08-07,6
+JD_0046,Data Engineer,Zoho,Bangalore,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",69,6.6,2024-07-20,6
+JD_0047,Backend Engineer,HCL,Noida,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",64,7.0,2024-08-11,10
+JD_0048,Frontend Developer,Flipkart,Remote,"[""JavaScript"", ""React"", ""Node.js"", ""Git""]","[""REST APIs"", ""Communication""]",64,6.2,2024-08-26,9
+JD_0049,Data Scientist,HCL,Remote,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis""]","[""Deep Learning"", ""NLP"", ""Spark""]",62,6.5,2024-06-12,1
+JD_0050,ML Engineer,HCL,Pune,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker"", ""Data Analysis"", ""Cloud (AWS/GCP/Azure)""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",70,6.2,2024-11-04,6
+JD_0051,ML Engineer,HCL,Kolkata,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker"", ""Cloud (AWS/GCP/Azure)"", ""Java""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",71,6.6,2024-10-23,5
+JD_0052,NLP Engineer,Flipkart,Remote,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",67,6.7,2024-11-24,1
+JD_0053,Backend Engineer,Meesho,Bangalore,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",67,6.7,2024-07-14,9
+JD_0054,Frontend Developer,Meesho,Bangalore,"[""JavaScript"", ""React"", ""Node.js"", ""Git"", ""NLP"", ""Excel""]","[""REST APIs"", ""Communication""]",64,6.6,2024-11-27,2
+JD_0055,ML Engineer,Paytm,Pune,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",65,6.3,2024-07-23,7
+JD_0056,Backend Engineer,Zomato,Kolkata,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL"", ""Tableau""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",69,5.9,2024-08-23,8
+JD_0057,Backend Engineer,Razorpay,Noida,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",66,7.3,2024-08-27,9
+JD_0058,Data Scientist,PhonePe,Mumbai,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis"", ""Cloud (AWS/GCP/Azure)"", ""React""]","[""Deep Learning"", ""NLP"", ""Spark""]",70,6.1,2024-08-16,4
+JD_0059,Data Scientist,Freshworks,Kolkata,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis"", ""Java"", ""React""]","[""Deep Learning"", ""NLP"", ""Spark""]",64,7.4,2024-08-10,5
+JD_0060,Data Analyst,Freshworks,Pune,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel"", ""Problem Solving"", ""Java""]","[""Tableau"", ""Communication""]",64,6.1,2024-08-13,2
+JD_0061,Data Scientist,Tech Mahindra,Chennai,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis"", ""Git"", ""Problem Solving""]","[""Deep Learning"", ""NLP"", ""Spark""]",67,7.4,2024-11-26,5
+JD_0062,ML Engineer,Wipro,Kolkata,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker"", ""Statistics""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",66,6.0,2024-07-30,1
+JD_0063,Data Analyst,MindTree,Hyderabad,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel""]","[""Tableau"", ""Communication""]",61,6.9,2024-07-06,1
+JD_0064,Backend Engineer,MindTree,Noida,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",62,6.8,2024-08-13,6
+JD_0065,Data Scientist,TCS,Ahmedabad,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis""]","[""Deep Learning"", ""NLP"", ""Spark""]",70,6.0,2024-06-10,3
+JD_0066,NLP Engineer,MindTree,Pune,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning"", ""Tableau""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",69,7.4,2024-08-14,1
+JD_0067,Data Analyst,Flipkart,Delhi NCR,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel""]","[""Tableau"", ""Communication""]",59,6.1,2024-11-12,9
+JD_0068,Backend Engineer,HCL,Noida,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL"", ""Communication""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",67,6.0,2024-06-29,6
+JD_0069,ML Engineer,Dunzo,Chennai,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker"", ""Deep Learning""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",72,6.6,2024-07-20,3
+JD_0070,Backend Engineer,TCS,Remote,"[""Python"", ""REST APIs"", ""Docker"", ""Git"", ""SQL"", ""Node.js"", ""Java""]","[""Java"", ""Cloud (AWS/GCP/Azure)""]",70,6.8,2024-07-18,3
+JD_0071,NLP Engineer,Zoho,Mumbai,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning"", ""React""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",72,6.4,2024-08-08,6
+JD_0072,Data Scientist,Freshworks,Mumbai,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis"", ""REST APIs""]","[""Deep Learning"", ""NLP"", ""Spark""]",69,5.6,2024-07-01,8
+JD_0073,Data Scientist,HCL,Chennai,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis""]","[""Deep Learning"", ""NLP"", ""Spark""]",62,6.9,2024-11-11,5
+JD_0074,Data Scientist,Zomato,Noida,"[""Python"", ""Statistics"", ""Machine Learning"", ""SQL"", ""Data Analysis""]","[""Deep Learning"", ""NLP"", ""Spark""]",69,5.8,2024-11-03,6
+JD_0075,NLP Engineer,TCS,Kolkata,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning"", ""JavaScript""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",75,6.4,2024-11-28,6
+JD_0076,Data Analyst,Tech Mahindra,Kolkata,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel""]","[""Tableau"", ""Communication""]",64,5.9,2024-10-16,3
+JD_0077,ML Engineer,PhonePe,Ahmedabad,"[""Python"", ""Machine Learning"", ""SQL"", ""Git"", ""Docker"", ""NLP"", ""Spark""]","[""Deep Learning"", ""Cloud (AWS/GCP/Azure)"", ""REST APIs""]",70,6.5,2024-10-09,8
+JD_0078,Data Engineer,HCL,Remote,"[""Python"", ""SQL"", ""Spark"", ""Docker"", ""Cloud (AWS/GCP/Azure)""]","[""Git"", ""Data Analysis""]",63,6.4,2024-06-15,9
+JD_0079,NLP Engineer,Swiggy,Bangalore,"[""Python"", ""NLP"", ""Deep Learning"", ""Machine Learning"", ""Tableau""]","[""Spark"", ""Cloud (AWS/GCP/Azure)""]",77,7.0,2024-10-27,2
+JD_0080,Data Analyst,TCS,Kolkata,"[""Python"", ""SQL"", ""Data Analysis"", ""Statistics"", ""Excel""]","[""Tableau"", ""Communication""]",61,7.5,2024-06-18,8

@@ -1,0 +1,12 @@
+feature,importance
+skills_below_threshold,0.29345618094303216
+skill_overlap_ratio,0.28367734855552423
+score_gap_mean,0.24664748715055185
+mean_score_on_required,0.12197113411007787
+min_score_threshold,0.02455412574985338
+avg_skill_score,0.010344799928214974
+cgpa_gap,0.010146100175822289
+required_skills_count,0.006650672300589746
+max_skill_score,0.0023437130264216694
+graduation_recency,0.00020446304127084568
+nice_to_have_overlap,3.9750186408290605e-06
