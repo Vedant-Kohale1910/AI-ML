@@ -1,0 +1,301 @@
+student_id,name,target_role,skills,avg_skill_score,split
+204,Nikhil Sharma,Data Analyst,"Python,Power BI,Excel,Data Visualization,HTML",84,train
+267,Sanya Bhat,Product Manager,"SQL,Excel,Stakeholder Management,React,Roadmapping",91,train
+153,Dev Verma,Frontend Developer,"TypeScript,React,JavaScript,HTML,Git",63,train
+10,Priya Bhat,Frontend Developer,"TypeScript,Git,JavaScript,HTML",78,train
+234,Meera Reddy,ML Engineer,"Machine Learning,Deep Learning,Excel,Docker,Python,SQL",64,val
+227,Pooja Desai,DevOps Engineer,"CI/CD,Git,Docker",72,train
+197,Kabir Gupta,DevOps Engineer,"Docker,Linux,AWS,Kubernetes,SQL,Git,CI/CD",61,train
+110,Tanya Bhat,Full Stack Developer,"SQL,React,JavaScript,Deep Learning,Git",71,train
+6,Ishaan Singh,ML Engineer,"Docker,Machine Learning,SQL,Python,Statistics,TensorFlow",69,train
+176,Rohan Patel,Backend Developer,"Spring Boot,Git,Java,REST API,SQL",81,test
+238,Aarav Kulkarni,Data Scientist,"Deep Learning,Pandas,SQL,ML,Git,HTML,Statistics",74,train
+58,Riya Kapoor,QA Engineer,"Test Automation,Java,Manual Testing",68,val
+219,Nikhil Patel,DevOps Engineer,"AWS,Kubernetes,Linux",66,train
+46,Aditya Iyer,Backend Developer,"Git,Microservices,SQL,Spring Boot,Java,REST API",63,train
+183,Vivaan Desai,Data Analyst,"SQL,Statistics,Python,Excel,Power BI,Data Visualization",59,train
+222,Vivaan Patel,Product Manager,"Agile,Excel,Communication,Stakeholder Management,SQL",49,test
+290,Diya Singh,Frontend Developer,"AWS,JavaScript,HTML,Git,CSS,React,TypeScript",64,val
+212,Priya Nair,DevOps Engineer,"Git,Kubernetes,CI/CD,AWS,Linux",85,train
+149,Kavya Saxena,Full Stack Developer,"Node.js,JavaScript,React",78,train
+166,Isha Agarwal,DevOps Engineer,"DL,Kubernetes,AWS,CI/CD,Pandas,Linux,Git",76,val
+79,Diya Kapoor,Product Manager,"Roadmapping,Excel,SQL,Communication,Agile,Node.js",73,train
+114,Ishaan Gupta,DevOps Engineer,"SQL,Git,AWS,Linux,Kubernetes",99,train
+250,Siddharth Agarwal,Frontend Developer,"TypeScript,HTML,Selenium,JavaScript,React,Manual Testing",76,test
+251,Aisha Mehta,Business Analyst,"Power BI,SQL,REST API,Excel,Statistics,Data Visualization,Communication",56,train
+105,Yash Nair,Data Analyst,"Python,Data Visualization,Statistics,Linux",70,train
+43,Neha Joshi,Data Scientist,"SQL,Pandas,Python,Deep Learning,ML",70,train
+282,Rahul Gupta,Business Analyst,"Statistics,SQL,Communication,Excel,Manual Testing,Data Visualization",79,test
+296,Aditya Bhat,Frontend Developer,"TypeScript,Git,JavaScript,CSS,HTML",63,train
+158,Aarav Patel,Backend Developer,"REST API,Git,Microservices,TensorFlow,Deep Learning,SQL",77,val
+239,Isha Verma,Backend Developer,"Git,SQL,Java,CSS,REST API,Spring Boot",64,train
+18,Rahul Pillai,Data Scientist,"SQL,Pandas,DL",75,train
+165,Vivaan Verma,Full Stack Developer,"Git,REST API,SQL,Node.js,React,JavaScript",83,train
+34,Sai Bansal,Business Analyst,"Power BI,Data Visualization,Communication,SQL,Statistics,Excel,Git",59,train
+25,Priya Singh,Product Manager,"Selenium,SQL,Communication,Excel,Roadmapping,Agile",65,train
+216,Neha Verma,Data Analyst,"SQL,HTML,Statistics,Python,Data Visualization,PowerBI,Excel",81,test
+120,Sanya Rao,Full Stack Developer,"JavaScript,SQL,Git,Agile,Node.js,React",81,train
+8,Ananya Joshi,Data Scientist,"Statistics,Machine Learning,SQL,Git,Deep Learning",81,train
+91,Sai Nair,Full Stack Developer,"SQL,Node.js,React,JavaScript,Git,REST API",73,val
+47,Kavya Pillai,Full Stack Developer,"React,Statistics,Node.js,Power BI,JavaScript,SQL,Git",66,train
+74,Diya Bhat,Data Scientist,"PowerBI,Machine Learning,Statistics,Python,Deep Learning,SQL,Pandas",90,train
+94,Rahul Mehta,DevOps Engineer,"CI/CD,Git,Docker,REST API,AWS,Microservices",68,train
+77,Diya Kapoor,Frontend Developer,"HTML,TypeScript,Manual Testing,CSS",73,train
+287,Aditya Bansal,Data Scientist,"Deep Learning,Pandas,Python,Test Automation,SQL,Selenium",70,train
+61,Meera Agarwal,Data Scientist,"Machine Learning,Python,Deep Learning,SQL",66,train
+78,Dev Pillai,Frontend Developer,"TypeScript,CSS,React,JavaScript,SQL,Git",68,train
+64,Dev Bhat,Frontend Developer,"Pandas,Git,Machine Learning,TypeScript,CSS,React",57,train
+235,Zara Singh,ML Engineer,"TensorFlow,Deep Learning,SQL,Docker,Roadmapping",97,train
+230,Rahul Chopra,Product Manager,"Roadmapping,Communication,Excel,Agile,Stakeholder Management,SQL",80,train
+112,Siddharth Nair,DevOps Engineer,"Linux,Docker,CI/CD,AWS",71,train
+232,Ishaan Rao,Data Analyst,"Data Visualization,Statistics,Power BI,Excel,SQL,Python",74,train
+181,Meera Reddy,Data Scientist,"Statistics,Pandas,Machine Learning,SQL,Communication,DL,Python",79,train
+145,Karan Patel,Data Scientist,"Statistics,SQL,Python,Pandas",75,train
+240,Vivaan Reddy,DevOps Engineer,"Git,AWS,Kubernetes,CI/CD",82,train
+76,Pooja Mehta,Data Analyst,"Data Visualization,Excel,Selenium,Power BI,Statistics",81,train
+298,Pooja Nair,Business Analyst,"Python,Power BI,Statistics,Data Visualization,Excel",75,test
+279,Ananya Chopra,DevOps Engineer,"Git,Kubernetes,Docker,AWS,Linux,CI/CD",72,train
+98,Nikhil Desai,DevOps Engineer,"Git,Excel,Linux,Communication,Kubernetes",75,val
+93,Rohan Patel,Full Stack Developer,"JavaScript,Node.js,AWS,SQL,Docker,REST API,Git",63,test
+193,Diya Sharma,QA Engineer,"Test Automation,Java,Manual Testing,Selenium,Statistics",74,val
+26,Pooja Iyer,QA Engineer,"Java,SQL,Git,Test Automation,Selenium",73,train
+233,Tara Kapoor,Data Analyst,"Power BI,Statistics,Python,SQL,Excel,Data Visualization",72,train
+60,Diya Kapoor,Business Analyst,"Communication,Statistics,Data Visualization,Excel,Power BI,Python",83,train
+7,Neha Desai,Product Manager,"Excel,Communication,Stakeholder Management,SQL,Agile",90,train
+186,Tanya Reddy,Data Analyst,"Git,Kubernetes,Statistics,SQL,Power BI,Python",80,test
+174,Aditya Verma,Frontend Developer,"CSS,React,TypeScript",76,train
+31,Shreya Sharma,Data Analyst,"Data Visualization,Excel,Python,Statistics,SQL",64,train
+23,Riya Chopra,Data Analyst,"Data Visualization,Statistics,Excel,SQL,Python",72,val
+257,Tanya Bhat,QA Engineer,"Manual Testing,SQL,Java,Git,Selenium,Test Automation",87,train
+57,Tanya Bansal,DevOps Engineer,"AWS,Docker,Selenium,Linux,CI/CD",61,train
+187,Sai Agarwal,Data Scientist,"ML,Python,Statistics,Pandas,AWS,DL,SQL",77,train
+109,Siddharth Saxena,ML Engineer,"Python,Git,Docker,SQL,DL",75,train
+127,Nikhil Desai,Data Analyst,"Python,SQL,Excel,Power BI,Statistics",60,train
+231,Rahul Patel,Business Analyst,"Data Visualization,Excel,REST API,SQL",63,train
+194,Kabir Singh,DevOps Engineer,"CI/CD,Linux,Git",57,val
+130,Tanya Patel,Data Scientist,"SQL,DL,Pandas,Python",65,val
+283,Kavya Patel,Data Analyst,"SQL,Excel,Power BI,Python,AWS",91,train
+83,Aisha Desai,Full Stack Developer,"React,Node.js,JavaScript,Docker,Git,REST API",89,train
+85,Kabir Mehta,Data Scientist,"Statistics,Agile,Python,Deep Learning,Roadmapping,Pandas",62,val
+67,Sai Bhat,ML Engineer,"Docker,Machine Learning,Python,TensorFlow,SQL",71,val
+289,Riya Bhat,Full Stack Developer,"SQL,Git,Node.js,REST API,JavaScript,React",75,train
+164,Riya Sharma,Backend Developer,"Java,CSS,REST API,Git,Spring Boot,Microservices",62,train
+155,Tara Verma,Backend Developer,"AWS,SQL,REST API,Microservices,Git,Java",75,train
+20,Zara Verma,Product Manager,"Excel,Stakeholder Management,SQL,Communication,HTML,Agile",55,val
+125,Siddharth Desai,QA Engineer,"Git,Test Automation,Java,Manual Testing,Selenium,SQL,Microservices",79,test
+80,Varun Iyer,ML Engineer,"Machine Learning,HTML,SQL,TensorFlow,Python,Docker,Deep Learning",48,train
+115,Neha Joshi,QA Engineer,"Java,Test Automation,Selenium,SQL,Git",69,train
+119,Aisha Kapoor,Frontend Developer,"TypeScript,React,Communication,CSS",85,train
+73,Riya Chopra,Business Analyst,"JavaScript,Excel,SQL,Power BI,Data Visualization,Statistics",71,train
+16,Dev Agarwal,Frontend Developer,"React,JavaScript,Git,CSS,REST API",65,train
+11,Priya Bhat,Backend Developer,"Git,Microservices,SQL,REST API,Java",66,train
+195,Diya Gupta,Data Scientist,"Python,SQL,Selenium,Statistics,Machine Learning",74,train
+102,Karan Joshi,Frontend Developer,"Git,TypeScript,React",66,train
+69,Neha Pillai,ML Engineer,"Machine Learning,Deep Learning,Python,Docker,TensorFlow,SQL",76,train
+225,Priya Desai,ML Engineer,"TensorFlow,REST API,SQL,Docker",66,train
+38,Aditya Bansal,Frontend Developer,"HTML,React,Git,TypeScript,Python,CSS",48,val
+17,Kabir Bhat,Product Manager,"Communication,Agile,Git,Roadmapping",59,test
+180,Aisha Reddy,DevOps Engineer,"Git,CI/CD,AWS,Docker",99,train
+148,Nikhil Reddy,QA Engineer,"Selenium,Manual Testing,Test Automation,SQL,Git,Java",56,train
+275,Sai Singh,Frontend Developer,"AWS,React,TypeScript,Git",60,train
+68,Aisha Saxena,Backend Developer,"Spring Boot,SQL,REST API,Manual Testing,Git",84,train
+229,Neha Iyer,Business Analyst,"SQL,Data Visualization,Pandas,Power BI,Excel,Communication",63,train
+70,Neha Mehta,Full Stack Developer,"Git,Node.js,React,SQL,JavaScript,REST API",64,train
+32,Tanya Gupta,Data Analyst,"Python,SQL,Statistics,Excel",94,train
+184,Varun Joshi,QA Engineer,"Java,Git,Selenium,Test Automation",77,val
+266,Rohan Rao,Data Analyst,"Power BI,Python,Statistics,Excel,Data Visualization",57,val
+226,Priya Chopra,Data Scientist,"DL,Machine Learning,Python,SQL,Stakeholder Management,Roadmapping,Statistics,Pandas",85,test
+141,Tanya Bansal,Data Scientist,"Deep Learning,Pandas,ML,Git,SQL,Statistics",74,test
+19,Aisha Singh,Data Scientist,"Python,Machine Learning,SQL,Statistics,Deep Learning",61,test
+182,Karan Bhat,Data Analyst,"PowerBI,Excel,Statistics,Communication,SQL,Data Visualization",61,val
+97,Meera Mehta,Product Manager,"Roadmapping,Excel,Communication,Stakeholder Management",75,val
+133,Aditya Saxena,Data Scientist,"Deep Learning,Power BI,SQL,Pandas,Machine Learning",59,train
+263,Kabir Desai,ML Engineer,"TensorFlow,Machine Learning,Git,SQL,DL,Selenium,Docker",35,train
+87,Varun Agarwal,ML Engineer,"SQL,Docker,TensorFlow,DL",82,train
+249,Sai Saxena,Data Analyst,"SQL,Python,Power BI,Statistics,Data Visualization",93,train
+246,Aarav Bansal,QA Engineer,"Java,SQL,Manual Testing,Git",67,train
+117,Sai Bhat,Data Scientist,"Python,Pandas,SQL",71,val
+147,Nikhil Desai,DevOps Engineer,"DL,Python,Git,Linux,Kubernetes,CI/CD",57,val
+293,Ishaan Pillai,Frontend Developer,"HTML,React,Git,TypeScript",64,test
+198,Aditya Bansal,Backend Developer,"Microservices,Spring Boot,Java,REST API,Git",73,train
+207,Meera Singh,Data Analyst,"Node.js,SQL,Data Visualization,REST API,Python,Power BI",78,train
+56,Tanya Bansal,Backend Developer,"REST API,Java,SQL,Git,Spring Boot",83,train
+173,Varun Bansal,Product Manager,"Excel,Communication,Stakeholder Management,Agile,Roadmapping,SQL",71,train
+185,Vivaan Iyer,Product Manager,"JavaScript,Roadmapping,Excel,Node.js,Communication,SQL,Stakeholder Management,Agile",69,val
+168,Yash Kapoor,ML Engineer,"Docker,Deep Learning,TensorFlow,SQL,Machine Learning,Spring Boot",94,train
+140,Meera Singh,Product Manager,"Excel,Machine Learning,Roadmapping,Agile,SQL,Stakeholder Management,DL",57,test
+254,Shreya Agarwal,QA Engineer,"Excel,Git,Statistics,SQL,Test Automation,Manual Testing,Selenium",84,val
+39,Tara Saxena,Data Analyst,"SQL,Node.js,Excel,Python,Statistics,PowerBI",56,train
+126,Neha Iyer,Business Analyst,"Excel,Data Visualization,Statistics,Power BI,Agile",98,train
+196,Aisha Bhat,Business Analyst,"PowerBI,Data Visualization,Microservices,Communication",76,train
+284,Pooja Gupta,Full Stack Developer,"Node.js,JavaScript,React,REST API,Roadmapping,Git,SQL",57,test
+138,Ananya Rao,Backend Developer,"REST API,Java,Microservices,Python,Spring Boot,Git",68,test
+113,Vivaan Singh,Product Manager,"Communication,SQL,Excel",72,train
+169,Shreya Agarwal,Data Scientist,"Communication,Deep Learning,Machine Learning,Python,SQL",69,train
+118,Kavya Singh,Backend Developer,"Git,Java,Microservices,Spring Boot,SQL",57,test
+278,Riya Chopra,QA Engineer,"Manual Testing,DL,TensorFlow,Selenium,Java,Test Automation,SQL,Git",64,test
+272,Sai Saxena,Data Analyst,"Python,SQL,Excel,Power BI,JavaScript,Git,Data Visualization,Statistics",54,train
+156,Aditya Iyer,Frontend Developer,"React,Excel,Git,JavaScript,TypeScript,HTML,CSS",63,test
+177,Aditya Gupta,ML Engineer,"Python,Deep Learning,TensorFlow,SQL",72,train
+179,Rohan Nair,Frontend Developer,"Python,CSS,Git,TypeScript,React,JavaScript",68,train
+3,Vivaan Kulkarni,Full Stack Developer,"REST API,Statistics,Node.js,React,JavaScript,SQL",79,train
+116,Sai Nair,Backend Developer,"SQL,Spring Boot,Git,Microservices",75,train
+144,Diya Desai,Business Analyst,"Communication,Deep Learning,Statistics,SQL",74,train
+178,Nikhil Singh,Frontend Developer,"CSS,Git,React,JavaScript,TypeScript",89,test
+121,Vivaan Kulkarni,DevOps Engineer,"Linux,Docker,Kubernetes,Git,CI/CD",81,train
+211,Sai Singh,Business Analyst,"Machine Learning,Excel,SQL,Data Visualization,Statistics,Power BI,Communication",78,val
+261,Yash Gupta,DevOps Engineer,"Python,CI/CD,Docker,Kubernetes",60,train
+128,Aisha Gupta,Data Analyst,"Pandas,Power BI,Statistics,Python",65,train
+75,Vivaan Nair,Full Stack Developer,"Git,JavaScript,SQL,React,Node.js",40,train
+30,Pooja Bhat,DevOps Engineer,"Kubernetes,Docker,CI/CD,Linux,Git,AWS,Pandas",68,train
+84,Rohan Mehta,Data Analyst,"Power BI,Statistics,Excel,Java,Data Visualization,Git",65,train
+270,Varun Gupta,DevOps Engineer,"Kubernetes,AWS,SQL,Git,Python",73,test
+108,Meera Singh,Backend Developer,"REST API,Data Visualization,SQL,Git,Microservices",74,train
+224,Rahul Verma,Full Stack Developer,"Node.js,SQL,React,JavaScript,Git,REST API",52,train
+159,Diya Gupta,ML Engineer,"Deep Learning,Spring Boot,TensorFlow,Machine Learning,Python",57,test
+281,Rohan Reddy,Frontend Developer,"Git,TypeScript,React,JavaScript",73,train
+247,Isha Bansal,Data Scientist,"Statistics,SQL,DL,Pandas,Python,Docker",66,train
+223,Shreya Iyer,ML Engineer,"Deep Learning,Machine Learning,TensorFlow,Python,Docker,SQL",80,test
+66,Rohan Gupta,Backend Developer,"Spring Boot,Microservices,Pandas,Git,DL,Java",88,train
+199,Tara Patel,QA Engineer,"Communication,SQL,Manual Testing,Test Automation,Selenium",72,train
+86,Tanya Agarwal,Backend Developer,"SQL,Spring Boot,HTML,Microservices,Java,React",65,val
+214,Arjun Gupta,DevOps Engineer,"Git,CI/CD,Test Automation,Docker,Linux,AWS,Kubernetes",79,train
+160,Tanya Joshi,Data Analyst,"SQL,PowerBI,Excel,Data Visualization",79,test
+13,Dev Sharma,ML Engineer,"Communication,SQL,Docker,TensorFlow,Deep Learning",74,val
+36,Tanya Chopra,Backend Developer,"Git,REST API,Spring Boot,Microservices,SQL",57,val
+29,Aarav Reddy,DevOps Engineer,"Deep Learning,Kubernetes,Linux,Git,Docker",64,train
+143,Diya Sharma,Full Stack Developer,"JavaScript,SQL,Node.js,React,Stakeholder Management,Git,Roadmapping,REST API",52,test
+285,Ananya Singh,Full Stack Developer,"JavaScript,REST API,Git,SQL",97,train
+255,Pooja Saxena,Frontend Developer,"Git,Statistics,JavaScript,TypeScript",53,val
+171,Kabir Joshi,QA Engineer,"SQL,Git,AWS,Java,Selenium,Test Automation",61,train
+52,Varun Agarwal,Product Manager,"Communication,Excel,SQL,Linux,Agile,Roadmapping",67,train
+96,Siddharth Verma,Frontend Developer,"TypeScript,Deep Learning,HTML,CSS,JavaScript",54,train
+209,Nikhil Mehta,Frontend Developer,"JavaScript,HTML,React,Git",78,val
+248,Ishaan Verma,Data Analyst,"SQL,Excel,Power BI,Statistics,Data Visualization",64,train
+42,Pooja Pillai,Backend Developer,"SQL,Git,AWS,Java,Microservices,Spring Boot",74,train
+90,Sai Gupta,Data Scientist,"SQL,ML,Python,Statistics",78,test
+245,Aisha Kulkarni,DevOps Engineer,"CI/CD,Data Visualization,AWS,Docker,Git,Kubernetes,Linux",57,train
+137,Diya Kulkarni,ML Engineer,"TensorFlow,ML,SQL,Deep Learning,Docker",62,train
+27,Sanya Bhat,Frontend Developer,"CSS,TypeScript,Git,React,JavaScript,HTML,SQL",58,train
+294,Kabir Patel,Product Manager,"Communication,Excel,Roadmapping,Stakeholder Management",82,train
+142,Tanya Bansal,QA Engineer,"Java,Test Automation,Git,SQL,Selenium",87,train
+201,Ananya Singh,Product Manager,"SQL,Roadmapping,Excel,Communication,Agile",76,train
+1,Pooja Agarwal,DevOps Engineer,"SQL,REST API,Docker,AWS,CI/CD,Kubernetes,Git",77,test
+269,Tara Saxena,Data Scientist,"Python,Statistics,Pandas,SQL",66,test
+273,Ananya Patel,Backend Developer,"Spring Boot,Microservices,Java,Docker,REST API",85,train
+101,Tara Bhat,DevOps Engineer,"SQL,Docker,Linux,AWS,Git,Kubernetes,CI/CD",55,test
+260,Tanya Gupta,ML Engineer,"ML,Docker,Python,Data Visualization",81,train
+256,Nikhil Nair,ML Engineer,"TensorFlow,Python,Selenium,Deep Learning,SQL,ML",66,train
+172,Meera Chopra,QA Engineer,"Git,SQL,Java,Manual Testing,Python,Selenium,Test Automation",62,test
+99,Yash Bhat,QA Engineer,"SQL,Manual Testing,Java,Git",72,train
+37,Riya Kapoor,ML Engineer,"DL,SQL,TensorFlow",74,val
+62,Vivaan Joshi,QA Engineer,"Selenium,Excel,Git,Java,SQL,Test Automation,Manual Testing",69,train
+151,Aisha Joshi,Data Analyst,"Test Automation,Statistics,SQL,Power BI,Data Visualization",75,train
+237,Diya Pillai,Data Analyst,"Data Visualization,Power BI,Git,SQL,Python",47,test
+203,Shreya Nair,Backend Developer,"Git,SQL,Java,REST API,Spring Boot,Microservices,React",84,train
+243,Riya Kapoor,Data Scientist,"Python,Machine Learning,Pandas,SQL,Deep Learning",78,train
+12,Siddharth Bhat,QA Engineer,"Manual Testing,Power BI,Java,Git,Test Automation",66,train
+297,Riya Nair,Business Analyst,"SQL,REST API,Statistics,Communication,PowerBI",82,train
+268,Meera Gupta,Business Analyst,"Statistics,Communication,Data Visualization,Power BI",54,train
+28,Siddharth Desai,DevOps Engineer,"CI/CD,Kubernetes,AWS,Git",76,train
+220,Zara Nair,QA Engineer,"SQL,Selenium,Java,Communication,Git",72,train
+5,Varun Chopra,Data Scientist,"Statistics,DL,SQL,Python,Pandas,Data Visualization",69,train
+123,Riya Desai,Data Scientist,"SQL,Pandas,Machine Learning,Python,Deep Learning",88,train
+33,Nikhil Sharma,ML Engineer,"Docker,SQL,TensorFlow,Machine Learning",71,test
+205,Dev Sharma,Backend Developer,"SQL,Microservices,Git,Spring Boot,REST API",55,train
+163,Pooja Singh,Data Scientist,"Python,Machine Learning,Pandas,SQL,DL,Statistics",85,train
+210,Nikhil Bhat,ML Engineer,"Data Visualization,SQL,Machine Learning,DL,TensorFlow,Docker",99,train
+286,Nikhil Kulkarni,Frontend Developer,"TypeScript,Git,React,CSS,HTML",48,train
+139,Siddharth Desai,Product Manager,"SQL,Agile,Stakeholder Management,Excel",81,train
+63,Sanya Bansal,Business Analyst,"Power BI,Communication,Data Visualization,AWS,Excel,SQL,Statistics",58,val
+136,Tanya Kapoor,QA Engineer,"Manual Testing,Power BI,SQL,Git",90,train
+129,Karan Verma,Data Scientist,"JavaScript,Deep Learning,Python,Pandas,Statistics,Machine Learning,SQL",73,train
+291,Shreya Bhat,Business Analyst,"Excel,CI/CD,SQL,Statistics,Data Visualization,Communication",69,train
+9,Arjun Chopra,Data Scientist,"Statistics,Machine Learning,SQL,Pandas",66,train
+71,Sanya Saxena,ML Engineer,"TensorFlow,Git,DL,ML",76,train
+265,Yash Nair,DevOps Engineer,"CI/CD,AWS,Machine Learning,Linux,Git",68,val
+65,Varun Desai,DevOps Engineer,"CI/CD,Git,AWS,Kubernetes,Communication,Docker",81,train
+45,Meera Kapoor,Product Manager,"SQL,Agile,Docker,Communication,Git,Excel",54,train
+280,Diya Bansal,Product Manager,"Agile,Roadmapping,SQL,Excel,Stakeholder Management,React,Communication",67,train
+157,Arjun Rao,DevOps Engineer,"CI/CD,Git,AWS,Linux,Kubernetes",94,train
+41,Rahul Chopra,Backend Developer,"Microservices,Spring Boot,REST API,Java,SQL,Git",80,train
+124,Aarav Kulkarni,Business Analyst,"SQL,Data Visualization,Power BI,Communication",55,test
+276,Priya Nair,Data Scientist,"Statistics,Deep Learning,Pandas,Python,SQL",77,train
+217,Arjun Sharma,Frontend Developer,"Git,HTML,JavaScript,Java,CSS,React,TypeScript",62,train
+154,Aisha Nair,Business Analyst,"Communication,Data Visualization,SQL,Statistics,Git",74,train
+24,Ishaan Sharma,Product Manager,"Roadmapping,Excel,Agile,Stakeholder Management,Communication",54,train
+262,Aisha Agarwal,QA Engineer,"Selenium,Git,SQL,Java,Test Automation,Microservices,Manual Testing",71,train
+111,Rohan Kapoor,ML Engineer,"Python,TensorFlow,Docker,CSS,JavaScript",48,train
+82,Aditya Mehta,Business Analyst,"PowerBI,REST API,Communication,Excel,Statistics,SQL",76,train
+208,Yash Mehta,QA Engineer,"Stakeholder Management,Git,Java,Test Automation,SQL,Selenium",78,train
+213,Arjun Mehta,QA Engineer,"SQL,Manual Testing,Test Automation",83,train
+40,Ishaan Patel,Backend Developer,"Microservices,SQL,REST API,Spring Boot,Git",74,test
+241,Kavya Bhat,Full Stack Developer,"DL,React,Node.js,REST API,SQL,Git",62,train
+292,Riya Saxena,DevOps Engineer,"Linux,Kubernetes,CI/CD,Docker",66,train
+259,Arjun Reddy,Product Manager,"Agile,Excel,Roadmapping",77,train
+200,Isha Reddy,Product Manager,"Roadmapping,Stakeholder Management,CI/CD,SQL,Agile,Excel",58,train
+15,Aisha Agarwal,Business Analyst,"PowerBI,Communication,Data Visualization,SQL",51,train
+48,Diya Reddy,Backend Developer,"REST API,Git,SQL,Microservices",84,train
+95,Rahul Agarwal,Business Analyst,"Excel,Statistics,Communication,Docker,Power BI,Data Visualization",67,train
+264,Rahul Kapoor,Product Manager,"Communication,Stakeholder Management,Roadmapping,Agile,Excel,Docker,Python",59,train
+228,Aditya Pillai,ML Engineer,"Machine Learning,TensorFlow,Deep Learning,Docker",59,train
+274,Priya Patel,QA Engineer,"Test Automation,Git,Selenium,Java,SQL,Manual Testing",72,train
+202,Arjun Pillai,Frontend Developer,"JavaScript,CSS,Node.js,TypeScript,React",78,train
+162,Pooja Nair,Full Stack Developer,"React,Git,Communication,JavaScript,SQL,Stakeholder Management,Node.js,REST API",81,val
+44,Aisha Joshi,Full Stack Developer,"Node.js,REST API,SQL,JavaScript,Agile,Git",68,train
+218,Kavya Pillai,Product Manager,"SQL,Roadmapping,Agile,Stakeholder Management,Git,Selenium,Communication",69,train
+146,Meera Agarwal,ML Engineer,"TensorFlow,Docker,SQL,Python,Deep Learning,Excel,ML",81,train
+191,Ananya Saxena,Data Scientist,"Deep Learning,Machine Learning,Pandas,Python,Statistics",66,val
+221,Tara Patel,Frontend Developer,"JavaScript,Power BI,SQL,React,HTML,CSS,Git",99,train
+252,Diya Singh,DevOps Engineer,"AWS,PowerBI,Kubernetes,Git,CI/CD",83,test
+4,Diya Joshi,DevOps Engineer,"AWS,CI/CD,HTML,Kubernetes,Linux",90,train
+106,Kabir Saxena,Data Scientist,"SQL,Pandas,Deep Learning,Statistics",76,test
+54,Vivaan Joshi,Business Analyst,"Communication,Power BI,Excel,Statistics,SQL,JavaScript",79,train
+134,Aditya Sharma,Frontend Developer,"CSS,Git,JavaScript,TypeScript,React",77,test
+2,Aarav Bansal,DevOps Engineer,"AWS,Agile,Stakeholder Management,Linux,Git,Kubernetes",70,train
+132,Kavya Joshi,Data Scientist,"ML,Statistics,Excel,SQL,Deep Learning",72,train
+104,Kabir Singh,Business Analyst,"Machine Learning,Statistics,SQL,Power BI,DL,Communication,Data Visualization",62,train
+50,Aisha Rao,DevOps Engineer,"CI/CD,Linux,Machine Learning,Git,DL,Kubernetes,AWS,Docker",50,train
+81,Siddharth Gupta,Product Manager,"Excel,Roadmapping,SQL",69,train
+206,Riya Sharma,DevOps Engineer,"CI/CD,Git,Kubernetes",60,val
+35,Neha Singh,Product Manager,"Stakeholder Management,Roadmapping,Communication,SQL,Docker",81,train
+92,Shreya Kulkarni,Product Manager,"Excel,Stakeholder Management,SQL,Statistics,Communication",83,train
+53,Nikhil Rao,Product Manager,"Communication,Stakeholder Management,Agile",63,val
+242,Sanya Sharma,QA Engineer,"Manual Testing,Test Automation,Node.js,Java,Git",70,train
+14,Priya Desai,QA Engineer,"Python,Test Automation,Manual Testing,Selenium",49,test
+89,Riya Bhat,ML Engineer,"Git,SQL,TensorFlow,Docker,Machine Learning",65,train
+167,Ishaan Sharma,Data Scientist,"Python,Pandas,Machine Learning,SQL",81,train
+295,Ananya Rao,Frontend Developer,"JavaScript,TypeScript,CSS,Git",76,train
+135,Aditya Chopra,Frontend Developer,"JavaScript,React,HTML,TypeScript,TensorFlow",60,train
+288,Nikhil Chopra,Frontend Developer,"TypeScript,CSS,Git,HTML",79,train
+244,Arjun Nair,Business Analyst,"Excel,Communication,Data Visualization,PowerBI",82,val
+55,Isha Bhat,DevOps Engineer,"Git,Kubernetes,AWS,CI/CD,Linux,HTML,Docker",84,test
+51,Pooja Reddy,QA Engineer,"Test Automation,Manual Testing,Git,Java,SQL,Selenium",75,train
+175,Kavya Reddy,Backend Developer,"REST API,Java,SQL,Microservices,Spring Boot,Git",75,train
+190,Kabir Pillai,Data Scientist,"SQL,Machine Learning,Deep Learning,REST API,Python,Statistics",53,train
+299,Rahul Saxena,Data Scientist,"Python,JavaScript,Pandas,SQL,Statistics",81,val
+188,Ananya Iyer,ML Engineer,"Machine Learning,Python,Statistics,SQL,DL,Power BI",71,train
+170,Tara Verma,Data Scientist,"Python,Pandas,Deep Learning,SQL",62,train
+59,Kabir Desai,Backend Developer,"Java,SQL,Spring Boot,REST API,Microservices,Git",75,train
+49,Kavya Chopra,Business Analyst,"Data Visualization,SQL,Machine Learning,Communication",76,test
+236,Riya Patel,Full Stack Developer,"Stakeholder Management,React,REST API,Node.js,SQL,Git,JavaScript",79,val
+253,Shreya Sharma,Business Analyst,"Statistics,Data Visualization,Communication,Excel,SQL",97,train
+22,Neha Bhat,ML Engineer,"TensorFlow,SQL,DL,Python,Git,Docker,ML",69,test
+161,Ishaan Mehta,QA Engineer,"Python,Java,Manual Testing,Selenium,Git,Test Automation",60,train
+277,Zara Sharma,Backend Developer,"Microservices,Spring Boot,Java,Git,SQL",74,val
+192,Rahul Bhat,Product Manager,"Stakeholder Management,SQL,Agile,Communication,Excel,Roadmapping",82,test
+258,Priya Desai,Product Manager,"Roadmapping,SQL,Statistics,Stakeholder Management,Excel",63,val
+150,Pooja Chopra,ML Engineer,"Machine Learning,TensorFlow,Python,DL,SQL",75,train
+131,Varun Bansal,QA Engineer,"Git,Selenium,Manual Testing,Test Automation,Java,JavaScript,TypeScript,SQL",53,test
+152,Tanya Patel,Frontend Developer,"TypeScript,React,HTML,Docker",76,val
+100,Tanya Bhat,Frontend Developer,"TypeScript,HTML,Git,SQL,React",69,train
+88,Rahul Verma,DevOps Engineer,"Kubernetes,Docker,Linux,AWS,CI/CD",75,train
+215,Siddharth Chopra,Product Manager,"Communication,Agile,Roadmapping,Excel,Linux,SQL",68,train
+122,Tara Nair,DevOps Engineer,"Docker,Linux,CI/CD,AWS,Git",61,test
+300,Sai Mehta,ML Engineer,"Docker,Statistics,TensorFlow,Python,ML",79,test
+21,Tara Kulkarni,DevOps Engineer,"Statistics,Git,Docker,Linux,AWS,CI/CD",89,train
+189,Diya Kulkarni,Backend Developer,"Git,Docker,SQL,Spring Boot,Java",61,train
+72,Aditya Patel,QA Engineer,"Manual Testing,Java,Test Automation,Selenium",90,train
+107,Yash Bansal,DevOps Engineer,"AWS,Linux,CI/CD,Docker,Kubernetes",94,train
+271,Diya Joshi,Business Analyst,"SQL,Excel,Power BI,Statistics,Data Visualization",89,val
+103,Karan Desai,Data Analyst,"Python,Power BI,Excel",67,val
