@@ -1,0 +1,41 @@
+job_id,title,company,required_skills,min_experience,application_fee,location
+1,Research Analyst,Company_B,"Machine Learning, Excel, Statistics, SQL, Python, R, Data Visualization",0.7,100,Pune
+2,BI Developer,Company_C,"Power BI, Excel, Statistics, SQL, Tableau, Data Visualization",0.3,100,Chennai
+3,Data Analyst,Company_D,"Power BI, Excel, Statistics, SQL, Tableau, Python, Data Visualization",1.7,100,Chennai
+4,Data Scientist,Company_E,"Machine Learning, Statistics, SQL, Python, pandas",2.7,100,Bangalore
+5,Data Engineer,Company_F,"Docker, PostgreSQL, SQL, Python, AWS, pandas",0.4,100,Delhi
+6,Backend Developer,Company_G,"FastAPI, MongoDB, Docker, REST API, PostgreSQL, Python, AWS, Git, Flask",2.9,100,Bangalore
+7,Backend Developer,Company_H,"Docker, REST API, PostgreSQL, Python, Git",1.4,100,Mumbai
+8,Data Scientist,Company_I,"Machine Learning, Statistics, SQL, Tableau, Python, pandas",2.9,100,Delhi
+9,Backend Developer,Company_J,"Docker, REST API, PostgreSQL, Python, Git",2.4,100,Mumbai
+10,BI Developer,Company_K,"Power BI, Excel, SQL, Tableau, Data Visualization",1.4,100,Chennai
+11,BI Developer,Company_L,"Power BI, Excel, Statistics, PostgreSQL, SQL, Tableau, Python, Data Visualization",2.0,100,Hyderabad
+12,Data Analyst,Company_M,"Power BI, Excel, Statistics, SQL, Python, Data Visualization, pandas",1.9,100,Chennai
+13,Research Analyst,Company_N,"Excel, Statistics, SQL, Python, R, Data Visualization, pandas",0.4,100,Mumbai
+14,Data Analyst,Company_O,"Power BI, Excel, Statistics, SQL, Tableau, Python, Data Visualization",0.3,100,Delhi
+15,Data Scientist,Company_P,"Machine Learning, Statistics, SQL, NLP, Tableau, Python, R, pandas",1.8,100,Chennai
+16,Data Scientist,Company_Q,"Machine Learning, Statistics, SQL, NLP, Python, Deep Learning, R, pandas",2.8,100,Bangalore
+17,Data Analyst,Company_R,"Power BI, Excel, Statistics, SQL, Tableau, Python, Data Visualization",1.3,100,Pune
+18,Backend Developer,Company_S,"Docker, REST API, PostgreSQL, Python, Git",2.9,100,Bangalore
+19,Backend Developer,Company_T,"Docker, REST API, PostgreSQL, Python, Git",1.2,100,Pune
+20,ML Engineer,Company_U,"scikit-learn, Machine Learning, Docker, Statistics, AWS, SQL, Python, Deep Learning",1.9,100,Delhi
+21,Data Analyst,Company_V,"Power BI, Excel, Statistics, SQL, Data Visualization",2.4,100,Pune
+22,Data Scientist,Company_W,"Machine Learning, Statistics, SQL, NLP, Tableau, Python, Deep Learning, R, pandas",2.4,100,Pune
+23,Backend Developer,Company_X,"FastAPI, Docker, REST API, PostgreSQL, Python, Git",0.8,100,Pune
+24,Data Scientist,Company_Y,"Machine Learning, Statistics, SQL, NLP, Tableau, Python, Deep Learning, R, pandas",0.4,100,Bangalore
+25,NLP Engineer,Company_Z,"Python, Machine Learning, numpy, Keras, REST API, NLP, TensorFlow, Deep Learning, pandas",0.2,100,Chennai
+26,Data Engineer,Company_A,"MongoDB, Docker, PostgreSQL, SQL, Linux, Python, AWS, Git, pandas",1.3,100,Bangalore
+27,ML Engineer,Company_B,"scikit-learn, Machine Learning, TensorFlow, Docker, Statistics, SQL, Python, Deep Learning",2.2,100,Chennai
+28,BI Developer,Company_C,"Power BI, Excel, Statistics, PostgreSQL, SQL, Tableau, Python, Data Visualization",3.0,100,Hyderabad
+29,Data Engineer,Company_D,"Docker, PostgreSQL, SQL, Python, AWS",1.5,100,Hyderabad
+30,ML Engineer,Company_E,"scikit-learn, Machine Learning, Statistics, SQL, Python",1.0,100,Pune
+31,ML Engineer,Company_F,"scikit-learn, Machine Learning, Docker, Statistics, SQL, Python",1.9,100,Delhi
+32,Backend Developer,Company_G,"MongoDB, Docker, REST API, PostgreSQL, Python, AWS, Git, Flask",0.3,100,Chennai
+33,ML Engineer,Company_H,"scikit-learn, Machine Learning, TensorFlow, Docker, Statistics, SQL, Python, AWS, Deep Learning",1.2,100,Hyderabad
+34,Data Engineer,Company_I,"MongoDB, Docker, PostgreSQL, SQL, Linux, Python, AWS, pandas",0.9,100,Bangalore
+35,Backend Developer,Company_J,"MongoDB, Docker, REST API, PostgreSQL, Python, Git",0.2,100,Mumbai
+36,ML Engineer,Company_K,"scikit-learn, Machine Learning, TensorFlow, Docker, Statistics, SQL, Python, Deep Learning",2.4,100,Delhi
+37,Data Analyst,Company_L,"Power BI, Excel, Statistics, SQL, Python, Data Visualization, pandas",1.2,100,Chennai
+38,Data Engineer,Company_M,"Docker, PostgreSQL, SQL, Python, AWS",2.9,100,Delhi
+39,BI Developer,Company_N,"Power BI, Excel, Statistics, SQL, Tableau, Python, Data Visualization",0.5,100,Hyderabad
+40,NLP Engineer,Company_O,"Python, Machine Learning, NLP, TensorFlow, Deep Learning",1.1,100,Delhi

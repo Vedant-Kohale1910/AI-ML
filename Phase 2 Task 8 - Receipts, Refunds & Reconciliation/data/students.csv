@@ -1,0 +1,101 @@
+student_id,name,skills,experience_years,education
+1,Student_001,"Excel, SQL, C++, R, Teamwork, NLP, REST API, Deep Learning, Linux, AWS, Project Management, Machine Learning, JavaScript",1.7,B.Tech
+2,Student_002,"TensorFlow, Keras, Project Management, SQL",2.2,MBA
+3,Student_003,"Teamwork, MongoDB, Keras, AWS, JavaScript, Statistics, FastAPI, PostgreSQL, Python, Flask, Power BI, Docker, TensorFlow",1.4,BCA
+4,Student_004,"Linux, Tableau, Power BI, Flask, Deep Learning, numpy",3.4,BSc
+5,Student_005,"Machine Learning, Azure, Excel, Flask, Teamwork, C++, Data Visualization",3.3,BSc
+6,Student_006,"scikit-learn, NLP, Machine Learning, Keras, Flask, Data Visualization, Project Management, PostgreSQL",0.9,B.Tech
+7,Student_007,"C++, Azure, REST API, pandas, numpy, Communication, Tableau, Linux, Statistics",2.8,MBA
+8,Student_008,"NLP, pandas, R, Agile, Keras, scikit-learn, Statistics, Git, Docker, C++, Excel, Linux, Problem Solving",3.4,B.Tech
+9,Student_009,"Machine Learning, Git, FastAPI, C++, Teamwork, Tableau",3.7,BSc
+10,Student_010,"Git, TensorFlow, Problem Solving, FastAPI, AWS, Azure, Teamwork, Keras, NLP, Statistics, MongoDB, Excel, C++, Docker",1.1,BSc
+11,Student_011,"FastAPI, REST API, Keras, Statistics, Java, R, Machine Learning, Flask, SQL",3.4,BCA
+12,Student_012,"pandas, PostgreSQL, NLP, Flask, scikit-learn, HTML/CSS, Keras, Java, Statistics, C++, Python, Linux, Deep Learning",2.7,BSc
+13,Student_013,"C++, Linux, Excel, JavaScript, TensorFlow, Power BI, Keras, Python, REST API, MongoDB, Statistics, Java, Azure, FastAPI, Deep Learning",3.5,MCA
+14,Student_014,"Project Management, scikit-learn, Data Visualization, REST API, Flask, Power BI, C++, Communication, Java, Python, HTML/CSS, pandas, R",0.1,MCA
+15,Student_015,"HTML/CSS, R, Deep Learning, Agile, AWS, JavaScript, Machine Learning, Communication, REST API, Problem Solving, PostgreSQL, C++, NLP, Docker, FastAPI",3.8,BCA
+16,Student_016,"Agile, PostgreSQL, TensorFlow, scikit-learn, Docker, Data Visualization, Problem Solving",4.0,MBA
+17,Student_017,"AWS, Agile, Teamwork, Excel, Problem Solving, Communication, Machine Learning, pandas",0.1,BSc
+18,Student_018,"Keras, Python, NLP, Deep Learning, Excel, Machine Learning",3.6,MCA
+19,Student_019,"Project Management, R, C++, Problem Solving",0.9,BCA
+20,Student_020,"Communication, R, Teamwork, MongoDB, Tableau, Deep Learning, Azure, Linux, TensorFlow, numpy, Problem Solving, Flask, Keras, SQL",2.7,MBA
+21,Student_021,"Deep Learning, FastAPI, Linux, Tableau",1.0,BCA
+22,Student_022,"AWS, Statistics, PostgreSQL, numpy, Agile, Keras, Excel, Project Management, Machine Learning, Azure, C++",0.4,MBA
+23,Student_023,"Python, Power BI, R, pandas, TensorFlow, Project Management, Azure, Tableau, scikit-learn, SQL, Agile",1.5,M.Tech
+24,Student_024,"Azure, JavaScript, PostgreSQL, Problem Solving, NLP, Tableau, Data Visualization",0.9,B.Tech
+25,Student_025,"Teamwork, Deep Learning, Git, Agile, SQL, JavaScript, R, Java, PostgreSQL, Power BI, Communication, MongoDB",0.3,BCA
+26,Student_026,"NLP, R, FastAPI, Excel",3.8,BSc
+27,Student_027,"Machine Learning, Power BI, MongoDB, Git, Azure, Statistics",0.8,MBA
+28,Student_028,"R, Java, FastAPI, Statistics, Linux, Git, Data Visualization, Keras",1.3,B.Tech
+29,Student_029,"Azure, Tableau, NLP",2.2,BSc
+30,Student_030,"Statistics, Docker, NLP, R, numpy, Data Visualization, Power BI",1.8,BSc
+31,Student_031,"HTML/CSS, Agile, Python, Teamwork, Azure, Linux, Deep Learning, NLP, Statistics, AWS, FastAPI, REST API, C++, PostgreSQL",1.1,BSc
+32,Student_032,"Linux, TensorFlow, Java, Problem Solving, Statistics, AWS",3.6,B.Tech
+33,Student_033,"PostgreSQL, C++, Machine Learning, Python",1.3,BCA
+34,Student_034,"Java, pandas, AWS, PostgreSQL, C++, Python, Deep Learning, Machine Learning, Docker, NLP, Communication, SQL, numpy",2.3,BCA
+35,Student_035,"Statistics, Machine Learning, HTML/CSS, REST API, AWS, Azure, FastAPI, PostgreSQL, SQL",3.6,BCA
+36,Student_036,"R, Tableau, Docker, MongoDB, HTML/CSS, REST API, NLP, Excel, Power BI, FastAPI, Problem Solving, TensorFlow, Python",0.7,MCA
+37,Student_037,"MongoDB, R, C++, pandas, FastAPI, Docker, Deep Learning, scikit-learn, SQL, Agile, Excel, Tableau, Keras, numpy, Data Visualization",3.3,BCA
+38,Student_038,"SQL, scikit-learn, FastAPI, Linux, Statistics, PostgreSQL",0.3,MCA
+39,Student_039,"Project Management, FastAPI, Linux, SQL, Deep Learning, AWS, Statistics, Power BI",2.3,MCA
+40,Student_040,"Tableau, PostgreSQL, Docker",2.9,MCA
+41,Student_041,"Project Management, Excel, Flask, scikit-learn, Statistics, SQL, Docker, TensorFlow, Python",2.1,BSc
+42,Student_042,"scikit-learn, REST API, PostgreSQL, NLP, Communication, Linux, pandas, HTML/CSS, AWS, Azure, Deep Learning, Agile, Data Visualization",2.0,MBA
+43,Student_043,"Git, FastAPI, JavaScript, Statistics, Tableau, TensorFlow, Linux, scikit-learn, AWS",3.0,BCA
+44,Student_044,"HTML/CSS, FastAPI, Python, Teamwork, Data Visualization, Tableau, TensorFlow, Agile, JavaScript, Problem Solving, Git, pandas",1.9,M.Tech
+45,Student_045,"TensorFlow, Project Management, Communication, pandas, Linux, Machine Learning, Data Visualization, Java, Agile, Git, HTML/CSS, Problem Solving, Azure",3.3,BCA
+46,Student_046,"HTML/CSS, Keras, scikit-learn, Data Visualization, Python, SQL, Excel, R, Teamwork, Flask, Machine Learning, Agile, TensorFlow",3.5,BSc
+47,Student_047,"Flask, Problem Solving, FastAPI, R, NLP, Git",2.8,B.Tech
+48,Student_048,"PostgreSQL, Keras, numpy, Azure, SQL, C++, Excel, Teamwork, Deep Learning, Agile, NLP, FastAPI, Linux, Java, Problem Solving",2.4,M.Tech
+49,Student_049,"Project Management, PostgreSQL, AWS, pandas, REST API, Agile, R, Keras, Statistics, Flask, Excel, Git",1.1,BSc
+50,Student_050,"R, C++, AWS, NLP, Docker, Data Visualization, Excel, Statistics, pandas, MongoDB",3.6,B.Tech
+51,Student_051,"Data Visualization, Keras, Flask, TensorFlow, NLP",1.7,MCA
+52,Student_052,"Azure, MongoDB, Deep Learning, TensorFlow, Agile, Problem Solving, scikit-learn, Flask, JavaScript, Docker, Python",3.4,BSc
+53,Student_053,"Communication, Python, Docker, HTML/CSS, Flask, scikit-learn, PostgreSQL, MongoDB, TensorFlow",2.2,MBA
+54,Student_054,"Keras, Problem Solving, Teamwork, C++, TensorFlow, R, Python, scikit-learn, pandas, Linux, FastAPI",3.2,MBA
+55,Student_055,"Azure, Statistics, Teamwork, SQL, FastAPI",2.4,MBA
+56,Student_056,"Power BI, PostgreSQL, Statistics",3.5,BCA
+57,Student_057,"Java, Flask, Git",0.8,MCA
+58,Student_058,"Flask, C++, MongoDB, Java, Project Management, Machine Learning, R, Python",3.0,B.Tech
+59,Student_059,"Keras, NLP, Machine Learning, SQL, Communication, Excel, Tableau, MongoDB",0.1,BCA
+60,Student_060,"Statistics, Communication, Excel, TensorFlow, Keras, Docker",1.0,MCA
+61,Student_061,"Excel, pandas, HTML/CSS, Tableau, SQL",3.7,BSc
+62,Student_062,"Flask, FastAPI, scikit-learn, NLP, JavaScript, Docker, MongoDB, Git, Excel, Deep Learning, Azure, Data Visualization, Linux",2.4,B.Tech
+63,Student_063,"Machine Learning, Docker, PostgreSQL, REST API, Teamwork, Java, Git, pandas, Python, TensorFlow, R, Deep Learning, FastAPI, numpy, AWS",3.6,M.Tech
+64,Student_064,"Data Visualization, PostgreSQL, numpy, C++, HTML/CSS, FastAPI, Problem Solving, Flask, R, Keras, TensorFlow, REST API, JavaScript, Statistics",1.3,BCA
+65,Student_065,"C++, AWS, R, Azure",2.3,MBA
+66,Student_066,"Linux, SQL, Problem Solving, Git, Power BI, R, Tableau, numpy, FastAPI",1.0,MCA
+67,Student_067,"C++, Python, scikit-learn, Power BI, Excel, REST API, TensorFlow, R, Teamwork, Flask, Communication, Docker",1.9,MBA
+68,Student_068,"AWS, SQL, Power BI, JavaScript, Excel, scikit-learn, Docker, Communication, Data Visualization, Linux",2.3,M.Tech
+69,Student_069,"Agile, Docker, PostgreSQL, Linux, numpy, Teamwork, Keras, Statistics, Data Visualization, Project Management, Excel",0.5,BCA
+70,Student_070,"Excel, numpy, scikit-learn, TensorFlow, REST API, R, Statistics, Communication",2.4,BSc
+71,Student_071,"JavaScript, Tableau, scikit-learn, Teamwork, Excel, numpy, Power BI, Data Visualization, Python, Docker, C++, NLP",1.1,B.Tech
+72,Student_072,"JavaScript, Statistics, Problem Solving, Tableau, PostgreSQL, Python, Teamwork, Data Visualization, R, MongoDB, Keras",1.4,B.Tech
+73,Student_073,"Communication, Excel, NLP, FastAPI, R, Machine Learning, JavaScript",2.5,B.Tech
+74,Student_074,"Data Visualization, HTML/CSS, Power BI, R, Excel",2.2,M.Tech
+75,Student_075,"Keras, Agile, Flask, AWS, Azure, Teamwork, Data Visualization, PostgreSQL, JavaScript, TensorFlow, Problem Solving, MongoDB",2.5,BSc
+76,Student_076,"Tableau, TensorFlow, Agile, Java, Linux, Machine Learning, Power BI, Excel, AWS, C++, Azure, MongoDB, Python, Project Management",1.8,BSc
+77,Student_077,"JavaScript, Machine Learning, Keras, Teamwork, Docker, Data Visualization, Communication, PostgreSQL, Project Management, Agile",2.7,MCA
+78,Student_078,"scikit-learn, PostgreSQL, Excel, Keras, Git, NLP, Statistics, MongoDB, Azure, Machine Learning, SQL, Power BI, Data Visualization, HTML/CSS, JavaScript",3.7,M.Tech
+79,Student_079,"Azure, HTML/CSS, FastAPI, C++",2.0,M.Tech
+80,Student_080,"Power BI, Machine Learning, PostgreSQL, Git, HTML/CSS, Statistics, Python, Agile, Excel, Linux",3.3,BSc
+81,Student_081,"SQL, C++, Machine Learning, numpy, R, Java, Git, Keras, Statistics, Power BI, JavaScript, TensorFlow",2.5,M.Tech
+82,Student_082,"Communication, Docker, MongoDB, Linux",1.3,B.Tech
+83,Student_083,"Linux, MongoDB, Problem Solving, JavaScript, FastAPI",3.3,BSc
+84,Student_084,"Azure, Power BI, Git",1.0,B.Tech
+85,Student_085,"FastAPI, Project Management, Python, Azure, TensorFlow, SQL, Tableau, Java, numpy, HTML/CSS, Flask, R, Git, Keras, Problem Solving",0.8,BSc
+86,Student_086,"JavaScript, AWS, Problem Solving, Excel, SQL",3.9,BSc
+87,Student_087,"R, pandas, HTML/CSS, Python, C++, TensorFlow, Machine Learning, Excel, MongoDB, Deep Learning, Keras, FastAPI, Git, NLP, Teamwork",3.7,MCA
+88,Student_088,"C++, MongoDB, Communication, Project Management, Excel, Keras, Teamwork, NLP, scikit-learn, Tableau, HTML/CSS",2.0,BCA
+89,Student_089,"C++, MongoDB, Linux, Project Management",1.1,B.Tech
+90,Student_090,"HTML/CSS, Problem Solving, Data Visualization, AWS, C++, R, numpy",1.3,BSc
+91,Student_091,"Azure, Git, scikit-learn, R, JavaScript, Project Management, Excel, PostgreSQL, Flask",1.6,MCA
+92,Student_092,"Communication, Flask, Agile, Data Visualization, R, SQL, NLP, Java, JavaScript, pandas, Deep Learning, Keras, Project Management, PostgreSQL",3.6,B.Tech
+93,Student_093,"Data Visualization, MongoDB, Teamwork, NLP, R, FastAPI, Statistics, pandas, HTML/CSS, Docker, scikit-learn, Git, Machine Learning, PostgreSQL",3.4,BSc
+94,Student_094,"Git, Problem Solving, Machine Learning, NLP, Excel, Teamwork, Linux, Data Visualization, Communication",3.0,M.Tech
+95,Student_095,"Tableau, AWS, pandas, HTML/CSS",3.6,B.Tech
+96,Student_096,"Deep Learning, JavaScript, Docker, REST API, TensorFlow, NLP, Excel, Java",1.6,MBA
+97,Student_097,"numpy, pandas, Teamwork, Power BI, HTML/CSS, PostgreSQL, scikit-learn, Communication, Linux, Excel, R, JavaScript, NLP, FastAPI, Keras",2.6,M.Tech
+98,Student_098,"Python, Azure, JavaScript, pandas, Machine Learning, Keras, numpy",4.0,MCA
+99,Student_099,"PostgreSQL, Java, Azure, HTML/CSS, Tableau, scikit-learn, Teamwork, R, Deep Learning, Excel, Project Management, JavaScript, numpy",2.3,MBA
+100,Student_100,"SQL, FastAPI, C++, Python, JavaScript, PostgreSQL, Linux",3.1,B.Tech

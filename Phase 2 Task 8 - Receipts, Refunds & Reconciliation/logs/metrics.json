@@ -1,0 +1,13 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "false_positive_rate": 0.0,
+  "true_positives": 3469,
+  "true_negatives": 531,
+  "false_positives": 0,
+  "false_negatives": 0,
+  "total_pairs_evaluated": 4000,
+  "pairs_allowed": 531,
+  "pairs_blocked": 3469
+}
