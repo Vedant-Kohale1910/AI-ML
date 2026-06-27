@@ -1,0 +1,1497 @@
+student_id,rank,job_id,title,company,score,status
+204,1.0,101.0,Data Analyst,Crestline Digital,0.7502,ok
+204,2.0,162.0,Business Analyst,Driftwood Analytics,0.7037,ok
+204,3.0,159.0,Business Analyst,Northbridge Data Labs,0.7037,ok
+204,4.0,161.0,Business Analyst,Orbit Cloud Co,0.7037,ok
+204,5.0,104.0,Data Analyst,Bluepeak Systems,0.6516,ok
+267,1.0,178.0,Product Manager,Ferrous Tech,0.745,ok
+267,2.0,175.0,Product Manager,Altrodav Technologies,0.6234,ok
+267,3.0,180.0,Product Manager,Crestline Digital,0.6153,ok
+267,4.0,177.0,Product Manager,Granite Edge Tech,0.6051,ok
+267,5.0,179.0,Product Manager,Quanta Robotics,0.5386,ok
+153,1.0,136.0,Frontend Developer,Bluepeak Systems,0.7952,ok
+153,2.0,139.0,Frontend Developer,Quanta Robotics,0.7952,ok
+153,3.0,134.0,Frontend Developer,Lumen Stack,0.7799,ok
+153,4.0,140.0,Frontend Developer,Harborview Software,0.7799,ok
+153,5.0,143.0,Full Stack Developer,Skyline Softworks,0.733,ok
+10,1.0,136.0,Frontend Developer,Bluepeak Systems,0.8626,ok
+10,2.0,139.0,Frontend Developer,Quanta Robotics,0.8626,ok
+10,3.0,140.0,Frontend Developer,Harborview Software,0.8415,ok
+10,4.0,133.0,Frontend Developer,Driftwood Analytics,0.6807,ok
+10,5.0,138.0,Frontend Developer,Quanta Robotics,0.5518,ok
+234,1.0,122.0,ML Engineer,Harborview Software,0.9052,ok
+234,2.0,123.0,ML Engineer,Ferrous Tech,0.788,ok
+234,3.0,121.0,ML Engineer,Orbit Cloud Co,0.788,ok
+234,4.0,109.0,Data Scientist,Meridian Apps,0.7388,ok
+234,5.0,118.0,ML Engineer,Meridian Apps,0.7335,ok
+227,1.0,152.0,DevOps Engineer,Granite Edge Tech,0.8117,ok
+227,2.0,149.0,DevOps Engineer,Northbridge Data Labs,0.6906,ok
+227,3.0,154.0,DevOps Engineer,Northbridge Data Labs,0.674,ok
+227,4.0,155.0,DevOps Engineer,Granite Edge Tech,0.6685,ok
+227,5.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.5065,ok
+197,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.9094,ok
+197,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.9024,ok
+197,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8819,ok
+197,4.0,150.0,DevOps Engineer,Quanta Robotics,0.8097,ok
+197,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.788,ok
+110,1.0,143.0,Full Stack Developer,Skyline Softworks,0.8477,ok
+110,2.0,142.0,Full Stack Developer,Ferrous Tech,0.8477,ok
+110,3.0,146.0,Full Stack Developer,Skyline Softworks,0.7517,ok
+110,4.0,141.0,Full Stack Developer,Vertex Analytics,0.7517,ok
+110,5.0,137.0,Frontend Developer,Bluepeak Systems,0.671,ok
+6,1.0,120.0,ML Engineer,Meridian Apps,0.7449,ok
+6,2.0,117.0,ML Engineer,Bluepeak Systems,0.7206,ok
+6,3.0,118.0,ML Engineer,Meridian Apps,0.7078,ok
+6,4.0,115.0,Data Scientist,Meridian Apps,0.5347,ok
+6,5.0,109.0,Data Scientist,Meridian Apps,0.4909,ok
+176,1.0,125.0,Backend Developer,Meridian Apps,1.0,ok
+176,2.0,129.0,Backend Developer,Skyline Softworks,0.8412,ok
+176,3.0,131.0,Backend Developer,Granite Edge Tech,0.8123,ok
+176,4.0,132.0,Backend Developer,Granite Edge Tech,0.8062,ok
+176,5.0,130.0,Backend Developer,Westgate Solutions,0.7537,ok
+238,1.0,114.0,Data Scientist,Driftwood Analytics,0.8656,ok
+238,2.0,112.0,Data Scientist,Vertex Analytics,0.8656,ok
+238,3.0,110.0,Data Scientist,Meridian Apps,0.757,ok
+238,4.0,111.0,Data Scientist,Driftwood Analytics,0.7214,ok
+238,5.0,115.0,Data Scientist,Meridian Apps,0.7195,ok
+58,1.0,171.0,QA Engineer,Bluepeak Systems,0.9119,ok
+58,2.0,168.0,QA Engineer,Granite Edge Tech,0.8244,ok
+58,3.0,167.0,QA Engineer,Granite Edge Tech,0.7711,ok
+58,4.0,166.0,QA Engineer,Skyline Softworks,0.7711,ok
+58,5.0,169.0,QA Engineer,Quanta Robotics,0.765,ok
+219,1.0,151.0,DevOps Engineer,Meridian Apps,0.7137,ok
+219,2.0,153.0,DevOps Engineer,Meridian Apps,0.6791,ok
+219,3.0,150.0,DevOps Engineer,Quanta Robotics,0.6708,ok
+219,4.0,155.0,DevOps Engineer,Granite Edge Tech,0.5705,ok
+219,5.0,154.0,DevOps Engineer,Northbridge Data Labs,0.5569,ok
+46,1.0,131.0,Backend Developer,Granite Edge Tech,0.9756,ok
+46,2.0,130.0,Backend Developer,Westgate Solutions,0.9432,ok
+46,3.0,126.0,Backend Developer,Driftwood Analytics,0.9331,ok
+46,4.0,125.0,Backend Developer,Meridian Apps,0.8882,ok
+46,5.0,128.0,Backend Developer,Ferrous Tech,0.878,ok
+183,1.0,101.0,Data Analyst,Crestline Digital,0.9688,ok
+183,2.0,107.0,Data Analyst,Quanta Robotics,0.9362,ok
+183,3.0,102.0,Data Analyst,Vertex Analytics,0.9136,ok
+183,4.0,163.0,Business Analyst,Meridian Apps,0.8693,ok
+183,5.0,106.0,Data Analyst,Meridian Apps,0.8595,ok
+222,1.0,179.0,Product Manager,Quanta Robotics,1.0,ok
+222,2.0,174.0,Product Manager,Orbit Cloud Co,0.9722,ok
+222,3.0,175.0,Product Manager,Altrodav Technologies,0.9075,ok
+222,4.0,158.0,Business Analyst,Bluepeak Systems,0.7203,ok
+222,5.0,178.0,Product Manager,Ferrous Tech,0.7183,ok
+290,1.0,136.0,Frontend Developer,Bluepeak Systems,0.8758,ok
+290,2.0,139.0,Frontend Developer,Quanta Robotics,0.8758,ok
+290,3.0,135.0,Frontend Developer,Skyline Softworks,0.8228,ok
+290,4.0,133.0,Frontend Developer,Driftwood Analytics,0.7753,ok
+290,5.0,137.0,Frontend Developer,Bluepeak Systems,0.7439,ok
+212,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8236,ok
+212,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8149,ok
+212,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7894,ok
+212,4.0,151.0,DevOps Engineer,Meridian Apps,0.7576,ok
+212,5.0,150.0,DevOps Engineer,Quanta Robotics,0.6879,ok
+149,1.0,144.0,Full Stack Developer,Harborview Software,0.8212,ok
+149,2.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.818,ok
+149,3.0,148.0,Full Stack Developer,Lumen Stack,0.7708,ok
+149,4.0,145.0,Full Stack Developer,Harborview Software,0.7612,ok
+149,5.0,143.0,Full Stack Developer,Skyline Softworks,0.584,ok
+166,1.0,154.0,DevOps Engineer,Northbridge Data Labs,0.7725,ok
+166,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.6268,ok
+166,3.0,155.0,DevOps Engineer,Granite Edge Tech,0.57,ok
+166,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.5312,ok
+166,5.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.4504,ok
+79,1.0,173.0,Product Manager,Vertex Analytics,0.7738,ok
+79,2.0,176.0,Product Manager,Ferrous Tech,0.6784,ok
+79,3.0,177.0,Product Manager,Granite Edge Tech,0.6154,ok
+79,4.0,180.0,Product Manager,Crestline Digital,0.6006,ok
+79,5.0,145.0,Full Stack Developer,Harborview Software,0.5703,ok
+114,1.0,151.0,DevOps Engineer,Meridian Apps,0.8202,ok
+114,2.0,150.0,DevOps Engineer,Quanta Robotics,0.7483,ok
+114,3.0,153.0,DevOps Engineer,Meridian Apps,0.6386,ok
+114,4.0,155.0,DevOps Engineer,Granite Edge Tech,0.6342,ok
+114,5.0,154.0,DevOps Engineer,Northbridge Data Labs,0.6222,ok
+250,1.0,135.0,Frontend Developer,Skyline Softworks,0.6234,ok
+250,2.0,136.0,Frontend Developer,Bluepeak Systems,0.6103,ok
+250,3.0,139.0,Frontend Developer,Quanta Robotics,0.6103,ok
+250,4.0,134.0,Frontend Developer,Lumen Stack,0.5546,ok
+250,5.0,140.0,Frontend Developer,Harborview Software,0.5546,ok
+251,1.0,157.0,Business Analyst,Crestline Digital,0.8591,ok
+251,2.0,163.0,Business Analyst,Meridian Apps,0.7744,ok
+251,3.0,162.0,Business Analyst,Driftwood Analytics,0.7652,ok
+251,4.0,159.0,Business Analyst,Northbridge Data Labs,0.7652,ok
+251,5.0,161.0,Business Analyst,Orbit Cloud Co,0.7652,ok
+105,1.0,102.0,Data Analyst,Vertex Analytics,0.6339,ok
+105,2.0,107.0,Data Analyst,Quanta Robotics,0.6182,ok
+105,3.0,101.0,Data Analyst,Crestline Digital,0.597,ok
+105,4.0,103.0,Data Analyst,Orbit Cloud Co,0.5962,ok
+105,5.0,163.0,Business Analyst,Meridian Apps,0.5058,ok
+43,1.0,111.0,Data Scientist,Driftwood Analytics,1.0,ok
+43,2.0,110.0,Data Scientist,Meridian Apps,0.8661,ok
+43,3.0,114.0,Data Scientist,Driftwood Analytics,0.8348,ok
+43,4.0,112.0,Data Scientist,Vertex Analytics,0.8348,ok
+43,5.0,109.0,Data Scientist,Meridian Apps,0.7429,ok
+282,1.0,160.0,Business Analyst,Lumen Stack,0.7635,ok
+282,2.0,157.0,Business Analyst,Crestline Digital,0.7166,ok
+282,3.0,158.0,Business Analyst,Bluepeak Systems,0.7125,ok
+282,4.0,102.0,Data Analyst,Vertex Analytics,0.7018,ok
+282,5.0,163.0,Business Analyst,Meridian Apps,0.5913,ok
+296,1.0,136.0,Frontend Developer,Bluepeak Systems,1.0,ok
+296,2.0,139.0,Frontend Developer,Quanta Robotics,1.0,ok
+296,3.0,133.0,Frontend Developer,Driftwood Analytics,0.881,ok
+296,4.0,138.0,Frontend Developer,Quanta Robotics,0.8082,ok
+296,5.0,140.0,Frontend Developer,Harborview Software,0.7634,ok
+158,1.0,126.0,Backend Developer,Driftwood Analytics,0.6624,ok
+158,2.0,127.0,Backend Developer,Ferrous Tech,0.6447,ok
+158,3.0,131.0,Backend Developer,Granite Edge Tech,0.5475,ok
+158,4.0,130.0,Backend Developer,Westgate Solutions,0.4827,ok
+158,5.0,118.0,ML Engineer,Meridian Apps,0.4657,ok
+239,1.0,125.0,Backend Developer,Meridian Apps,0.8958,ok
+239,2.0,129.0,Backend Developer,Skyline Softworks,0.7577,ok
+239,3.0,131.0,Backend Developer,Granite Edge Tech,0.7274,ok
+239,4.0,132.0,Backend Developer,Granite Edge Tech,0.7273,ok
+239,5.0,130.0,Backend Developer,Westgate Solutions,0.6751,ok
+18,1.0,111.0,Data Scientist,Driftwood Analytics,0.7473,ok
+18,2.0,114.0,Data Scientist,Driftwood Analytics,0.7386,ok
+18,3.0,112.0,Data Scientist,Vertex Analytics,0.7386,ok
+18,4.0,113.0,Data Scientist,Skyline Softworks,0.6741,ok
+18,5.0,110.0,Data Scientist,Meridian Apps,0.6054,ok
+165,1.0,144.0,Full Stack Developer,Harborview Software,0.981,ok
+165,2.0,148.0,Full Stack Developer,Lumen Stack,0.8935,ok
+165,3.0,145.0,Full Stack Developer,Harborview Software,0.8686,ok
+165,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8457,ok
+165,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6681,ok
+34,1.0,157.0,Business Analyst,Crestline Digital,0.9025,ok
+34,2.0,163.0,Business Analyst,Meridian Apps,0.8123,ok
+34,3.0,162.0,Business Analyst,Driftwood Analytics,0.8025,ok
+34,4.0,159.0,Business Analyst,Northbridge Data Labs,0.8025,ok
+34,5.0,161.0,Business Analyst,Orbit Cloud Co,0.8025,ok
+25,1.0,176.0,Product Manager,Ferrous Tech,0.8818,ok
+25,2.0,173.0,Product Manager,Vertex Analytics,0.8279,ok
+25,3.0,177.0,Product Manager,Granite Edge Tech,0.8227,ok
+25,4.0,180.0,Product Manager,Crestline Digital,0.809,ok
+25,5.0,158.0,Business Analyst,Bluepeak Systems,0.6672,ok
+216,1.0,101.0,Data Analyst,Crestline Digital,0.8579,ok
+216,2.0,107.0,Data Analyst,Quanta Robotics,0.83,ok
+216,3.0,102.0,Data Analyst,Vertex Analytics,0.8107,ok
+216,4.0,163.0,Business Analyst,Meridian Apps,0.7728,ok
+216,5.0,106.0,Data Analyst,Meridian Apps,0.7644,ok
+120,1.0,145.0,Full Stack Developer,Harborview Software,0.8646,ok
+120,2.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8418,ok
+120,3.0,144.0,Full Stack Developer,Harborview Software,0.8055,ok
+120,4.0,148.0,Full Stack Developer,Lumen Stack,0.6755,ok
+120,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6653,ok
+8,1.0,115.0,Data Scientist,Meridian Apps,0.9086,ok
+8,2.0,114.0,Data Scientist,Driftwood Analytics,0.7796,ok
+8,3.0,112.0,Data Scientist,Vertex Analytics,0.7796,ok
+8,4.0,116.0,Data Scientist,Crestline Digital,0.6805,ok
+8,5.0,110.0,Data Scientist,Meridian Apps,0.6553,ok
+91,1.0,144.0,Full Stack Developer,Harborview Software,0.981,ok
+91,2.0,148.0,Full Stack Developer,Lumen Stack,0.8935,ok
+91,3.0,145.0,Full Stack Developer,Harborview Software,0.8686,ok
+91,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8457,ok
+91,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6681,ok
+47,1.0,145.0,Full Stack Developer,Harborview Software,0.8454,ok
+47,2.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8233,ok
+47,3.0,144.0,Full Stack Developer,Harborview Software,0.7869,ok
+47,4.0,148.0,Full Stack Developer,Lumen Stack,0.6598,ok
+47,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6519,ok
+74,1.0,110.0,Data Scientist,Meridian Apps,0.9149,ok
+74,2.0,114.0,Data Scientist,Driftwood Analytics,0.892,ok
+74,3.0,112.0,Data Scientist,Vertex Analytics,0.892,ok
+74,4.0,111.0,Data Scientist,Driftwood Analytics,0.8824,ok
+74,5.0,115.0,Data Scientist,Meridian Apps,0.7401,ok
+94,1.0,152.0,DevOps Engineer,Granite Edge Tech,0.8293,ok
+94,2.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7027,ok
+94,3.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.6953,ok
+94,4.0,154.0,DevOps Engineer,Northbridge Data Labs,0.6868,ok
+94,5.0,127.0,Backend Developer,Ferrous Tech,0.6185,ok
+77,1.0,136.0,Frontend Developer,Bluepeak Systems,0.7385,ok
+77,2.0,139.0,Frontend Developer,Quanta Robotics,0.7385,ok
+77,3.0,138.0,Frontend Developer,Quanta Robotics,0.6775,ok
+77,4.0,133.0,Frontend Developer,Driftwood Analytics,0.561,ok
+77,5.0,135.0,Frontend Developer,Skyline Softworks,0.5489,ok
+287,1.0,111.0,Data Scientist,Driftwood Analytics,0.6859,ok
+287,2.0,119.0,ML Engineer,Harborview Software,0.6556,ok
+287,3.0,110.0,Data Scientist,Meridian Apps,0.5721,ok
+287,4.0,165.0,QA Engineer,Meridian Apps,0.5696,ok
+287,5.0,167.0,QA Engineer,Granite Edge Tech,0.5479,ok
+61,1.0,109.0,Data Scientist,Meridian Apps,0.8616,ok
+61,2.0,119.0,ML Engineer,Harborview Software,0.8415,ok
+61,3.0,111.0,Data Scientist,Driftwood Analytics,0.8165,ok
+61,4.0,122.0,ML Engineer,Harborview Software,0.8064,ok
+61,5.0,116.0,Data Scientist,Crestline Digital,0.6923,ok
+78,1.0,133.0,Frontend Developer,Driftwood Analytics,0.8969,ok
+78,2.0,137.0,Frontend Developer,Bluepeak Systems,0.8589,ok
+78,3.0,134.0,Frontend Developer,Lumen Stack,0.7766,ok
+78,4.0,140.0,Frontend Developer,Harborview Software,0.7766,ok
+78,5.0,136.0,Frontend Developer,Bluepeak Systems,0.7532,ok
+64,1.0,134.0,Frontend Developer,Lumen Stack,0.7236,ok
+64,2.0,133.0,Frontend Developer,Driftwood Analytics,0.6321,ok
+64,3.0,137.0,Frontend Developer,Bluepeak Systems,0.5889,ok
+64,4.0,136.0,Frontend Developer,Bluepeak Systems,0.5304,ok
+64,5.0,139.0,Frontend Developer,Quanta Robotics,0.5304,ok
+235,1.0,117.0,ML Engineer,Bluepeak Systems,0.6901,ok
+235,2.0,118.0,ML Engineer,Meridian Apps,0.658,ok
+235,3.0,123.0,ML Engineer,Ferrous Tech,0.5299,ok
+235,4.0,121.0,ML Engineer,Orbit Cloud Co,0.5299,ok
+235,5.0,120.0,ML Engineer,Meridian Apps,0.475,ok
+230,1.0,178.0,Product Manager,Ferrous Tech,0.9062,ok
+230,2.0,179.0,Product Manager,Quanta Robotics,0.9028,ok
+230,3.0,174.0,Product Manager,Orbit Cloud Co,0.8784,ok
+230,4.0,176.0,Product Manager,Ferrous Tech,0.8671,ok
+230,5.0,175.0,Product Manager,Altrodav Technologies,0.8215,ok
+112,1.0,154.0,DevOps Engineer,Northbridge Data Labs,0.9309,ok
+112,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.7742,ok
+112,3.0,155.0,DevOps Engineer,Granite Edge Tech,0.7012,ok
+112,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.6582,ok
+112,5.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.5903,ok
+232,1.0,101.0,Data Analyst,Crestline Digital,0.9688,ok
+232,2.0,107.0,Data Analyst,Quanta Robotics,0.9362,ok
+232,3.0,102.0,Data Analyst,Vertex Analytics,0.9136,ok
+232,4.0,163.0,Business Analyst,Meridian Apps,0.8693,ok
+232,5.0,106.0,Data Analyst,Meridian Apps,0.8595,ok
+181,1.0,110.0,Data Scientist,Meridian Apps,0.905,ok
+181,2.0,114.0,Data Scientist,Driftwood Analytics,0.8823,ok
+181,3.0,112.0,Data Scientist,Vertex Analytics,0.8823,ok
+181,4.0,111.0,Data Scientist,Driftwood Analytics,0.8729,ok
+181,5.0,115.0,Data Scientist,Meridian Apps,0.7326,ok
+145,1.0,113.0,Data Scientist,Skyline Softworks,0.915,ok
+145,2.0,110.0,Data Scientist,Meridian Apps,0.6999,ok
+145,3.0,114.0,Data Scientist,Driftwood Analytics,0.6546,ok
+145,4.0,112.0,Data Scientist,Vertex Analytics,0.6546,ok
+145,5.0,111.0,Data Scientist,Driftwood Analytics,0.6355,ok
+240,1.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8976,ok
+240,2.0,151.0,DevOps Engineer,Meridian Apps,0.8534,ok
+240,3.0,152.0,DevOps Engineer,Granite Edge Tech,0.7474,ok
+240,4.0,153.0,DevOps Engineer,Meridian Apps,0.6656,ok
+240,5.0,155.0,DevOps Engineer,Granite Edge Tech,0.6331,ok
+76,1.0,101.0,Data Analyst,Crestline Digital,0.7821,ok
+76,2.0,163.0,Business Analyst,Meridian Apps,0.7237,ok
+76,3.0,162.0,Business Analyst,Driftwood Analytics,0.7122,ok
+76,4.0,159.0,Business Analyst,Northbridge Data Labs,0.7122,ok
+76,5.0,161.0,Business Analyst,Orbit Cloud Co,0.7122,ok
+298,1.0,101.0,Data Analyst,Crestline Digital,0.8937,ok
+298,2.0,163.0,Business Analyst,Meridian Apps,0.8265,ok
+298,3.0,162.0,Business Analyst,Driftwood Analytics,0.813,ok
+298,4.0,159.0,Business Analyst,Northbridge Data Labs,0.813,ok
+298,5.0,161.0,Business Analyst,Orbit Cloud Co,0.813,ok
+279,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.9252,ok
+279,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.918,ok
+279,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.897,ok
+279,4.0,150.0,DevOps Engineer,Quanta Robotics,0.8232,ok
+279,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.8011,ok
+98,1.0,150.0,DevOps Engineer,Quanta Robotics,0.7441,ok
+98,2.0,155.0,DevOps Engineer,Granite Edge Tech,0.6306,ok
+98,3.0,158.0,Business Analyst,Bluepeak Systems,0.5485,ok
+98,4.0,160.0,Business Analyst,Lumen Stack,0.5109,ok
+98,5.0,151.0,DevOps Engineer,Meridian Apps,0.4941,ok
+93,1.0,144.0,Full Stack Developer,Harborview Software,0.7765,ok
+93,2.0,148.0,Full Stack Developer,Lumen Stack,0.6553,ok
+93,3.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.6486,ok
+93,4.0,145.0,Full Stack Developer,Harborview Software,0.6444,ok
+93,5.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.602,ok
+193,1.0,168.0,QA Engineer,Granite Edge Tech,0.9405,ok
+193,2.0,167.0,QA Engineer,Granite Edge Tech,0.8749,ok
+193,3.0,166.0,QA Engineer,Skyline Softworks,0.8749,ok
+193,4.0,169.0,QA Engineer,Quanta Robotics,0.8681,ok
+193,5.0,172.0,QA Engineer,Ferrous Tech,0.779,ok
+26,1.0,169.0,QA Engineer,Quanta Robotics,0.8347,ok
+26,2.0,167.0,QA Engineer,Granite Edge Tech,0.8245,ok
+26,3.0,166.0,QA Engineer,Skyline Softworks,0.8245,ok
+26,4.0,168.0,QA Engineer,Granite Edge Tech,0.7774,ok
+26,5.0,165.0,QA Engineer,Meridian Apps,0.7725,ok
+233,1.0,101.0,Data Analyst,Crestline Digital,0.9688,ok
+233,2.0,107.0,Data Analyst,Quanta Robotics,0.9362,ok
+233,3.0,102.0,Data Analyst,Vertex Analytics,0.9136,ok
+233,4.0,163.0,Business Analyst,Meridian Apps,0.8693,ok
+233,5.0,106.0,Data Analyst,Meridian Apps,0.8595,ok
+60,1.0,101.0,Data Analyst,Crestline Digital,0.9115,ok
+60,2.0,157.0,Business Analyst,Crestline Digital,0.8119,ok
+60,3.0,106.0,Data Analyst,Meridian Apps,0.8104,ok
+60,4.0,164.0,Business Analyst,Harborview Software,0.7847,ok
+60,5.0,107.0,Data Analyst,Quanta Robotics,0.7798,ok
+7,1.0,179.0,Product Manager,Quanta Robotics,1.0,ok
+7,2.0,174.0,Product Manager,Orbit Cloud Co,0.9722,ok
+7,3.0,175.0,Product Manager,Altrodav Technologies,0.9075,ok
+7,4.0,158.0,Business Analyst,Bluepeak Systems,0.7203,ok
+7,5.0,178.0,Product Manager,Ferrous Tech,0.7183,ok
+186,1.0,108.0,Data Analyst,Ferrous Tech,0.8114,ok
+186,2.0,107.0,Data Analyst,Quanta Robotics,0.6759,ok
+186,3.0,106.0,Data Analyst,Meridian Apps,0.6529,ok
+186,4.0,105.0,Data Analyst,Northbridge Data Labs,0.6101,ok
+186,5.0,104.0,Data Analyst,Bluepeak Systems,0.5918,ok
+174,1.0,134.0,Frontend Developer,Lumen Stack,0.7277,ok
+174,2.0,133.0,Frontend Developer,Driftwood Analytics,0.657,ok
+174,3.0,137.0,Frontend Developer,Bluepeak Systems,0.5944,ok
+174,4.0,136.0,Frontend Developer,Bluepeak Systems,0.5542,ok
+174,5.0,139.0,Frontend Developer,Quanta Robotics,0.5542,ok
+31,1.0,102.0,Data Analyst,Vertex Analytics,1.0,ok
+31,2.0,101.0,Data Analyst,Crestline Digital,0.8312,ok
+31,3.0,103.0,Data Analyst,Orbit Cloud Co,0.813,ok
+31,4.0,107.0,Data Analyst,Quanta Robotics,0.7862,ok
+31,5.0,163.0,Business Analyst,Meridian Apps,0.6814,ok
+23,1.0,102.0,Data Analyst,Vertex Analytics,1.0,ok
+23,2.0,101.0,Data Analyst,Crestline Digital,0.8312,ok
+23,3.0,103.0,Data Analyst,Orbit Cloud Co,0.813,ok
+23,4.0,107.0,Data Analyst,Quanta Robotics,0.7862,ok
+23,5.0,163.0,Business Analyst,Meridian Apps,0.6814,ok
+257,1.0,169.0,QA Engineer,Quanta Robotics,0.9746,ok
+257,2.0,167.0,QA Engineer,Granite Edge Tech,0.9673,ok
+257,3.0,166.0,QA Engineer,Skyline Softworks,0.9673,ok
+257,4.0,168.0,QA Engineer,Granite Edge Tech,0.9408,ok
+257,5.0,165.0,QA Engineer,Meridian Apps,0.9302,ok
+57,1.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8527,ok
+57,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.7109,ok
+57,3.0,155.0,DevOps Engineer,Granite Edge Tech,0.6423,ok
+57,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.6037,ok
+57,5.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.544,ok
+187,1.0,110.0,Data Scientist,Meridian Apps,0.8908,ok
+187,2.0,114.0,Data Scientist,Driftwood Analytics,0.8686,ok
+187,3.0,112.0,Data Scientist,Vertex Analytics,0.8686,ok
+187,4.0,111.0,Data Scientist,Driftwood Analytics,0.8594,ok
+187,5.0,115.0,Data Scientist,Meridian Apps,0.7218,ok
+109,1.0,123.0,ML Engineer,Ferrous Tech,0.898,ok
+109,2.0,121.0,ML Engineer,Orbit Cloud Co,0.898,ok
+109,3.0,119.0,ML Engineer,Harborview Software,0.8201,ok
+109,4.0,124.0,ML Engineer,Westgate Solutions,0.8042,ok
+109,5.0,122.0,ML Engineer,Harborview Software,0.732,ok
+127,1.0,106.0,Data Analyst,Meridian Apps,0.9585,ok
+127,2.0,105.0,Data Analyst,Northbridge Data Labs,0.9181,ok
+127,3.0,108.0,Data Analyst,Ferrous Tech,0.9144,ok
+127,4.0,104.0,Data Analyst,Bluepeak Systems,0.9011,ok
+127,5.0,101.0,Data Analyst,Crestline Digital,0.8107,ok
+231,1.0,162.0,Business Analyst,Driftwood Analytics,0.6869,ok
+231,2.0,159.0,Business Analyst,Northbridge Data Labs,0.6869,ok
+231,3.0,161.0,Business Analyst,Orbit Cloud Co,0.6869,ok
+231,4.0,102.0,Data Analyst,Vertex Analytics,0.6156,ok
+231,5.0,157.0,Business Analyst,Crestline Digital,0.5804,ok
+194,1.0,154.0,DevOps Engineer,Northbridge Data Labs,0.7586,ok
+194,2.0,155.0,DevOps Engineer,Granite Edge Tech,0.7523,ok
+194,3.0,150.0,DevOps Engineer,Quanta Robotics,0.5278,ok
+194,4.0,152.0,DevOps Engineer,Granite Edge Tech,0.5049,ok
+194,5.0,149.0,DevOps Engineer,Northbridge Data Labs,0.4291,ok
+130,1.0,111.0,Data Scientist,Driftwood Analytics,0.8572,ok
+130,2.0,119.0,ML Engineer,Harborview Software,0.8041,ok
+130,3.0,110.0,Data Scientist,Meridian Apps,0.7195,ok
+130,4.0,114.0,Data Scientist,Driftwood Analytics,0.6766,ok
+130,5.0,112.0,Data Scientist,Vertex Analytics,0.6766,ok
+283,1.0,104.0,Data Analyst,Bluepeak Systems,0.6805,ok
+283,2.0,105.0,Data Analyst,Northbridge Data Labs,0.6679,ok
+283,3.0,162.0,Business Analyst,Driftwood Analytics,0.641,ok
+283,4.0,159.0,Business Analyst,Northbridge Data Labs,0.641,ok
+283,5.0,161.0,Business Analyst,Orbit Cloud Co,0.641,ok
+83,1.0,144.0,Full Stack Developer,Harborview Software,0.9542,ok
+83,2.0,148.0,Full Stack Developer,Lumen Stack,0.8698,ok
+83,3.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8236,ok
+83,4.0,145.0,Full Stack Developer,Harborview Software,0.7522,ok
+83,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6521,ok
+85,1.0,110.0,Data Scientist,Meridian Apps,0.7017,ok
+85,2.0,116.0,Data Scientist,Crestline Digital,0.6013,ok
+85,3.0,114.0,Data Scientist,Driftwood Analytics,0.5851,ok
+85,4.0,112.0,Data Scientist,Vertex Analytics,0.5851,ok
+85,5.0,111.0,Data Scientist,Driftwood Analytics,0.573,ok
+67,1.0,120.0,ML Engineer,Meridian Apps,0.924,ok
+67,2.0,117.0,ML Engineer,Bluepeak Systems,0.903,ok
+67,3.0,118.0,ML Engineer,Meridian Apps,0.8587,ok
+67,4.0,109.0,Data Scientist,Meridian Apps,0.7284,ok
+67,5.0,124.0,ML Engineer,Westgate Solutions,0.6992,ok
+289,1.0,144.0,Full Stack Developer,Harborview Software,0.981,ok
+289,2.0,148.0,Full Stack Developer,Lumen Stack,0.8935,ok
+289,3.0,145.0,Full Stack Developer,Harborview Software,0.8686,ok
+289,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8457,ok
+289,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6681,ok
+164,1.0,131.0,Backend Developer,Granite Edge Tech,0.9146,ok
+164,2.0,130.0,Backend Developer,Westgate Solutions,0.8847,ok
+164,3.0,127.0,Backend Developer,Ferrous Tech,0.8175,ok
+164,4.0,126.0,Backend Developer,Driftwood Analytics,0.7871,ok
+164,5.0,125.0,Backend Developer,Meridian Apps,0.7427,ok
+155,1.0,127.0,Backend Developer,Ferrous Tech,0.8702,ok
+155,2.0,131.0,Backend Developer,Granite Edge Tech,0.7391,ok
+155,3.0,132.0,Backend Developer,Granite Edge Tech,0.7215,ok
+155,4.0,130.0,Backend Developer,Westgate Solutions,0.6881,ok
+155,5.0,126.0,Backend Developer,Driftwood Analytics,0.6852,ok
+20,1.0,179.0,Product Manager,Quanta Robotics,0.8946,ok
+20,2.0,174.0,Product Manager,Orbit Cloud Co,0.8705,ok
+20,3.0,175.0,Product Manager,Altrodav Technologies,0.8143,ok
+20,4.0,158.0,Business Analyst,Bluepeak Systems,0.6517,ok
+20,5.0,178.0,Product Manager,Ferrous Tech,0.6434,ok
+125,1.0,169.0,QA Engineer,Quanta Robotics,0.8872,ok
+125,2.0,167.0,QA Engineer,Granite Edge Tech,0.8807,ok
+125,3.0,166.0,QA Engineer,Skyline Softworks,0.8807,ok
+125,4.0,168.0,QA Engineer,Granite Edge Tech,0.8571,ok
+125,5.0,165.0,QA Engineer,Meridian Apps,0.8477,ok
+80,1.0,118.0,ML Engineer,Meridian Apps,0.8847,ok
+80,2.0,120.0,ML Engineer,Meridian Apps,0.7829,ok
+80,3.0,117.0,ML Engineer,Bluepeak Systems,0.7659,ok
+80,4.0,122.0,ML Engineer,Harborview Software,0.7568,ok
+80,5.0,123.0,ML Engineer,Ferrous Tech,0.6643,ok
+115,1.0,169.0,QA Engineer,Quanta Robotics,0.8347,ok
+115,2.0,167.0,QA Engineer,Granite Edge Tech,0.8245,ok
+115,3.0,166.0,QA Engineer,Skyline Softworks,0.8245,ok
+115,4.0,168.0,QA Engineer,Granite Edge Tech,0.7774,ok
+115,5.0,165.0,QA Engineer,Meridian Apps,0.7725,ok
+119,1.0,134.0,Frontend Developer,Lumen Stack,0.6582,ok
+119,2.0,133.0,Frontend Developer,Driftwood Analytics,0.5919,ok
+119,3.0,137.0,Frontend Developer,Bluepeak Systems,0.5366,ok
+119,4.0,136.0,Frontend Developer,Bluepeak Systems,0.4987,ok
+119,5.0,139.0,Frontend Developer,Quanta Robotics,0.4987,ok
+73,1.0,163.0,Business Analyst,Meridian Apps,0.8434,ok
+73,2.0,162.0,Business Analyst,Driftwood Analytics,0.8331,ok
+73,3.0,159.0,Business Analyst,Northbridge Data Labs,0.8331,ok
+73,4.0,161.0,Business Analyst,Orbit Cloud Co,0.8331,ok
+73,5.0,105.0,Data Analyst,Northbridge Data Labs,0.8002,ok
+16,1.0,137.0,Frontend Developer,Bluepeak Systems,0.9007,ok
+16,2.0,143.0,Full Stack Developer,Skyline Softworks,0.7637,ok
+16,3.0,142.0,Full Stack Developer,Ferrous Tech,0.7637,ok
+16,4.0,135.0,Frontend Developer,Skyline Softworks,0.6922,ok
+16,5.0,144.0,Full Stack Developer,Harborview Software,0.6563,ok
+11,1.0,127.0,Backend Developer,Ferrous Tech,0.9679,ok
+11,2.0,131.0,Backend Developer,Granite Edge Tech,0.8235,ok
+11,3.0,132.0,Backend Developer,Granite Edge Tech,0.7975,ok
+11,4.0,130.0,Backend Developer,Westgate Solutions,0.7665,ok
+11,5.0,126.0,Backend Developer,Driftwood Analytics,0.7617,ok
+195,1.0,109.0,Data Scientist,Meridian Apps,0.7622,ok
+195,2.0,108.0,Data Analyst,Ferrous Tech,0.5723,ok
+195,3.0,116.0,Data Scientist,Crestline Digital,0.5682,ok
+195,4.0,115.0,Data Scientist,Meridian Apps,0.566,ok
+195,5.0,110.0,Data Scientist,Meridian Apps,0.5613,ok
+102,1.0,134.0,Frontend Developer,Lumen Stack,1.0,ok
+102,2.0,140.0,Frontend Developer,Harborview Software,0.6549,ok
+102,3.0,141.0,Full Stack Developer,Vertex Analytics,0.6411,ok
+102,4.0,143.0,Full Stack Developer,Skyline Softworks,0.5658,ok
+102,5.0,142.0,Full Stack Developer,Ferrous Tech,0.5658,ok
+69,1.0,118.0,ML Engineer,Meridian Apps,0.9759,ok
+69,2.0,120.0,ML Engineer,Meridian Apps,0.8605,ok
+69,3.0,117.0,ML Engineer,Bluepeak Systems,0.8413,ok
+69,4.0,122.0,ML Engineer,Harborview Software,0.831,ok
+69,5.0,123.0,ML Engineer,Ferrous Tech,0.7261,ok
+225,1.0,117.0,ML Engineer,Bluepeak Systems,0.7668,ok
+225,2.0,118.0,ML Engineer,Meridian Apps,0.5325,ok
+225,3.0,120.0,ML Engineer,Meridian Apps,0.5283,ok
+225,4.0,132.0,Backend Developer,Granite Edge Tech,0.5113,ok
+225,5.0,124.0,ML Engineer,Westgate Solutions,0.4784,ok
+38,1.0,136.0,Frontend Developer,Bluepeak Systems,0.7881,ok
+38,2.0,139.0,Frontend Developer,Quanta Robotics,0.7881,ok
+38,3.0,138.0,Frontend Developer,Quanta Robotics,0.7771,ok
+38,4.0,134.0,Frontend Developer,Lumen Stack,0.7346,ok
+38,5.0,135.0,Frontend Developer,Skyline Softworks,0.7074,ok
+17,1.0,173.0,Product Manager,Vertex Analytics,0.9577,ok
+17,2.0,176.0,Product Manager,Ferrous Tech,0.8478,ok
+17,3.0,177.0,Product Manager,Granite Edge Tech,0.6463,ok
+17,4.0,180.0,Product Manager,Crestline Digital,0.6252,ok
+17,5.0,178.0,Product Manager,Ferrous Tech,0.5713,ok
+180,1.0,152.0,DevOps Engineer,Granite Edge Tech,1.0,ok
+180,2.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8499,ok
+180,3.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8298,ok
+180,4.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.8297,ok
+180,5.0,153.0,DevOps Engineer,Meridian Apps,0.5792,ok
+148,1.0,169.0,QA Engineer,Quanta Robotics,0.9746,ok
+148,2.0,167.0,QA Engineer,Granite Edge Tech,0.9673,ok
+148,3.0,166.0,QA Engineer,Skyline Softworks,0.9673,ok
+148,4.0,168.0,QA Engineer,Granite Edge Tech,0.9408,ok
+148,5.0,165.0,QA Engineer,Meridian Apps,0.9302,ok
+275,1.0,134.0,Frontend Developer,Lumen Stack,0.8619,ok
+275,2.0,140.0,Frontend Developer,Harborview Software,0.5649,ok
+275,3.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.5579,ok
+275,4.0,141.0,Full Stack Developer,Vertex Analytics,0.5534,ok
+275,5.0,151.0,DevOps Engineer,Meridian Apps,0.516,ok
+68,1.0,125.0,Backend Developer,Meridian Apps,0.6759,ok
+68,2.0,126.0,Backend Developer,Driftwood Analytics,0.6419,ok
+68,3.0,170.0,QA Engineer,Lumen Stack,0.564,ok
+68,4.0,130.0,Backend Developer,Westgate Solutions,0.5534,ok
+68,5.0,132.0,Backend Developer,Granite Edge Tech,0.5195,ok
+229,1.0,157.0,Business Analyst,Crestline Digital,0.8862,ok
+229,2.0,162.0,Business Analyst,Driftwood Analytics,0.7884,ok
+229,3.0,159.0,Business Analyst,Northbridge Data Labs,0.7884,ok
+229,4.0,161.0,Business Analyst,Orbit Cloud Co,0.7884,ok
+229,5.0,158.0,Business Analyst,Bluepeak Systems,0.6918,ok
+70,1.0,144.0,Full Stack Developer,Harborview Software,0.981,ok
+70,2.0,148.0,Full Stack Developer,Lumen Stack,0.8935,ok
+70,3.0,145.0,Full Stack Developer,Harborview Software,0.8686,ok
+70,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8457,ok
+70,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6681,ok
+32,1.0,102.0,Data Analyst,Vertex Analytics,0.8262,ok
+32,2.0,106.0,Data Analyst,Meridian Apps,0.771,ok
+32,3.0,105.0,Data Analyst,Northbridge Data Labs,0.7088,ok
+32,4.0,108.0,Data Analyst,Ferrous Tech,0.7029,ok
+32,5.0,116.0,Data Scientist,Crestline Digital,0.6976,ok
+184,1.0,169.0,QA Engineer,Quanta Robotics,0.8632,ok
+184,2.0,168.0,QA Engineer,Granite Edge Tech,0.8039,ok
+184,3.0,167.0,QA Engineer,Granite Edge Tech,0.7513,ok
+184,4.0,166.0,QA Engineer,Skyline Softworks,0.7513,ok
+184,5.0,172.0,QA Engineer,Ferrous Tech,0.7468,ok
+266,1.0,101.0,Data Analyst,Crestline Digital,1.0,ok
+266,2.0,106.0,Data Analyst,Meridian Apps,0.8863,ok
+266,3.0,107.0,Data Analyst,Quanta Robotics,0.8569,ok
+266,4.0,102.0,Data Analyst,Vertex Analytics,0.8312,ok
+266,5.0,163.0,Business Analyst,Meridian Apps,0.7704,ok
+226,1.0,110.0,Data Scientist,Meridian Apps,0.8146,ok
+226,2.0,114.0,Data Scientist,Driftwood Analytics,0.7948,ok
+226,3.0,112.0,Data Scientist,Vertex Analytics,0.7948,ok
+226,4.0,111.0,Data Scientist,Driftwood Analytics,0.7866,ok
+226,5.0,115.0,Data Scientist,Meridian Apps,0.6643,ok
+141,1.0,114.0,Data Scientist,Driftwood Analytics,0.9648,ok
+141,2.0,112.0,Data Scientist,Vertex Analytics,0.9648,ok
+141,3.0,110.0,Data Scientist,Meridian Apps,0.846,ok
+141,4.0,111.0,Data Scientist,Driftwood Analytics,0.8051,ok
+141,5.0,115.0,Data Scientist,Meridian Apps,0.797,ok
+19,1.0,115.0,Data Scientist,Meridian Apps,0.8882,ok
+19,2.0,116.0,Data Scientist,Crestline Digital,0.8769,ok
+19,3.0,110.0,Data Scientist,Meridian Apps,0.8,ok
+19,4.0,109.0,Data Scientist,Meridian Apps,0.7901,ok
+19,5.0,119.0,ML Engineer,Harborview Software,0.7722,ok
+182,1.0,157.0,Business Analyst,Crestline Digital,0.9333,ok
+182,2.0,163.0,Business Analyst,Meridian Apps,0.839,ok
+182,3.0,162.0,Business Analyst,Driftwood Analytics,0.8288,ok
+182,4.0,159.0,Business Analyst,Northbridge Data Labs,0.8288,ok
+182,5.0,161.0,Business Analyst,Orbit Cloud Co,0.8288,ok
+97,1.0,180.0,Product Manager,Crestline Digital,0.771,ok
+97,2.0,178.0,Product Manager,Ferrous Tech,0.7615,ok
+97,3.0,174.0,Product Manager,Orbit Cloud Co,0.7212,ok
+97,4.0,176.0,Product Manager,Ferrous Tech,0.7047,ok
+97,5.0,179.0,Product Manager,Quanta Robotics,0.6713,ok
+133,1.0,111.0,Data Scientist,Driftwood Analytics,0.8256,ok
+133,2.0,114.0,Data Scientist,Driftwood Analytics,0.8164,ok
+133,3.0,112.0,Data Scientist,Vertex Analytics,0.8164,ok
+133,4.0,110.0,Data Scientist,Meridian Apps,0.6994,ok
+133,5.0,115.0,Data Scientist,Meridian Apps,0.5792,ok
+263,1.0,118.0,ML Engineer,Meridian Apps,0.7829,ok
+263,2.0,120.0,ML Engineer,Meridian Apps,0.6524,ok
+263,3.0,117.0,ML Engineer,Bluepeak Systems,0.6319,ok
+263,4.0,122.0,ML Engineer,Harborview Software,0.6207,ok
+263,5.0,115.0,Data Scientist,Meridian Apps,0.5051,ok
+87,1.0,117.0,ML Engineer,Bluepeak Systems,0.7821,ok
+87,2.0,118.0,ML Engineer,Meridian Apps,0.7496,ok
+87,3.0,123.0,ML Engineer,Ferrous Tech,0.5975,ok
+87,4.0,121.0,ML Engineer,Orbit Cloud Co,0.5975,ok
+87,5.0,120.0,ML Engineer,Meridian Apps,0.5389,ok
+249,1.0,107.0,Data Analyst,Quanta Robotics,1.0,ok
+249,2.0,163.0,Business Analyst,Meridian Apps,0.9274,ok
+249,3.0,108.0,Data Analyst,Ferrous Tech,0.875,ok
+249,4.0,101.0,Data Analyst,Crestline Digital,0.8569,ok
+249,5.0,103.0,Data Analyst,Orbit Cloud Co,0.7942,ok
+246,1.0,170.0,QA Engineer,Lumen Stack,0.86,ok
+246,2.0,171.0,QA Engineer,Bluepeak Systems,0.7475,ok
+246,3.0,169.0,QA Engineer,Quanta Robotics,0.646,ok
+246,4.0,167.0,QA Engineer,Granite Edge Tech,0.6306,ok
+246,5.0,166.0,QA Engineer,Skyline Softworks,0.6306,ok
+117,1.0,111.0,Data Scientist,Driftwood Analytics,0.7115,ok
+117,2.0,113.0,Data Scientist,Skyline Softworks,0.7069,ok
+117,3.0,110.0,Data Scientist,Meridian Apps,0.5667,ok
+117,4.0,114.0,Data Scientist,Driftwood Analytics,0.5088,ok
+117,5.0,112.0,Data Scientist,Vertex Analytics,0.5088,ok
+147,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8109,ok
+147,2.0,150.0,DevOps Engineer,Quanta Robotics,0.6776,ok
+147,3.0,154.0,DevOps Engineer,Northbridge Data Labs,0.5968,ok
+147,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.5668,ok
+147,5.0,119.0,ML Engineer,Harborview Software,0.4831,ok
+293,1.0,134.0,Frontend Developer,Lumen Stack,0.8415,ok
+293,2.0,136.0,Frontend Developer,Bluepeak Systems,0.6654,ok
+293,3.0,139.0,Frontend Developer,Quanta Robotics,0.6654,ok
+293,4.0,138.0,Frontend Developer,Quanta Robotics,0.5518,ok
+293,5.0,140.0,Frontend Developer,Harborview Software,0.5516,ok
+198,1.0,131.0,Backend Developer,Granite Edge Tech,1.0,ok
+198,2.0,130.0,Backend Developer,Westgate Solutions,0.9666,ok
+198,3.0,127.0,Backend Developer,Ferrous Tech,0.8913,ok
+198,4.0,126.0,Backend Developer,Driftwood Analytics,0.8621,ok
+198,5.0,125.0,Backend Developer,Meridian Apps,0.8123,ok
+207,1.0,148.0,Full Stack Developer,Lumen Stack,0.6901,ok
+207,2.0,103.0,Data Analyst,Orbit Cloud Co,0.624,ok
+207,3.0,107.0,Data Analyst,Quanta Robotics,0.6126,ok
+207,4.0,144.0,Full Stack Developer,Harborview Software,0.5745,ok
+207,5.0,145.0,Full Stack Developer,Harborview Software,0.5702,ok
+56,1.0,125.0,Backend Developer,Meridian Apps,1.0,ok
+56,2.0,129.0,Backend Developer,Skyline Softworks,0.8412,ok
+56,3.0,131.0,Backend Developer,Granite Edge Tech,0.8123,ok
+56,4.0,132.0,Backend Developer,Granite Edge Tech,0.8062,ok
+56,5.0,130.0,Backend Developer,Westgate Solutions,0.7537,ok
+173,1.0,178.0,Product Manager,Ferrous Tech,0.9062,ok
+173,2.0,179.0,Product Manager,Quanta Robotics,0.9028,ok
+173,3.0,174.0,Product Manager,Orbit Cloud Co,0.8784,ok
+173,4.0,176.0,Product Manager,Ferrous Tech,0.8671,ok
+173,5.0,175.0,Product Manager,Altrodav Technologies,0.8215,ok
+185,1.0,178.0,Product Manager,Ferrous Tech,0.7478,ok
+185,2.0,179.0,Product Manager,Quanta Robotics,0.7451,ok
+185,3.0,174.0,Product Manager,Orbit Cloud Co,0.7262,ok
+185,4.0,176.0,Product Manager,Ferrous Tech,0.7175,ok
+185,5.0,175.0,Product Manager,Altrodav Technologies,0.6821,ok
+168,1.0,118.0,ML Engineer,Meridian Apps,0.8037,ok
+168,2.0,120.0,ML Engineer,Meridian Apps,0.6692,ok
+168,3.0,117.0,ML Engineer,Bluepeak Systems,0.648,ok
+168,4.0,122.0,ML Engineer,Harborview Software,0.6365,ok
+168,5.0,115.0,Data Scientist,Meridian Apps,0.5176,ok
+140,1.0,178.0,Product Manager,Ferrous Tech,0.8588,ok
+140,2.0,175.0,Product Manager,Altrodav Technologies,0.7798,ok
+140,3.0,177.0,Product Manager,Granite Edge Tech,0.7683,ok
+140,4.0,179.0,Product Manager,Quanta Robotics,0.6728,ok
+140,5.0,174.0,Product Manager,Orbit Cloud Co,0.6349,ok
+254,1.0,165.0,QA Engineer,Meridian Apps,0.8957,ok
+254,2.0,172.0,QA Engineer,Ferrous Tech,0.8691,ok
+254,3.0,169.0,QA Engineer,Quanta Robotics,0.7666,ok
+254,4.0,167.0,QA Engineer,Granite Edge Tech,0.7583,ok
+254,5.0,166.0,QA Engineer,Skyline Softworks,0.7583,ok
+39,1.0,106.0,Data Analyst,Meridian Apps,0.7408,ok
+39,2.0,105.0,Data Analyst,Northbridge Data Labs,0.7121,ok
+39,3.0,108.0,Data Analyst,Ferrous Tech,0.7094,ok
+39,4.0,104.0,Data Analyst,Bluepeak Systems,0.6999,ok
+39,5.0,101.0,Data Analyst,Crestline Digital,0.6239,ok
+126,1.0,101.0,Data Analyst,Crestline Digital,0.7889,ok
+126,2.0,163.0,Business Analyst,Meridian Apps,0.7299,ok
+126,3.0,162.0,Business Analyst,Driftwood Analytics,0.7183,ok
+126,4.0,159.0,Business Analyst,Northbridge Data Labs,0.7183,ok
+126,5.0,161.0,Business Analyst,Orbit Cloud Co,0.7183,ok
+196,1.0,157.0,Business Analyst,Crestline Digital,0.6901,ok
+196,2.0,164.0,Business Analyst,Harborview Software,0.5822,ok
+196,3.0,162.0,Business Analyst,Driftwood Analytics,0.5305,ok
+196,4.0,159.0,Business Analyst,Northbridge Data Labs,0.5305,ok
+196,5.0,161.0,Business Analyst,Orbit Cloud Co,0.5305,ok
+284,1.0,144.0,Full Stack Developer,Harborview Software,0.9118,ok
+284,2.0,148.0,Full Stack Developer,Lumen Stack,0.8321,ok
+284,3.0,145.0,Full Stack Developer,Harborview Software,0.8094,ok
+284,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.7885,ok
+284,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6267,ok
+138,1.0,131.0,Backend Developer,Granite Edge Tech,0.9551,ok
+138,2.0,130.0,Backend Developer,Westgate Solutions,0.9235,ok
+138,3.0,127.0,Backend Developer,Ferrous Tech,0.8524,ok
+138,4.0,126.0,Backend Developer,Driftwood Analytics,0.8226,ok
+138,5.0,125.0,Backend Developer,Meridian Apps,0.7757,ok
+113,1.0,158.0,Business Analyst,Bluepeak Systems,1.0,ok
+113,2.0,180.0,Product Manager,Crestline Digital,0.7637,ok
+113,3.0,160.0,Business Analyst,Lumen Stack,0.7435,ok
+113,4.0,157.0,Business Analyst,Crestline Digital,0.6934,ok
+113,5.0,179.0,Product Manager,Quanta Robotics,0.6403,ok
+169,1.0,109.0,Data Scientist,Meridian Apps,0.7679,ok
+169,2.0,119.0,ML Engineer,Harborview Software,0.7507,ok
+169,3.0,111.0,Data Scientist,Driftwood Analytics,0.7236,ok
+169,4.0,122.0,ML Engineer,Harborview Software,0.7135,ok
+169,5.0,116.0,Data Scientist,Crestline Digital,0.6155,ok
+118,1.0,128.0,Backend Developer,Ferrous Tech,0.9603,ok
+118,2.0,131.0,Backend Developer,Granite Edge Tech,0.8403,ok
+118,3.0,129.0,Backend Developer,Skyline Softworks,0.8185,ok
+118,4.0,130.0,Backend Developer,Westgate Solutions,0.7857,ok
+118,5.0,126.0,Backend Developer,Driftwood Analytics,0.7816,ok
+278,1.0,169.0,QA Engineer,Quanta Robotics,0.83,ok
+278,2.0,167.0,QA Engineer,Granite Edge Tech,0.8241,ok
+278,3.0,166.0,QA Engineer,Skyline Softworks,0.8241,ok
+278,4.0,168.0,QA Engineer,Granite Edge Tech,0.8025,ok
+278,5.0,165.0,QA Engineer,Meridian Apps,0.7939,ok
+272,1.0,101.0,Data Analyst,Crestline Digital,0.8674,ok
+272,2.0,107.0,Data Analyst,Quanta Robotics,0.839,ok
+272,3.0,102.0,Data Analyst,Vertex Analytics,0.8195,ok
+272,4.0,163.0,Business Analyst,Meridian Apps,0.781,ok
+272,5.0,106.0,Data Analyst,Meridian Apps,0.7725,ok
+156,1.0,136.0,Frontend Developer,Bluepeak Systems,0.9049,ok
+156,2.0,139.0,Frontend Developer,Quanta Robotics,0.9049,ok
+156,3.0,135.0,Frontend Developer,Skyline Softworks,0.8496,ok
+156,4.0,133.0,Frontend Developer,Driftwood Analytics,0.8,ok
+156,5.0,137.0,Frontend Developer,Bluepeak Systems,0.7673,ok
+177,1.0,119.0,ML Engineer,Harborview Software,0.7754,ok
+177,2.0,117.0,ML Engineer,Bluepeak Systems,0.7545,ok
+177,3.0,120.0,ML Engineer,Meridian Apps,0.7369,ok
+177,4.0,118.0,ML Engineer,Meridian Apps,0.7298,ok
+177,5.0,116.0,Data Scientist,Crestline Digital,0.6364,ok
+179,1.0,133.0,Frontend Developer,Driftwood Analytics,0.8783,ok
+179,2.0,137.0,Frontend Developer,Bluepeak Systems,0.8413,ok
+179,3.0,134.0,Frontend Developer,Lumen Stack,0.7612,ok
+179,4.0,140.0,Frontend Developer,Harborview Software,0.7612,ok
+179,5.0,136.0,Frontend Developer,Bluepeak Systems,0.7374,ok
+3,1.0,148.0,Full Stack Developer,Lumen Stack,0.8776,ok
+3,2.0,144.0,Full Stack Developer,Harborview Software,0.8747,ok
+3,3.0,145.0,Full Stack Developer,Harborview Software,0.7468,ok
+3,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.7057,ok
+3,5.0,143.0,Full Stack Developer,Skyline Softworks,0.5101,ok
+116,1.0,126.0,Backend Developer,Driftwood Analytics,0.8557,ok
+116,2.0,128.0,Backend Developer,Ferrous Tech,0.811,ok
+116,3.0,131.0,Backend Developer,Granite Edge Tech,0.7154,ok
+116,4.0,130.0,Backend Developer,Westgate Solutions,0.6382,ok
+116,5.0,129.0,Backend Developer,Skyline Softworks,0.5921,ok
+144,1.0,116.0,Data Scientist,Crestline Digital,0.7159,ok
+144,2.0,160.0,Business Analyst,Lumen Stack,0.6589,ok
+144,3.0,164.0,Business Analyst,Harborview Software,0.6368,ok
+144,4.0,115.0,Data Scientist,Meridian Apps,0.599,ok
+144,5.0,158.0,Business Analyst,Bluepeak Systems,0.5748,ok
+178,1.0,133.0,Frontend Developer,Driftwood Analytics,0.9189,ok
+178,2.0,137.0,Frontend Developer,Bluepeak Systems,0.8797,ok
+178,3.0,134.0,Frontend Developer,Lumen Stack,0.7948,ok
+178,4.0,140.0,Frontend Developer,Harborview Software,0.7948,ok
+178,5.0,136.0,Frontend Developer,Bluepeak Systems,0.772,ok
+121,1.0,155.0,DevOps Engineer,Granite Edge Tech,1.0,ok
+121,2.0,150.0,DevOps Engineer,Quanta Robotics,0.8875,ok
+121,3.0,154.0,DevOps Engineer,Northbridge Data Labs,0.7767,ok
+121,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7483,ok
+121,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.6037,ok
+211,1.0,157.0,Business Analyst,Crestline Digital,0.8632,ok
+211,2.0,163.0,Business Analyst,Meridian Apps,0.778,ok
+211,3.0,162.0,Business Analyst,Driftwood Analytics,0.7687,ok
+211,4.0,159.0,Business Analyst,Northbridge Data Labs,0.7687,ok
+211,5.0,161.0,Business Analyst,Orbit Cloud Co,0.7687,ok
+261,1.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7354,ok
+261,2.0,155.0,DevOps Engineer,Granite Edge Tech,0.7115,ok
+261,3.0,153.0,DevOps Engineer,Meridian Apps,0.5864,ok
+261,4.0,152.0,DevOps Engineer,Granite Edge Tech,0.5482,ok
+261,5.0,124.0,ML Engineer,Westgate Solutions,0.5476,ok
+128,1.0,108.0,Data Analyst,Ferrous Tech,0.7357,ok
+128,2.0,113.0,Data Scientist,Skyline Softworks,0.7064,ok
+128,3.0,106.0,Data Analyst,Meridian Apps,0.7017,ok
+128,4.0,110.0,Data Scientist,Meridian Apps,0.6549,ok
+128,5.0,107.0,Data Analyst,Quanta Robotics,0.6142,ok
+75,1.0,145.0,Full Stack Developer,Harborview Software,0.9297,ok
+75,2.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.9047,ok
+75,3.0,144.0,Full Stack Developer,Harborview Software,0.8688,ok
+75,4.0,148.0,Full Stack Developer,Lumen Stack,0.7286,ok
+75,5.0,143.0,Full Stack Developer,Skyline Softworks,0.7109,ok
+30,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8635,ok
+30,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8569,ok
+30,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8377,ok
+30,4.0,150.0,DevOps Engineer,Quanta Robotics,0.7702,ok
+30,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.75,ok
+84,1.0,101.0,Data Analyst,Crestline Digital,0.7825,ok
+84,2.0,163.0,Business Analyst,Meridian Apps,0.724,ok
+84,3.0,162.0,Business Analyst,Driftwood Analytics,0.7125,ok
+84,4.0,159.0,Business Analyst,Northbridge Data Labs,0.7125,ok
+84,5.0,161.0,Business Analyst,Orbit Cloud Co,0.7125,ok
+270,1.0,151.0,DevOps Engineer,Meridian Apps,0.9004,ok
+270,2.0,153.0,DevOps Engineer,Meridian Apps,0.7039,ok
+270,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.6474,ok
+270,4.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.5592,ok
+270,5.0,150.0,DevOps Engineer,Quanta Robotics,0.4456,ok
+108,1.0,126.0,Backend Developer,Driftwood Analytics,0.7498,ok
+108,2.0,127.0,Backend Developer,Ferrous Tech,0.7307,ok
+108,3.0,131.0,Backend Developer,Granite Edge Tech,0.6218,ok
+108,4.0,130.0,Backend Developer,Westgate Solutions,0.5493,ok
+108,5.0,103.0,Data Analyst,Orbit Cloud Co,0.5064,ok
+224,1.0,144.0,Full Stack Developer,Harborview Software,0.981,ok
+224,2.0,148.0,Full Stack Developer,Lumen Stack,0.8935,ok
+224,3.0,145.0,Full Stack Developer,Harborview Software,0.8686,ok
+224,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8457,ok
+224,5.0,143.0,Full Stack Developer,Skyline Softworks,0.6681,ok
+159,1.0,118.0,ML Engineer,Meridian Apps,0.8034,ok
+159,2.0,120.0,ML Engineer,Meridian Apps,0.7453,ok
+159,3.0,122.0,ML Engineer,Harborview Software,0.6222,ok
+159,4.0,111.0,Data Scientist,Driftwood Analytics,0.5395,ok
+159,5.0,115.0,Data Scientist,Meridian Apps,0.5351,ok
+281,1.0,134.0,Frontend Developer,Lumen Stack,0.889,ok
+281,2.0,140.0,Frontend Developer,Harborview Software,0.889,ok
+281,3.0,143.0,Full Stack Developer,Skyline Softworks,0.8334,ok
+281,4.0,142.0,Full Stack Developer,Ferrous Tech,0.8334,ok
+281,5.0,133.0,Frontend Developer,Driftwood Analytics,0.7201,ok
+247,1.0,116.0,Data Scientist,Crestline Digital,0.7875,ok
+247,2.0,110.0,Data Scientist,Meridian Apps,0.7775,ok
+247,3.0,113.0,Data Scientist,Skyline Softworks,0.7722,ok
+247,4.0,123.0,ML Engineer,Ferrous Tech,0.7591,ok
+247,5.0,121.0,ML Engineer,Orbit Cloud Co,0.7591,ok
+223,1.0,118.0,ML Engineer,Meridian Apps,0.9759,ok
+223,2.0,120.0,ML Engineer,Meridian Apps,0.8605,ok
+223,3.0,117.0,ML Engineer,Bluepeak Systems,0.8413,ok
+223,4.0,122.0,ML Engineer,Harborview Software,0.831,ok
+223,5.0,123.0,ML Engineer,Ferrous Tech,0.7261,ok
+66,1.0,128.0,Backend Developer,Ferrous Tech,0.7258,ok
+66,2.0,131.0,Backend Developer,Granite Edge Tech,0.7222,ok
+66,3.0,129.0,Backend Developer,Skyline Softworks,0.7111,ok
+66,4.0,130.0,Backend Developer,Westgate Solutions,0.6753,ok
+66,5.0,127.0,Backend Developer,Ferrous Tech,0.5899,ok
+199,1.0,165.0,QA Engineer,Meridian Apps,0.8363,ok
+199,2.0,167.0,QA Engineer,Granite Edge Tech,0.8035,ok
+199,3.0,166.0,QA Engineer,Skyline Softworks,0.8035,ok
+199,4.0,172.0,QA Engineer,Ferrous Tech,0.7948,ok
+199,5.0,168.0,QA Engineer,Granite Edge Tech,0.7613,ok
+86,1.0,128.0,Backend Developer,Ferrous Tech,0.8229,ok
+86,2.0,130.0,Backend Developer,Westgate Solutions,0.6708,ok
+86,3.0,131.0,Backend Developer,Granite Edge Tech,0.619,ok
+86,4.0,126.0,Backend Developer,Driftwood Analytics,0.5675,ok
+86,5.0,129.0,Backend Developer,Skyline Softworks,0.558,ok
+214,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8719,ok
+214,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8652,ok
+214,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8459,ok
+214,4.0,150.0,DevOps Engineer,Quanta Robotics,0.7775,ok
+214,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.757,ok
+160,1.0,162.0,Business Analyst,Driftwood Analytics,1.0,ok
+160,2.0,159.0,Business Analyst,Northbridge Data Labs,1.0,ok
+160,3.0,161.0,Business Analyst,Orbit Cloud Co,1.0,ok
+160,4.0,157.0,Business Analyst,Crestline Digital,0.846,ok
+160,5.0,163.0,Business Analyst,Meridian Apps,0.7593,ok
+13,1.0,117.0,ML Engineer,Bluepeak Systems,0.7104,ok
+13,2.0,118.0,ML Engineer,Meridian Apps,0.6782,ok
+13,3.0,123.0,ML Engineer,Ferrous Tech,0.5448,ok
+13,4.0,121.0,ML Engineer,Orbit Cloud Co,0.5448,ok
+13,5.0,120.0,ML Engineer,Meridian Apps,0.4891,ok
+36,1.0,126.0,Backend Developer,Driftwood Analytics,1.0,ok
+36,2.0,131.0,Backend Developer,Granite Edge Tech,0.8621,ok
+36,3.0,130.0,Backend Developer,Westgate Solutions,0.8104,ok
+36,4.0,125.0,Backend Developer,Meridian Apps,0.7484,ok
+36,5.0,128.0,Backend Developer,Ferrous Tech,0.7248,ok
+29,1.0,150.0,DevOps Engineer,Quanta Robotics,0.9275,ok
+29,2.0,155.0,DevOps Engineer,Granite Edge Tech,0.7853,ok
+29,3.0,154.0,DevOps Engineer,Northbridge Data Labs,0.5491,ok
+29,4.0,153.0,DevOps Engineer,Meridian Apps,0.5462,ok
+29,5.0,123.0,ML Engineer,Ferrous Tech,0.5265,ok
+143,1.0,144.0,Full Stack Developer,Harborview Software,0.8533,ok
+143,2.0,148.0,Full Stack Developer,Lumen Stack,0.7802,ok
+143,3.0,145.0,Full Stack Developer,Harborview Software,0.7593,ok
+143,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.7402,ok
+143,5.0,143.0,Full Stack Developer,Skyline Softworks,0.5916,ok
+285,1.0,146.0,Full Stack Developer,Skyline Softworks,0.8235,ok
+285,2.0,144.0,Full Stack Developer,Harborview Software,0.5838,ok
+285,3.0,132.0,Backend Developer,Granite Edge Tech,0.5831,ok
+285,4.0,143.0,Full Stack Developer,Skyline Softworks,0.5639,ok
+285,5.0,142.0,Full Stack Developer,Ferrous Tech,0.5639,ok
+255,1.0,140.0,Frontend Developer,Harborview Software,0.9109,ok
+255,2.0,133.0,Frontend Developer,Driftwood Analytics,0.7382,ok
+255,3.0,136.0,Frontend Developer,Bluepeak Systems,0.6207,ok
+255,4.0,139.0,Frontend Developer,Quanta Robotics,0.6207,ok
+255,5.0,134.0,Frontend Developer,Lumen Stack,0.5968,ok
+171,1.0,169.0,QA Engineer,Quanta Robotics,0.7483,ok
+171,2.0,167.0,QA Engineer,Granite Edge Tech,0.7394,ok
+171,3.0,166.0,QA Engineer,Skyline Softworks,0.7394,ok
+171,4.0,168.0,QA Engineer,Granite Edge Tech,0.6971,ok
+171,5.0,165.0,QA Engineer,Meridian Apps,0.6941,ok
+52,1.0,176.0,Product Manager,Ferrous Tech,0.8571,ok
+52,2.0,173.0,Product Manager,Vertex Analytics,0.8052,ok
+52,3.0,177.0,Product Manager,Granite Edge Tech,0.8001,ok
+52,4.0,180.0,Product Manager,Crestline Digital,0.7869,ok
+52,5.0,158.0,Business Analyst,Bluepeak Systems,0.6502,ok
+96,1.0,136.0,Frontend Developer,Bluepeak Systems,0.87,ok
+96,2.0,139.0,Frontend Developer,Quanta Robotics,0.87,ok
+96,3.0,133.0,Frontend Developer,Driftwood Analytics,0.7361,ok
+96,4.0,135.0,Frontend Developer,Skyline Softworks,0.7129,ok
+96,5.0,138.0,Frontend Developer,Quanta Robotics,0.6416,ok
+209,1.0,143.0,Full Stack Developer,Skyline Softworks,0.8215,ok
+209,2.0,142.0,Full Stack Developer,Ferrous Tech,0.8215,ok
+209,3.0,135.0,Frontend Developer,Skyline Softworks,0.7965,ok
+209,4.0,137.0,Frontend Developer,Bluepeak Systems,0.6499,ok
+209,5.0,136.0,Frontend Developer,Bluepeak Systems,0.621,ok
+248,1.0,163.0,Business Analyst,Meridian Apps,0.9246,ok
+248,2.0,162.0,Business Analyst,Driftwood Analytics,0.913,ok
+248,3.0,159.0,Business Analyst,Northbridge Data Labs,0.913,ok
+248,4.0,161.0,Business Analyst,Orbit Cloud Co,0.913,ok
+248,5.0,105.0,Data Analyst,Northbridge Data Labs,0.876,ok
+42,1.0,128.0,Backend Developer,Ferrous Tech,0.867,ok
+42,2.0,131.0,Backend Developer,Granite Edge Tech,0.7568,ok
+42,3.0,129.0,Backend Developer,Skyline Softworks,0.7426,ok
+42,4.0,130.0,Backend Developer,Westgate Solutions,0.7077,ok
+42,5.0,126.0,Backend Developer,Driftwood Analytics,0.7053,ok
+90,1.0,109.0,Data Scientist,Meridian Apps,0.8821,ok
+90,2.0,108.0,Data Analyst,Ferrous Tech,0.6624,ok
+90,3.0,115.0,Data Scientist,Meridian Apps,0.6584,ok
+90,4.0,116.0,Data Scientist,Crestline Digital,0.6575,ok
+90,5.0,110.0,Data Scientist,Meridian Apps,0.6555,ok
+245,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8782,ok
+245,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8714,ok
+245,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8519,ok
+245,4.0,150.0,DevOps Engineer,Quanta Robotics,0.7829,ok
+245,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.7622,ok
+137,1.0,118.0,ML Engineer,Meridian Apps,0.8843,ok
+137,2.0,120.0,ML Engineer,Meridian Apps,0.7343,ok
+137,3.0,117.0,ML Engineer,Bluepeak Systems,0.7104,ok
+137,4.0,122.0,ML Engineer,Harborview Software,0.6974,ok
+137,5.0,115.0,Data Scientist,Meridian Apps,0.5657,ok
+27,1.0,136.0,Frontend Developer,Bluepeak Systems,0.9213,ok
+27,2.0,139.0,Frontend Developer,Quanta Robotics,0.9213,ok
+27,3.0,135.0,Frontend Developer,Skyline Softworks,0.8647,ok
+27,4.0,133.0,Frontend Developer,Driftwood Analytics,0.814,ok
+27,5.0,137.0,Frontend Developer,Bluepeak Systems,0.7805,ok
+294,1.0,180.0,Product Manager,Crestline Digital,0.771,ok
+294,2.0,178.0,Product Manager,Ferrous Tech,0.7615,ok
+294,3.0,174.0,Product Manager,Orbit Cloud Co,0.7212,ok
+294,4.0,176.0,Product Manager,Ferrous Tech,0.7047,ok
+294,5.0,179.0,Product Manager,Quanta Robotics,0.6713,ok
+142,1.0,169.0,QA Engineer,Quanta Robotics,0.8347,ok
+142,2.0,167.0,QA Engineer,Granite Edge Tech,0.8245,ok
+142,3.0,166.0,QA Engineer,Skyline Softworks,0.8245,ok
+142,4.0,168.0,QA Engineer,Granite Edge Tech,0.7774,ok
+142,5.0,165.0,QA Engineer,Meridian Apps,0.7725,ok
+201,1.0,176.0,Product Manager,Ferrous Tech,0.9713,ok
+201,2.0,173.0,Product Manager,Vertex Analytics,0.9103,ok
+201,3.0,177.0,Product Manager,Granite Edge Tech,0.9044,ok
+201,4.0,180.0,Product Manager,Crestline Digital,0.8889,ok
+201,5.0,158.0,Business Analyst,Bluepeak Systems,0.7285,ok
+1,1.0,149.0,DevOps Engineer,Northbridge Data Labs,0.9124,ok
+1,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.8143,ok
+1,3.0,153.0,DevOps Engineer,Meridian Apps,0.7704,ok
+1,4.0,151.0,DevOps Engineer,Meridian Apps,0.7365,ok
+1,5.0,155.0,DevOps Engineer,Granite Edge Tech,0.6839,ok
+269,1.0,113.0,Data Scientist,Skyline Softworks,0.915,ok
+269,2.0,110.0,Data Scientist,Meridian Apps,0.6999,ok
+269,3.0,114.0,Data Scientist,Driftwood Analytics,0.6546,ok
+269,4.0,112.0,Data Scientist,Vertex Analytics,0.6546,ok
+269,5.0,111.0,Data Scientist,Driftwood Analytics,0.6355,ok
+273,1.0,130.0,Backend Developer,Westgate Solutions,0.9377,ok
+273,2.0,131.0,Backend Developer,Granite Edge Tech,0.8668,ok
+273,3.0,128.0,Backend Developer,Ferrous Tech,0.7668,ok
+273,4.0,127.0,Backend Developer,Ferrous Tech,0.7423,ok
+273,5.0,126.0,Backend Developer,Driftwood Analytics,0.7289,ok
+101,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.9094,ok
+101,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.9024,ok
+101,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8819,ok
+101,4.0,150.0,DevOps Engineer,Quanta Robotics,0.8097,ok
+101,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.788,ok
+260,1.0,122.0,ML Engineer,Harborview Software,0.7242,ok
+260,2.0,109.0,Data Scientist,Meridian Apps,0.6358,ok
+260,3.0,103.0,Data Analyst,Orbit Cloud Co,0.6358,ok
+260,4.0,124.0,ML Engineer,Westgate Solutions,0.5969,ok
+260,5.0,118.0,ML Engineer,Meridian Apps,0.5869,ok
+256,1.0,120.0,ML Engineer,Meridian Apps,0.834,ok
+256,2.0,118.0,ML Engineer,Meridian Apps,0.7856,ok
+256,3.0,109.0,Data Scientist,Meridian Apps,0.6627,ok
+256,4.0,119.0,ML Engineer,Harborview Software,0.6487,ok
+256,5.0,117.0,ML Engineer,Bluepeak Systems,0.6214,ok
+172,1.0,169.0,QA Engineer,Quanta Robotics,0.9319,ok
+172,2.0,167.0,QA Engineer,Granite Edge Tech,0.925,ok
+172,3.0,166.0,QA Engineer,Skyline Softworks,0.925,ok
+172,4.0,168.0,QA Engineer,Granite Edge Tech,0.8999,ok
+172,5.0,165.0,QA Engineer,Meridian Apps,0.8899,ok
+99,1.0,170.0,QA Engineer,Lumen Stack,0.86,ok
+99,2.0,171.0,QA Engineer,Bluepeak Systems,0.7475,ok
+99,3.0,169.0,QA Engineer,Quanta Robotics,0.646,ok
+99,4.0,167.0,QA Engineer,Granite Edge Tech,0.6306,ok
+99,5.0,166.0,QA Engineer,Skyline Softworks,0.6306,ok
+37,1.0,118.0,ML Engineer,Meridian Apps,0.6231,ok
+37,2.0,117.0,ML Engineer,Bluepeak Systems,0.6106,ok
+37,3.0,120.0,ML Engineer,Meridian Apps,0.5957,ok
+37,4.0,119.0,ML Engineer,Harborview Software,0.5545,ok
+37,5.0,116.0,Data Scientist,Crestline Digital,0.4561,ok
+62,1.0,169.0,QA Engineer,Quanta Robotics,0.9302,ok
+62,2.0,167.0,QA Engineer,Granite Edge Tech,0.9233,ok
+62,3.0,166.0,QA Engineer,Skyline Softworks,0.9233,ok
+62,4.0,168.0,QA Engineer,Granite Edge Tech,0.8983,ok
+62,5.0,165.0,QA Engineer,Meridian Apps,0.8883,ok
+151,1.0,163.0,Business Analyst,Meridian Apps,0.876,ok
+151,2.0,107.0,Data Analyst,Quanta Robotics,0.7746,ok
+151,3.0,162.0,Business Analyst,Driftwood Analytics,0.6649,ok
+151,4.0,159.0,Business Analyst,Northbridge Data Labs,0.6649,ok
+151,5.0,161.0,Business Analyst,Orbit Cloud Co,0.6649,ok
+237,,,,,,no_skills_available
+203,1.0,131.0,Backend Developer,Granite Edge Tech,0.9141,ok
+203,2.0,130.0,Backend Developer,Westgate Solutions,0.8842,ok
+203,3.0,126.0,Backend Developer,Driftwood Analytics,0.8749,ok
+203,4.0,125.0,Backend Developer,Meridian Apps,0.8336,ok
+203,5.0,128.0,Backend Developer,Ferrous Tech,0.8242,ok
+243,1.0,111.0,Data Scientist,Driftwood Analytics,1.0,ok
+243,2.0,110.0,Data Scientist,Meridian Apps,0.8661,ok
+243,3.0,114.0,Data Scientist,Driftwood Analytics,0.8348,ok
+243,4.0,112.0,Data Scientist,Vertex Analytics,0.8348,ok
+243,5.0,109.0,Data Scientist,Meridian Apps,0.7429,ok
+12,1.0,171.0,QA Engineer,Bluepeak Systems,0.7926,ok
+12,2.0,169.0,QA Engineer,Quanta Robotics,0.7756,ok
+12,3.0,168.0,QA Engineer,Granite Edge Tech,0.7189,ok
+12,4.0,167.0,QA Engineer,Granite Edge Tech,0.6692,ok
+12,5.0,166.0,QA Engineer,Skyline Softworks,0.6692,ok
+297,1.0,164.0,Business Analyst,Harborview Software,0.8445,ok
+297,2.0,108.0,Data Analyst,Ferrous Tech,0.6294,ok
+297,3.0,105.0,Data Analyst,Northbridge Data Labs,0.6269,ok
+297,4.0,163.0,Business Analyst,Meridian Apps,0.5949,ok
+297,5.0,160.0,Business Analyst,Lumen Stack,0.5856,ok
+268,1.0,164.0,Business Analyst,Harborview Software,0.8783,ok
+268,2.0,163.0,Business Analyst,Meridian Apps,0.7902,ok
+268,3.0,157.0,Business Analyst,Crestline Digital,0.7392,ok
+268,4.0,107.0,Data Analyst,Quanta Robotics,0.702,ok
+268,5.0,101.0,Data Analyst,Crestline Digital,0.6773,ok
+28,1.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8976,ok
+28,2.0,151.0,DevOps Engineer,Meridian Apps,0.8534,ok
+28,3.0,152.0,DevOps Engineer,Granite Edge Tech,0.7474,ok
+28,4.0,153.0,DevOps Engineer,Meridian Apps,0.6656,ok
+28,5.0,155.0,DevOps Engineer,Granite Edge Tech,0.6331,ok
+220,1.0,169.0,QA Engineer,Quanta Robotics,0.5902,ok
+220,2.0,167.0,QA Engineer,Granite Edge Tech,0.5778,ok
+220,3.0,166.0,QA Engineer,Skyline Softworks,0.5778,ok
+220,4.0,158.0,Business Analyst,Bluepeak Systems,0.5203,ok
+220,5.0,165.0,QA Engineer,Meridian Apps,0.5136,ok
+5,1.0,116.0,Data Scientist,Crestline Digital,0.775,ok
+5,2.0,110.0,Data Scientist,Meridian Apps,0.7643,ok
+5,3.0,113.0,Data Scientist,Skyline Softworks,0.76,ok
+5,4.0,114.0,Data Scientist,Driftwood Analytics,0.7338,ok
+5,5.0,112.0,Data Scientist,Vertex Analytics,0.7338,ok
+123,1.0,111.0,Data Scientist,Driftwood Analytics,1.0,ok
+123,2.0,110.0,Data Scientist,Meridian Apps,0.8661,ok
+123,3.0,114.0,Data Scientist,Driftwood Analytics,0.8348,ok
+123,4.0,112.0,Data Scientist,Vertex Analytics,0.8348,ok
+123,5.0,109.0,Data Scientist,Meridian Apps,0.7429,ok
+33,1.0,120.0,ML Engineer,Meridian Apps,0.799,ok
+33,2.0,117.0,ML Engineer,Bluepeak Systems,0.7724,ok
+33,3.0,118.0,ML Engineer,Meridian Apps,0.7612,ok
+33,4.0,109.0,Data Scientist,Meridian Apps,0.5234,ok
+33,5.0,122.0,ML Engineer,Harborview Software,0.5071,ok
+205,1.0,126.0,Backend Developer,Driftwood Analytics,1.0,ok
+205,2.0,131.0,Backend Developer,Granite Edge Tech,0.8621,ok
+205,3.0,130.0,Backend Developer,Westgate Solutions,0.8104,ok
+205,4.0,125.0,Backend Developer,Meridian Apps,0.7484,ok
+205,5.0,128.0,Backend Developer,Ferrous Tech,0.7248,ok
+163,1.0,110.0,Data Scientist,Meridian Apps,0.9739,ok
+163,2.0,114.0,Data Scientist,Driftwood Analytics,0.949,ok
+163,3.0,112.0,Data Scientist,Vertex Analytics,0.949,ok
+163,4.0,111.0,Data Scientist,Driftwood Analytics,0.9387,ok
+163,5.0,115.0,Data Scientist,Meridian Apps,0.7846,ok
+210,1.0,118.0,ML Engineer,Meridian Apps,0.8174,ok
+210,2.0,120.0,ML Engineer,Meridian Apps,0.6803,ok
+210,3.0,117.0,ML Engineer,Bluepeak Systems,0.6586,ok
+210,4.0,122.0,ML Engineer,Harborview Software,0.6468,ok
+210,5.0,115.0,Data Scientist,Meridian Apps,0.5257,ok
+286,1.0,136.0,Frontend Developer,Bluepeak Systems,0.8219,ok
+286,2.0,139.0,Frontend Developer,Quanta Robotics,0.8219,ok
+286,3.0,138.0,Frontend Developer,Quanta Robotics,0.8082,ok
+286,4.0,134.0,Frontend Developer,Lumen Stack,0.7634,ok
+286,5.0,135.0,Frontend Developer,Skyline Softworks,0.7374,ok
+139,1.0,175.0,Product Manager,Altrodav Technologies,1.0,ok
+139,2.0,179.0,Product Manager,Quanta Robotics,0.8675,ok
+139,3.0,174.0,Product Manager,Orbit Cloud Co,0.819,ok
+139,4.0,178.0,Product Manager,Ferrous Tech,0.7926,ok
+139,5.0,177.0,Product Manager,Granite Edge Tech,0.6254,ok
+63,1.0,157.0,Business Analyst,Crestline Digital,0.849,ok
+63,2.0,163.0,Business Analyst,Meridian Apps,0.7656,ok
+63,3.0,162.0,Business Analyst,Driftwood Analytics,0.7565,ok
+63,4.0,159.0,Business Analyst,Northbridge Data Labs,0.7565,ok
+63,5.0,161.0,Business Analyst,Orbit Cloud Co,0.7565,ok
+136,1.0,170.0,QA Engineer,Lumen Stack,0.86,ok
+136,2.0,165.0,QA Engineer,Meridian Apps,0.5514,ok
+136,3.0,171.0,QA Engineer,Bluepeak Systems,0.4721,ok
+136,4.0,172.0,QA Engineer,Ferrous Tech,0.4697,ok
+136,5.0,104.0,Data Analyst,Bluepeak Systems,0.4685,ok
+129,1.0,110.0,Data Scientist,Meridian Apps,0.9086,ok
+129,2.0,114.0,Data Scientist,Driftwood Analytics,0.8859,ok
+129,3.0,112.0,Data Scientist,Vertex Analytics,0.8859,ok
+129,4.0,111.0,Data Scientist,Driftwood Analytics,0.8764,ok
+129,5.0,115.0,Data Scientist,Meridian Apps,0.7353,ok
+291,1.0,160.0,Business Analyst,Lumen Stack,0.7396,ok
+291,2.0,157.0,Business Analyst,Crestline Digital,0.6929,ok
+291,3.0,158.0,Business Analyst,Bluepeak Systems,0.6907,ok
+291,4.0,102.0,Data Analyst,Vertex Analytics,0.6788,ok
+291,5.0,163.0,Business Analyst,Meridian Apps,0.5726,ok
+9,1.0,115.0,Data Scientist,Meridian Apps,0.7311,ok
+9,2.0,114.0,Data Scientist,Driftwood Analytics,0.6716,ok
+9,3.0,112.0,Data Scientist,Vertex Analytics,0.6716,ok
+9,4.0,109.0,Data Scientist,Meridian Apps,0.6659,ok
+9,5.0,110.0,Data Scientist,Meridian Apps,0.5315,ok
+71,1.0,118.0,ML Engineer,Meridian Apps,0.7629,ok
+71,2.0,120.0,ML Engineer,Meridian Apps,0.6677,ok
+71,3.0,115.0,Data Scientist,Meridian Apps,0.6025,ok
+71,4.0,122.0,ML Engineer,Harborview Software,0.518,ok
+71,5.0,111.0,Data Scientist,Driftwood Analytics,0.4513,ok
+265,1.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8347,ok
+265,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.6752,ok
+265,3.0,155.0,DevOps Engineer,Granite Edge Tech,0.6158,ok
+265,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.5729,ok
+265,5.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.4826,ok
+65,1.0,149.0,DevOps Engineer,Northbridge Data Labs,0.9337,ok
+65,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.8327,ok
+65,3.0,153.0,DevOps Engineer,Meridian Apps,0.7875,ok
+65,4.0,151.0,DevOps Engineer,Meridian Apps,0.7526,ok
+65,5.0,155.0,DevOps Engineer,Granite Edge Tech,0.6996,ok
+45,1.0,158.0,Business Analyst,Bluepeak Systems,0.7383,ok
+45,2.0,179.0,Product Manager,Quanta Robotics,0.7174,ok
+45,3.0,176.0,Product Manager,Ferrous Tech,0.6777,ok
+45,4.0,174.0,Product Manager,Orbit Cloud Co,0.669,ok
+45,5.0,177.0,Product Manager,Granite Edge Tech,0.585,ok
+280,1.0,178.0,Product Manager,Ferrous Tech,0.8562,ok
+280,2.0,179.0,Product Manager,Quanta Robotics,0.8531,ok
+280,3.0,174.0,Product Manager,Orbit Cloud Co,0.8304,ok
+280,4.0,176.0,Product Manager,Ferrous Tech,0.8199,ok
+280,5.0,175.0,Product Manager,Altrodav Technologies,0.7776,ok
+157,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8236,ok
+157,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8149,ok
+157,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7894,ok
+157,4.0,151.0,DevOps Engineer,Meridian Apps,0.7576,ok
+157,5.0,150.0,DevOps Engineer,Quanta Robotics,0.6879,ok
+41,1.0,131.0,Backend Developer,Granite Edge Tech,0.9756,ok
+41,2.0,130.0,Backend Developer,Westgate Solutions,0.9432,ok
+41,3.0,126.0,Backend Developer,Driftwood Analytics,0.9331,ok
+41,4.0,125.0,Backend Developer,Meridian Apps,0.8882,ok
+41,5.0,128.0,Backend Developer,Ferrous Tech,0.878,ok
+124,1.0,157.0,Business Analyst,Crestline Digital,0.8905,ok
+124,2.0,162.0,Business Analyst,Driftwood Analytics,0.7315,ok
+124,3.0,159.0,Business Analyst,Northbridge Data Labs,0.7315,ok
+124,4.0,161.0,Business Analyst,Orbit Cloud Co,0.7315,ok
+124,5.0,163.0,Business Analyst,Meridian Apps,0.7222,ok
+276,1.0,111.0,Data Scientist,Driftwood Analytics,0.8572,ok
+276,2.0,119.0,ML Engineer,Harborview Software,0.8041,ok
+276,3.0,110.0,Data Scientist,Meridian Apps,0.7195,ok
+276,4.0,114.0,Data Scientist,Driftwood Analytics,0.6766,ok
+276,5.0,112.0,Data Scientist,Vertex Analytics,0.6766,ok
+217,1.0,136.0,Frontend Developer,Bluepeak Systems,0.8946,ok
+217,2.0,139.0,Frontend Developer,Quanta Robotics,0.8946,ok
+217,3.0,135.0,Frontend Developer,Skyline Softworks,0.8401,ok
+217,4.0,133.0,Frontend Developer,Driftwood Analytics,0.7913,ok
+217,5.0,137.0,Frontend Developer,Bluepeak Systems,0.759,ok
+154,1.0,163.0,Business Analyst,Meridian Apps,0.6679,ok
+154,2.0,157.0,Business Analyst,Crestline Digital,0.6337,ok
+154,3.0,160.0,Business Analyst,Lumen Stack,0.6177,ok
+154,4.0,102.0,Data Analyst,Vertex Analytics,0.6058,ok
+154,5.0,164.0,Business Analyst,Harborview Software,0.5974,ok
+24,1.0,178.0,Product Manager,Ferrous Tech,0.9255,ok
+24,2.0,174.0,Product Manager,Orbit Cloud Co,0.897,ok
+24,3.0,176.0,Product Manager,Ferrous Tech,0.8854,ok
+24,4.0,179.0,Product Manager,Quanta Robotics,0.8327,ok
+24,5.0,173.0,Product Manager,Vertex Analytics,0.8312,ok
+262,1.0,169.0,QA Engineer,Quanta Robotics,0.8872,ok
+262,2.0,167.0,QA Engineer,Granite Edge Tech,0.8807,ok
+262,3.0,166.0,QA Engineer,Skyline Softworks,0.8807,ok
+262,4.0,168.0,QA Engineer,Granite Edge Tech,0.8571,ok
+262,5.0,165.0,QA Engineer,Meridian Apps,0.8477,ok
+111,1.0,117.0,ML Engineer,Bluepeak Systems,0.7329,ok
+111,2.0,118.0,ML Engineer,Meridian Apps,0.6018,ok
+111,3.0,120.0,ML Engineer,Meridian Apps,0.5199,ok
+111,4.0,124.0,ML Engineer,Westgate Solutions,0.5058,ok
+111,5.0,137.0,Frontend Developer,Bluepeak Systems,0.5057,ok
+82,1.0,164.0,Business Analyst,Harborview Software,0.7985,ok
+82,2.0,105.0,Data Analyst,Northbridge Data Labs,0.7916,ok
+82,3.0,160.0,Business Analyst,Lumen Stack,0.7735,ok
+82,4.0,158.0,Business Analyst,Bluepeak Systems,0.7216,ok
+82,5.0,157.0,Business Analyst,Crestline Digital,0.6951,ok
+208,1.0,169.0,QA Engineer,Quanta Robotics,0.7344,ok
+208,2.0,167.0,QA Engineer,Granite Edge Tech,0.7257,ok
+208,3.0,166.0,QA Engineer,Skyline Softworks,0.7257,ok
+208,4.0,168.0,QA Engineer,Granite Edge Tech,0.6842,ok
+208,5.0,165.0,QA Engineer,Meridian Apps,0.6814,ok
+213,1.0,171.0,QA Engineer,Bluepeak Systems,0.8435,ok
+213,2.0,165.0,QA Engineer,Meridian Apps,0.7428,ok
+213,3.0,167.0,QA Engineer,Granite Edge Tech,0.7127,ok
+213,4.0,166.0,QA Engineer,Skyline Softworks,0.7127,ok
+213,5.0,172.0,QA Engineer,Ferrous Tech,0.6674,ok
+40,1.0,126.0,Backend Developer,Driftwood Analytics,1.0,ok
+40,2.0,131.0,Backend Developer,Granite Edge Tech,0.8621,ok
+40,3.0,130.0,Backend Developer,Westgate Solutions,0.8104,ok
+40,4.0,125.0,Backend Developer,Meridian Apps,0.7484,ok
+40,5.0,128.0,Backend Developer,Ferrous Tech,0.7248,ok
+241,1.0,148.0,Full Stack Developer,Lumen Stack,0.8964,ok
+241,2.0,145.0,Full Stack Developer,Harborview Software,0.8713,ok
+241,3.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.8483,ok
+241,4.0,144.0,Full Stack Developer,Harborview Software,0.8281,ok
+241,5.0,141.0,Full Stack Developer,Vertex Analytics,0.6004,ok
+292,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.9314,ok
+292,2.0,150.0,DevOps Engineer,Quanta Robotics,0.7953,ok
+292,3.0,154.0,DevOps Engineer,Northbridge Data Labs,0.7008,ok
+292,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.6696,ok
+292,5.0,153.0,DevOps Engineer,Meridian Apps,0.5379,ok
+259,1.0,177.0,Product Manager,Granite Edge Tech,0.9128,ok
+259,2.0,176.0,Product Manager,Ferrous Tech,0.8466,ok
+259,3.0,178.0,Product Manager,Ferrous Tech,0.808,ok
+259,4.0,173.0,Product Manager,Vertex Analytics,0.7382,ok
+259,5.0,180.0,Product Manager,Crestline Digital,0.5939,ok
+200,1.0,178.0,Product Manager,Ferrous Tech,0.8783,ok
+200,2.0,175.0,Product Manager,Altrodav Technologies,0.797,ok
+200,3.0,177.0,Product Manager,Granite Edge Tech,0.7852,ok
+200,4.0,179.0,Product Manager,Quanta Robotics,0.688,ok
+200,5.0,174.0,Product Manager,Orbit Cloud Co,0.6492,ok
+15,1.0,157.0,Business Analyst,Crestline Digital,0.8905,ok
+15,2.0,162.0,Business Analyst,Driftwood Analytics,0.7315,ok
+15,3.0,159.0,Business Analyst,Northbridge Data Labs,0.7315,ok
+15,4.0,161.0,Business Analyst,Orbit Cloud Co,0.7315,ok
+15,5.0,163.0,Business Analyst,Meridian Apps,0.7222,ok
+48,1.0,126.0,Backend Developer,Driftwood Analytics,0.8371,ok
+48,2.0,127.0,Backend Developer,Ferrous Tech,0.8168,ok
+48,3.0,131.0,Backend Developer,Granite Edge Tech,0.6961,ok
+48,4.0,130.0,Backend Developer,Westgate Solutions,0.6158,ok
+48,5.0,132.0,Backend Developer,Granite Edge Tech,0.5521,ok
+95,1.0,157.0,Business Analyst,Crestline Digital,0.7992,ok
+95,2.0,164.0,Business Analyst,Harborview Software,0.7733,ok
+95,3.0,160.0,Business Analyst,Lumen Stack,0.7493,ok
+95,4.0,101.0,Data Analyst,Crestline Digital,0.7468,ok
+95,5.0,163.0,Business Analyst,Meridian Apps,0.6911,ok
+264,1.0,178.0,Product Manager,Ferrous Tech,0.8495,ok
+264,2.0,174.0,Product Manager,Orbit Cloud Co,0.8239,ok
+264,3.0,176.0,Product Manager,Ferrous Tech,0.8136,ok
+264,4.0,173.0,Product Manager,Vertex Analytics,0.7651,ok
+264,5.0,179.0,Product Manager,Quanta Robotics,0.7623,ok
+228,1.0,118.0,ML Engineer,Meridian Apps,0.9099,ok
+228,2.0,122.0,ML Engineer,Harborview Software,0.7167,ok
+228,3.0,120.0,ML Engineer,Meridian Apps,0.6416,ok
+228,4.0,117.0,ML Engineer,Bluepeak Systems,0.6149,ok
+228,5.0,115.0,Data Scientist,Meridian Apps,0.5809,ok
+274,1.0,169.0,QA Engineer,Quanta Robotics,0.9746,ok
+274,2.0,167.0,QA Engineer,Granite Edge Tech,0.9673,ok
+274,3.0,166.0,QA Engineer,Skyline Softworks,0.9673,ok
+274,4.0,168.0,QA Engineer,Granite Edge Tech,0.9408,ok
+274,5.0,165.0,QA Engineer,Meridian Apps,0.9302,ok
+202,1.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.6862,ok
+202,2.0,144.0,Full Stack Developer,Harborview Software,0.6862,ok
+202,3.0,133.0,Frontend Developer,Driftwood Analytics,0.6717,ok
+202,4.0,148.0,Full Stack Developer,Lumen Stack,0.6481,ok
+202,5.0,137.0,Frontend Developer,Bluepeak Systems,0.6366,ok
+162,1.0,144.0,Full Stack Developer,Harborview Software,0.866,ok
+162,2.0,148.0,Full Stack Developer,Lumen Stack,0.7914,ok
+162,3.0,145.0,Full Stack Developer,Harborview Software,0.7701,ok
+162,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.7506,ok
+162,5.0,143.0,Full Stack Developer,Skyline Softworks,0.5992,ok
+44,1.0,144.0,Full Stack Developer,Harborview Software,0.8151,ok
+44,2.0,148.0,Full Stack Developer,Lumen Stack,0.6881,ok
+44,3.0,145.0,Full Stack Developer,Harborview Software,0.6754,ok
+44,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.6314,ok
+44,5.0,146.0,Full Stack Developer,Skyline Softworks,0.5926,ok
+218,1.0,173.0,Product Manager,Vertex Analytics,0.7677,ok
+218,2.0,179.0,Product Manager,Quanta Robotics,0.7205,ok
+218,3.0,178.0,Product Manager,Ferrous Tech,0.7141,ok
+218,4.0,174.0,Product Manager,Orbit Cloud Co,0.6848,ok
+218,5.0,176.0,Product Manager,Ferrous Tech,0.6728,ok
+146,1.0,118.0,ML Engineer,Meridian Apps,0.8401,ok
+146,2.0,120.0,ML Engineer,Meridian Apps,0.6986,ok
+146,3.0,117.0,ML Engineer,Bluepeak Systems,0.6761,ok
+146,4.0,122.0,ML Engineer,Harborview Software,0.664,ok
+146,5.0,115.0,Data Scientist,Meridian Apps,0.5393,ok
+191,1.0,110.0,Data Scientist,Meridian Apps,1.0,ok
+191,2.0,114.0,Data Scientist,Driftwood Analytics,0.8776,ok
+191,3.0,112.0,Data Scientist,Vertex Analytics,0.8776,ok
+191,4.0,111.0,Data Scientist,Driftwood Analytics,0.8661,ok
+191,5.0,115.0,Data Scientist,Meridian Apps,0.8043,ok
+221,1.0,135.0,Frontend Developer,Skyline Softworks,0.8921,ok
+221,2.0,137.0,Frontend Developer,Bluepeak Systems,0.8044,ok
+221,3.0,138.0,Frontend Developer,Quanta Robotics,0.7709,ok
+221,4.0,136.0,Frontend Developer,Bluepeak Systems,0.7237,ok
+221,5.0,139.0,Frontend Developer,Quanta Robotics,0.7237,ok
+252,1.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8373,ok
+252,2.0,151.0,DevOps Engineer,Meridian Apps,0.8,ok
+252,3.0,152.0,DevOps Engineer,Granite Edge Tech,0.6985,ok
+252,4.0,153.0,DevOps Engineer,Meridian Apps,0.6221,ok
+252,5.0,155.0,DevOps Engineer,Granite Edge Tech,0.5911,ok
+4,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.6818,ok
+4,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.6733,ok
+4,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.6483,ok
+4,4.0,151.0,DevOps Engineer,Meridian Apps,0.5784,ok
+4,5.0,153.0,DevOps Engineer,Meridian Apps,0.552,ok
+106,1.0,113.0,Data Scientist,Skyline Softworks,0.8834,ok
+106,2.0,114.0,Data Scientist,Driftwood Analytics,0.8602,ok
+106,3.0,112.0,Data Scientist,Vertex Analytics,0.8602,ok
+106,4.0,110.0,Data Scientist,Meridian Apps,0.7329,ok
+106,5.0,116.0,Data Scientist,Crestline Digital,0.6841,ok
+54,1.0,164.0,Business Analyst,Harborview Software,0.8072,ok
+54,2.0,105.0,Data Analyst,Northbridge Data Labs,0.8002,ok
+54,3.0,160.0,Business Analyst,Lumen Stack,0.7818,ok
+54,4.0,158.0,Business Analyst,Bluepeak Systems,0.7292,ok
+54,5.0,157.0,Business Analyst,Crestline Digital,0.7029,ok
+134,1.0,133.0,Frontend Developer,Driftwood Analytics,0.9189,ok
+134,2.0,137.0,Frontend Developer,Bluepeak Systems,0.8797,ok
+134,3.0,134.0,Frontend Developer,Lumen Stack,0.7948,ok
+134,4.0,140.0,Frontend Developer,Harborview Software,0.7948,ok
+134,5.0,136.0,Frontend Developer,Bluepeak Systems,0.772,ok
+2,1.0,151.0,DevOps Engineer,Meridian Apps,0.712,ok
+2,2.0,150.0,DevOps Engineer,Quanta Robotics,0.6439,ok
+2,3.0,153.0,DevOps Engineer,Meridian Apps,0.5504,ok
+2,4.0,155.0,DevOps Engineer,Granite Edge Tech,0.5445,ok
+2,5.0,154.0,DevOps Engineer,Northbridge Data Labs,0.5346,ok
+132,1.0,115.0,Data Scientist,Meridian Apps,0.8856,ok
+132,2.0,114.0,Data Scientist,Driftwood Analytics,0.7595,ok
+132,3.0,112.0,Data Scientist,Vertex Analytics,0.7595,ok
+132,4.0,116.0,Data Scientist,Crestline Digital,0.6633,ok
+132,5.0,110.0,Data Scientist,Meridian Apps,0.6379,ok
+104,1.0,163.0,Business Analyst,Meridian Apps,0.7649,ok
+104,2.0,115.0,Data Scientist,Meridian Apps,0.7382,ok
+104,3.0,164.0,Business Analyst,Harborview Software,0.7332,ok
+104,4.0,157.0,Business Analyst,Crestline Digital,0.7005,ok
+104,5.0,107.0,Data Analyst,Quanta Robotics,0.6736,ok
+50,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8434,ok
+50,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.837,ok
+50,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8185,ok
+50,4.0,150.0,DevOps Engineer,Quanta Robotics,0.753,ok
+50,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.7333,ok
+81,1.0,180.0,Product Manager,Crestline Digital,0.8178,ok
+81,2.0,177.0,Product Manager,Granite Edge Tech,0.8032,ok
+81,3.0,176.0,Product Manager,Ferrous Tech,0.6152,ok
+81,4.0,178.0,Product Manager,Ferrous Tech,0.5867,ok
+81,5.0,158.0,Business Analyst,Bluepeak Systems,0.4898,ok
+206,1.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7475,ok
+206,2.0,155.0,DevOps Engineer,Granite Edge Tech,0.7231,ok
+206,3.0,151.0,DevOps Engineer,Meridian Apps,0.5833,ok
+206,4.0,152.0,DevOps Engineer,Granite Edge Tech,0.5244,ok
+206,5.0,150.0,DevOps Engineer,Quanta Robotics,0.479,ok
+35,1.0,180.0,Product Manager,Crestline Digital,0.6781,ok
+35,2.0,179.0,Product Manager,Quanta Robotics,0.5913,ok
+35,3.0,173.0,Product Manager,Vertex Analytics,0.5854,ok
+35,4.0,178.0,Product Manager,Ferrous Tech,0.5765,ok
+35,5.0,174.0,Product Manager,Orbit Cloud Co,0.5339,ok
+92,1.0,160.0,Business Analyst,Lumen Stack,0.801,ok
+92,2.0,179.0,Product Manager,Quanta Robotics,0.7899,ok
+92,3.0,158.0,Business Analyst,Bluepeak Systems,0.7466,ok
+92,4.0,174.0,Product Manager,Orbit Cloud Co,0.7431,ok
+92,5.0,175.0,Product Manager,Altrodav Technologies,0.6552,ok
+53,1.0,175.0,Product Manager,Altrodav Technologies,0.7871,ok
+53,2.0,174.0,Product Manager,Orbit Cloud Co,0.7296,ok
+53,3.0,178.0,Product Manager,Ferrous Tech,0.7048,ok
+53,4.0,179.0,Product Manager,Quanta Robotics,0.6877,ok
+53,5.0,173.0,Product Manager,Vertex Analytics,0.3684,ok
+242,1.0,171.0,QA Engineer,Bluepeak Systems,0.6742,ok
+242,2.0,169.0,QA Engineer,Quanta Robotics,0.6622,ok
+242,3.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.6472,ok
+242,4.0,168.0,QA Engineer,Granite Edge Tech,0.6141,ok
+242,5.0,145.0,Full Stack Developer,Harborview Software,0.5962,ok
+14,1.0,172.0,QA Engineer,Ferrous Tech,0.8489,ok
+14,2.0,168.0,QA Engineer,Granite Edge Tech,0.8126,ok
+14,3.0,165.0,QA Engineer,Meridian Apps,0.7922,ok
+14,4.0,167.0,QA Engineer,Granite Edge Tech,0.7597,ok
+14,5.0,166.0,QA Engineer,Skyline Softworks,0.7597,ok
+89,1.0,120.0,ML Engineer,Meridian Apps,0.767,ok
+89,2.0,117.0,ML Engineer,Bluepeak Systems,0.7418,ok
+89,3.0,118.0,ML Engineer,Meridian Apps,0.7296,ok
+89,4.0,109.0,Data Scientist,Meridian Apps,0.5042,ok
+89,5.0,122.0,ML Engineer,Harborview Software,0.4871,ok
+167,1.0,111.0,Data Scientist,Driftwood Analytics,0.8697,ok
+167,2.0,109.0,Data Scientist,Meridian Apps,0.812,ok
+167,3.0,110.0,Data Scientist,Meridian Apps,0.7326,ok
+167,4.0,114.0,Data Scientist,Driftwood Analytics,0.6912,ok
+167,5.0,112.0,Data Scientist,Vertex Analytics,0.6912,ok
+295,1.0,133.0,Frontend Developer,Driftwood Analytics,1.0,ok
+295,2.0,140.0,Frontend Developer,Harborview Software,0.8619,ok
+295,3.0,136.0,Frontend Developer,Bluepeak Systems,0.841,ok
+295,4.0,139.0,Frontend Developer,Quanta Robotics,0.841,ok
+295,5.0,137.0,Frontend Developer,Bluepeak Systems,0.7048,ok
+135,1.0,135.0,Frontend Developer,Skyline Softworks,0.6462,ok
+135,2.0,136.0,Frontend Developer,Bluepeak Systems,0.6339,ok
+135,3.0,139.0,Frontend Developer,Quanta Robotics,0.6339,ok
+135,4.0,134.0,Frontend Developer,Lumen Stack,0.5749,ok
+135,5.0,140.0,Frontend Developer,Harborview Software,0.5749,ok
+288,1.0,136.0,Frontend Developer,Bluepeak Systems,0.8877,ok
+288,2.0,139.0,Frontend Developer,Quanta Robotics,0.8877,ok
+288,3.0,138.0,Frontend Developer,Quanta Robotics,0.8686,ok
+288,4.0,133.0,Frontend Developer,Driftwood Analytics,0.7203,ok
+288,5.0,135.0,Frontend Developer,Skyline Softworks,0.581,ok
+244,1.0,157.0,Business Analyst,Crestline Digital,0.9261,ok
+244,2.0,162.0,Business Analyst,Driftwood Analytics,0.7856,ok
+244,3.0,159.0,Business Analyst,Northbridge Data Labs,0.7856,ok
+244,4.0,161.0,Business Analyst,Orbit Cloud Co,0.7856,ok
+244,5.0,101.0,Data Analyst,Crestline Digital,0.6645,ok
+55,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.858,ok
+55,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8514,ok
+55,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8324,ok
+55,4.0,150.0,DevOps Engineer,Quanta Robotics,0.7655,ok
+55,5.0,152.0,DevOps Engineer,Granite Edge Tech,0.7454,ok
+51,1.0,169.0,QA Engineer,Quanta Robotics,0.9746,ok
+51,2.0,167.0,QA Engineer,Granite Edge Tech,0.9673,ok
+51,3.0,166.0,QA Engineer,Skyline Softworks,0.9673,ok
+51,4.0,168.0,QA Engineer,Granite Edge Tech,0.9408,ok
+51,5.0,165.0,QA Engineer,Meridian Apps,0.9302,ok
+175,1.0,131.0,Backend Developer,Granite Edge Tech,0.9756,ok
+175,2.0,130.0,Backend Developer,Westgate Solutions,0.9432,ok
+175,3.0,126.0,Backend Developer,Driftwood Analytics,0.9331,ok
+175,4.0,125.0,Backend Developer,Meridian Apps,0.8882,ok
+175,5.0,128.0,Backend Developer,Ferrous Tech,0.878,ok
+190,1.0,115.0,Data Scientist,Meridian Apps,0.8027,ok
+190,2.0,116.0,Data Scientist,Crestline Digital,0.7928,ok
+190,3.0,110.0,Data Scientist,Meridian Apps,0.7205,ok
+190,4.0,109.0,Data Scientist,Meridian Apps,0.7168,ok
+190,5.0,119.0,ML Engineer,Harborview Software,0.7011,ok
+299,1.0,113.0,Data Scientist,Skyline Softworks,0.8238,ok
+299,2.0,110.0,Data Scientist,Meridian Apps,0.6259,ok
+299,3.0,114.0,Data Scientist,Driftwood Analytics,0.5864,ok
+299,4.0,112.0,Data Scientist,Vertex Analytics,0.5864,ok
+299,5.0,111.0,Data Scientist,Driftwood Analytics,0.5697,ok
+188,1.0,115.0,Data Scientist,Meridian Apps,0.8185,ok
+188,2.0,116.0,Data Scientist,Crestline Digital,0.8084,ok
+188,3.0,108.0,Data Analyst,Ferrous Tech,0.8025,ok
+188,4.0,110.0,Data Scientist,Meridian Apps,0.7352,ok
+188,5.0,109.0,Data Scientist,Meridian Apps,0.7304,ok
+170,1.0,111.0,Data Scientist,Driftwood Analytics,0.8572,ok
+170,2.0,119.0,ML Engineer,Harborview Software,0.8041,ok
+170,3.0,110.0,Data Scientist,Meridian Apps,0.7195,ok
+170,4.0,114.0,Data Scientist,Driftwood Analytics,0.6766,ok
+170,5.0,112.0,Data Scientist,Vertex Analytics,0.6766,ok
+59,1.0,131.0,Backend Developer,Granite Edge Tech,0.9756,ok
+59,2.0,130.0,Backend Developer,Westgate Solutions,0.9432,ok
+59,3.0,126.0,Backend Developer,Driftwood Analytics,0.9331,ok
+59,4.0,125.0,Backend Developer,Meridian Apps,0.8882,ok
+59,5.0,128.0,Backend Developer,Ferrous Tech,0.878,ok
+49,1.0,157.0,Business Analyst,Crestline Digital,0.643,ok
+49,2.0,109.0,Data Scientist,Meridian Apps,0.5504,ok
+49,3.0,103.0,Data Analyst,Orbit Cloud Co,0.5504,ok
+49,4.0,158.0,Business Analyst,Bluepeak Systems,0.5476,ok
+49,5.0,162.0,Business Analyst,Driftwood Analytics,0.4463,ok
+236,1.0,144.0,Full Stack Developer,Harborview Software,0.9056,ok
+236,2.0,148.0,Full Stack Developer,Lumen Stack,0.8266,ok
+236,3.0,145.0,Full Stack Developer,Harborview Software,0.8041,ok
+236,4.0,147.0,Full Stack Developer,Cobalt Cloud Studio,0.7834,ok
+236,5.0,143.0,Full Stack Developer,Skyline Softworks,0.623,ok
+253,1.0,160.0,Business Analyst,Lumen Stack,0.8406,ok
+253,2.0,157.0,Business Analyst,Crestline Digital,0.7927,ok
+253,3.0,158.0,Business Analyst,Bluepeak Systems,0.7826,ok
+253,4.0,102.0,Data Analyst,Vertex Analytics,0.7759,ok
+253,5.0,163.0,Business Analyst,Meridian Apps,0.6517,ok
+22,1.0,118.0,ML Engineer,Meridian Apps,0.9479,ok
+22,2.0,120.0,ML Engineer,Meridian Apps,0.8367,ok
+22,3.0,117.0,ML Engineer,Bluepeak Systems,0.8182,ok
+22,4.0,122.0,ML Engineer,Harborview Software,0.8082,ok
+22,5.0,123.0,ML Engineer,Ferrous Tech,0.7071,ok
+161,1.0,169.0,QA Engineer,Quanta Robotics,0.9532,ok
+161,2.0,168.0,QA Engineer,Granite Edge Tech,0.9203,ok
+161,3.0,172.0,QA Engineer,Ferrous Tech,0.8829,ok
+161,4.0,167.0,QA Engineer,Granite Edge Tech,0.8554,ok
+161,5.0,166.0,QA Engineer,Skyline Softworks,0.8554,ok
+277,1.0,128.0,Backend Developer,Ferrous Tech,0.9603,ok
+277,2.0,131.0,Backend Developer,Granite Edge Tech,0.8403,ok
+277,3.0,129.0,Backend Developer,Skyline Softworks,0.8185,ok
+277,4.0,130.0,Backend Developer,Westgate Solutions,0.7857,ok
+277,5.0,126.0,Backend Developer,Driftwood Analytics,0.7816,ok
+192,1.0,178.0,Product Manager,Ferrous Tech,0.9062,ok
+192,2.0,179.0,Product Manager,Quanta Robotics,0.9028,ok
+192,3.0,174.0,Product Manager,Orbit Cloud Co,0.8784,ok
+192,4.0,176.0,Product Manager,Ferrous Tech,0.8671,ok
+192,5.0,175.0,Product Manager,Altrodav Technologies,0.8215,ok
+258,1.0,178.0,Product Manager,Ferrous Tech,0.7593,ok
+258,2.0,175.0,Product Manager,Altrodav Technologies,0.6348,ok
+258,3.0,180.0,Product Manager,Crestline Digital,0.6265,ok
+258,4.0,177.0,Product Manager,Granite Edge Tech,0.616,ok
+258,5.0,179.0,Product Manager,Quanta Robotics,0.5487,ok
+150,1.0,120.0,ML Engineer,Meridian Apps,0.9166,ok
+150,2.0,118.0,ML Engineer,Meridian Apps,0.8671,ok
+150,3.0,109.0,Data Scientist,Meridian Apps,0.723,ok
+150,4.0,119.0,ML Engineer,Harborview Software,0.7071,ok
+150,5.0,117.0,ML Engineer,Bluepeak Systems,0.6828,ok
+131,1.0,169.0,QA Engineer,Quanta Robotics,0.8415,ok
+131,2.0,167.0,QA Engineer,Granite Edge Tech,0.8354,ok
+131,3.0,166.0,QA Engineer,Skyline Softworks,0.8354,ok
+131,4.0,168.0,QA Engineer,Granite Edge Tech,0.8135,ok
+131,5.0,165.0,QA Engineer,Meridian Apps,0.8047,ok
+152,1.0,134.0,Frontend Developer,Lumen Stack,0.6554,ok
+152,2.0,136.0,Frontend Developer,Bluepeak Systems,0.5372,ok
+152,3.0,139.0,Frontend Developer,Quanta Robotics,0.5372,ok
+152,4.0,135.0,Frontend Developer,Skyline Softworks,0.5235,ok
+152,5.0,138.0,Frontend Developer,Quanta Robotics,0.3822,ok
+100,1.0,134.0,Frontend Developer,Lumen Stack,0.8188,ok
+100,2.0,141.0,Full Stack Developer,Vertex Analytics,0.6845,ok
+100,3.0,136.0,Frontend Developer,Bluepeak Systems,0.6461,ok
+100,4.0,139.0,Frontend Developer,Quanta Robotics,0.6461,ok
+100,5.0,138.0,Frontend Developer,Quanta Robotics,0.537,ok
+88,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8546,ok
+88,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8467,ok
+88,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8235,ok
+88,4.0,153.0,DevOps Engineer,Meridian Apps,0.7749,ok
+88,5.0,150.0,DevOps Engineer,Quanta Robotics,0.7311,ok
+215,1.0,176.0,Product Manager,Ferrous Tech,0.8571,ok
+215,2.0,173.0,Product Manager,Vertex Analytics,0.8052,ok
+215,3.0,177.0,Product Manager,Granite Edge Tech,0.8001,ok
+215,4.0,180.0,Product Manager,Crestline Digital,0.7869,ok
+215,5.0,158.0,Business Analyst,Bluepeak Systems,0.6502,ok
+122,1.0,154.0,DevOps Engineer,Northbridge Data Labs,1.0,ok
+122,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.8698,ok
+122,3.0,155.0,DevOps Engineer,Granite Edge Tech,0.7767,ok
+122,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7376,ok
+122,5.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.7272,ok
+300,1.0,118.0,ML Engineer,Meridian Apps,0.8285,ok
+300,2.0,120.0,ML Engineer,Meridian Apps,0.7824,ok
+300,3.0,117.0,ML Engineer,Bluepeak Systems,0.7604,ok
+300,4.0,122.0,ML Engineer,Harborview Software,0.6332,ok
+300,5.0,109.0,Data Scientist,Meridian Apps,0.5562,ok
+21,1.0,154.0,DevOps Engineer,Northbridge Data Labs,0.9533,ok
+21,2.0,152.0,DevOps Engineer,Granite Edge Tech,0.8306,ok
+21,3.0,155.0,DevOps Engineer,Granite Edge Tech,0.7407,ok
+21,4.0,149.0,DevOps Engineer,Northbridge Data Labs,0.7038,ok
+21,5.0,156.0,DevOps Engineer,Cobalt Cloud Studio,0.6964,ok
+189,1.0,129.0,Backend Developer,Skyline Softworks,0.8653,ok
+189,2.0,125.0,Backend Developer,Meridian Apps,0.7605,ok
+189,3.0,128.0,Backend Developer,Ferrous Tech,0.6719,ok
+189,4.0,131.0,Backend Developer,Granite Edge Tech,0.5931,ok
+189,5.0,126.0,Backend Developer,Driftwood Analytics,0.515,ok
+72,1.0,168.0,QA Engineer,Granite Edge Tech,1.0,ok
+72,2.0,167.0,QA Engineer,Granite Edge Tech,0.9324,ok
+72,3.0,166.0,QA Engineer,Skyline Softworks,0.9324,ok
+72,4.0,169.0,QA Engineer,Quanta Robotics,0.925,ok
+72,5.0,172.0,QA Engineer,Ferrous Tech,0.8295,ok
+107,1.0,155.0,DevOps Engineer,Granite Edge Tech,0.8546,ok
+107,2.0,154.0,DevOps Engineer,Northbridge Data Labs,0.8467,ok
+107,3.0,149.0,DevOps Engineer,Northbridge Data Labs,0.8235,ok
+107,4.0,153.0,DevOps Engineer,Meridian Apps,0.7749,ok
+107,5.0,150.0,DevOps Engineer,Quanta Robotics,0.7311,ok
+271,1.0,163.0,Business Analyst,Meridian Apps,0.9246,ok
+271,2.0,162.0,Business Analyst,Driftwood Analytics,0.913,ok
+271,3.0,159.0,Business Analyst,Northbridge Data Labs,0.913,ok
+271,4.0,161.0,Business Analyst,Orbit Cloud Co,0.913,ok
+271,5.0,105.0,Data Analyst,Northbridge Data Labs,0.876,ok
+103,1.0,104.0,Data Analyst,Bluepeak Systems,0.8955,ok
+103,2.0,106.0,Data Analyst,Meridian Apps,0.8391,ok
+103,3.0,101.0,Data Analyst,Crestline Digital,0.7111,ok
+103,4.0,105.0,Data Analyst,Northbridge Data Labs,0.6159,ok
+103,5.0,108.0,Data Analyst,Ferrous Tech,0.6094,ok

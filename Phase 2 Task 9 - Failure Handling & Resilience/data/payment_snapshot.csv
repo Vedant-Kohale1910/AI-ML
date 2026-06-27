@@ -1,0 +1,301 @@
+student_id,skills_at_payment,snapshot_note
+204,"Python,Power BI,Excel,Data Visualization,HTML",clean
+267,"SQL,Excel,Stakeholder Management,React,Roadmapping",clean
+153,"TypeScript,React,JavaScript,HTML,Git",clean
+10,"TypeScript,Git,JavaScript,HTML",clean
+234,"Machine Learning,Deep Learning,Excel,Docker,Python,SQL",clean
+227,"CI/CD,Git,Docker",clean
+197,"Docker,Linux,AWS,Kubernetes,SQL,Git,CI/CD",clean
+110,"SQL,React,JavaScript,Deep Learning,Git",clean
+6,"Docker,Machine Learning,SQL,Statistics,TensorFlow",stale_snapshot (missing Python)
+176,"Spring Boot,Git,Java,REST API,SQL",clean
+238,"Deep Learning,Pandas,SQL,ML,Git,HTML,Statistics",clean
+58,"Test Automation,Java,Manual Testing",clean
+219,"AWS,Kubernetes,Linux",clean
+46,"Git,Microservices,SQL,Spring Boot,Java,REST API",clean
+183,"SQL,Statistics,Python,Excel,Power BI,Data Visualization",clean
+222,"Agile,Excel,Communication,Stakeholder Management,SQL",clean
+290,"AWS,JavaScript,HTML,Git,CSS,React,TypeScript",clean
+212,"Git,Kubernetes,CI/CD,AWS,Linux",clean
+149,"Node.js,JavaScript,React",clean
+166,"DL,AWS,CI/CD,Pandas,Linux,Git",stale_snapshot (missing Kubernetes)
+79,"Roadmapping,SQL,Communication,Agile,Node.js",stale_snapshot (missing Excel)
+114,"SQL,Git,AWS,Linux,Kubernetes",clean
+250,"TypeScript,HTML,Selenium,JavaScript,React,Manual Testing",clean
+251,"Power BI,SQL,REST API,Excel,Statistics,Data Visualization,Communication",clean
+105,"Python,Data Visualization,Statistics,Linux",clean
+43,"SQL,Pandas,Python,Deep Learning,ML",clean
+282,"Statistics,SQL,Communication,Excel,Manual Testing,Data Visualization",clean
+296,"TypeScript,Git,JavaScript,CSS,HTML",clean
+158,"REST API,Git,Microservices,TensorFlow,Deep Learning,SQL",clean
+239,"Git,SQL,Java,CSS,REST API,Spring Boot",clean
+18,"SQL,Pandas,DL",clean
+165,"Git,REST API,SQL,Node.js,React,JavaScript",clean
+34,"Power BI,Data Visualization,Communication,SQL,Statistics,Excel,Git",clean
+25,"Selenium,SQL,Communication,Excel,Roadmapping,Agile",clean
+216,"SQL,HTML,Statistics,Python,Data Visualization,PowerBI,Excel",clean
+120,"JavaScript,SQL,Git,Agile,Node.js,React",clean
+8,"Statistics,Machine Learning,SQL,Git,Deep Learning",clean
+91,"SQL,Node.js,React,JavaScript,Git,REST API",clean
+47,"React,Statistics,Node.js,Power BI,JavaScript,SQL,Git",clean
+74,"PowerBI,Machine Learning,Statistics,Python,Deep Learning,SQL,Pandas",clean
+94,"CI/CD,Git,Docker,REST API,AWS,Microservices",clean
+77,"HTML,TypeScript,Manual Testing,CSS",clean
+287,"Deep Learning,Pandas,Python,Test Automation,SQL,Selenium",clean
+61,"Machine Learning,Python,Deep Learning,SQL",clean
+78,"TypeScript,CSS,React,JavaScript,SQL,Git",clean
+64,"Pandas,Git,Machine Learning,TypeScript,CSS,React",clean
+235,"TensorFlow,Deep Learning,SQL,Docker,Roadmapping",clean
+230,"Roadmapping,Communication,Excel,Agile,Stakeholder Management,SQL",clean
+112,"Linux,Docker,CI/CD,AWS",clean
+232,"Data Visualization,Statistics,Power BI,Excel,SQL,Python",clean
+181,"Statistics,Pandas,Machine Learning,SQL,Communication,DL,Python",clean
+145,"Statistics,SQL,Python,Pandas",clean
+240,"Git,AWS,Kubernetes,CI/CD",clean
+76,"Data Visualization,Excel,Selenium,Power BI,Statistics",clean
+298,"Power BI,Statistics,Data Visualization,Excel",stale_snapshot (missing Python)
+279,"Git,Kubernetes,Docker,AWS,Linux,CI/CD",clean
+98,"Git,Excel,Linux,Communication,Kubernetes",clean
+93,"JavaScript,Node.js,AWS,SQL,Docker,REST API,Git",clean
+193,"Test Automation,Java,Manual Testing,Selenium,Statistics",clean
+26,"Java,SQL,Git,Test Automation,Selenium",clean
+233,"Power BI,Statistics,Python,SQL,Excel,Data Visualization",clean
+60,"Communication,Statistics,Data Visualization,Excel,Power BI,Python",clean
+7,"Excel,Communication,Stakeholder Management,SQL,Agile",clean
+186,"Git,Kubernetes,Statistics,SQL,Power BI,Python",clean
+174,"CSS,React,TypeScript",clean
+31,"Data Visualization,Excel,Python,Statistics,SQL",clean
+23,"Data Visualization,Statistics,Excel,SQL,Python",clean
+257,"Manual Testing,SQL,Java,Git,Selenium,Test Automation",clean
+57,"AWS,Docker,Selenium,Linux,CI/CD",clean
+187,"ML,Python,Statistics,Pandas,AWS,DL,SQL",clean
+109,"Python,Git,Docker,SQL,DL",clean
+127,"Python,SQL,Excel,Power BI,Statistics",clean
+231,"Data Visualization,Excel,REST API,SQL",clean
+194,"CI/CD,Linux,Git",clean
+130,"SQL,DL,Pandas,Python",clean
+283,"SQL,Excel,Power BI,AWS",stale_snapshot (missing Python)
+83,"React,Node.js,JavaScript,Docker,Git,REST API",clean
+85,"Statistics,Agile,Python,Deep Learning,Roadmapping,Pandas",clean
+67,"Docker,Machine Learning,Python,TensorFlow,SQL",clean
+289,"SQL,Git,Node.js,REST API,JavaScript,React",clean
+164,"Java,CSS,REST API,Git,Spring Boot,Microservices",clean
+155,"AWS,SQL,REST API,Microservices,Git,Java",clean
+20,"Excel,Stakeholder Management,SQL,Communication,HTML,Agile",clean
+125,"Git,Test Automation,Java,Manual Testing,Selenium,SQL,Microservices",clean
+80,"Machine Learning,HTML,SQL,TensorFlow,Python,Docker,Deep Learning",clean
+115,"Java,Test Automation,Selenium,SQL,Git",clean
+119,"TypeScript,React,Communication,CSS",clean
+73,"JavaScript,Excel,SQL,Power BI,Data Visualization,Statistics",clean
+16,"React,JavaScript,Git,CSS,REST API",clean
+11,"Git,Microservices,SQL,REST API,Java",clean
+195,"Python,SQL,Selenium,Statistics,Machine Learning",clean
+102,"Git,TypeScript,React",clean
+69,"Machine Learning,Deep Learning,Python,Docker,TensorFlow,SQL",clean
+225,"TensorFlow,REST API,SQL,Docker",clean
+38,"HTML,React,Git,TypeScript,Python,CSS",clean
+17,"Communication,Agile,Git,Roadmapping",clean
+180,"Git,CI/CD,AWS,Docker",clean
+148,"Selenium,Manual Testing,Test Automation,SQL,Git,Java",clean
+275,"AWS,React,TypeScript,Git",clean
+68,"Spring Boot,SQL,REST API,Manual Testing",stale_snapshot (missing Git)
+229,"SQL,Data Visualization,Pandas,Power BI,Excel,Communication",clean
+70,"Git,Node.js,React,SQL,JavaScript,REST API",clean
+32,"Python,SQL,Statistics,Excel",clean
+184,"Java,Git,Selenium,Test Automation",clean
+266,"Power BI,Python,Statistics,Excel,Data Visualization",clean
+226,"DL,Machine Learning,Python,SQL,Stakeholder Management,Roadmapping,Statistics,Pandas",clean
+141,"Deep Learning,Pandas,ML,Git,SQL,Statistics",clean
+19,"Python,Machine Learning,SQL,Statistics,Deep Learning",clean
+182,"PowerBI,Excel,Statistics,Communication,SQL,Data Visualization",clean
+97,"Roadmapping,Excel,Communication,Stakeholder Management",clean
+133,"Deep Learning,Power BI,SQL,Pandas,Machine Learning",clean
+263,"TensorFlow,Machine Learning,Git,SQL,DL,Selenium,Docker",clean
+87,"SQL,Docker,TensorFlow,DL",clean
+249,"SQL,Python,Power BI,Statistics,Data Visualization",clean
+246,"Java,SQL,Manual Testing,Git",clean
+117,"Python,Pandas,SQL",clean
+147,"DL,Python,Git,Linux,Kubernetes,CI/CD",clean
+293,"HTML,React,Git,TypeScript",clean
+198,"Microservices,Spring Boot,Java,REST API,Git",clean
+207,"Node.js,SQL,Data Visualization,REST API,Python,Power BI",clean
+56,"REST API,Java,SQL,Git,Spring Boot",clean
+173,"Excel,Communication,Stakeholder Management,Agile,Roadmapping,SQL",clean
+185,"JavaScript,Roadmapping,Excel,Node.js,Communication,SQL,Stakeholder Management,Agile",clean
+168,"Docker,Deep Learning,TensorFlow,SQL,Machine Learning,Spring Boot",clean
+140,"Excel,Machine Learning,Roadmapping,Agile,SQL,Stakeholder Management,DL",clean
+254,"Excel,Git,Statistics,SQL,Test Automation,Manual Testing,Selenium",clean
+39,"SQL,Node.js,Excel,Python,Statistics,PowerBI",clean
+126,"Excel,Data Visualization,Statistics,Power BI,Agile",clean
+196,"PowerBI,Data Visualization,Microservices,Communication",clean
+284,"Node.js,JavaScript,React,REST API,Roadmapping,Git,SQL",clean
+138,"REST API,Java,Microservices,Python,Spring Boot,Git",clean
+113,"Communication,SQL,Excel",clean
+169,"Communication,Deep Learning,Machine Learning,Python,SQL",clean
+118,"Git,Java,Microservices,Spring Boot,SQL",clean
+278,"Manual Testing,DL,TensorFlow,Selenium,Java,Test Automation,SQL,Git",clean
+272,"Python,SQL,Excel,Power BI,JavaScript,Git,Data Visualization,Statistics",clean
+156,"React,Excel,Git,JavaScript,TypeScript,HTML,CSS",clean
+177,"Python,Deep Learning,TensorFlow,SQL",clean
+179,"Python,CSS,Git,TypeScript,React,JavaScript",clean
+3,"REST API,Statistics,Node.js,React,JavaScript,SQL",clean
+116,"SQL,Spring Boot,Git,Microservices",clean
+144,"Communication,Deep Learning,Statistics,SQL",clean
+178,"CSS,Git,React,JavaScript,TypeScript",clean
+121,"Linux,Docker,Kubernetes,Git,CI/CD",clean
+211,"Machine Learning,Excel,SQL,Data Visualization,Statistics,Power BI,Communication",clean
+261,"Python,CI/CD,Docker,Kubernetes",clean
+128,"Pandas,Power BI,Statistics,Python",clean
+75,"Git,JavaScript,SQL,React,Node.js",clean
+30,"Kubernetes,Docker,CI/CD,Linux,Git,AWS,Pandas",clean
+84,"Power BI,Statistics,Excel,Java,Data Visualization,Git",clean
+270,"Kubernetes,AWS,SQL,Git,Python",clean
+108,"REST API,Data Visualization,SQL,Git,Microservices",clean
+224,"Node.js,SQL,React,JavaScript,Git,REST API",clean
+159,"Deep Learning,Spring Boot,TensorFlow,Machine Learning,Python",clean
+281,"Git,TypeScript,React,JavaScript",clean
+247,"Statistics,SQL,DL,Pandas,Python,Docker",clean
+223,"Deep Learning,Machine Learning,TensorFlow,Python,Docker,SQL",clean
+66,"Spring Boot,Microservices,Pandas,Git,DL,Java",clean
+199,"Communication,SQL,Manual Testing,Test Automation,Selenium",clean
+86,"SQL,Spring Boot,HTML,Microservices,Java,React",clean
+214,"Git,CI/CD,Test Automation,Docker,Linux,AWS,Kubernetes",clean
+160,"SQL,PowerBI,Excel,Data Visualization",clean
+13,"Communication,SQL,Docker,TensorFlow,Deep Learning",clean
+36,"Git,REST API,Spring Boot,Microservices,SQL",clean
+29,"Deep Learning,Kubernetes,Linux,Git,Docker",clean
+143,"JavaScript,SQL,Node.js,React,Stakeholder Management,Git,Roadmapping,REST API",clean
+285,"JavaScript,REST API,Git,SQL",clean
+255,"Git,Statistics,JavaScript,TypeScript",clean
+171,"SQL,Git,AWS,Java,Selenium,Test Automation",clean
+52,"Communication,Excel,SQL,Linux,Agile,Roadmapping",clean
+96,"TypeScript,Deep Learning,HTML,CSS,JavaScript",clean
+209,"JavaScript,HTML,React,Git",clean
+248,"SQL,Excel,Power BI,Statistics,Data Visualization",clean
+42,"SQL,Git,AWS,Java,Microservices,Spring Boot",clean
+90,"SQL,ML,Python,Statistics",clean
+245,"CI/CD,Data Visualization,AWS,Docker,Git,Kubernetes,Linux",clean
+137,"TensorFlow,ML,SQL,Deep Learning,Docker",clean
+27,"CSS,TypeScript,Git,React,JavaScript,HTML,SQL",clean
+294,"Communication,Excel,Roadmapping,Stakeholder Management",clean
+142,"Java,Test Automation,Git,SQL,Selenium",clean
+201,"SQL,Roadmapping,Excel,Communication,Agile",clean
+1,"SQL,REST API,Docker,AWS,CI/CD,Kubernetes,Git",clean
+269,"Python,Statistics,Pandas,SQL",clean
+273,"Spring Boot,Microservices,Java,Docker,REST API",clean
+101,"SQL,Docker,Linux,AWS,Git,Kubernetes,CI/CD",clean
+260,"ML,Docker,Python,Data Visualization",clean
+256,"TensorFlow,Python,Selenium,Deep Learning,SQL,ML",clean
+172,"Git,SQL,Java,Manual Testing,Python,Selenium,Test Automation",clean
+99,"SQL,Manual Testing,Java,Git",clean
+37,"DL,SQL,TensorFlow",clean
+62,"Selenium,Excel,Git,Java,SQL,Test Automation,Manual Testing",clean
+151,"Test Automation,Statistics,SQL,Power BI,Data Visualization",clean
+237,,empty_snapshot
+203,"Git,SQL,Java,REST API,Spring Boot,Microservices,React",clean
+243,"Python,Machine Learning,Pandas,SQL,Deep Learning",clean
+12,"Manual Testing,Power BI,Java,Git,Test Automation",clean
+297,"SQL,REST API,Statistics,Communication,PowerBI",clean
+268,"Statistics,Communication,Data Visualization,Power BI",clean
+28,"CI/CD,Kubernetes,AWS,Git",clean
+220,"SQL,Selenium,Java,Communication,Git",clean
+5,"Statistics,DL,SQL,Python,Pandas,Data Visualization",clean
+123,"SQL,Pandas,Machine Learning,Python,Deep Learning",clean
+33,"Docker,SQL,TensorFlow,Machine Learning",clean
+205,"SQL,Microservices,Git,Spring Boot,REST API",clean
+163,"Python,Machine Learning,Pandas,SQL,DL,Statistics",clean
+210,"Data Visualization,SQL,Machine Learning,DL,TensorFlow,Docker",clean
+286,"TypeScript,Git,React,CSS,HTML",clean
+139,"SQL,Agile,Stakeholder Management,Excel",clean
+63,"Power BI,Communication,Data Visualization,AWS,Excel,SQL,Statistics",clean
+136,"Manual Testing,Power BI,SQL,Git",clean
+129,"JavaScript,Deep Learning,Python,Pandas,Statistics,Machine Learning,SQL",clean
+291,"Excel,CI/CD,SQL,Statistics,Data Visualization,Communication",clean
+9,"Statistics,Machine Learning,SQL",stale_snapshot (missing Pandas)
+71,"TensorFlow,Git,DL,ML",clean
+265,"CI/CD,AWS,Machine Learning,Linux,Git",clean
+65,"CI/CD,Git,AWS,Kubernetes,Communication,Docker",clean
+45,"SQL,Agile,Docker,Communication,Git,Excel",clean
+280,"Agile,Roadmapping,SQL,Excel,Stakeholder Management,React,Communication",clean
+157,"CI/CD,Git,AWS,Linux,Kubernetes",clean
+41,"Microservices,Spring Boot,REST API,Java,SQL,Git",clean
+124,"SQL,Data Visualization,Power BI,Communication",clean
+276,"Deep Learning,Pandas,Python,SQL",stale_snapshot (missing Statistics)
+217,"Git,HTML,JavaScript,Java,CSS,React,TypeScript",clean
+154,"Communication,Data Visualization,SQL,Statistics,Git",clean
+24,"Roadmapping,Excel,Agile,Stakeholder Management,Communication",clean
+262,"Selenium,Git,SQL,Java,Test Automation,Microservices,Manual Testing",clean
+111,"Python,TensorFlow,Docker,CSS,JavaScript",clean
+82,"PowerBI,REST API,Communication,Excel,Statistics,SQL",clean
+208,"Stakeholder Management,Git,Java,Test Automation,SQL,Selenium",clean
+213,"SQL,Manual Testing,Test Automation",clean
+40,"Microservices,SQL,REST API,Spring Boot,Git",clean
+241,"DL,React,Node.js,REST API,SQL,Git",clean
+292,"Linux,Kubernetes,CI/CD,Docker",clean
+259,"Agile,Excel,Roadmapping",clean
+200,"Roadmapping,Stakeholder Management,CI/CD,SQL,Agile,Excel",clean
+15,"PowerBI,Communication,Data Visualization,SQL",clean
+48,"REST API,Git,SQL,Microservices",clean
+95,"Excel,Statistics,Communication,Docker,Power BI,Data Visualization",clean
+264,"Communication,Stakeholder Management,Roadmapping,Agile,Excel,Docker,Python",clean
+228,"Machine Learning,TensorFlow,Deep Learning,Docker",clean
+274,"Test Automation,Git,Selenium,Java,SQL,Manual Testing",clean
+202,"JavaScript,CSS,Node.js,TypeScript,React",clean
+162,"React,Git,Communication,JavaScript,SQL,Stakeholder Management,Node.js,REST API",clean
+44,"Node.js,REST API,SQL,JavaScript,Agile,Git",clean
+218,"SQL,Roadmapping,Agile,Stakeholder Management,Git,Selenium,Communication",clean
+146,"TensorFlow,Docker,SQL,Deep Learning,Excel,ML",stale_snapshot (missing Python)
+191,"Deep Learning,Machine Learning,Pandas,Python,Statistics",clean
+221,"JavaScript,Power BI,SQL,React,HTML,CSS,Git",clean
+252,"AWS,PowerBI,Kubernetes,Git,CI/CD",clean
+4,"AWS,CI/CD,HTML,Kubernetes,Linux",clean
+106,"SQL,Pandas,Deep Learning,Statistics",clean
+54,"Communication,Power BI,Excel,Statistics,SQL,JavaScript",clean
+134,"CSS,Git,JavaScript,TypeScript,React",clean
+2,"AWS,Agile,Stakeholder Management,Linux,Git,Kubernetes",clean
+132,"ML,Statistics,Excel,SQL,Deep Learning",clean
+104,"Machine Learning,Statistics,SQL,Power BI,DL,Communication,Data Visualization",clean
+50,"CI/CD,Linux,Machine Learning,Git,DL,Kubernetes,AWS,Docker",clean
+81,"Excel,Roadmapping,SQL",clean
+206,"CI/CD,Git,Kubernetes",clean
+35,"Stakeholder Management,Roadmapping,Communication,SQL,Docker",clean
+92,"Excel,Stakeholder Management,SQL,Statistics,Communication",clean
+53,"Stakeholder Management,Agile",stale_snapshot (missing Communication)
+242,"Manual Testing,Test Automation,Node.js,Java,Git",clean
+14,"Python,Test Automation,Manual Testing,Selenium",clean
+89,"Git,SQL,TensorFlow,Docker,Machine Learning",clean
+167,"Python,Pandas,Machine Learning,SQL",clean
+295,"JavaScript,TypeScript,CSS,Git",clean
+135,"JavaScript,React,HTML,TypeScript,TensorFlow",clean
+288,"TypeScript,CSS,Git,HTML",clean
+244,"Excel,Communication,Data Visualization,PowerBI",clean
+55,"Git,Kubernetes,AWS,CI/CD,Linux,HTML,Docker",clean
+51,"Test Automation,Manual Testing,Git,Java,SQL,Selenium",clean
+175,"REST API,Java,SQL,Microservices,Spring Boot,Git",clean
+190,"SQL,Machine Learning,Deep Learning,REST API,Python,Statistics",clean
+299,"Python,JavaScript,Pandas,SQL,Statistics",clean
+188,"Machine Learning,Python,Statistics,SQL,DL,Power BI",clean
+170,"Python,Pandas,Deep Learning,SQL",clean
+59,"Java,SQL,Spring Boot,REST API,Microservices,Git",clean
+49,"Data Visualization,SQL,Machine Learning,Communication",clean
+236,"Stakeholder Management,React,REST API,Node.js,SQL,Git,JavaScript",clean
+253,"Statistics,Data Visualization,Communication,Excel,SQL",clean
+22,"TensorFlow,SQL,DL,Python,Git,Docker,ML",clean
+161,"Python,Java,Manual Testing,Selenium,Git,Test Automation",clean
+277,"Microservices,Spring Boot,Java,Git,SQL",clean
+192,"Stakeholder Management,SQL,Agile,Communication,Excel,Roadmapping",clean
+258,"Roadmapping,SQL,Statistics,Stakeholder Management,Excel",clean
+150,"Machine Learning,TensorFlow,Python,DL,SQL",clean
+131,"Git,Selenium,Manual Testing,Test Automation,Java,JavaScript,TypeScript,SQL",clean
+152,"TypeScript,React,HTML,Docker",clean
+100,"TypeScript,HTML,Git,SQL,React",clean
+88,"Kubernetes,Docker,Linux,AWS,CI/CD",clean
+215,"Communication,Agile,Roadmapping,Excel,Linux,SQL",clean
+122,"Docker,Linux,CI/CD,AWS,Git",clean
+300,"Docker,Statistics,TensorFlow,Python,ML",clean
+21,"Statistics,Git,Docker,Linux,AWS,CI/CD",clean
+189,"Git,Docker,SQL,Spring Boot,Java",clean
+72,"Manual Testing,Java,Test Automation,Selenium",clean
+107,"AWS,Linux,CI/CD,Docker,Kubernetes",clean
+271,"SQL,Excel,Power BI,Statistics,Data Visualization",clean
+103,"Python,Power BI,Excel",clean
