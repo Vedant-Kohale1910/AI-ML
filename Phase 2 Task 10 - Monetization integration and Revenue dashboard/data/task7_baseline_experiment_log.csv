@@ -1,0 +1,10 @@
+model,split,alpha,precision_at_5,recall_at_5,fpr_at_5,n_students
+baseline,train,0.0,0.811,0.507,0.013,210
+tfidf,train,1.0,0.88,0.55,0.008,210
+tuned_hybrid,train,0.8,0.88,0.55,0.008,210
+baseline,val,0.0,0.823,0.514,0.012,44
+tfidf,val,1.0,0.909,0.568,0.006,44
+tuned_hybrid,val,0.8,0.909,0.568,0.006,44
+baseline,test,0.0,0.809,0.505,0.013,46
+tfidf,test,1.0,0.9,0.562,0.007,46
+tuned_hybrid,test,0.8,0.896,0.56,0.007,46

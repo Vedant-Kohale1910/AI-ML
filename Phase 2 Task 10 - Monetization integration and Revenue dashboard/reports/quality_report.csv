@@ -1,0 +1,801 @@
+student_id,target_role,top1_job,top1_score,top1_correct_role,would_show_low_fit_warning,matched_skills,missing_skills,status
+1577,Business Analyst,Business Analyst,1.0,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1205,DevOps Engineer,DevOps Engineer,0.8406,True,False,"Kubernetes,CI/CD,Git,Linux",Docker,ok
+1108,Full Stack Developer,Full Stack Developer,0.899,True,False,"Node.js,REST API,React",,ok
+1767,Backend Developer,Backend Developer,0.9226,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1296,Business Analyst,Business Analyst,0.9281,True,False,"Excel,Communication,SQL",,ok
+1018,ML Engineer,ML Engineer,0.9166,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1777,ML Engineer,ML Engineer,0.7894,True,False,"Python,TensorFlow,Docker,Deep Learning",Machine Learning,ok
+1367,QA Engineer,QA Engineer,0.7489,True,False,"Test Automation,Java,Manual Testing",SQL,ok
+1267,Data Scientist,Data Scientist,0.7311,True,False,"Statistics,Machine Learning",Deep Learning,ok
+1624,QA Engineer,QA Engineer,0.5824,True,False,"Test Automation,Java,Git","Manual Testing,Selenium",ok
+1144,Business Analyst,Business Analyst,0.8905,True,False,"SQL,Power BI,Communication,Data Visualization",Excel,ok
+1376,Backend Developer,Backend Developer,0.9361,True,False,"Java,REST API,SQL",,ok
+1521,Backend Developer,Backend Developer,0.8557,True,False,"Spring Boot,Microservices,SQL,Git",REST API,ok
+1136,Backend Developer,Backend Developer,0.9173,True,False,"Spring Boot,REST API,SQL,Java",Git,ok
+1023,Frontend Developer,Frontend Developer,1.0,True,False,"Git,JavaScript,TypeScript,CSS",,ok
+1511,DevOps Engineer,DevOps Engineer,0.9265,True,False,"AWS,Docker,CI/CD,Git",,ok
+1101,Data Scientist,Data Scientist,0.8546,True,False,"Deep Learning,SQL,Statistics,Python",,ok
+1270,Business Analyst,Business Analyst,0.8687,True,False,"Excel,Communication,SQL",,ok
+1327,DevOps Engineer,DevOps Engineer,0.979,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1359,ML Engineer,Data Scientist,0.5483,False,False,"Machine Learning,SQL",Python,ok
+1049,Full Stack Developer,Full Stack Developer,0.8525,True,False,"Git,Node.js,React",,ok
+1141,Data Analyst,Data Analyst,0.8005,True,False,"Statistics,SQL,Python",Power BI,ok
+1665,Data Analyst,Data Analyst,0.8783,True,False,"Power BI,Statistics,Python,SQL,Data Visualization",,ok
+1593,Product Manager,Product Manager,0.8389,True,False,"Excel,Agile,Stakeholder Management,SQL",,ok
+1137,ML Engineer,ML Engineer,0.6528,True,False,"Deep Learning,Docker",Python,ok
+1192,Product Manager,Product Manager,0.7212,True,False,"Stakeholder Management,Communication,Excel",Agile,ok
+1645,Full Stack Developer,Full Stack Developer,0.7915,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1082,QA Engineer,QA Engineer,0.7801,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1460,Data Analyst,Business Analyst,0.8427,False,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1721,Business Analyst,Business Analyst,0.9333,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1153,QA Engineer,QA Engineer,0.7743,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1477,Backend Developer,Backend Developer,0.9219,True,False,"REST API,Spring Boot,Microservices,SQL,Git",,ok
+1127,Data Analyst,Data Analyst,1.0,True,False,"SQL,Power BI,Excel,Python",,ok
+1548,ML Engineer,ML Engineer,1.0,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1440,ML Engineer,ML Engineer,0.8149,True,False,"TensorFlow,Docker,Deep Learning,Machine Learning",Python,ok
+1329,Backend Developer,Backend Developer,0.7391,True,False,"Spring Boot,Git,REST API,SQL",Java,ok
+1626,Product Manager,Product Manager,0.8735,True,False,"Agile,SQL,Roadmapping",Excel,ok
+1218,Backend Developer,Backend Developer,0.9173,True,False,"Spring Boot,REST API,SQL,Java",Git,ok
+1457,Backend Developer,Backend Developer,0.7523,True,False,"REST API,Microservices,SQL","Spring Boot,Git",ok
+1756,Full Stack Developer,Full Stack Developer,0.8281,True,False,"Node.js,REST API",React,ok
+1007,Frontend Developer,Full Stack Developer,0.8044,False,False,"Git,SQL,React",,ok
+1339,Product Manager,Product Manager,0.8633,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1598,ML Engineer,ML Engineer,0.9477,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1512,QA Engineer,QA Engineer,1.0,True,False,"Git,Selenium,SQL,Manual Testing,Test Automation",,ok
+1416,Data Scientist,Data Scientist,0.755,True,False,"Deep Learning,SQL,Statistics,Python",,ok
+1527,Backend Developer,Backend Developer,0.8161,True,False,"Java,Spring Boot",Git,ok
+1712,Data Analyst,Data Analyst,0.8713,True,False,"SQL,Power BI,Excel,Python",,ok
+1259,QA Engineer,QA Engineer,0.86,True,False,"SQL,Git,Manual Testing",,ok
+1054,Full Stack Developer,Full Stack Developer,0.9155,True,False,"Node.js,REST API,React",,ok
+1075,Backend Developer,Backend Developer,0.9679,True,False,"Microservices,REST API,Java,Git",,ok
+1798,Data Analyst,Business Analyst,0.6396,False,False,"SQL,Data Visualization,Excel",Power BI,ok
+1254,Full Stack Developer,Full Stack Developer,0.8779,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1004,Business Analyst,Business Analyst,0.9246,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1704,Data Analyst,Data Analyst,0.8976,True,False,"Statistics,Python,Power BI",SQL,ok
+1719,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1634,DevOps Engineer,DevOps Engineer,0.7137,True,False,"AWS,Kubernetes",Git,ok
+1603,Business Analyst,Business Analyst,0.8839,True,False,"Statistics,Communication,Power BI",,ok
+1116,Data Scientist,Data Scientist,0.7765,True,False,"Statistics,Machine Learning,Pandas,Python",Deep Learning,ok
+1787,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1701,QA Engineer,QA Engineer,0.8347,True,False,"Test Automation,Java,Git,Selenium",Manual Testing,ok
+1722,QA Engineer,QA Engineer,1.0,True,False,"Test Automation,Java,SQL,Manual Testing",,ok
+1295,DevOps Engineer,DevOps Engineer,0.8236,True,False,"Kubernetes,CI/CD,Git,Linux",Docker,ok
+1600,QA Engineer,QA Engineer,1.0,True,False,"Manual Testing,Selenium,Test Automation,SQL,Java",,ok
+1666,Data Analyst,Data Analyst,0.6668,True,False,"Statistics,Python,Excel,SQL",Data Visualization,ok
+1543,QA Engineer,QA Engineer,0.8766,True,False,"Test Automation,Java,SQL,Manual Testing",,ok
+1031,Frontend Developer,Frontend Developer,0.824,True,False,"JavaScript,TypeScript,CSS",Git,ok
+1567,Full Stack Developer,Full Stack Developer,0.8779,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1631,Product Manager,Product Manager,0.8792,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1016,Data Scientist,ML Engineer,0.8078,False,False,"Python,Deep Learning,Docker",,ok
+1649,Business Analyst,Business Analyst,0.9514,True,False,"Communication,Excel,Statistics",,ok
+1231,Data Analyst,Data Analyst,0.9006,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1550,Frontend Developer,Frontend Developer,0.7276,True,False,"React,HTML,JavaScript",CSS,ok
+1575,Business Analyst,Business Analyst,0.8839,True,False,"Statistics,Communication,Power BI",,ok
+1065,Full Stack Developer,Full Stack Developer,0.7257,True,False,"Node.js,REST API",React,ok
+1729,Frontend Developer,Frontend Developer,0.9673,True,False,"React,HTML,CSS,JavaScript",,ok
+1125,Backend Developer,Backend Developer,0.6371,True,False,"REST API,Microservices,SQL","Spring Boot,Git",ok
+1114,DevOps Engineer,DevOps Engineer,0.8727,True,False,"Linux,CI/CD,AWS,Docker",Git,ok
+1576,Frontend Developer,Frontend Developer,0.8292,True,False,"CSS,HTML,Git",,ok
+1428,Data Scientist,Data Scientist,0.9457,True,False,"Pandas,Machine Learning,Deep Learning,Python,SQL",,ok
+1276,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1572,Business Analyst,Business Analyst,1.0,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1656,Frontend Developer,Frontend Developer,0.7952,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1570,Data Scientist,Data Scientist,0.9739,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1541,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1130,QA Engineer,QA Engineer,0.8612,True,False,"Selenium,Test Automation,SQL,Java",Manual Testing,ok
+1041,Frontend Developer,Frontend Developer,0.8619,True,False,"React,Git,TypeScript",,ok
+1463,Business Analyst,Business Analyst,0.7635,True,False,"Communication,Excel,Statistics",,ok
+1464,Data Scientist,ML Engineer,0.7962,False,False,"Machine Learning,Python,Deep Learning",Docker,ok
+1515,Data Scientist,Data Scientist,0.921,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1513,Frontend Developer,Frontend Developer,0.7075,True,False,"React,HTML,CSS",JavaScript,ok
+1273,Data Scientist,Data Scientist,0.8713,True,False,"Statistics,SQL,Pandas",,ok
+1632,ML Engineer,ML Engineer,0.6754,True,False,"TensorFlow,Machine Learning,SQL",Python,ok
+1126,Data Scientist,Data Scientist,0.8724,True,False,"Pandas,Statistics,Machine Learning,SQL",Deep Learning,ok
+1344,Business Analyst,Business Analyst,0.7996,True,False,"Statistics,Communication,Power BI",,ok
+1132,Data Scientist,ML Engineer,0.6303,False,False,"Machine Learning,Python,Deep Learning",Docker,ok
+1731,Full Stack Developer,Full Stack Developer,0.9155,True,False,"Node.js,REST API,React",,ok
+1766,DevOps Engineer,DevOps Engineer,0.929,True,False,"AWS,CI/CD,Docker,Kubernetes",Git,ok
+1019,QA Engineer,QA Engineer,0.8434,True,False,"Test Automation,Java,Selenium",Manual Testing,ok
+1680,Data Analyst,Data Analyst,0.8981,True,False,"Excel,Statistics,Power BI",SQL,ok
+1225,QA Engineer,QA Engineer,1.0,True,False,"Test Automation,Java,SQL,Manual Testing",,ok
+1175,Frontend Developer,Frontend Developer,1.0,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1284,ML Engineer,Data Scientist,0.8616,False,False,"Machine Learning,Python,SQL",,ok
+1718,Data Analyst,Data Analyst,0.9337,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1650,Frontend Developer,Frontend Developer,0.8363,True,False,"React,Git,TypeScript",,ok
+1739,Data Scientist,Data Scientist,0.8494,True,False,"Statistics,Machine Learning,Pandas,Python",Deep Learning,ok
+1435,Data Scientist,Data Scientist,0.8674,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1387,Backend Developer,Backend Developer,0.9309,True,False,"REST API,Spring Boot,Microservices,Git",SQL,ok
+1614,DevOps Engineer,DevOps Engineer,0.8049,True,False,"CI/CD,Docker,Git,Kubernetes",AWS,ok
+1079,Product Manager,Product Manager,0.8767,True,False,"Agile,Stakeholder Management,SQL",Excel,ok
+1633,Business Analyst,Data Analyst,0.7981,False,False,"Power BI,Statistics,Python,Data Visualization",SQL,ok
+1370,Data Analyst,Data Analyst,0.923,True,False,"Power BI,Statistics,Python,Data Visualization",SQL,ok
+1220,Business Analyst,Business Analyst,0.8256,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1260,Data Scientist,Data Scientist,0.7969,True,False,"Statistics,Machine Learning,Pandas,Python",Deep Learning,ok
+1085,Data Analyst,Data Analyst,0.7948,True,False,"Data Visualization,Statistics,Python","Excel,SQL",ok
+1246,Data Scientist,Data Scientist,0.9041,True,False,"Pandas,Statistics,Machine Learning,Deep Learning,SQL",,ok
+1792,ML Engineer,ML Engineer,0.924,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1301,QA Engineer,QA Engineer,0.6676,True,False,"Manual Testing,Selenium,SQL,Java",Test Automation,ok
+1264,Backend Developer,Backend Developer,0.8551,True,False,"Microservices,Spring Boot,SQL",Java,ok
+1033,Frontend Developer,Frontend Developer,0.8022,True,False,"Git,JavaScript,TypeScript,CSS",,ok
+1135,Data Analyst,Data Analyst,0.8483,True,False,"SQL,Power BI,Excel,Python",,ok
+1492,Frontend Developer,Frontend Developer,0.9189,True,False,"Git,JavaScript,TypeScript,CSS",,ok
+1120,Data Analyst,Business Analyst,1.0,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1368,Data Scientist,Data Scientist,0.8701,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1028,ML Engineer,ML Engineer,0.9124,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1106,Frontend Developer,Frontend Developer,0.8708,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1306,Backend Developer,Backend Developer,0.9756,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1584,Frontend Developer,Frontend Developer,0.8851,True,False,"React,HTML,CSS,JavaScript",,ok
+1746,Data Scientist,Data Scientist,0.8295,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1209,Frontend Developer,Frontend Developer,0.8243,True,False,"React,Git,TypeScript",,ok
+1750,Full Stack Developer,Full Stack Developer,0.8873,True,False,"Node.js,REST API,React",,ok
+1133,Backend Developer,Backend Developer,0.7523,True,False,"REST API,Microservices,SQL","Spring Boot,Git",ok
+1288,DevOps Engineer,DevOps Engineer,0.8239,True,False,"AWS,Docker,CI/CD",Git,ok
+1500,Product Manager,Product Manager,1.0,True,False,"Agile,Roadmapping,Excel,Communication",,ok
+1636,DevOps Engineer,DevOps Engineer,0.8639,True,False,"Git,AWS,Kubernetes",,ok
+1290,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1657,Backend Developer,Backend Developer,0.6885,True,False,"Microservices,Java,Git",REST API,ok
+1557,Business Analyst,Data Analyst,0.8863,False,False,"Python,Excel,Statistics,Power BI",,ok
+1308,ML Engineer,ML Engineer,0.8037,True,False,"TensorFlow,Docker,Deep Learning,Machine Learning",Python,ok
+1498,Product Manager,Product Manager,0.8496,True,False,"Agile,Roadmapping,Communication",,ok
+1027,ML Engineer,ML Engineer,0.9099,True,False,"TensorFlow,Docker,Deep Learning,Machine Learning",Python,ok
+1422,Data Analyst,Data Analyst,0.8262,True,False,"Statistics,Python,Excel,SQL",Data Visualization,ok
+1383,ML Engineer,ML Engineer,0.7754,True,False,"SQL,Python,Deep Learning",,ok
+1706,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1397,ML Engineer,ML Engineer,0.8541,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1562,DevOps Engineer,DevOps Engineer,0.9259,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1780,ML Engineer,ML Engineer,0.8729,True,False,"Machine Learning,Docker,Deep Learning",Python,ok
+1102,ML Engineer,ML Engineer,1.0,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1537,Backend Developer,Backend Developer,0.9109,True,False,"Java,Microservices,Spring Boot,SQL",,ok
+1637,DevOps Engineer,DevOps Engineer,0.6854,True,False,"Docker,Git,Kubernetes",Linux,ok
+1481,DevOps Engineer,DevOps Engineer,0.8682,True,False,"Docker,AWS,Kubernetes",,ok
+1100,QA Engineer,QA Engineer,0.6678,True,False,"Git,Selenium,SQL","Manual Testing,Test Automation",ok
+1470,Frontend Developer,Frontend Developer,0.7314,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1372,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1708,Frontend Developer,Frontend Developer,0.7952,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1771,DevOps Engineer,DevOps Engineer,0.7169,True,False,"Git,Kubernetes,Linux",Docker,ok
+1686,QA Engineer,QA Engineer,0.9746,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1467,Product Manager,Product Manager,0.8084,True,False,"Agile,SQL,Stakeholder Management,Communication",Excel,ok
+1363,Full Stack Developer,Full Stack Developer,0.7621,True,False,"Git,SQL,React",,ok
+1173,Backend Developer,Backend Developer,0.8501,True,False,"Microservices,REST API,Java,Git",,ok
+1139,Business Analyst,Business Analyst,1.0,True,False,"Excel,Communication,SQL",,ok
+1542,Business Analyst,Business Analyst,1.0,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1379,QA Engineer,QA Engineer,0.803,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1568,Product Manager,Product Manager,0.9111,True,False,"Roadmapping,Communication,Excel",SQL,ok
+1214,ML Engineer,ML Engineer,0.8774,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1713,ML Engineer,ML Engineer,0.6945,True,False,"TensorFlow,Docker,Machine Learning","Python,Deep Learning",ok
+1561,ML Engineer,ML Engineer,0.8635,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1010,Data Scientist,Data Scientist,0.9086,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1011,QA Engineer,QA Engineer,0.6254,True,False,"Test Automation,SQL,Manual Testing",Java,ok
+1289,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1442,Business Analyst,Business Analyst,0.7471,True,False,"Communication,Excel,Statistics",,ok
+1119,Backend Developer,Backend Developer,0.863,True,False,"Microservices,REST API,Java,Git",,ok
+1585,Backend Developer,Backend Developer,0.8271,True,False,"Spring Boot,REST API,SQL,Java",Git,ok
+1727,Data Analyst,Business Analyst,0.8538,False,False,"Power BI,SQL,Data Visualization",Excel,ok
+1475,Frontend Developer,Frontend Developer,0.8401,True,False,"React,HTML,CSS,JavaScript",,ok
+1050,QA Engineer,QA Engineer,0.7503,True,False,"SQL,Git,Manual Testing",,ok
+1026,ML Engineer,ML Engineer,0.8711,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1155,Business Analyst,Business Analyst,0.9246,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1579,Data Analyst,Business Analyst,0.9246,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1496,Business Analyst,Business Analyst,0.9333,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1571,ML Engineer,ML Engineer,1.0,True,False,"SQL,Python,Deep Learning",,ok
+1439,Backend Developer,Backend Developer,0.9756,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1145,QA Engineer,QA Engineer,0.8872,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1333,Product Manager,Product Manager,1.0,True,False,"Excel,Agile,SQL,Stakeholder Management,Communication",,ok
+1795,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1113,ML Engineer,ML Engineer,1.0,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1705,Data Scientist,Data Scientist,0.8597,True,False,"Pandas,Statistics,Machine Learning,Deep Learning",SQL,ok
+1534,Full Stack Developer,Full Stack Developer,0.9382,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1168,ML Engineer,ML Engineer,1.0,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1337,DevOps Engineer,DevOps Engineer,1.0,True,False,"AWS,CI/CD,Docker,Git,Kubernetes",,ok
+1147,Full Stack Developer,Full Stack Developer,0.9297,True,False,"SQL,React,Node.js,Git",,ok
+1523,Product Manager,Product Manager,0.6105,True,False,"SQL,Roadmapping,Communication",Excel,ok
+1501,ML Engineer,ML Engineer,0.8141,True,False,"Python,TensorFlow,Deep Learning,Machine Learning",Docker,ok
+1520,ML Engineer,ML Engineer,0.8948,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1607,DevOps Engineer,DevOps Engineer,0.8434,True,False,"Kubernetes,CI/CD,Docker,Linux",Git,ok
+1412,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1737,ML Engineer,ML Engineer,0.7016,True,False,"SQL,Docker,TensorFlow",Python,ok
+1519,Frontend Developer,Frontend Developer,1.0,True,False,"Git,JavaScript,TypeScript,CSS",,ok
+1587,DevOps Engineer,DevOps Engineer,0.9143,True,False,"AWS,CI/CD,Docker,Git,Kubernetes",,ok
+1215,Product Manager,Product Manager,0.8026,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1398,QA Engineer,QA Engineer,0.8411,True,False,"Git,Selenium,SQL,Manual Testing",Test Automation,ok
+1502,Full Stack Developer,Full Stack Developer,0.9282,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1345,DevOps Engineer,DevOps Engineer,0.8298,True,False,"Linux,CI/CD,AWS","Git,Docker",ok
+1156,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1743,Data Analyst,Data Analyst,0.8364,True,False,"SQL,Power BI,Python",Excel,ok
+1317,Frontend Developer,Frontend Developer,0.8219,True,False,"Git,TypeScript,CSS,HTML",JavaScript,ok
+1472,Data Analyst,Data Analyst,0.7906,True,False,"Power BI,Python,Data Visualization","Statistics,SQL",ok
+1465,Frontend Developer,Frontend Developer,0.842,True,False,"React,HTML,CSS,JavaScript",,ok
+1696,QA Engineer,QA Engineer,0.9072,True,False,"Test Automation,Manual Testing,Selenium",Git,ok
+1586,ML Engineer,ML Engineer,0.9166,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1612,Data Analyst,Business Analyst,0.8201,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1184,QA Engineer,QA Engineer,1.0,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1720,Data Scientist,Data Scientist,1.0,True,False,"Pandas,Machine Learning,Deep Learning,Python,SQL",,ok
+1268,QA Engineer,QA Engineer,0.8266,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1456,DevOps Engineer,DevOps Engineer,0.8711,True,False,"Git,Kubernetes,Linux",Docker,ok
+1605,Frontend Developer,Frontend Developer,0.8993,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1087,Data Scientist,Data Scientist,1.0,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1051,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1754,Data Analyst,Data Analyst,0.8172,True,False,"Statistics,SQL,Python,Power BI",,ok
+1781,Frontend Developer,Frontend Developer,0.6577,True,False,"React,HTML,CSS",JavaScript,ok
+1038,Full Stack Developer,Full Stack Developer,0.6119,True,False,"Git,JavaScript",SQL,ok
+1058,DevOps Engineer,DevOps Engineer,0.9252,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1740,Product Manager,Product Manager,0.9295,True,False,"Agile,Roadmapping,Excel,Communication",,ok
+1508,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1189,Backend Developer,Backend Developer,1.0,True,False,"REST API,Spring Boot,Microservices,SQL,Git",,ok
+1366,Full Stack Developer,Full Stack Developer,0.7533,True,False,"Node.js,REST API",React,ok
+1037,Business Analyst,Data Analyst,0.9049,False,False,"Power BI,Statistics,Python,SQL,Data Visualization",,ok
+1539,Full Stack Developer,Full Stack Developer,0.9118,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1248,DevOps Engineer,DevOps Engineer,0.6716,True,False,"Docker,Git,Kubernetes",Linux,ok
+1406,DevOps Engineer,DevOps Engineer,0.9252,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1716,Backend Developer,Backend Developer,0.9679,True,False,"Microservices,REST API,Java,Git",,ok
+1661,Data Analyst,Data Analyst,0.9585,True,False,"Python,Excel,Statistics,Power BI",,ok
+1438,Frontend Developer,Frontend Developer,0.833,True,False,"React,HTML,CSS,JavaScript",,ok
+1597,QA Engineer,QA Engineer,1.0,True,False,"Manual Testing,Selenium,Test Automation,SQL,Java",,ok
+1234,Full Stack Developer,Full Stack Developer,0.8792,True,False,"Git,Node.js,React",,ok
+1318,Backend Developer,Backend Developer,0.9067,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1670,QA Engineer,QA Engineer,0.8554,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1263,Business Analyst,Business Analyst,0.8839,True,False,"Statistics,Communication,Power BI",,ok
+1558,QA Engineer,DevOps Engineer,0.5771,False,False,"AWS,CI/CD","Docker,Git",ok
+1066,Data Scientist,Data Scientist,1.0,True,False,"Deep Learning,SQL,Statistics,Python",,ok
+1404,Data Analyst,Data Analyst,0.6499,True,False,"Data Visualization,Python,Excel","Statistics,SQL",ok
+1178,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1164,Full Stack Developer,Full Stack Developer,0.6396,True,False,"React,JavaScript",Git,ok
+1008,ML Engineer,ML Engineer,0.9124,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1310,Data Scientist,Data Scientist,0.9009,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1675,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1655,Product Manager,Product Manager,0.8096,True,False,"Excel,Stakeholder Management,SQL",Agile,ok
+1462,Product Manager,Product Manager,0.9713,True,False,"Agile,Roadmapping,Excel,Communication",,ok
+1617,ML Engineer,ML Engineer,0.9643,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1668,Business Analyst,Business Analyst,0.8157,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1573,Data Scientist,Data Scientist,0.8479,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1167,Data Scientist,Data Scientist,0.8882,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1047,ML Engineer,ML Engineer,0.9643,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1072,Business Analyst,Business Analyst,0.7985,True,False,"Statistics,Communication,Power BI",,ok
+1797,QA Engineer,QA Engineer,0.5637,True,False,"Test Automation,Java,Git","Manual Testing,Selenium",ok
+1200,Full Stack Developer,Full Stack Developer,0.6359,True,False,"SQL,Node.js","React,Git",ok
+1399,Product Manager,Product Manager,0.8389,True,False,"Excel,Agile,Stakeholder Management,SQL",,ok
+1361,ML Engineer,ML Engineer,0.9249,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1454,QA Engineer,QA Engineer,0.9562,True,False,"Test Automation,Java,SQL,Manual Testing",,ok
+1760,Full Stack Developer,Full Stack Developer,0.8489,True,False,"SQL,React,Node.js",Git,ok
+1351,Frontend Developer,Frontend Developer,0.7614,True,False,"Git,TypeScript,CSS,HTML",JavaScript,ok
+1421,Data Scientist,Data Scientist,0.7803,True,False,"Statistics,Machine Learning,Pandas,Python",Deep Learning,ok
+1385,ML Engineer,ML Engineer,1.0,True,False,"Docker,Python,SQL",,ok
+1730,Backend Developer,Backend Developer,0.9736,True,False,"Java,Microservices,Spring Boot,REST API",,ok
+1692,Data Scientist,Data Scientist,0.9086,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1307,Frontend Developer,Frontend Developer,0.7188,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1417,Data Analyst,Data Analyst,0.8005,True,False,"Statistics,SQL,Python",Power BI,ok
+1595,Data Analyst,Business Analyst,1.0,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1112,Product Manager,Product Manager,0.8566,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1699,Data Scientist,Data Scientist,1.0,True,False,"Pandas,Machine Learning,Deep Learning,Python,SQL",,ok
+1300,DevOps Engineer,DevOps Engineer,1.0,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1227,ML Engineer,ML Engineer,0.8394,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1375,Data Analyst,Data Analyst,0.8093,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1196,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1495,QA Engineer,QA Engineer,0.9746,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1608,QA Engineer,QA Engineer,0.7014,True,False,"Java,Git,Selenium","Test Automation,Manual Testing",ok
+1138,Frontend Developer,Frontend Developer,0.9388,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1596,Backend Developer,Backend Developer,0.7303,True,False,"Git,Spring Boot",Java,ok
+1434,QA Engineer,QA Engineer,0.9072,True,False,"Test Automation,Manual Testing,Selenium",Git,ok
+1786,Full Stack Developer,Full Stack Developer,0.8572,True,False,"SQL,React,Node.js",Git,ok
+1783,ML Engineer,ML Engineer,0.7782,True,False,"Python,SQL,TensorFlow",Docker,ok
+1302,Backend Developer,Backend Developer,0.891,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1469,Frontend Developer,Frontend Developer,0.8496,True,False,"React,HTML,CSS,JavaScript",,ok
+1602,Business Analyst,Business Analyst,0.6293,True,False,"Communication,Statistics",Excel,ok
+1611,Business Analyst,Business Analyst,0.8193,True,False,"Statistics,Communication,Power BI",,ok
+1726,DevOps Engineer,DevOps Engineer,0.6906,True,False,"CI/CD,Docker,Git,Kubernetes",AWS,ok
+1207,Backend Developer,Backend Developer,0.9141,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1104,Product Manager,Product Manager,0.6962,True,False,"Stakeholder Management,Roadmapping","Agile,Excel",ok
+1728,Frontend Developer,Frontend Developer,0.9189,True,False,"Git,JavaScript,TypeScript,CSS",,ok
+1223,ML Engineer,ML Engineer,0.8512,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1154,ML Engineer,ML Engineer,0.6827,True,False,"SQL,Docker,TensorFlow",Python,ok
+1181,DevOps Engineer,DevOps Engineer,0.8905,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1402,Full Stack Developer,Full Stack Developer,0.7793,True,False,"Git,React,JavaScript",,ok
+1702,Backend Developer,Backend Developer,0.6459,True,False,"Java,REST API",SQL,ok
+1142,Data Analyst,Data Analyst,1.0,True,False,"SQL,Power BI,Excel,Python",,ok
+1349,Data Scientist,Data Scientist,0.8421,True,False,"Pandas,Machine Learning,Deep Learning,SQL",Python,ok
+1211,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1332,Data Scientist,Data Scientist,0.9284,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1143,Full Stack Developer,Full Stack Developer,0.7814,True,False,"Git,Node.js,JavaScript","REST API,React",ok
+1003,Frontend Developer,Frontend Developer,0.9104,True,False,"React,HTML,CSS,JavaScript",,ok
+1005,Product Manager,Product Manager,0.7729,True,False,"Agile,Excel,SQL",Roadmapping,ok
+1330,Backend Developer,Backend Developer,0.9067,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1282,Full Stack Developer,Full Stack Developer,0.6446,True,False,"SQL,React",Git,ok
+1203,Full Stack Developer,Full Stack Developer,0.8373,True,False,"Git,React,JavaScript",,ok
+1303,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1388,Product Manager,Product Manager,0.7661,True,False,"SQL,Roadmapping,Excel",Communication,ok
+1369,Business Analyst,Data Analyst,0.7402,False,False,"Data Visualization,Excel,Statistics,Power BI",Python,ok
+1559,Data Analyst,Data Analyst,0.8005,True,False,"Statistics,SQL,Python",Power BI,ok
+1436,Frontend Developer,Frontend Developer,0.7952,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1426,Frontend Developer,Full Stack Developer,0.8334,False,False,"Git,React,JavaScript",,ok
+1232,Full Stack Developer,Full Stack Developer,0.8601,True,False,"Git,React,JavaScript",,ok
+1238,ML Engineer,ML Engineer,0.7617,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1466,Frontend Developer,Frontend Developer,0.8587,True,False,"React,HTML,CSS,JavaScript",,ok
+1172,Frontend Developer,Frontend Developer,0.8289,True,False,"React,HTML,CSS,JavaScript",,ok
+1274,Backend Developer,Backend Developer,0.7394,True,False,"Microservices,REST API,Java",Git,ok
+1683,Full Stack Developer,Full Stack Developer,0.9479,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1195,Full Stack Developer,Full Stack Developer,0.981,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1566,Backend Developer,Backend Developer,1.0,True,False,"Spring Boot,Git,REST API,SQL,Java",,ok
+1103,Full Stack Developer,Full Stack Developer,0.7378,True,False,"SQL,Node.js,Git",React,ok
+1606,Full Stack Developer,Full Stack Developer,0.5459,True,False,"SQL,React",Git,ok
+1210,Full Stack Developer,Full Stack Developer,0.7171,True,False,"SQL,Node.js,Git",React,ok
+1163,Business Analyst,Business Analyst,0.7376,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1471,Frontend Developer,Frontend Developer,0.8612,True,False,"React,Git,TypeScript",,ok
+1509,DevOps Engineer,DevOps Engineer,0.9144,True,False,"AWS,Docker,CI/CD,Git",,ok
+1088,Product Manager,Product Manager,1.0,True,False,"Agile,Excel,SQL,Roadmapping",,ok
+1343,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1191,ML Engineer,ML Engineer,0.813,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1357,Full Stack Developer,Full Stack Developer,0.9169,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1179,Frontend Developer,Frontend Developer,0.7969,True,False,"CSS,React,JavaScript",Git,ok
+1615,QA Engineer,QA Engineer,0.9562,True,False,"Test Automation,Java,SQL,Manual Testing",,ok
+1045,Business Analyst,Business Analyst,0.9246,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1393,Data Scientist,Data Scientist,0.9316,True,False,"Pandas,Statistics,Machine Learning,Deep Learning,SQL",,ok
+1789,Business Analyst,Business Analyst,0.7677,True,False,"Communication,Excel,Statistics",,ok
+1613,Full Stack Developer,Full Stack Developer,0.842,True,False,"SQL,React,Node.js",Git,ok
+1374,DevOps Engineer,DevOps Engineer,0.7479,True,False,"Git,AWS,Kubernetes",,ok
+1233,Business Analyst,Business Analyst,0.6193,True,False,"SQL,Data Visualization,Statistics",Power BI,ok
+1503,Full Stack Developer,Full Stack Developer,0.6844,True,False,"React,JavaScript",Git,ok
+1794,DevOps Engineer,DevOps Engineer,1.0,True,False,"AWS,CI/CD,Docker,Git,Kubernetes",,ok
+1358,Data Analyst,Business Analyst,0.8434,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1371,Data Analyst,Data Analyst,1.0,True,False,"Power BI,Statistics,Python,SQL,Data Visualization",,ok
+1564,QA Engineer,QA Engineer,0.7336,True,False,"Git,Test Automation,Manual Testing",Selenium,ok
+1217,Full Stack Developer,Full Stack Developer,1.0,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1799,Full Stack Developer,Full Stack Developer,0.9084,True,False,"Git,React,JavaScript",,ok
+1549,QA Engineer,QA Engineer,0.9746,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1437,Data Scientist,Data Scientist,0.6564,True,False,"Pandas,Deep Learning,SQL","Machine Learning,Python",ok
+1581,Frontend Developer,Frontend Developer,0.9388,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1378,Product Manager,Product Manager,0.8566,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1044,ML Engineer,ML Engineer,0.9166,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1671,Frontend Developer,Frontend Developer,0.9388,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1384,Backend Developer,Backend Developer,0.8837,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1623,Full Stack Developer,Full Stack Developer,0.9118,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1229,ML Engineer,ML Engineer,1.0,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1490,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1006,QA Engineer,QA Engineer,0.7852,True,False,"Manual Testing,Selenium,SQL,Java",Test Automation,ok
+1262,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1609,Business Analyst,Business Analyst,0.9333,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1775,Business Analyst,Business Analyst,0.8572,True,False,"Excel,Power BI,Communication,Data Visualization",SQL,ok
+1640,Product Manager,Product Manager,0.8372,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1710,Data Scientist,Data Scientist,0.7473,True,False,"Pandas,Deep Learning,SQL","Machine Learning,Python",ok
+1782,Product Manager,Product Manager,0.8834,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1319,Data Analyst,Data Analyst,0.8821,True,False,"SQL,Data Visualization,Python",,ok
+1118,Business Analyst,Data Analyst,0.8458,False,False,"Statistics,SQL,Power BI",Python,ok
+1715,Frontend Developer,Frontend Developer,0.8183,True,False,"Git,TypeScript,CSS,HTML",JavaScript,ok
+1758,Frontend Developer,Frontend Developer,0.7952,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1313,Product Manager,Product Manager,0.9392,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1411,Data Scientist,Data Scientist,1.0,True,False,"Pandas,Statistics,Machine Learning,Deep Learning,SQL",,ok
+1076,ML Engineer,Backend Developer,0.7548,False,False,"Java,REST API,SQL",,ok
+1174,ML Engineer,ML Engineer,0.9124,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1725,QA Engineer,QA Engineer,0.8641,True,False,"Git,Selenium,SQL,Manual Testing,Test Automation",,ok
+1052,Data Analyst,Frontend Developer,0.6023,False,False,"TypeScript,CSS","Git,JavaScript",ok
+1483,Data Scientist,Data Scientist,0.8845,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1755,DevOps Engineer,DevOps Engineer,0.9252,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1320,Frontend Developer,Frontend Developer,0.8249,True,False,"CSS,HTML,Git",,ok
+1314,Data Analyst,Business Analyst,0.9253,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1236,Data Analyst,Data Analyst,0.8893,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1700,ML Engineer,ML Engineer,1.0,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1667,ML Engineer,ML Engineer,0.8534,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1408,Data Scientist,Data Scientist,0.9293,True,False,"Pandas,Machine Learning,Deep Learning,Python",SQL,ok
+1479,Data Scientist,Data Scientist,0.8575,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1094,Product Manager,Product Manager,0.72,True,False,"Roadmapping,Communication,Excel",SQL,ok
+1690,Backend Developer,Backend Developer,0.9328,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1761,ML Engineer,ML Engineer,0.9124,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1430,ML Engineer,ML Engineer,0.6979,True,False,"TensorFlow,Docker,Deep Learning","Python,Machine Learning",ok
+1628,DevOps Engineer,DevOps Engineer,0.7074,True,False,"Docker,Git,Linux",Kubernetes,ok
+1149,ML Engineer,ML Engineer,0.6796,True,False,"TensorFlow,Docker,Machine Learning","Python,Deep Learning",ok
+1554,Product Manager,Product Manager,0.949,True,False,"Stakeholder Management,Communication,Excel,Agile",,ok
+1250,QA Engineer,QA Engineer,0.8872,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1341,DevOps Engineer,DevOps Engineer,0.7708,True,False,"Linux,CI/CD,AWS","Git,Docker",ok
+1468,Frontend Developer,Frontend Developer,0.6543,True,False,"React,TypeScript",Git,ok
+1201,QA Engineer,QA Engineer,0.9319,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1553,QA Engineer,QA Engineer,0.7734,True,False,"Test Automation,SQL,Manual Testing",Java,ok
+1092,Data Analyst,Data Analyst,0.8579,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1221,Data Scientist,Data Scientist,0.8834,True,False,"Statistics,SQL,Pandas",,ok
+1029,Full Stack Developer,Full Stack Developer,0.8834,True,False,"Node.js,REST API,React",,ok
+1672,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1073,Data Scientist,Data Scientist,0.7859,True,False,"Pandas,Statistics,Deep Learning","Machine Learning,SQL",ok
+1525,Backend Developer,Backend Developer,0.9679,True,False,"Microservices,REST API,Java,Git",,ok
+1772,Product Manager,Product Manager,0.8834,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1281,Business Analyst,Business Analyst,0.8889,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1090,Backend Developer,Backend Developer,0.9756,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1552,Product Manager,Product Manager,0.9096,True,False,"Excel,Agile,SQL,Stakeholder Management,Communication",,ok
+1419,Backend Developer,Backend Developer,1.0,True,False,"REST API,Spring Boot,Microservices,SQL,Git",,ok
+1183,Data Analyst,Data Analyst,0.9585,True,False,"Python,Excel,Statistics,Power BI",,ok
+1176,Business Analyst,Business Analyst,0.8839,True,False,"Statistics,Communication,Power BI",,ok
+1336,ML Engineer,ML Engineer,0.7695,True,False,"Python,SQL,TensorFlow",Docker,ok
+1517,Data Scientist,Data Scientist,0.7411,True,False,"Machine Learning,Python",SQL,ok
+1684,Frontend Developer,Frontend Developer,0.787,True,False,"React,Git,TypeScript",,ok
+1271,QA Engineer,QA Engineer,0.8363,True,False,"Selenium,SQL,Manual Testing,Test Automation",Git,ok
+1452,Product Manager,Product Manager,0.901,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1724,Backend Developer,Backend Developer,0.6752,True,False,"Microservices,Java,Git",REST API,ok
+1110,Backend Developer,Backend Developer,0.9756,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1589,Frontend Developer,Frontend Developer,0.8153,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1594,ML Engineer,ML Engineer,0.9124,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1482,Data Scientist,Data Scientist,0.8449,True,False,"Deep Learning,SQL,Statistics,Python",,ok
+1323,DevOps Engineer,DevOps Engineer,1.0,True,False,"AWS,CI/CD,Docker,Git,Kubernetes",,ok
+1081,Business Analyst,Data Analyst,0.8893,False,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1514,Business Analyst,Data Analyst,1.0,False,False,"Excel,SQL,Statistics,Power BI",,ok
+1677,Business Analyst,Business Analyst,0.839,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1334,Product Manager,Business Analyst,0.7173,False,False,"Excel,Communication,SQL",,ok
+1528,Frontend Developer,Frontend Developer,0.8424,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1064,Full Stack Developer,Full Stack Developer,0.9155,True,False,"Node.js,REST API,React",,ok
+1062,DevOps Engineer,DevOps Engineer,0.9055,True,False,"AWS,CI/CD,Docker,Kubernetes",Git,ok
+1373,Product Manager,Product Manager,1.0,True,False,"Agile,Roadmapping,Excel,Communication",,ok
+1279,Data Analyst,Data Analyst,0.854,True,False,"Python,Excel,Statistics,Power BI",,ok
+1652,Frontend Developer,Frontend Developer,0.7727,True,False,"React,Git,TypeScript",,ok
+1226,Full Stack Developer,Full Stack Developer,0.9214,True,False,"SQL,React,Node.js,Git",,ok
+1280,Product Manager,Product Manager,0.8269,True,False,"Agile,SQL,Roadmapping",Excel,ok
+1757,DevOps Engineer,DevOps Engineer,0.9025,True,False,"Kubernetes,CI/CD,Git,Linux",Docker,ok
+1338,Full Stack Developer,Full Stack Developer,0.8312,True,False,"Git,React,JavaScript",,ok
+1228,Product Manager,Product Manager,0.8634,True,False,"SQL,Roadmapping,Communication,Excel",,ok
+1187,Full Stack Developer,Full Stack Developer,0.8842,True,False,"Git,React,JavaScript",,ok
+1009,QA Engineer,QA Engineer,0.7543,True,False,"Selenium,SQL,Manual Testing","Git,Test Automation",ok
+1086,ML Engineer,ML Engineer,0.7592,True,False,"Python,TensorFlow,Deep Learning","Docker,Machine Learning",ok
+1043,Business Analyst,Business Analyst,0.672,True,False,"SQL,Data Visualization,Excel",Power BI,ok
+1735,QA Engineer,QA Engineer,0.9114,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1569,Product Manager,Product Manager,1.0,True,False,"Excel,Agile,SQL,Stakeholder Management,Communication",,ok
+1681,Product Manager,Product Manager,0.7074,True,False,"Agile,Roadmapping,Communication",,ok
+1097,Data Scientist,Data Scientist,0.7962,True,False,"Statistics,Pandas,Deep Learning,Python",Machine Learning,ok
+1342,Full Stack Developer,Full Stack Developer,0.9155,True,False,"Node.js,REST API,React",,ok
+1443,Product Manager,Product Manager,0.8832,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1157,Business Analyst,Business Analyst,0.6799,True,False,"SQL,Data Visualization,Excel",Power BI,ok
+1034,Data Scientist,Data Scientist,0.8186,True,False,"Machine Learning,Python,SQL",,ok
+1693,Frontend Developer,Frontend Developer,0.7277,True,False,"React,TypeScript",Git,ok
+1122,Data Analyst,Data Analyst,0.8821,True,False,"SQL,Data Visualization,Python",,ok
+1796,Data Analyst,Business Analyst,0.9246,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1212,DevOps Engineer,DevOps Engineer,0.8973,True,False,"Linux,CI/CD,Git,AWS,Docker",,ok
+1294,Full Stack Developer,Full Stack Developer,0.8779,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1499,Product Manager,Product Manager,0.704,True,False,"Roadmapping,Communication,Excel",SQL,ok
+1800,Full Stack Developer,Full Stack Developer,0.7171,True,False,"SQL,Node.js,Git",React,ok
+1582,QA Engineer,QA Engineer,0.9292,True,False,"Manual Testing,Selenium,Test Automation,SQL,Java",,ok
+1237,Product Manager,Product Manager,0.72,True,False,"Roadmapping,Communication,Excel",SQL,ok
+1165,Frontend Developer,Frontend Developer,0.8147,True,False,"React,Git,TypeScript",,ok
+1583,QA Engineer,QA Engineer,0.7478,True,False,"Selenium,Test Automation,SQL,Java",Manual Testing,ok
+1394,ML Engineer,ML Engineer,0.7705,True,False,"TensorFlow,Machine Learning,SQL",Python,ok
+1474,Full Stack Developer,Full Stack Developer,0.9164,True,False,"SQL,React,Node.js,Git",,ok
+1283,Data Scientist,Data Scientist,1.0,True,False,"Statistics,SQL,Pandas",,ok
+1365,Data Scientist,Data Scientist,0.7817,True,False,"Pandas,Deep Learning,Python","Machine Learning,SQL",ok
+1235,ML Engineer,ML Engineer,0.7783,True,False,"TensorFlow,Docker,Deep Learning","Python,Machine Learning",ok
+1311,DevOps Engineer,DevOps Engineer,0.8958,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1180,DevOps Engineer,DevOps Engineer,0.7927,True,False,"Linux,CI/CD,Docker","Git,AWS",ok
+1400,Backend Developer,Backend Developer,0.9057,True,False,"Java,Microservices,Spring Boot,SQL",,ok
+1646,Full Stack Developer,Full Stack Developer,0.9146,True,False,"SQL,React,Node.js",Git,ok
+1309,Frontend Developer,Frontend Developer,0.902,True,False,"CSS,HTML,Git",,ok
+1070,Data Analyst,Data Analyst,1.0,True,False,"Python,Excel,Statistics,Power BI",,ok
+1272,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1453,Data Analyst,Data Analyst,0.7488,True,False,"Data Visualization,Excel,Statistics,Power BI",Python,ok
+1770,Data Analyst,Data Analyst,1.0,True,False,"Data Visualization,Statistics,Python,Excel,SQL",,ok
+1024,DevOps Engineer,DevOps Engineer,0.9199,True,False,"AWS,CI/CD,Docker,Git,Kubernetes",,ok
+1533,Product Manager,Product Manager,0.8501,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1293,Full Stack Developer,Full Stack Developer,0.8576,True,False,"Node.js,REST API,React",,ok
+1507,Data Analyst,Data Analyst,0.8976,True,False,"Statistics,Python,Power BI",SQL,ok
+1747,Product Manager,Business Analyst,0.834,False,False,"Excel,Communication,SQL",,ok
+1352,DevOps Engineer,DevOps Engineer,0.9239,True,False,"Linux,CI/CD,Git,AWS,Docker",,ok
+1059,Backend Developer,Backend Developer,1.0,True,False,"Java,Microservices,Spring Boot,REST API",,ok
+1707,Full Stack Developer,Full Stack Developer,0.798,True,False,"Git,React,JavaScript",,ok
+1784,Product Manager,Product Manager,0.8496,True,False,"Agile,Roadmapping,Communication",,ok
+1080,Business Analyst,Business Analyst,0.8427,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1266,Backend Developer,Backend Developer,0.6824,True,False,"Microservices,Java,Git",REST API,ok
+1322,QA Engineer,Backend Developer,0.8316,False,False,"Java,REST API,SQL",,ok
+1601,Data Scientist,Data Scientist,0.7636,True,False,"Machine Learning,Deep Learning",Statistics,ok
+1625,Backend Developer,Backend Developer,0.9159,True,False,"Java,Microservices,Spring Boot",SQL,ok
+1381,Business Analyst,Business Analyst,0.782,True,False,"Statistics,Communication,Power BI",,ok
+1093,QA Engineer,QA Engineer,0.8347,True,False,"Test Automation,Java,Git,Selenium",Manual Testing,ok
+1765,DevOps Engineer,DevOps Engineer,0.6438,True,False,"AWS,Kubernetes",Git,ok
+1599,QA Engineer,QA Engineer,0.8754,True,False,"Test Automation,Java,SQL,Manual Testing",,ok
+1669,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1148,Business Analyst,Business Analyst,0.9514,True,False,"Communication,Excel,Statistics",,ok
+1252,Product Manager,Product Manager,0.7857,True,False,"SQL,Roadmapping,Communication,Excel",,ok
+1494,Full Stack Developer,Full Stack Developer,0.7983,True,False,"Node.js,REST API",React,ok
+1682,Data Analyst,Business Analyst,0.8266,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1213,ML Engineer,ML Engineer,0.8084,True,False,"TensorFlow,Docker,Deep Learning,Machine Learning",Python,ok
+1441,Business Analyst,Business Analyst,0.8889,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1391,DevOps Engineer,DevOps Engineer,0.9252,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1647,Frontend Developer,Frontend Developer,0.8239,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1769,Data Scientist,Data Scientist,0.7115,True,False,"Pandas,Python,SQL","Machine Learning,Deep Learning",ok
+1331,QA Engineer,QA Engineer,0.8347,True,False,"Test Automation,Java,Git,Selenium",Manual Testing,ok
+1610,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1277,Full Stack Developer,Full Stack Developer,0.8805,True,False,"SQL,React,Node.js,Git",,ok
+1510,Business Analyst,Business Analyst,0.8783,True,False,"Statistics,Communication,Power BI",,ok
+1516,QA Engineer,QA Engineer,0.9389,True,False,"Manual Testing,Selenium,Test Automation,SQL,Java",,ok
+1678,Full Stack Developer,Full Stack Developer,0.8235,True,False,"SQL,Git,JavaScript",,ok
+1390,Data Scientist,Data Scientist,0.8834,True,False,"Statistics,SQL,Pandas",,ok
+1449,Business Analyst,Business Analyst,0.8839,True,False,"Statistics,Communication,Power BI",,ok
+1791,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1709,Full Stack Developer,Full Stack Developer,0.8481,True,False,"Node.js,REST API,React",,ok
+1013,Frontend Developer,Frontend Developer,0.9388,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1478,Backend Developer,Backend Developer,1.0,True,False,"Spring Boot,Git,REST API,SQL,Java",,ok
+1304,DevOps Engineer,DevOps Engineer,0.8543,True,False,"Docker,AWS,Kubernetes",,ok
+1488,Product Manager,Product Manager,0.7743,True,False,"Agile,Stakeholder Management,Roadmapping",Excel,ok
+1574,Data Scientist,Data Scientist,0.8834,True,False,"Statistics,SQL,Pandas",,ok
+1616,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1753,QA Engineer,QA Engineer,0.9032,True,False,"Manual Testing,Selenium,Test Automation,SQL,Java",,ok
+1604,QA Engineer,QA Engineer,0.9302,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1688,Product Manager,Product Manager,0.9041,True,False,"Stakeholder Management,Communication,Excel,Agile",,ok
+1020,DevOps Engineer,DevOps Engineer,0.7475,True,False,"CI/CD,Git,Kubernetes","AWS,Docker",ok
+1325,Data Analyst,Data Analyst,0.9585,True,False,"Python,Excel,Statistics,Power BI",,ok
+1261,Frontend Developer,Frontend Developer,0.7734,True,False,"React,HTML,CSS",JavaScript,ok
+1736,Data Scientist,Data Scientist,0.7899,True,False,"Statistics,Pandas",SQL,ok
+1410,Product Manager,Product Manager,0.6462,True,False,"Roadmapping,Communication",Agile,ok
+1401,Data Scientist,Data Scientist,0.7565,True,False,"Statistics,Machine Learning,Pandas,Python",Deep Learning,ok
+1788,ML Engineer,ML Engineer,0.9279,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1055,DevOps Engineer,DevOps Engineer,1.0,True,False,"AWS,CI/CD,Docker,Git,Kubernetes",,ok
+1698,ML Engineer,ML Engineer,0.8078,True,False,"Python,Deep Learning,Docker",,ok
+1151,Product Manager,Product Manager,0.796,True,False,"Agile,Roadmapping,Communication",,ok
+1540,QA Engineer,QA Engineer,0.9746,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1556,Product Manager,Product Manager,0.8611,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1545,Product Manager,Product Manager,0.7136,True,False,"Excel,Stakeholder Management,Roadmapping",Agile,ok
+1107,Backend Developer,Backend Developer,0.9309,True,False,"REST API,Spring Boot,Microservices,Git",SQL,ok
+1563,Frontend Developer,Frontend Developer,0.8382,True,False,"Git,JavaScript,TypeScript,CSS",,ok
+1025,Backend Developer,Backend Developer,1.0,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1638,Data Scientist,Data Scientist,0.6977,True,False,"Machine Learning,Python,SQL",,ok
+1083,QA Engineer,QA Engineer,0.9746,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1660,Frontend Developer,Frontend Developer,0.7521,True,False,"Git,TypeScript,CSS,HTML",JavaScript,ok
+1676,Data Analyst,Data Analyst,0.8262,True,False,"Statistics,Python,Excel,SQL",Data Visualization,ok
+1380,Frontend Developer,Full Stack Developer,0.7152,False,False,"Git,React,JavaScript",,ok
+1077,Business Analyst,Business Analyst,0.7775,True,False,"Excel,Power BI,Communication,Data Visualization",SQL,ok
+1389,Business Analyst,Business Analyst,0.8889,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1407,Data Scientist,Data Scientist,0.8882,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1292,DevOps Engineer,DevOps Engineer,1.0,True,False,"AWS,CI/CD,Docker,Git,Kubernetes",,ok
+1111,Product Manager,Product Manager,1.0,True,False,"SQL,Roadmapping,Communication,Excel",,ok
+1620,DevOps Engineer,DevOps Engineer,0.8831,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1247,DevOps Engineer,DevOps Engineer,0.9405,True,False,"Linux,CI/CD,Git,AWS,Docker",,ok
+1146,Backend Developer,Backend Developer,0.8979,True,False,"Microservices,REST API,Java,Git",,ok
+1129,Business Analyst,Business Analyst,0.7457,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1764,Backend Developer,Backend Developer,0.9756,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1744,Data Scientist,Data Scientist,0.681,True,False,"Statistics,Pandas,Deep Learning,Python",Machine Learning,ok
+1487,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1711,ML Engineer,ML Engineer,1.0,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1091,Full Stack Developer,Full Stack Developer,0.8984,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1206,QA Engineer,QA Engineer,0.9033,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1768,Full Stack Developer,Full Stack Developer,0.981,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1171,DevOps Engineer,DevOps Engineer,0.8711,True,False,"Git,Kubernetes,Linux",Docker,ok
+1057,Business Analyst,Business Analyst,1.0,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1405,Business Analyst,Business Analyst,0.9063,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1242,Backend Developer,Backend Developer,0.8649,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1347,Backend Developer,Backend Developer,1.0,True,False,"Java,REST API,SQL",,ok
+1098,DevOps Engineer,DevOps Engineer,0.8042,True,False,"Kubernetes,CI/CD,Docker,Linux",Git,ok
+1117,DevOps Engineer,DevOps Engineer,1.0,True,False,"Linux,CI/CD,Git,AWS,Docker",,ok
+1202,Data Scientist,Data Scientist,0.733,True,False,"Pandas,Machine Learning,Python","Deep Learning,SQL",ok
+1697,DevOps Engineer,DevOps Engineer,1.0,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1480,Data Scientist,Data Scientist,0.8519,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1324,DevOps Engineer,DevOps Engineer,0.6919,True,False,"Kubernetes,CI/CD,Linux","Docker,Git",ok
+1194,Business Analyst,Business Analyst,0.8889,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1444,Full Stack Developer,Full Stack Developer,0.8312,True,False,"Git,React,JavaScript",,ok
+1455,Data Analyst,Data Analyst,1.0,True,False,"Excel,SQL,Statistics,Power BI",,ok
+1529,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1629,Frontend Developer,Frontend Developer,0.8219,True,False,"Git,TypeScript,CSS,HTML",JavaScript,ok
+1551,Data Analyst,Business Analyst,1.0,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1639,Full Stack Developer,Full Stack Developer,0.5697,True,False,"Git,React",SQL,ok
+1793,Data Scientist,Data Scientist,0.9284,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1778,Frontend Developer,Frontend Developer,0.7584,True,False,"CSS,HTML,Git",,ok
+1297,Full Stack Developer,Full Stack Developer,0.8842,True,False,"Git,React,JavaScript",,ok
+1703,Product Manager,Product Manager,0.9713,True,False,"Agile,Roadmapping,Excel,Communication",,ok
+1717,Data Scientist,Data Scientist,0.7557,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1396,ML Engineer,ML Engineer,0.9124,True,False,"Python,SQL,Docker,TensorFlow",,ok
+1427,DevOps Engineer,DevOps Engineer,0.6854,True,False,"Docker,Git,Kubernetes",Linux,ok
+1641,ML Engineer,ML Engineer,0.8518,True,False,"Python,TensorFlow,Docker,Machine Learning",Deep Learning,ok
+1560,Business Analyst,Business Analyst,0.8889,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1526,Full Stack Developer,Full Stack Developer,0.8252,True,False,"Node.js,REST API,React",,ok
+1759,Data Scientist,Data Scientist,0.921,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1015,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1253,QA Engineer,QA Engineer,0.8434,True,False,"Test Automation,Java,Selenium",Manual Testing,ok
+1239,Data Scientist,Data Scientist,0.5868,True,False,"Statistics,Machine Learning",Deep Learning,ok
+1121,DevOps Engineer,DevOps Engineer,0.8648,True,False,"AWS,CI/CD,Git",Docker,ok
+1286,ML Engineer,ML Engineer,0.9089,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1555,Frontend Developer,Frontend Developer,0.903,True,False,"CSS,React,JavaScript",Git,ok
+1197,QA Engineer,QA Engineer,0.9746,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1346,Data Analyst,Data Analyst,0.9337,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1546,ML Engineer,ML Engineer,0.7754,True,False,"SQL,Python,Deep Learning",,ok
+1251,Business Analyst,Business Analyst,0.7422,True,False,"Statistics,Communication,Power BI",,ok
+1648,Business Analyst,Data Analyst,0.8375,False,False,"Excel,Statistics,Power BI",SQL,ok
+1413,Business Analyst,Business Analyst,0.8297,True,False,"Excel,Power BI,Communication,Data Visualization",SQL,ok
+1486,DevOps Engineer,DevOps Engineer,0.9033,True,False,"Docker,Git,Kubernetes,Linux",,ok
+1431,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1619,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1291,Data Analyst,Data Analyst,0.8934,True,False,"Power BI,Statistics,Python,SQL,Data Visualization",,ok
+1017,DevOps Engineer,DevOps Engineer,0.8598,True,False,"CI/CD,Docker,Git,Kubernetes",AWS,ok
+1159,Product Manager,Product Manager,0.715,True,False,"Excel,Stakeholder Management,SQL",Agile,ok
+1244,DevOps Engineer,DevOps Engineer,0.9013,True,False,"Linux,CI/CD,Git,AWS",Docker,ok
+1067,Full Stack Developer,Full Stack Developer,0.981,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1360,Backend Developer,Backend Developer,1.0,True,False,"Spring Boot,Git,REST API,SQL,Java",,ok
+1749,Full Stack Developer,Full Stack Developer,0.936,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1505,Data Analyst,Business Analyst,0.9492,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1473,ML Engineer,ML Engineer,0.8194,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1578,Product Manager,Product Manager,0.9255,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1522,DevOps Engineer,DevOps Engineer,1.0,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1687,QA Engineer,QA Engineer,1.0,True,False,"Git,Test Automation,Manual Testing,Selenium",,ok
+1531,Product Manager,Product Manager,0.7191,True,False,"Excel,Stakeholder Management,SQL",Agile,ok
+1409,Backend Developer,Backend Developer,0.9538,True,False,"Git,Java,Spring Boot",,ok
+1685,ML Engineer,ML Engineer,0.9643,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1433,Full Stack Developer,Full Stack Developer,0.9466,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1432,Data Analyst,Business Analyst,0.7452,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1485,Frontend Developer,Frontend Developer,0.7075,True,False,"React,TypeScript",Git,ok
+1152,ML Engineer,ML Engineer,1.0,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1328,Full Stack Developer,Full Stack Developer,0.981,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1257,Business Analyst,Data Analyst,0.8824,False,False,"Data Visualization,Statistics,Excel,SQL",Python,ok
+1312,Full Stack Developer,Full Stack Developer,0.8984,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1305,Backend Developer,Backend Developer,0.8907,True,False,"Microservices,REST API,Java,Git",,ok
+1414,Product Manager,Product Manager,0.8196,True,False,"Stakeholder Management,Communication,Agile",Excel,ok
+1134,Data Scientist,Data Scientist,0.7946,True,False,"Machine Learning,Python,SQL",,ok
+1032,Data Analyst,Business Analyst,1.0,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1459,Frontend Developer,Frontend Developer,0.8758,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1162,DevOps Engineer,DevOps Engineer,0.8236,True,False,"Kubernetes,CI/CD,Git,Linux",Docker,ok
+1340,Data Analyst,Business Analyst,1.0,False,False,"Power BI,SQL,Data Visualization,Excel",,ok
+1287,QA Engineer,QA Engineer,0.7543,True,False,"Selenium,SQL,Manual Testing","Git,Test Automation",ok
+1249,Data Analyst,Data Analyst,1.0,True,False,"Power BI,Statistics,Python,SQL,Data Visualization",,ok
+1738,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1580,Data Analyst,Data Analyst,0.9585,True,False,"Python,Excel,Statistics,Power BI",,ok
+1654,QA Engineer,QA Engineer,0.9265,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1002,Data Scientist,Data Scientist,0.8701,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1208,DevOps Engineer,DevOps Engineer,0.9055,True,False,"AWS,CI/CD,Docker,Kubernetes",Git,ok
+1630,Data Scientist,Data Scientist,0.7899,True,False,"Statistics,Pandas",SQL,ok
+1733,QA Engineer,QA Engineer,0.8501,True,False,"Git,Selenium,SQL,Test Automation",Manual Testing,ok
+1674,DevOps Engineer,DevOps Engineer,0.9234,True,False,"Linux,CI/CD,Git,AWS,Docker",,ok
+1265,Frontend Developer,Frontend Developer,0.8092,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1275,Frontend Developer,Frontend Developer,0.8615,True,False,"Git,JavaScript,TypeScript,CSS",,ok
+1071,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1445,QA Engineer,QA Engineer,0.7539,True,False,"Selenium,Test Automation,SQL,Java",Manual Testing,ok
+1663,Data Scientist,Data Scientist,0.8904,True,False,"Pandas,Statistics,Machine Learning,Deep Learning,SQL",,ok
+1099,DevOps Engineer,DevOps Engineer,0.7318,True,False,"AWS,CI/CD,Git",Docker,ok
+1679,Data Analyst,Business Analyst,0.8863,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1022,Full Stack Developer,Full Stack Developer,0.8235,True,False,"SQL,Git,JavaScript",,ok
+1415,Frontend Developer,Full Stack Developer,0.6667,False,False,"Node.js,React",Git,ok
+1518,Frontend Developer,Frontend Developer,0.749,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1150,QA Engineer,QA Engineer,0.7517,True,False,"Test Automation,Java,Git,Selenium",Manual Testing,ok
+1355,QA Engineer,QA Engineer,0.6886,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1748,ML Engineer,Data Scientist,0.6598,False,False,"Machine Learning,Python,SQL",,ok
+1053,ML Engineer,ML Engineer,0.9335,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1199,DevOps Engineer,DevOps Engineer,0.9056,True,False,"Linux,CI/CD,Git,AWS,Docker",,ok
+1123,Frontend Developer,Frontend Developer,0.661,True,False,"JavaScript,TypeScript,HTML","Git,CSS",ok
+1204,Backend Developer,Backend Developer,1.0,True,False,"REST API,Spring Boot,Microservices,SQL,Git",,ok
+1068,DevOps Engineer,DevOps Engineer,0.8584,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1224,DevOps Engineer,DevOps Engineer,0.8659,True,False,"Linux,CI/CD,Git,Docker",AWS,ok
+1128,Backend Developer,Backend Developer,0.9225,True,False,"REST API,Spring Boot,Microservices,SQL",Git,ok
+1140,Data Scientist,Data Scientist,0.7582,True,False,"Pandas,Statistics,Machine Learning","Deep Learning,SQL",ok
+1418,Data Analyst,Data Analyst,0.8206,True,False,"Power BI,Statistics,Python,SQL,Data Visualization",,ok
+1219,QA Engineer,QA Engineer,0.7784,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1547,QA Engineer,QA Engineer,1.0,True,False,"Git,Selenium,SQL,Manual Testing,Test Automation",,ok
+1158,Full Stack Developer,Full Stack Developer,0.8212,True,False,"Node.js,REST API",React,ok
+1095,Full Stack Developer,Full Stack Developer,1.0,True,False,"SQL,Git,JavaScript",,ok
+1256,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1774,DevOps Engineer,DevOps Engineer,0.8288,True,False,"Kubernetes,CI/CD,Git,Linux",Docker,ok
+1644,Data Analyst,Data Analyst,0.9688,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1040,Data Scientist,Data Scientist,0.7874,True,False,"Deep Learning,Statistics,Python",SQL,ok
+1131,ML Engineer,ML Engineer,0.772,True,False,"Python,TensorFlow,Docker,Machine Learning",Deep Learning,ok
+1790,Business Analyst,Business Analyst,0.9333,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1190,Backend Developer,Backend Developer,0.8702,True,False,"Microservices,REST API,Java,Git",,ok
+1590,QA Engineer,QA Engineer,1.0,True,False,"Manual Testing,Selenium,Test Automation,SQL,Java",,ok
+1403,Backend Developer,Backend Developer,0.8907,True,False,"REST API,Spring Boot,Microservices,SQL,Git",,ok
+1039,Data Scientist,Data Scientist,0.9558,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1243,Product Manager,Product Manager,0.8867,True,False,"Agile,Roadmapping,Communication",,ok
+1354,Backend Developer,Backend Developer,0.9756,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1621,QA Engineer,QA Engineer,0.8347,True,False,"Test Automation,Java,Git,Selenium",Manual Testing,ok
+1651,Data Analyst,Data Analyst,0.7853,True,False,"Python,Data Visualization,Excel,Power BI",Statistics,ok
+1535,Business Analyst,Business Analyst,0.7262,True,False,"Statistics,Communication,Power BI",,ok
+1504,DevOps Engineer,DevOps Engineer,0.9148,True,False,"Docker,Git,Kubernetes,Linux",,ok
+1160,QA Engineer,QA Engineer,0.9746,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1395,Data Analyst,Data Analyst,0.809,True,False,"Data Visualization,Excel,Statistics,Power BI",Python,ok
+1538,DevOps Engineer,DevOps Engineer,0.9033,True,False,"Docker,Git,Kubernetes,Linux",,ok
+1241,DevOps Engineer,DevOps Engineer,0.8317,True,False,"Kubernetes,CI/CD,Linux","Docker,Git",ok
+1014,Data Scientist,Data Scientist,0.8882,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1658,Backend Developer,Backend Developer,0.8991,True,False,"REST API,Spring Boot,Microservices,SQL,Git",,ok
+1476,Data Analyst,Business Analyst,0.9246,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1694,Frontend Developer,Frontend Developer,0.8219,True,False,"Git,TypeScript,CSS,HTML",JavaScript,ok
+1315,Business Analyst,Business Analyst,0.8591,True,False,"Excel,SQL,Power BI,Communication,Data Visualization",,ok
+1362,QA Engineer,QA Engineer,0.8435,True,False,"Test Automation,SQL,Manual Testing",Java,ok
+1591,Data Scientist,Data Scientist,0.8856,True,False,"Statistics,Machine Learning,Deep Learning",,ok
+1321,QA Engineer,QA Engineer,1.0,True,False,"Test Automation,Manual Testing,Java,Selenium",,ok
+1673,ML Engineer,ML Engineer,0.9052,True,False,"Machine Learning,Docker,Python,Deep Learning",,ok
+1565,Full Stack Developer,Full Stack Developer,0.8897,True,False,"Git,Node.js,React",,ok
+1356,QA Engineer,QA Engineer,0.7229,True,False,"Java,Manual Testing,Git,Selenium",Test Automation,ok
+1035,QA Engineer,QA Engineer,0.9072,True,False,"Test Automation,Manual Testing,Selenium",Git,ok
+1335,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1689,Product Manager,Product Manager,1.0,True,False,"Stakeholder Management,Communication,Excel,Agile",,ok
+1377,Data Analyst,Business Analyst,0.8224,False,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1185,Full Stack Developer,Full Stack Developer,0.8779,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1424,Full Stack Developer,Full Stack Developer,1.0,True,False,"SQL,React,Node.js,Git",,ok
+1326,Data Scientist,Data Scientist,0.915,True,False,"Statistics,SQL,Pandas",,ok
+1188,Full Stack Developer,ML Engineer,0.7425,False,False,"Docker,Python,SQL",,ok
+1285,Frontend Developer,Frontend Developer,0.7379,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1392,Full Stack Developer,Full Stack Developer,0.5552,True,False,"Git,JavaScript",SQL,ok
+1773,Product Manager,Product Manager,1.0,True,False,"Excel,Agile,SQL,Stakeholder Management,Communication",,ok
+1166,Data Analyst,Data Analyst,0.8821,True,False,"SQL,Data Visualization,Python",,ok
+1348,Full Stack Developer,Full Stack Developer,0.8312,True,False,"Git,React,JavaScript",,ok
+1299,Full Stack Developer,Full Stack Developer,0.7661,True,False,"SQL,React,Node.js",Git,ok
+1536,ML Engineer,ML Engineer,0.8865,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1230,Business Analyst,Data Analyst,0.8937,False,False,"Data Visualization,Excel,Statistics,Power BI",Python,ok
+1695,Business Analyst,Business Analyst,0.8572,True,False,"Excel,Power BI,Communication,Data Visualization",SQL,ok
+1042,Backend Developer,Backend Developer,0.9551,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1588,Business Analyst,Data Analyst,0.8415,False,False,"SQL,Power BI,Excel",Python,ok
+1544,Business Analyst,Business Analyst,0.8572,True,False,"Excel,Power BI,Communication,Data Visualization",SQL,ok
+1447,Data Scientist,Data Scientist,0.9301,True,False,"Pandas,Statistics,Machine Learning,Deep Learning",SQL,ok
+1448,QA Engineer,QA Engineer,0.8934,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1350,Backend Developer,Backend Developer,1.0,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1046,ML Engineer,ML Engineer,1.0,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1109,Business Analyst,Business Analyst,1.0,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1618,Frontend Developer,Frontend Developer,0.8626,True,False,"JavaScript,Git,TypeScript,HTML",CSS,ok
+1662,Backend Developer,Backend Developer,0.7533,True,False,"Spring Boot,Microservices,SQL,Git",REST API,ok
+1030,Frontend Developer,Frontend Developer,0.7075,True,False,"React,TypeScript",Git,ok
+1182,QA Engineer,QA Engineer,0.6678,True,False,"Java,Git,Selenium","Test Automation,Manual Testing",ok
+1622,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1420,QA Engineer,QA Engineer,0.7827,True,False,"Test Automation,Java,Git,Selenium",Manual Testing,ok
+1635,Full Stack Developer,Full Stack Developer,0.8779,True,False,"Git,REST API,Node.js,JavaScript",React,ok
+1105,Data Analyst,Data Analyst,0.8879,True,False,"Data Visualization,Statistics,Python,Excel,SQL",,ok
+1061,Business Analyst,Data Analyst,0.9115,False,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1659,Business Analyst,Business Analyst,0.6563,True,False,"Communication,Power BI",Statistics,ok
+1084,Product Manager,Product Manager,1.0,True,False,"Excel,Agile,Stakeholder Management,SQL",,ok
+1491,Product Manager,Product Manager,0.9033,True,False,"Agile,SQL,Stakeholder Management,Communication",Excel,ok
+1316,Product Manager,Product Manager,0.8501,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1451,Data Scientist,Data Scientist,0.7762,True,False,"Pandas,Machine Learning,Python,SQL",Deep Learning,ok
+1382,Product Manager,Product Manager,0.5844,True,False,"Agile,Communication",Roadmapping,ok
+1423,Backend Developer,Backend Developer,0.9292,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1497,ML Engineer,ML Engineer,0.7294,True,False,"TensorFlow,Docker,Machine Learning","Python,Deep Learning",ok
+1752,Data Scientist,Data Scientist,0.7967,True,False,"Pandas,Machine Learning,Python,SQL",Deep Learning,ok
+1524,QA Engineer,QA Engineer,0.9304,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1446,ML Engineer,ML Engineer,0.6675,True,False,"TensorFlow,Docker,Deep Learning","Python,Machine Learning",ok
+1664,Data Scientist,Data Scientist,0.739,True,False,"Deep Learning,Statistics,Python",SQL,ok
+1001,DevOps Engineer,DevOps Engineer,0.8598,True,False,"CI/CD,Docker,Git,Kubernetes",AWS,ok
+1776,Product Manager,Product Manager,0.8242,True,False,"Agile,SQL,Stakeholder Management,Communication",Excel,ok
+1627,Product Manager,Product Manager,0.9156,True,False,"Agile,Roadmapping,Excel,Communication",,ok
+1458,Product Manager,Product Manager,0.9187,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1489,QA Engineer,QA Engineer,0.7231,True,False,"Test Automation,Java,Selenium",Manual Testing,ok
+1089,DevOps Engineer,DevOps Engineer,0.7882,True,False,"Linux,CI/CD,Git,Docker",AWS,ok
+1484,Data Analyst,Data Analyst,0.8071,True,False,"Python,Data Visualization,Excel,Statistics,Power BI",,ok
+1461,QA Engineer,QA Engineer,0.9141,True,False,"Test Automation,Java,Manual Testing,Git,Selenium",,ok
+1078,Product Manager,Product Manager,0.9062,True,False,"Agile,Excel,Stakeholder Management,Roadmapping",,ok
+1269,Full Stack Developer,Full Stack Developer,0.7606,True,False,"REST API,Node.js,JavaScript","Git,React",ok
+1124,Business Analyst,Business Analyst,0.8863,True,False,"SQL,Data Visualization,Power BI,Statistics",,ok
+1298,Backend Developer,Backend Developer,0.7907,True,False,"Spring Boot,Microservices,SQL,Git",REST API,ok
+1096,Backend Developer,Backend Developer,0.6931,True,False,"Java,Microservices,Spring Boot",SQL,ok
+1734,Product Manager,Product Manager,0.8634,True,False,"SQL,Roadmapping,Communication,Excel",,ok
+1012,Full Stack Developer,Full Stack Developer,0.8635,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1115,Business Analyst,Business Analyst,0.7466,True,False,"Communication,Excel,Statistics",,ok
+1429,Product Manager,Product Manager,0.8352,True,False,"Agile,Stakeholder Management,Roadmapping",Excel,ok
+1258,Backend Developer,Backend Developer,0.9361,True,False,"REST API,Spring Boot,Microservices,SQL,Git",,ok
+1732,Backend Developer,Backend Developer,0.9272,True,False,"Spring Boot,Microservices,REST API,Java,Git",,ok
+1353,Product Manager,Product Manager,0.8067,True,False,"SQL,Roadmapping,Communication,Excel",,ok
+1779,Product Manager,Product Manager,0.6758,True,False,"SQL,Roadmapping,Communication",Excel,ok
+1691,Full Stack Developer,Full Stack Developer,0.9382,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1532,Product Manager,Product Manager,0.8634,True,False,"SQL,Roadmapping,Communication,Excel",,ok
+1170,Product Manager,Product Manager,0.796,True,False,"Agile,Roadmapping,Communication",,ok
+1240,Frontend Developer,Frontend Developer,0.9081,True,False,"JavaScript,TypeScript,CSS",Git,ok
+1278,Product Manager,Product Manager,0.7931,True,False,"Agile,SQL,Stakeholder Management,Communication",Excel,ok
+1161,DevOps Engineer,DevOps Engineer,0.9252,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1074,Business Analyst,Business Analyst,0.7602,True,False,"Communication,Power BI",Statistics,ok
+1530,Data Scientist,Data Scientist,0.9225,True,False,"Pandas,Machine Learning,Deep Learning,Python,SQL",,ok
+1063,ML Engineer,ML Engineer,0.9759,True,False,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",,ok
+1762,Frontend Developer,Frontend Developer,0.9388,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1493,Backend Developer,Backend Developer,0.9603,True,False,"Java,Microservices,Spring Boot,SQL",,ok
+1741,Backend Developer,Backend Developer,0.8864,True,False,"Microservices,REST API,Java,Git",,ok
+1751,QA Engineer,QA Engineer,0.8632,True,False,"Test Automation,Java,Git,Selenium",Manual Testing,ok
+1742,Data Scientist,Data Scientist,0.8768,True,False,"Statistics,Machine Learning,Pandas,Deep Learning,Python",,ok
+1048,QA Engineer,QA Engineer,0.7335,True,False,"Git,Selenium,SQL,Manual Testing",Test Automation,ok
+1763,Data Scientist,Data Scientist,0.5924,True,False,"Pandas,Statistics,Deep Learning","Machine Learning,SQL",ok
+1592,Frontend Developer,Frontend Developer,0.6979,True,False,"JavaScript,Git,HTML","TypeScript,CSS",ok
+1785,Business Analyst,Business Analyst,0.7014,True,False,"Communication,Excel,Statistics",,ok
+1506,Data Analyst,Data Analyst,0.8976,True,False,"Statistics,Python,Power BI",SQL,ok
+1021,ML Engineer,ML Engineer,0.924,True,False,"TensorFlow,Machine Learning,SQL,Python",,ok
+1425,QA Engineer,QA Engineer,0.8501,True,False,"Git,Selenium,SQL,Test Automation",Manual Testing,ok
+1653,Data Analyst,Data Analyst,0.9206,True,False,"Data Visualization,Statistics,Python,Excel",SQL,ok
+1193,Business Analyst,Business Analyst,0.8406,True,False,"Communication,Excel,Statistics",,ok
+1643,Business Analyst,Data Analyst,0.8458,False,False,"Statistics,SQL,Power BI",Python,ok
+1216,Frontend Developer,Frontend Developer,1.0,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1245,DevOps Engineer,DevOps Engineer,0.8905,True,False,"Kubernetes,CI/CD,Docker,Git,Linux",,ok
+1364,Backend Developer,Backend Developer,0.6451,True,False,"Microservices,Spring Boot,SQL",Java,ok
+1060,ML Engineer,ML Engineer,0.8037,True,False,"TensorFlow,Docker,Deep Learning,Machine Learning",Python,ok
+1222,Frontend Developer,Frontend Developer,0.8536,True,False,"CSS,HTML,Git",,ok
+1177,Backend Developer,Backend Developer,0.8288,True,False,"Java,Microservices,Spring Boot",SQL,ok
+1450,Full Stack Developer,Full Stack Developer,0.9169,True,False,"Git,REST API,Node.js,React,JavaScript",,ok
+1056,ML Engineer,ML Engineer,0.7422,True,False,"Machine Learning,Docker,Deep Learning",Python,ok
+1255,Business Analyst,Data Analyst,0.7478,False,False,"Data Visualization,Statistics,Excel,SQL",Python,ok
+1386,Product Manager,Product Manager,0.8406,True,False,"Agile,Roadmapping,Excel,Communication",,ok
+1198,Data Scientist,Data Scientist,0.771,True,False,"Deep Learning,SQL,Statistics,Python",,ok
+1069,ML Engineer,ML Engineer,0.7982,True,False,"TensorFlow,Deep Learning,Machine Learning","Python,Docker",ok
+1723,Data Analyst,Data Analyst,0.7821,True,False,"Data Visualization,Excel,Statistics,Power BI",Python,ok
+1745,DevOps Engineer,DevOps Engineer,1.0,True,False,"Git,AWS,Kubernetes",,ok
+1714,Business Analyst,Business Analyst,0.8905,True,False,"SQL,Power BI,Communication,Data Visualization",Excel,ok
+1169,Frontend Developer,Frontend Developer,0.9388,True,False,"JavaScript,Git,TypeScript,CSS,HTML",,ok
+1186,DevOps Engineer,DevOps Engineer,0.7845,True,False,"Linux,Git,AWS,Docker",CI/CD,ok
+1036,Business Analyst,Data Analyst,0.8937,False,False,"Data Visualization,Excel,Statistics,Power BI",Python,ok
+1642,Business Analyst,Business Analyst,0.9514,True,False,"Communication,Excel,Statistics",,ok
