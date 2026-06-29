@@ -1,0 +1,81 @@
+session_id,student_id,window_index,true_label,baseline_decision,baseline_triggered,tuned_status,tuned_suspicion_score,tuned_reason,fixed
+S00306,306,4,honest,CHEATING (false positive),looked away for 10.8s (>5s),SAFE,0.012,"looked away from the screen (10.8s, typical honest range is under 9.6s); head turned away from the screen (23.4deg, typical honest range is under 18deg)",True
+S00389,389,4,honest,CHEATING (false positive),face not visible for 3.0s (>2s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00385,385,2,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.0,voice/conversation picked up,True
+S00014,14,8,honest,CHEATING (false positive),face not visible for 2.1s (>2s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00260,260,7,honest,CHEATING (false positive),looked away for 5.9s (>5s); face not visible for 7.2s (>2s); voice/conversation detected,SAFE,0.004,"voice/conversation picked up; face not visible to the camera (7.2s, typical honest range is under 5.9s)",True
+S00038,38,4,honest,CHEATING (false positive),looked away for 6.2s (>5s),SAFE,0.026,"head turned away from the screen (23.7deg, typical honest range is under 18deg); switched away from the assessment window (3x, typical honest range is under 2x)",True
+S00296,296,5,honest,CHEATING (false positive),looked away for 8.8s (>5s); face not visible for 2.9s (>2s),SAFE,0.002,no signal stood out above what's typical for an honest test-taker,True
+S00200,200,7,honest,CHEATING (false positive),face not visible for 2.1s (>2s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00306,306,6,honest,CHEATING (false positive),looked away for 7.5s (>5s); face not visible for 5.0s (>2s),SAFE,0.008,"head turned away from the screen (20.5deg, typical honest range is under 18deg)",True
+S00044,44,5,honest,CHEATING (false positive),face not visible for 7.9s (>2s); voice/conversation detected,SAFE,0.004,"voice/conversation picked up; face not visible to the camera (7.9s, typical honest range is under 5.9s)",True
+S00012,12,7,honest,CHEATING (false positive),looked away for 7.0s (>5s); face not visible for 6.8s (>2s),SAFE,0.001,"face not visible to the camera (6.8s, typical honest range is under 5.9s)",True
+S00155,155,3,honest,CHEATING (false positive),face not visible for 12.5s (>2s); switched tabs 3 times (>2),SAFE,0.002,"face not visible to the camera (12.5s, typical honest range is under 5.9s)",True
+S00248,248,4,honest,CHEATING (false positive),looked away for 8.6s (>5s); switched tabs 3 times (>2),SAFE,0.022,no signal stood out above what's typical for an honest test-taker,True
+S00083,83,1,honest,CHEATING (false positive),looked away for 5.4s (>5s); face not visible for 2.2s (>2s),SAFE,0.001,no signal stood out above what's typical for an honest test-taker,True
+S00260,260,5,honest,CHEATING (false positive),face not visible for 6.4s (>2s); voice/conversation detected,SAFE,0.008,"voice/conversation picked up; face not visible to the camera (6.4s, typical honest range is under 5.9s)",True
+S00284,284,4,honest,CHEATING (false positive),looked away for 7.7s (>5s); face not visible for 10.6s (>2s); voice/conversation detected,SAFE,0.151,"voice/conversation picked up; head turned away from the screen (19deg, typical honest range is under 18deg); face not visible to the camera (10.6s, typical honest range is under 5.9s)",True
+S00155,155,6,honest,CHEATING (false positive),face not visible for 6.7s (>2s),SAFE,0.0,"face not visible to the camera (6.7s, typical honest range is under 5.9s)",True
+S00260,260,6,honest,CHEATING (false positive),face not visible for 5.7s (>2s); voice/conversation detected,SAFE,0.001,voice/conversation picked up,True
+S00155,155,4,honest,CHEATING (false positive),face not visible for 9.7s (>2s),SAFE,0.0,"face not visible to the camera (9.7s, typical honest range is under 5.9s)",True
+S00260,260,2,honest,CHEATING (false positive),face not visible for 7.8s (>2s),SAFE,0.0,"face not visible to the camera (7.8s, typical honest range is under 5.9s)",True
+S00155,155,1,honest,CHEATING (false positive),face not visible for 6.1s (>2s); voice/conversation detected,SAFE,0.006,"voice/conversation picked up; face not visible to the camera (6.1s, typical honest range is under 5.9s)",True
+S00306,306,1,honest,CHEATING (false positive),looked away for 10.0s (>5s); face not visible for 2.4s (>2s),SAFE,0.03,"head turned away from the screen (23.3deg, typical honest range is under 18deg); looked away from the screen (10s, typical honest range is under 9.6s)",True
+S00296,296,2,honest,CHEATING (false positive),looked away for 8.6s (>5s); switched tabs 5 times (>2),SAFE,0.16,"switched browser tabs (5x, typical honest range is under 3x); head turned away from the screen (21.6deg, typical honest range is under 18deg)",True
+S00284,284,1,honest,CHEATING (false positive),face not visible for 3.5s (>2s); voice/conversation detected,SAFE,0.017,"voice/conversation picked up; head turned away from the screen (21.5deg, typical honest range is under 18deg)",True
+S00293,293,4,honest,CHEATING (false positive),face not visible for 6.2s (>2s),SAFE,0.0,"face not visible to the camera (6.2s, typical honest range is under 5.9s)",True
+S00155,155,5,honest,CHEATING (false positive),face not visible for 6.2s (>2s); voice/conversation detected,SAFE,0.004,"voice/conversation picked up; face not visible to the camera (6.2s, typical honest range is under 5.9s)",True
+S00260,260,3,honest,CHEATING (false positive),face not visible for 3.8s (>2s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00260,260,1,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.0,voice/conversation picked up,True
+S00389,389,1,honest,CHEATING (false positive),face not visible for 12.4s (>2s); voice/conversation detected,SAFE,0.004,"voice/conversation picked up; face not visible to the camera (12.4s, typical honest range is under 5.9s)",True
+S00284,284,3,honest,CHEATING (false positive),face not visible for 2.1s (>2s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00038,38,2,honest,CHEATING (false positive),looked away for 11.7s (>5s); face not visible for 2.3s (>2s),SAFE,0.001,"looked away from the screen (11.7s, typical honest range is under 9.6s)",True
+S00104,104,6,honest,CHEATING (false positive),face not visible for 8.1s (>2s); voice/conversation detected,SAFE,0.003,"voice/conversation picked up; face not visible to the camera (8.1s, typical honest range is under 5.9s)",True
+S00083,83,2,honest,CHEATING (false positive),looked away for 8.3s (>5s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00284,284,7,honest,CHEATING (false positive),switched tabs 4 times (>2),SAFE,0.002,"switched browser tabs (4x, typical honest range is under 3x)",True
+S00044,44,4,honest,CHEATING (false positive),face not visible for 9.0s (>2s),SAFE,0.0,"face not visible to the camera (9s, typical honest range is under 5.9s)",True
+S00296,296,4,honest,CHEATING (false positive),looked away for 11.0s (>5s),SAFE,0.104,"looked away from the screen (11s, typical honest range is under 9.6s); head turned away from the screen (21.3deg, typical honest range is under 18deg); switched away from the assessment window (3x, typical honest range is under 2x)",True
+S00161,161,1,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.0,voice/conversation picked up,True
+S00059,59,6,honest,CHEATING (false positive),looked away for 9.1s (>5s); switched tabs 3 times (>2),SAFE,0.013,no signal stood out above what's typical for an honest test-taker,True
+S00284,284,8,honest,CHEATING (false positive),face not visible for 6.5s (>2s),SAFE,0.0,"head turned away from the screen (20.9deg, typical honest range is under 18deg); face not visible to the camera (6.5s, typical honest range is under 5.9s)",True
+S00014,14,1,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.001,voice/conversation picked up,True
+S00059,59,3,honest,CHEATING (false positive),looked away for 6.4s (>5s),SAFE,0.004,"head turned away from the screen (28.5deg, typical honest range is under 18deg)",True
+S00398,398,3,honest,CHEATING (false positive),face not visible for 2.2s (>2s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00155,155,7,honest,CHEATING (false positive),face not visible for 8.5s (>2s); voice/conversation detected,SAFE,0.0,"voice/conversation picked up; face not visible to the camera (8.5s, typical honest range is under 5.9s)",True
+S00059,59,7,honest,CHEATING (false positive),looked away for 7.2s (>5s); switched tabs 3 times (>2),SAFE,0.008,no signal stood out above what's typical for an honest test-taker,True
+S00059,59,4,honest,CHEATING (false positive),looked away for 7.3s (>5s); face not visible for 2.5s (>2s),SAFE,0.005,"head turned away from the screen (19.9deg, typical honest range is under 18deg)",True
+S00389,389,5,honest,CHEATING (false positive),looked away for 5.5s (>5s); face not visible for 5.9s (>2s); voice/conversation detected,SAFE,0.091,voice/conversation picked up,True
+S00284,284,2,honest,CHEATING (false positive),face not visible for 6.4s (>2s),SAFE,0.001,"head turned away from the screen (19.3deg, typical honest range is under 18deg); face not visible to the camera (6.4s, typical honest range is under 5.9s)",True
+S00038,38,6,honest,CHEATING (false positive),looked away for 7.6s (>5s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00389,389,6,honest,CHEATING (false positive),face not visible for 9.7s (>2s),SAFE,0.0,"face not visible to the camera (9.7s, typical honest range is under 5.9s)",True
+S00306,306,5,honest,CHEATING (false positive),looked away for 7.6s (>5s),SAFE,0.001,"head turned away from the screen (18.4deg, typical honest range is under 18deg)",True
+S00260,260,4,honest,CHEATING (false positive),face not visible for 6.9s (>2s); voice/conversation detected,SAFE,0.002,"voice/conversation picked up; face not visible to the camera (6.9s, typical honest range is under 5.9s)",True
+S00105,105,1,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.003,voice/conversation picked up,True
+S00059,59,5,honest,CHEATING (false positive),looked away for 11.5s (>5s); switched tabs 3 times (>2),SAFE,0.075,"looked away from the screen (11.5s, typical honest range is under 9.6s)",True
+S00155,155,9,honest,CHEATING (false positive),face not visible for 7.4s (>2s),SAFE,0.0,"face not visible to the camera (7.4s, typical honest range is under 5.9s)",True
+S00306,306,2,honest,CHEATING (false positive),looked away for 6.1s (>5s),SAFE,0.008,"switched away from the assessment window (4x, typical honest range is under 2x)",True
+S00038,38,5,honest,CHEATING (false positive),face not visible for 2.8s (>2s),SAFE,0.001,no signal stood out above what's typical for an honest test-taker,True
+S00296,296,3,honest,CHEATING (false positive),looked away for 8.7s (>5s); switched tabs 4 times (>2); voice/conversation detected,FLAGGED,0.96,"voice/conversation picked up; switched browser tabs (4x, typical honest range is under 3x); head turned away from the screen (23.9deg, typical honest range is under 18deg)",False
+S00110,110,3,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.0,voice/conversation picked up,True
+S00176,176,4,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.0,voice/conversation picked up,True
+S00059,59,1,honest,CHEATING (false positive),switched tabs 3 times (>2),SAFE,0.002,no signal stood out above what's typical for an honest test-taker,True
+S00284,284,9,honest,CHEATING (false positive),looked away for 5.2s (>5s); face not visible for 8.2s (>2s); voice/conversation detected,SAFE,0.001,"voice/conversation picked up; face not visible to the camera (8.2s, typical honest range is under 5.9s)",True
+S00086,86,5,honest,CHEATING (false positive),looked away for 6.3s (>5s); switched tabs 3 times (>2),SAFE,0.003,no signal stood out above what's typical for an honest test-taker,True
+S00161,161,4,honest,CHEATING (false positive),looked away for 9.1s (>5s); face not visible for 2.2s (>2s),SAFE,0.001,no signal stood out above what's typical for an honest test-taker,True
+S00364,364,7,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.011,voice/conversation picked up,True
+S00284,284,6,honest,CHEATING (false positive),looked away for 5.7s (>5s); face not visible for 6.3s (>2s); voice/conversation detected,SAFE,0.006,"voice/conversation picked up; face not visible to the camera (6.3s, typical honest range is under 5.9s)",True
+S00295,295,4,honest,CHEATING (false positive),more than one face detected,SAFE,0.0,more than one face detected,True
+S00059,59,2,honest,CHEATING (false positive),looked away for 7.1s (>5s); switched tabs 3 times (>2),SAFE,0.007,no signal stood out above what's typical for an honest test-taker,True
+S00296,296,1,honest,CHEATING (false positive),looked away for 8.1s (>5s); face not visible for 2.6s (>2s),SAFE,0.004,no signal stood out above what's typical for an honest test-taker,True
+S00248,248,3,honest,CHEATING (false positive),face not visible for 2.1s (>2s),SAFE,0.0,no signal stood out above what's typical for an honest test-taker,True
+S00155,155,8,honest,CHEATING (false positive),face not visible for 14.2s (>2s); voice/conversation detected,SAFE,0.0,"voice/conversation picked up; face not visible to the camera (14.2s, typical honest range is under 5.9s)",True
+S00038,38,1,honest,CHEATING (false positive),looked away for 7.0s (>5s),SAFE,0.001,no signal stood out above what's typical for an honest test-taker,True
+S00044,44,1,honest,CHEATING (false positive),face not visible for 4.7s (>2s); voice/conversation detected,SAFE,0.011,voice/conversation picked up,True
+S00389,389,3,honest,CHEATING (false positive),face not visible for 7.6s (>2s); voice/conversation detected,SAFE,0.007,"voice/conversation picked up; face not visible to the camera (7.6s, typical honest range is under 5.9s)",True
+S00248,248,1,honest,CHEATING (false positive),looked away for 9.9s (>5s); switched tabs 4 times (>2),SAFE,0.004,"switched browser tabs (4x, typical honest range is under 3x); looked away from the screen (9.9s, typical honest range is under 9.6s)",True
+S00389,389,7,honest,CHEATING (false positive),face not visible for 5.9s (>2s); voice/conversation detected,SAFE,0.005,voice/conversation picked up,True
+S00014,14,4,honest,CHEATING (false positive),face not visible for 6.4s (>2s); voice/conversation detected,SAFE,0.003,"voice/conversation picked up; face not visible to the camera (6.4s, typical honest range is under 5.9s)",True
+S00284,284,5,honest,CHEATING (false positive),looked away for 7.4s (>5s); face not visible for 9.8s (>2s); voice/conversation detected,SAFE,0.017,"voice/conversation picked up; face not visible to the camera (9.8s, typical honest range is under 5.9s)",True
+S00306,306,3,honest,CHEATING (false positive),looked away for 10.2s (>5s); face not visible for 3.0s (>2s); switched tabs 3 times (>2); voice/conversation detected,FLAGGED,0.949,"voice/conversation picked up; looked away from the screen (10.2s, typical honest range is under 9.6s); head turned away from the screen (18.1deg, typical honest range is under 18deg)",False
+S00389,389,2,honest,CHEATING (false positive),face not visible for 4.9s (>2s); voice/conversation detected,SAFE,0.006,voice/conversation picked up,True
+S00176,176,7,honest,CHEATING (false positive),voice/conversation detected,SAFE,0.001,voice/conversation picked up,True

@@ -1,0 +1,7 @@
+model,split,review_rate,precision,recall,fpr,tp,fp,fn,tn
+baseline_rules,train,,0.409,1.0,0.286,318,460,0,1146
+tuned_logreg,train,0.012,1.0,0.956,0.0,304,0,14,1606
+baseline_rules,val,,0.311,0.981,0.321,51,113,1,239
+tuned_logreg,val,0.007,1.0,0.942,0.0,49,0,3,352
+baseline_rules,test,,0.558,0.99,0.261,101,80,1,226
+tuned_logreg,test,0.0,0.979,0.922,0.007,94,2,8,304
