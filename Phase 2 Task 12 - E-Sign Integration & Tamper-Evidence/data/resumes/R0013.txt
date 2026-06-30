@@ -1,0 +1,15 @@
+Nisha Verma
+
+Recent graduate eager to apply academic training in Git to industry projects.
+
+Skills:
+Git, AWS, Kubernetes, Docker, Linux
+
+Experience:
+Built and shipped a project leveraging Git and AWS over a 6-month internship.
+2 years of relevant experience.
+
+Education:
+BTech
+
+Completed an online certification covering Git.

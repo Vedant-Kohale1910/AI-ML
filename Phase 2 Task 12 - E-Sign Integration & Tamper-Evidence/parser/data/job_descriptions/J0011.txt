@@ -1,0 +1,14 @@
+Open position: QA Engineer at Lumen Stack.
+
+Requirements:
+- Manual Testing
+- Test Automation
+- Selenium
+- Java
+- SQL
+
+Nice to have:
+- Pandas
+- Microservices
+
+We are an equal opportunity employer and value clear communication and ownership.

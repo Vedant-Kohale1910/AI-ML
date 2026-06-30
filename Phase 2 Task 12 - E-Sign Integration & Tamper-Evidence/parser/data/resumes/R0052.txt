@@ -1,0 +1,13 @@
+Kavya Nair
+
+Recent graduate eager to apply academic training in AWS to industry projects.
+
+Skills:
+AWS, Git, Linux, Kubernetes, CI/CD
+
+Experience:
+Supported day-to-day operations, frequently using AWS for routine analysis.
+1 years of relevant experience.
+
+Education:
+Master of Technology

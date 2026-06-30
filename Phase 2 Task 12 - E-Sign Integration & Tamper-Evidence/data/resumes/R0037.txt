@@ -1,0 +1,17 @@
+Vikram Singh
+
+Recent graduate eager to apply academic training in SQL to industry projects.
+
+Skills:
+SQL, Git, Java, Manual Testing, Selenium
+
+Experience:
+Supported day-to-day operations, frequently using SQL for routine analysis.
+3 years of relevant experience.
+
+Education:
+MSc
+
+Looking ahead:
+Currently learning PyTorch in my spare time to broaden my skillset.
+No hands-on experience with HTML yet, but keen to learn.

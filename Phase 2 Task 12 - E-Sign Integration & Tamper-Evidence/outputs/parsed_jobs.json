@@ -1,0 +1,555 @@
+[
+  {
+    "role": "Data Scientist",
+    "required_skills": [
+      "Deep Learning",
+      "Pandas",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "Roadmapping"
+    ],
+    "jd_id": "J0001",
+    "company": "Westgate Solutions"
+  },
+  {
+    "role": "Data Scientist",
+    "required_skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Pandas",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "REST API"
+    ],
+    "jd_id": "J0002",
+    "company": "Meridian Apps"
+  },
+  {
+    "role": "Full Stack Developer",
+    "required_skills": [
+      "Git",
+      "REST API",
+      "React",
+      "SQL"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0003",
+    "company": "Meridian Apps"
+  },
+  {
+    "role": "ML Engineer",
+    "required_skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Python"
+    ],
+    "nice_to_have_skills": [
+      "Agile"
+    ],
+    "jd_id": "J0004",
+    "company": "Driftwood Analytics"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Java",
+      "REST API",
+      "SQL"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0005",
+    "company": "Crestline Digital"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Java",
+      "Microservices",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Vue.js"
+    ],
+    "jd_id": "J0006",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "ML Engineer",
+    "required_skills": [
+      "Docker",
+      "SQL",
+      "TensorFlow"
+    ],
+    "nice_to_have_skills": [
+      "Selenium"
+    ],
+    "jd_id": "J0007",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Data Scientist",
+    "required_skills": [
+      "Deep Learning",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "Machine Learning",
+      "Spring Boot"
+    ],
+    "jd_id": "J0008",
+    "company": "Driftwood Analytics"
+  },
+  {
+    "role": "Frontend Developer",
+    "required_skills": [
+      "HTML",
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "nice_to_have_skills": [
+      "Deep Learning",
+      "Test Automation"
+    ],
+    "jd_id": "J0009",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Git",
+      "Microservices",
+      "Spring Boot"
+    ],
+    "nice_to_have_skills": [
+      "Scikit-learn"
+    ],
+    "jd_id": "J0010",
+    "company": "Westgate Solutions"
+  },
+  {
+    "role": "QA Engineer",
+    "required_skills": [
+      "Java",
+      "Manual Testing",
+      "SQL",
+      "Selenium",
+      "Test Automation"
+    ],
+    "nice_to_have_skills": [
+      "Microservices",
+      "Pandas"
+    ],
+    "jd_id": "J0011",
+    "company": "Lumen Stack"
+  },
+  {
+    "role": "Data Analyst",
+    "required_skills": [
+      "Data Visualization",
+      "Python",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Statistics"
+    ],
+    "jd_id": "J0012",
+    "company": "Meridian Apps"
+  },
+  {
+    "role": "Business Analyst",
+    "required_skills": [
+      "Communication",
+      "Data Visualization",
+      "Power BI",
+      "SQL"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0013",
+    "company": "Orbit Cloud Co"
+  },
+  {
+    "role": "Business Analyst",
+    "required_skills": [
+      "Data Visualization",
+      "Power BI",
+      "SQL"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0014",
+    "company": "Crestline Digital"
+  },
+  {
+    "role": "Business Analyst",
+    "required_skills": [
+      "Communication",
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "CSS",
+      "R"
+    ],
+    "jd_id": "J0015",
+    "company": "Granite Edge Tech"
+  },
+  {
+    "role": "QA Engineer",
+    "required_skills": [
+      "Git",
+      "SQL",
+      "Selenium",
+      "Test Automation"
+    ],
+    "nice_to_have_skills": [
+      "Java"
+    ],
+    "jd_id": "J0016",
+    "company": "Lumen Stack"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Java",
+      "REST API",
+      "SQL"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0017",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Business Analyst",
+    "required_skills": [
+      "Communication",
+      "Data Visualization",
+      "Power BI",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "TensorFlow"
+    ],
+    "jd_id": "J0018",
+    "company": "Meridian Apps"
+  },
+  {
+    "role": "Frontend Developer",
+    "required_skills": [
+      "Git",
+      "HTML",
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "nice_to_have_skills": [
+      "Agile"
+    ],
+    "jd_id": "J0019",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Data Scientist",
+    "required_skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Selenium"
+    ],
+    "jd_id": "J0020",
+    "company": "Orbit Cloud Co"
+  },
+  {
+    "role": "Frontend Developer",
+    "required_skills": [
+      "CSS",
+      "Git",
+      "HTML",
+      "React",
+      "TypeScript"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0021",
+    "company": "Driftwood Analytics"
+  },
+  {
+    "role": "Full Stack Developer",
+    "required_skills": [
+      "Git",
+      "JavaScript",
+      "REST API",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Manual Testing"
+    ],
+    "jd_id": "J0022",
+    "company": "Crestline Digital"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Git",
+      "Java",
+      "REST API",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Selenium"
+    ],
+    "jd_id": "J0023",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Full Stack Developer",
+    "required_skills": [
+      "Git",
+      "JavaScript",
+      "REST API",
+      "React",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Machine Learning"
+    ],
+    "jd_id": "J0024",
+    "company": "Lumen Stack"
+  },
+  {
+    "role": "ML Engineer",
+    "required_skills": [
+      "Docker",
+      "Python",
+      "TensorFlow"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0025",
+    "company": "Lumen Stack"
+  },
+  {
+    "role": "QA Engineer",
+    "required_skills": [
+      "Git",
+      "Java",
+      "SQL",
+      "Selenium",
+      "Test Automation"
+    ],
+    "nice_to_have_skills": [
+      "Agile",
+      "Microservices"
+    ],
+    "jd_id": "J0026",
+    "company": "Westgate Solutions"
+  },
+  {
+    "role": "Data Analyst",
+    "required_skills": [
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [],
+    "jd_id": "J0027",
+    "company": "Granite Edge Tech"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Java",
+      "Microservices",
+      "REST API",
+      "SQL",
+      "Spring Boot"
+    ],
+    "nice_to_have_skills": [
+      "Agile",
+      "GCP"
+    ],
+    "jd_id": "J0028",
+    "company": "Westgate Solutions"
+  },
+  {
+    "role": "DevOps Engineer",
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Linux"
+    ],
+    "nice_to_have_skills": [
+      "GCP",
+      "Pandas"
+    ],
+    "jd_id": "J0029",
+    "company": "Lumen Stack"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Git",
+      "Java",
+      "Microservices",
+      "SQL",
+      "Spring Boot"
+    ],
+    "nice_to_have_skills": [
+      "CSS",
+      "Docker"
+    ],
+    "jd_id": "J0030",
+    "company": "Meridian Apps"
+  },
+  {
+    "role": "Business Analyst",
+    "required_skills": [
+      "Communication",
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "JavaScript"
+    ],
+    "jd_id": "J0031",
+    "company": "Driftwood Analytics"
+  },
+  {
+    "role": "DevOps Engineer",
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "Pandas"
+    ],
+    "jd_id": "J0032",
+    "company": "Crestline Digital"
+  },
+  {
+    "role": "DevOps Engineer",
+    "required_skills": [
+      "CI/CD",
+      "Docker",
+      "Git",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "Pandas"
+    ],
+    "jd_id": "J0033",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Full Stack Developer",
+    "required_skills": [
+      "Git",
+      "JavaScript",
+      "React",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "CI/CD"
+    ],
+    "jd_id": "J0034",
+    "company": "Lumen Stack"
+  },
+  {
+    "role": "Data Analyst",
+    "required_skills": [
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "Java",
+      "REST API"
+    ],
+    "jd_id": "J0035",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Data Scientist",
+    "required_skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "React"
+    ],
+    "jd_id": "J0036",
+    "company": "Orbit Cloud Co"
+  },
+  {
+    "role": "DevOps Engineer",
+    "required_skills": [
+      "CI/CD",
+      "Git",
+      "Kubernetes",
+      "Linux"
+    ],
+    "nice_to_have_skills": [
+      "Pandas",
+      "Selenium"
+    ],
+    "jd_id": "J0037",
+    "company": "Driftwood Analytics"
+  },
+  {
+    "role": "DevOps Engineer",
+    "required_skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "Stakeholder Management"
+    ],
+    "jd_id": "J0038",
+    "company": "Bluepeak Systems"
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Java",
+      "Microservices",
+      "SQL",
+      "Spring Boot"
+    ],
+    "nice_to_have_skills": [
+      "Python"
+    ],
+    "jd_id": "J0039",
+    "company": "Lumen Stack"
+  },
+  {
+    "role": "Full Stack Developer",
+    "required_skills": [
+      "Git",
+      "JavaScript",
+      "React"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes"
+    ],
+    "jd_id": "J0040",
+    "company": "Westgate Solutions"
+  }
+]

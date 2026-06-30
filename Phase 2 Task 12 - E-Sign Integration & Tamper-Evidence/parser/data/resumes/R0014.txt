@@ -1,0 +1,13 @@
+Sneha Patel
+
+Results-driven individual with 4 years in the field, comfortable working independently or in a team.
+
+Skills:
+Spring Boot, Microservices, Git, REST API, Java
+
+Experience:
+Built and shipped a project leveraging Spring Boot and Microservices over a 6-month internship.
+4 years of relevant experience.
+
+Education:
+M.Tech

@@ -1,0 +1,16 @@
+Rohan Singh
+
+Detail-oriented graduate with a strong foundation in Node.js and a passion for solving real problems.
+
+Skills:
+Node.js, Git, JavaScript, REST API, SQL, React
+
+Experience:
+Collaborated with a small team to build and maintain features using Node.js.
+2 years of relevant experience.
+
+Education:
+BTech
+
+Looking ahead:
+Currently learning Roadmapping in my spare time to broaden my skillset.

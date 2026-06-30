@@ -1,0 +1,12 @@
+Open position: Backend Developer at Bluepeak Systems.
+
+Requirements:
+- REST API
+- SQL
+- Git
+- Java
+
+Nice to have:
+- Selenium
+
+We are an equal opportunity employer and value clear communication and ownership.

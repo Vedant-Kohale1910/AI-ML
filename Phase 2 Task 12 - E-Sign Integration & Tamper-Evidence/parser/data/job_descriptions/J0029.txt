@@ -1,0 +1,12 @@
+Lumen Stack is looking for a DevOps Engineer to join our growing team.
+
+Requirements:
+- Docker
+- Linux
+- AWS
+
+Nice to have:
+- GCP
+- Pandas
+
+We are an equal opportunity employer and value clear communication and ownership.

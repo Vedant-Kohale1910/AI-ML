@@ -1,0 +1,13 @@
+Lumen Stack is looking for a Full Stack Developer to join our growing team.
+
+Requirements:
+- React
+- Git
+- SQL
+- REST API
+- JavaScript
+
+Nice to have:
+- Machine Learning
+
+We are an equal opportunity employer and value clear communication and ownership.

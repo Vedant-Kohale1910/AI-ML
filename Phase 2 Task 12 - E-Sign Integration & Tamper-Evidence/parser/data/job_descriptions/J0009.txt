@@ -1,0 +1,13 @@
+We are hiring for the role of Frontend Developer.
+
+Requirements:
+- JavaScript
+- React
+- TypeScript
+- HTML
+
+Nice to have:
+- Test Automation
+- Deep Learning
+
+We are an equal opportunity employer and value clear communication and ownership.

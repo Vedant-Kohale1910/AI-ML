@@ -1,0 +1,8 @@
+Open position: Backend Developer at Crestline Digital.
+
+Requirements:
+- REST API
+- Java
+- SQL
+
+We are an equal opportunity employer and value clear communication and ownership.

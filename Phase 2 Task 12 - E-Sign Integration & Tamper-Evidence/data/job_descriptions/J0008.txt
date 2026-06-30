@@ -1,0 +1,13 @@
+Open position: Data Scientist at Driftwood Analytics.
+
+Requirements:
+- Deep Learning
+- Statistics
+- Python
+- SQL
+
+Nice to have:
+- Spring Boot
+- Machine Learning
+
+We are an equal opportunity employer and value clear communication and ownership.

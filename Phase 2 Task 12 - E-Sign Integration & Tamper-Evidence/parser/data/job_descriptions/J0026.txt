@@ -1,0 +1,14 @@
+Westgate Solutions is looking for a QA Engineer to join our growing team.
+
+Requirements:
+- Git
+- SQL
+- Test Automation
+- Selenium
+- Java
+
+Nice to have:
+- Microservices
+- Agile
+
+We are an equal opportunity employer and value clear communication and ownership.

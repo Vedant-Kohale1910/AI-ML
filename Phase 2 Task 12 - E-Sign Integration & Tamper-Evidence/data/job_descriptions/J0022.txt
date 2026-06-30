@@ -1,0 +1,12 @@
+Crestline Digital is looking for a Full Stack Developer to join our growing team.
+
+Requirements:
+- SQL
+- REST API
+- Git
+- JavaScript
+
+Nice to have:
+- Manual Testing
+
+We are an equal opportunity employer and value clear communication and ownership.

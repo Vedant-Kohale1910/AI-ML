@@ -1,0 +1,12 @@
+We are hiring for the role of DevOps Engineer.
+
+Requirements:
+- Git
+- CI/CD
+- Docker
+- Kubernetes
+
+Nice to have:
+- Pandas
+
+We are an equal opportunity employer and value clear communication and ownership.

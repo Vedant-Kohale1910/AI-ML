@@ -1,0 +1,951 @@
+[
+  {
+    "name": "Kavya Kulkarni",
+    "skills": [
+      "Agile",
+      "Excel",
+      "SQL",
+      "Stakeholder Management"
+    ],
+    "education": "Bachelor of Engineering",
+    "experience_years": 3.0,
+    "excluded_mentions": [],
+    "resume_id": "R0001"
+  },
+  {
+    "name": "Kavya Patel",
+    "skills": [
+      "Docker",
+      "Git",
+      "Kubernetes",
+      "Linux"
+    ],
+    "education": "BTech",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0002"
+  },
+  {
+    "name": "Ananya Kulkarni",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "M.Sc",
+    "experience_years": 4.0,
+    "excluded_mentions": [
+      {
+        "skill": "JIRA",
+        "sentence": "Interested in JIRA and exploring online courses to get started"
+      }
+    ],
+    "resume_id": "R0003"
+  },
+  {
+    "name": "Ishaan Patel",
+    "skills": [
+      "Git",
+      "Java",
+      "Manual Testing",
+      "SQL",
+      "Selenium",
+      "Test Automation"
+    ],
+    "education": "Ph.D",
+    "experience_years": 4.0,
+    "excluded_mentions": [
+      {
+        "skill": "Linux",
+        "sentence": "Would like to gain exposure to Linux in a future role"
+      }
+    ],
+    "resume_id": "R0004"
+  },
+  {
+    "name": "Riya Sharma",
+    "skills": [
+      "Git",
+      "Manual Testing",
+      "SQL",
+      "Selenium"
+    ],
+    "education": "BCA",
+    "experience_years": 5.0,
+    "excluded_mentions": [
+      {
+        "skill": "Pandas",
+        "sentence": "No hands-on experience with Pandas yet, but keen to learn"
+      },
+      {
+        "skill": "Linux",
+        "sentence": "Would like to gain exposure to Linux in a future role"
+      }
+    ],
+    "resume_id": "R0005"
+  },
+  {
+    "name": "Pooja Reddy",
+    "skills": [
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "MBA",
+    "experience_years": 5.0,
+    "excluded_mentions": [],
+    "resume_id": "R0006"
+  },
+  {
+    "name": "Ananya Singh",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "SQL"
+    ],
+    "education": "Bachelor of Engineering",
+    "experience_years": 3.0,
+    "excluded_mentions": [],
+    "resume_id": "R0007"
+  },
+  {
+    "name": "Rohan Singh",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "Node.js",
+      "REST API",
+      "React",
+      "SQL"
+    ],
+    "education": "BTech",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "Roadmapping",
+        "sentence": "Currently learning Roadmapping in my spare time to broaden my skillset"
+      }
+    ],
+    "resume_id": "R0008"
+  },
+  {
+    "name": "Karan Nair",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Pandas",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "B.Tech",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0009"
+  },
+  {
+    "name": "Sneha Reddy",
+    "skills": [
+      "Git",
+      "Java",
+      "Microservices",
+      "SQL",
+      "Spring Boot"
+    ],
+    "education": "B.Tech",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0010"
+  },
+  {
+    "name": "Ishaan Verma",
+    "skills": [
+      "Agile",
+      "Communication",
+      "SQL",
+      "Stakeholder Management"
+    ],
+    "education": "MCA",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "Microservices",
+        "sentence": "No hands-on experience with Microservices yet, but keen to learn"
+      },
+      {
+        "skill": "React",
+        "sentence": "Planning to pick up React next as part of my professional development"
+      }
+    ],
+    "resume_id": "R0011"
+  },
+  {
+    "name": "Tara Gupta",
+    "skills": [
+      "Java",
+      "Manual Testing",
+      "SQL",
+      "Selenium"
+    ],
+    "education": "Master of Technology",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "GCP",
+        "sentence": "Would like to gain exposure to GCP in a future role"
+      }
+    ],
+    "resume_id": "R0012"
+  },
+  {
+    "name": "Nisha Verma",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "Kubernetes",
+      "Linux"
+    ],
+    "education": "BTech",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0013"
+  },
+  {
+    "name": "Sneha Patel",
+    "skills": [
+      "Git",
+      "Java",
+      "Microservices",
+      "REST API",
+      "Spring Boot"
+    ],
+    "education": "M.Tech",
+    "experience_years": 4.0,
+    "excluded_mentions": [],
+    "resume_id": "R0014"
+  },
+  {
+    "name": "Meera Gupta",
+    "skills": [
+      "CSS",
+      "Git",
+      "HTML",
+      "React",
+      "TypeScript"
+    ],
+    "education": "Master of Science",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0015"
+  },
+  {
+    "name": "Pooja Iyer",
+    "skills": [
+      "Pandas",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "MTech",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0016"
+  },
+  {
+    "name": "Aditya Reddy",
+    "skills": [
+      "Agile",
+      "Communication",
+      "Excel",
+      "Roadmapping",
+      "Stakeholder Management"
+    ],
+    "education": "Bachelor of Engineering",
+    "experience_years": 4.0,
+    "excluded_mentions": [
+      {
+        "skill": "R",
+        "sentence": "No hands-on experience with R yet, but keen to learn"
+      },
+      {
+        "skill": "HTML",
+        "sentence": "Planning to pick up HTML next as part of my professional development"
+      }
+    ],
+    "resume_id": "R0017"
+  },
+  {
+    "name": "Aarav Reddy",
+    "skills": [
+      "CSS",
+      "HTML",
+      "React"
+    ],
+    "education": "B.Sc",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0018"
+  },
+  {
+    "name": "Pooja Gupta",
+    "skills": [
+      "Excel",
+      "Roadmapping",
+      "SQL",
+      "Stakeholder Management"
+    ],
+    "education": "MTech",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0019"
+  },
+  {
+    "name": "Pooja Kulkarni",
+    "skills": [
+      "Deep Learning",
+      "Docker",
+      "Machine Learning",
+      "Python",
+      "SQL"
+    ],
+    "education": "Ph.D",
+    "experience_years": 3.0,
+    "excluded_mentions": [
+      {
+        "skill": "TensorFlow",
+        "sentence": "Currently learning TensorFlow in my spare time to broaden my skillset"
+      }
+    ],
+    "resume_id": "R0020"
+  },
+  {
+    "name": "Tara Nair",
+    "skills": [
+      "Java",
+      "Manual Testing",
+      "SQL",
+      "Selenium",
+      "Test Automation"
+    ],
+    "education": "Bachelor of Technology",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "GCP",
+        "sentence": "Interested in GCP and exploring online courses to get started"
+      },
+      {
+        "skill": "Roadmapping",
+        "sentence": "Interested in Roadmapping and exploring online courses to get started"
+      }
+    ],
+    "resume_id": "R0021"
+  },
+  {
+    "name": "Pooja Kulkarni",
+    "skills": [
+      "CSS",
+      "Git",
+      "HTML",
+      "JavaScript",
+      "React"
+    ],
+    "education": "B.Com",
+    "experience_years": 3.0,
+    "excluded_mentions": [],
+    "resume_id": "R0022"
+  },
+  {
+    "name": "Sneha Verma",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "SQL",
+      "TensorFlow"
+    ],
+    "education": "B.Tech",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "Scrum",
+        "sentence": "Interested in Scrum and exploring online courses to get started"
+      }
+    ],
+    "resume_id": "R0023"
+  },
+  {
+    "name": "Meera Kulkarni",
+    "skills": [
+      "Agile",
+      "Excel",
+      "Roadmapping",
+      "SQL"
+    ],
+    "education": "BE",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0024"
+  },
+  {
+    "name": "Kavya Nair",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "Kubernetes",
+      "Linux"
+    ],
+    "education": "M.Sc",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0025"
+  },
+  {
+    "name": "Nisha Patel",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Pandas",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "MCA",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0026"
+  },
+  {
+    "name": "Sneha Verma",
+    "skills": [
+      "Git",
+      "Java",
+      "Microservices",
+      "REST API",
+      "SQL",
+      "Spring Boot"
+    ],
+    "education": "B.Com",
+    "experience_years": 3.0,
+    "excluded_mentions": [],
+    "resume_id": "R0027"
+  },
+  {
+    "name": "Nisha Nair",
+    "skills": [
+      "Git",
+      "Java",
+      "Microservices",
+      "SQL",
+      "Spring Boot"
+    ],
+    "education": "Bachelor of Technology",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0028"
+  },
+  {
+    "name": "Tara Verma",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "Linux"
+    ],
+    "education": "B.Tech",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "TypeScript",
+        "sentence": "Planning to pick up TypeScript next as part of my professional development"
+      }
+    ],
+    "resume_id": "R0029"
+  },
+  {
+    "name": "Ishaan Nair",
+    "skills": [
+      "Agile",
+      "Excel",
+      "Roadmapping",
+      "SQL"
+    ],
+    "education": "BCom",
+    "experience_years": 4.0,
+    "excluded_mentions": [],
+    "resume_id": "R0030"
+  },
+  {
+    "name": "Meera Reddy",
+    "skills": [
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "B.Sc",
+    "experience_years": 3.0,
+    "excluded_mentions": [],
+    "resume_id": "R0031"
+  },
+  {
+    "name": "Kavya Iyer",
+    "skills": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "education": "PhD",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0032"
+  },
+  {
+    "name": "Nisha Sharma",
+    "skills": [
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "Python",
+      "SQL"
+    ],
+    "education": "Ph.D",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0033"
+  },
+  {
+    "name": "Sneha Gupta",
+    "skills": [
+      "Machine Learning",
+      "Pandas",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "Master of Technology",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0034"
+  },
+  {
+    "name": "Dev Iyer",
+    "skills": [
+      "Docker",
+      "Machine Learning",
+      "Python",
+      "SQL"
+    ],
+    "education": "Bachelor of Science",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0035"
+  },
+  {
+    "name": "Vikram Iyer",
+    "skills": [
+      "Pandas",
+      "Python",
+      "Statistics"
+    ],
+    "education": "Master of Science",
+    "experience_years": 0.0,
+    "excluded_mentions": [
+      {
+        "skill": "Power BI",
+        "sentence": "Planning to pick up Power BI next as part of my professional development"
+      }
+    ],
+    "resume_id": "R0036"
+  },
+  {
+    "name": "Vikram Singh",
+    "skills": [
+      "Git",
+      "Java",
+      "Manual Testing",
+      "SQL",
+      "Selenium"
+    ],
+    "education": "MSc",
+    "experience_years": 3.0,
+    "excluded_mentions": [
+      {
+        "skill": "PyTorch",
+        "sentence": "Currently learning PyTorch in my spare time to broaden my skillset"
+      },
+      {
+        "skill": "HTML",
+        "sentence": "No hands-on experience with HTML yet, but keen to learn"
+      }
+    ],
+    "resume_id": "R0037"
+  },
+  {
+    "name": "Arjun Patel",
+    "skills": [
+      "Deep Learning",
+      "Docker",
+      "Machine Learning",
+      "SQL",
+      "TensorFlow"
+    ],
+    "education": "BCA",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0038"
+  },
+  {
+    "name": "Sneha Reddy",
+    "skills": [
+      "Communication",
+      "Roadmapping",
+      "SQL"
+    ],
+    "education": "Bachelor of Science",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "CI/CD",
+        "sentence": "Currently learning CI/CD in my spare time to broaden my skillset"
+      },
+      {
+        "skill": "Postman",
+        "sentence": "Interested in Postman and exploring online courses to get started"
+      }
+    ],
+    "resume_id": "R0039"
+  },
+  {
+    "name": "Meera Reddy",
+    "skills": [
+      "Pandas",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "Ph.D",
+    "experience_years": 4.0,
+    "excluded_mentions": [
+      {
+        "skill": "Linux",
+        "sentence": "Would like to gain exposure to Linux in a future role"
+      }
+    ],
+    "resume_id": "R0040"
+  },
+  {
+    "name": "Karan Joshi",
+    "skills": [
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "Bachelor of Technology",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0041"
+  },
+  {
+    "name": "Nisha Patel",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "Node.js",
+      "REST API",
+      "React",
+      "SQL"
+    ],
+    "education": "Bachelor of Technology",
+    "experience_years": 2.0,
+    "excluded_mentions": [
+      {
+        "skill": "Test Automation",
+        "sentence": "No hands-on experience with Test Automation yet, but keen to learn"
+      }
+    ],
+    "resume_id": "R0042"
+  },
+  {
+    "name": "Meera Joshi",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Pandas",
+      "Python"
+    ],
+    "education": "BE",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0043"
+  },
+  {
+    "name": "Nisha Verma",
+    "skills": [
+      "Agile",
+      "Roadmapping",
+      "SQL",
+      "Stakeholder Management"
+    ],
+    "education": "PhD",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0044"
+  },
+  {
+    "name": "Kavya Iyer",
+    "skills": [
+      "Git",
+      "Java",
+      "Selenium",
+      "Test Automation"
+    ],
+    "education": "B.Com",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0045"
+  },
+  {
+    "name": "Riya Nair",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Pandas",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "PhD",
+    "experience_years": 0.0,
+    "excluded_mentions": [],
+    "resume_id": "R0046"
+  },
+  {
+    "name": "Ananya Patel",
+    "skills": [
+      "Deep Learning",
+      "Pandas",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "Ph.D",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0047"
+  },
+  {
+    "name": "Vikram Iyer",
+    "skills": [
+      "Power BI",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "MSc",
+    "experience_years": 1.0,
+    "excluded_mentions": [
+      {
+        "skill": "Excel",
+        "sentence": "Currently learning Excel in my spare time to broaden my skillset"
+      }
+    ],
+    "resume_id": "R0048"
+  },
+  {
+    "name": "Sahil Verma",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "Git",
+      "Kubernetes",
+      "Linux"
+    ],
+    "education": "Master of Technology",
+    "experience_years": 3.0,
+    "excluded_mentions": [],
+    "resume_id": "R0049"
+  },
+  {
+    "name": "Arjun Nair",
+    "skills": [
+      "Docker",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "education": "B.Tech",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0050"
+  },
+  {
+    "name": "Tara Verma",
+    "skills": [
+      "Git",
+      "Java",
+      "Manual Testing",
+      "SQL",
+      "Selenium",
+      "Test Automation"
+    ],
+    "education": "B.Com",
+    "experience_years": 4.0,
+    "excluded_mentions": [],
+    "resume_id": "R0051"
+  },
+  {
+    "name": "Kavya Nair",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Git",
+      "Kubernetes",
+      "Linux"
+    ],
+    "education": "Master of Technology",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0052"
+  },
+  {
+    "name": "Meera Reddy",
+    "skills": [
+      "Communication",
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "MCA",
+    "experience_years": 5.0,
+    "excluded_mentions": [],
+    "resume_id": "R0053"
+  },
+  {
+    "name": "Vikram Gupta",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "TensorFlow"
+    ],
+    "education": "B.Sc",
+    "experience_years": 1.0,
+    "excluded_mentions": [
+      {
+        "skill": "Vue.js",
+        "sentence": "Planning to pick up Vue.js next as part of my professional development"
+      }
+    ],
+    "resume_id": "R0054"
+  },
+  {
+    "name": "Aarav Sharma",
+    "skills": [
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "Bachelor of Technology",
+    "experience_years": 0.0,
+    "excluded_mentions": [
+      {
+        "skill": "Azure",
+        "sentence": "Planning to pick up Azure next as part of my professional development"
+      }
+    ],
+    "resume_id": "R0055"
+  },
+  {
+    "name": "Dev Reddy",
+    "skills": [
+      "Git",
+      "Microservices",
+      "REST API",
+      "SQL",
+      "Spring Boot"
+    ],
+    "education": "M.Tech",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0056"
+  },
+  {
+    "name": "Karan Patel",
+    "skills": [
+      "Agile",
+      "Excel",
+      "Roadmapping",
+      "SQL"
+    ],
+    "education": "BE",
+    "experience_years": 1.0,
+    "excluded_mentions": [],
+    "resume_id": "R0057"
+  },
+  {
+    "name": "Rohan Joshi",
+    "skills": [
+      "CSS",
+      "Git",
+      "HTML",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "education": "PhD",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0058"
+  },
+  {
+    "name": "Diya Kulkarni",
+    "skills": [
+      "Manual Testing",
+      "SQL",
+      "Selenium"
+    ],
+    "education": "BCom",
+    "experience_years": 1.0,
+    "excluded_mentions": [
+      {
+        "skill": "Vue.js",
+        "sentence": "Would like to gain exposure to Vue.js in a future role"
+      }
+    ],
+    "resume_id": "R0059"
+  },
+  {
+    "name": "Karan Kulkarni",
+    "skills": [
+      "Communication",
+      "Data Visualization",
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Statistics"
+    ],
+    "education": "Bachelor of Technology",
+    "experience_years": 2.0,
+    "excluded_mentions": [],
+    "resume_id": "R0060"
+  }
+]

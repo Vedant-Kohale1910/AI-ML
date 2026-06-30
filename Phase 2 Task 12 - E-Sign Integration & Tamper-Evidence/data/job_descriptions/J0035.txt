@@ -1,0 +1,14 @@
+Open position: Data Analyst at Bluepeak Systems.
+
+Requirements:
+- Statistics
+- SQL
+- Power BI
+- Data Visualization
+- Excel
+
+Nice to have:
+- Java
+- REST API
+
+We are an equal opportunity employer and value clear communication and ownership.

@@ -1,0 +1,11 @@
+Orbit Cloud Co is looking for a Data Scientist to join our growing team.
+
+Requirements:
+- Deep Learning
+- Machine Learning
+- SQL
+
+Nice to have:
+- Selenium
+
+We are an equal opportunity employer and value clear communication and ownership.

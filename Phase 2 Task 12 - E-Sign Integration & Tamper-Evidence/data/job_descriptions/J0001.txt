@@ -1,0 +1,12 @@
+Open position: Data Scientist at Westgate Solutions.
+
+Requirements:
+- Statistics
+- Deep Learning
+- Pandas
+- SQL
+
+Nice to have:
+- Roadmapping
+
+We are an equal opportunity employer and value clear communication and ownership.

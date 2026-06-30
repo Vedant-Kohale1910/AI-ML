@@ -1,0 +1,9 @@
+Meridian Apps is looking for a Full Stack Developer to join our growing team.
+
+Requirements:
+- Git
+- SQL
+- REST API
+- React
+
+We are an equal opportunity employer and value clear communication and ownership.

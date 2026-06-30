@@ -1,0 +1,18 @@
+Nisha Patel
+
+Recent graduate eager to apply academic training in Node.js to industry projects.
+
+Skills:
+Node.js, SQL, React, Git, JavaScript, REST API
+
+Experience:
+Built and shipped a project leveraging Node.js and SQL over a 6-month internship.
+2 years of relevant experience.
+
+Education:
+Bachelor of Technology
+
+Completed an online certification covering React.
+
+Looking ahead:
+No hands-on experience with Test Automation yet, but keen to learn.

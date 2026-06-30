@@ -1,0 +1,12 @@
+Meridian Apps is looking for a Data Scientist to join our growing team.
+
+Requirements:
+- Machine Learning
+- Deep Learning
+- Pandas
+- SQL
+
+Nice to have:
+- REST API
+
+We are an equal opportunity employer and value clear communication and ownership.

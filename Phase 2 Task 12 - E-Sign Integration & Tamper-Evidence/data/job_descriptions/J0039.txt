@@ -1,0 +1,12 @@
+We are hiring for the role of Backend Developer.
+
+Requirements:
+- SQL
+- Spring Boot
+- Java
+- Microservices
+
+Nice to have:
+- Python
+
+We are an equal opportunity employer and value clear communication and ownership.

@@ -1,0 +1,10 @@
+Driftwood Analytics is looking for a Frontend Developer to join our growing team.
+
+Requirements:
+- CSS
+- Git
+- TypeScript
+- React
+- HTML
+
+We are an equal opportunity employer and value clear communication and ownership.

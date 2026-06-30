@@ -1,0 +1,13 @@
+Kavya Nair
+
+Results-driven individual with 0 years in the field, comfortable working independently or in a team.
+
+Skills:
+Docker, Linux, Kubernetes, AWS, Git
+
+Experience:
+Worked on internal tooling using Docker and Linux, improving turnaround time for the team.
+0 years of relevant experience.
+
+Education:
+M.Sc

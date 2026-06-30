@@ -1,0 +1,11 @@
+Westgate Solutions is looking for a Backend Developer to join our growing team.
+
+Requirements:
+- Spring Boot
+- Microservices
+- Git
+
+Nice to have:
+- Scikit-learn
+
+We are an equal opportunity employer and value clear communication and ownership.

@@ -1,0 +1,12 @@
+We are hiring for the role of QA Engineer.
+
+Requirements:
+- Test Automation
+- Git
+- Selenium
+- SQL
+
+Nice to have:
+- Java
+
+We are an equal opportunity employer and value clear communication and ownership.

@@ -1,0 +1,11 @@
+We are hiring for the role of ML Engineer.
+
+Requirements:
+- Deep Learning
+- Machine Learning
+- Python
+
+Nice to have:
+- Agile
+
+We are an equal opportunity employer and value clear communication and ownership.

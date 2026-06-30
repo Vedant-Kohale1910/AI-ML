@@ -1,0 +1,61 @@
+resume_id,name,target_role,true_skills,noise_skills_mentioned,education,experience_years,split
+R0001,Kavya Kulkarni,Product Manager,Agile;SQL;Excel;Stakeholder Management,,Bachelor of Engineering,3,dev
+R0002,Kavya Patel,DevOps Engineer,Linux;Docker;Git;Kubernetes,,BTech,0,dev
+R0003,Ananya Kulkarni,Data Scientist,Python;Statistics;Machine Learning;Deep Learning;SQL,JIRA,M.Sc,4,dev
+R0004,Ishaan Patel,QA Engineer,Selenium;Java;Test Automation;SQL;Git;Manual Testing,Linux,Ph.D,4,dev
+R0005,Riya Sharma,QA Engineer,Manual Testing;SQL;Selenium;Git,Linux;Pandas,BCA,5,dev
+R0006,Pooja Reddy,Data Analyst,Statistics;Excel;Power BI;SQL;Data Visualization,,MBA,5,dev
+R0007,Ananya Singh,Full Stack Developer,Node.js;React;JavaScript;SQL;Git,,Bachelor of Engineering,3,dev
+R0008,Rohan Singh,Full Stack Developer,Node.js;Git;JavaScript;REST API;SQL;React,Roadmapping,BTech,2,test
+R0009,Karan Nair,Data Scientist,Python;Deep Learning;SQL;Statistics;Machine Learning;Pandas,,B.Tech,1,test
+R0010,Sneha Reddy,Backend Developer,Spring Boot;Java;SQL;Git;Microservices,,B.Tech,0,test
+R0011,Ishaan Verma,Product Manager,Stakeholder Management;Agile;SQL;Communication,React;Microservices,MCA,2,dev
+R0012,Tara Gupta,QA Engineer,Manual Testing;Java;Selenium;SQL,GCP,Master of Technology,2,dev
+R0013,Nisha Verma,DevOps Engineer,Git;AWS;Kubernetes;Docker;Linux,,BTech,2,dev
+R0014,Sneha Patel,Backend Developer,Spring Boot;Microservices;Git;REST API;Java,,M.Tech,4,dev
+R0015,Meera Gupta,Frontend Developer,React;TypeScript;CSS;Git;HTML,,Master of Science,1,dev
+R0016,Pooja Iyer,Data Scientist,SQL;Statistics;Pandas,,MTech,1,dev
+R0017,Aditya Reddy,Product Manager,Excel;Communication;Roadmapping;Agile;Stakeholder Management,HTML;R,Bachelor of Engineering,4,dev
+R0018,Aarav Reddy,Frontend Developer,React;CSS;HTML,,B.Sc,2,test
+R0019,Pooja Gupta,Product Manager,Stakeholder Management;SQL;Roadmapping;Excel,,MTech,2,test
+R0020,Pooja Kulkarni,ML Engineer,Machine Learning;Python;Deep Learning;Docker;SQL,TensorFlow,Ph.D,3,test
+R0021,Tara Nair,QA Engineer,Test Automation;Selenium;Manual Testing;Java;SQL,Roadmapping;GCP,Bachelor of Technology,2,dev
+R0022,Pooja Kulkarni,Frontend Developer,HTML;Git;JavaScript;React;CSS,,B.Com,3,dev
+R0023,Sneha Verma,ML Engineer,Machine Learning;Deep Learning;SQL;TensorFlow,Scrum,B.Tech,2,dev
+R0024,Meera Kulkarni,Product Manager,Roadmapping;SQL;Agile;Excel,,BE,0,dev
+R0025,Kavya Nair,DevOps Engineer,Docker;Linux;Kubernetes;AWS;Git,,M.Sc,0,dev
+R0026,Nisha Patel,Data Scientist,Machine Learning;Pandas;SQL;Statistics;Deep Learning;Python,,MCA,1,dev
+R0027,Sneha Verma,Backend Developer,Spring Boot;Java;Microservices;REST API;SQL;Git,,B.Com,3,dev
+R0028,Nisha Nair,Backend Developer,Spring Boot;SQL;Git;Java;Microservices,,Bachelor of Technology,0,test
+R0029,Tara Verma,DevOps Engineer,AWS;Linux;Git;Docker,TypeScript,B.Tech,2,test
+R0030,Ishaan Nair,Product Manager,Excel;Roadmapping;SQL;Agile,,BCom,4,test
+R0031,Meera Reddy,Data Analyst,SQL;Statistics;Excel;Data Visualization;Power BI;Python,,B.Sc,3,dev
+R0032,Kavya Iyer,Frontend Developer,CSS;TypeScript;React;JavaScript;HTML,,PhD,2,dev
+R0033,Nisha Sharma,Data Analyst,Data Visualization;Power BI;Excel;SQL;Python,,Ph.D,0,dev
+R0034,Sneha Gupta,Data Scientist,Pandas;Machine Learning;SQL;Statistics,,Master of Technology,1,dev
+R0035,Dev Iyer,ML Engineer,SQL;Machine Learning;Python;Docker,,Bachelor of Science,1,dev
+R0036,Vikram Iyer,Data Scientist,Pandas;Python;Statistics,Power BI,Master of Science,0,dev
+R0037,Vikram Singh,QA Engineer,SQL;Git;Java;Manual Testing;Selenium,PyTorch;HTML,MSc,3,dev
+R0038,Arjun Patel,ML Engineer,SQL;Machine Learning;TensorFlow;Docker;Deep Learning,,BCA,1,test
+R0039,Sneha Reddy,Product Manager,Communication;SQL;Roadmapping,CI/CD;Postman,Bachelor of Science,2,test
+R0040,Meera Reddy,Data Scientist,SQL;Statistics;Pandas;Python,Linux,Ph.D,4,test
+R0041,Karan Joshi,Data Analyst,SQL;Data Visualization;Power BI;Excel;Statistics;Python,,Bachelor of Technology,0,dev
+R0042,Nisha Patel,Full Stack Developer,Node.js;SQL;React;Git;JavaScript;REST API,Test Automation,Bachelor of Technology,2,dev
+R0043,Meera Joshi,Data Scientist,Machine Learning;Python;Pandas;Deep Learning,,BE,2,dev
+R0044,Nisha Verma,Product Manager,Stakeholder Management;Agile;Roadmapping;SQL,,PhD,2,dev
+R0045,Kavya Iyer,QA Engineer,Selenium;Test Automation;Java;Git,,B.Com,0,dev
+R0046,Riya Nair,Data Scientist,Python;SQL;Deep Learning;Pandas;Statistics;Machine Learning,,PhD,0,dev
+R0047,Ananya Patel,Data Scientist,Statistics;Pandas;Python;SQL;Deep Learning,,Ph.D,2,dev
+R0048,Vikram Iyer,Data Analyst,Python;Statistics;SQL;Power BI,Excel,MSc,1,test
+R0049,Sahil Verma,DevOps Engineer,Git;Linux;Kubernetes;AWS;Docker;CI/CD,,Master of Technology,3,test
+R0050,Arjun Nair,ML Engineer,SQL;Machine Learning;Python;TensorFlow;Docker,,B.Tech,2,test
+R0051,Tara Verma,QA Engineer,Java;Selenium;Test Automation;Manual Testing;SQL;Git,,B.Com,4,dev
+R0052,Kavya Nair,DevOps Engineer,AWS;Git;Linux;Kubernetes;CI/CD,,Master of Technology,1,dev
+R0053,Meera Reddy,Business Analyst,Excel;Statistics;Power BI;SQL;Data Visualization;Communication,,MCA,5,dev
+R0054,Vikram Gupta,ML Engineer,Deep Learning;TensorFlow;Machine Learning;Python,Vue.js,B.Sc,1,dev
+R0055,Aarav Sharma,Data Analyst,Excel;Statistics;SQL;Python;Power BI;Data Visualization,Azure,Bachelor of Technology,0,dev
+R0056,Dev Reddy,Backend Developer,Microservices;Git;SQL;REST API;Spring Boot,,M.Tech,2,dev
+R0057,Karan Patel,Product Manager,Agile;SQL;Excel;Roadmapping,,BE,1,dev
+R0058,Rohan Joshi,Frontend Developer,Git;CSS;HTML;TypeScript;JavaScript,,PhD,2,test
+R0059,Diya Kulkarni,QA Engineer,Manual Testing;SQL;Selenium,Vue.js,BCom,1,test
+R0060,Karan Kulkarni,Business Analyst,Excel;Statistics;Power BI;Data Visualization;Communication;SQL,,Bachelor of Technology,2,test

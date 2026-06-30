@@ -1,0 +1,13 @@
+Kavya Iyer
+
+Recent graduate eager to apply academic training in Selenium to industry projects.
+
+Skills:
+Selenium, Test Automation, Java, Git
+
+Experience:
+Built and shipped a project leveraging Selenium and Test Automation over a 6-month internship.
+0 years of relevant experience.
+
+Education:
+B.Com

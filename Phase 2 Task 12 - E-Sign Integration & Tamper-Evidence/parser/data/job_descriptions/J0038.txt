@@ -1,0 +1,12 @@
+Open position: DevOps Engineer at Bluepeak Systems.
+
+Requirements:
+- Kubernetes
+- AWS
+- CI/CD
+- Docker
+
+Nice to have:
+- Stakeholder Management
+
+We are an equal opportunity employer and value clear communication and ownership.

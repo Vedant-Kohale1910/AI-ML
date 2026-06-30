@@ -1,0 +1,9 @@
+document_type,model,split,precision,recall,fpr,tp,fp,fn,tn
+resume,baseline,dev,0.762,1.0,0.0356,202,63,0,1709
+resume,hardened,dev,1.0,1.0,0.0,202,0,0,1772
+jd,baseline,dev,0.701,1.0,0.0492,136,58,0,1122
+jd,hardened,dev,1.0,1.0,0.0,136,0,0,1180
+resume,baseline,test,0.748,1.0,0.0367,83,28,0,735
+resume,hardened,test,1.0,1.0,0.0,83,0,0,763
+jd,baseline,test,0.714,1.0,0.0521,65,26,0,473
+jd,hardened,test,1.0,1.0,0.0,65,0,0,499

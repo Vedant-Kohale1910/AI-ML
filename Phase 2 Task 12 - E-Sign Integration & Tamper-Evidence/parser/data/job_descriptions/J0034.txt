@@ -1,0 +1,12 @@
+Open position: Full Stack Developer at Lumen Stack.
+
+Requirements:
+- Git
+- React
+- JavaScript
+- SQL
+
+Nice to have:
+- CI/CD
+
+We are an equal opportunity employer and value clear communication and ownership.

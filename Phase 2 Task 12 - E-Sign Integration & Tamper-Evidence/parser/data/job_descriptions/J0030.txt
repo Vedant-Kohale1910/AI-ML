@@ -1,0 +1,14 @@
+We are hiring for the role of Backend Developer.
+
+Requirements:
+- Microservices
+- SQL
+- Git
+- Spring Boot
+- Java
+
+Nice to have:
+- Docker
+- CSS
+
+We are an equal opportunity employer and value clear communication and ownership.

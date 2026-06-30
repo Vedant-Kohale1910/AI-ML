@@ -1,0 +1,13 @@
+Open position: DevOps Engineer at Driftwood Analytics.
+
+Requirements:
+- Linux
+- Git
+- CI/CD
+- Kubernetes
+
+Nice to have:
+- Selenium
+- Pandas
+
+We are an equal opportunity employer and value clear communication and ownership.

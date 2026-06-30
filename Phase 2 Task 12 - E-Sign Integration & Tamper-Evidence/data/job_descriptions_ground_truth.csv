@@ -1,0 +1,41 @@
+jd_id,role,company,required_skills,nice_to_have_skills,split
+J0001,Data Scientist,Westgate Solutions,Statistics;Deep Learning;Pandas;SQL,Roadmapping,dev
+J0002,Data Scientist,Meridian Apps,Machine Learning;Deep Learning;Pandas;SQL,REST API,dev
+J0003,Full Stack Developer,Meridian Apps,Git;SQL;REST API;React,,dev
+J0004,ML Engineer,Driftwood Analytics,Deep Learning;Machine Learning;Python,Agile,dev
+J0005,Backend Developer,Crestline Digital,REST API;Java;SQL,,dev
+J0006,Backend Developer,Bluepeak Systems,SQL;Microservices;Java,Vue.js,dev
+J0007,ML Engineer,Bluepeak Systems,Docker;SQL;TensorFlow,Selenium,dev
+J0008,Data Scientist,Driftwood Analytics,Deep Learning;Statistics;Python;SQL,Spring Boot;Machine Learning,test
+J0009,Frontend Developer,Bluepeak Systems,JavaScript;React;TypeScript;HTML,Test Automation;Deep Learning,test
+J0010,Backend Developer,Westgate Solutions,Spring Boot;Microservices;Git,Scikit-learn,test
+J0011,QA Engineer,Lumen Stack,Manual Testing;Test Automation;Selenium;Java;SQL,Pandas;Microservices,dev
+J0012,Data Analyst,Meridian Apps,SQL;Python;Data Visualization,Statistics,dev
+J0013,Business Analyst,Orbit Cloud Co,Communication;SQL;Data Visualization;Power BI,,dev
+J0014,Business Analyst,Crestline Digital,Data Visualization;SQL;Power BI,,dev
+J0015,Business Analyst,Granite Edge Tech,Statistics;Data Visualization;Power BI;Communication;Excel,CSS;R,dev
+J0016,QA Engineer,Lumen Stack,Test Automation;Git;Selenium;SQL,Java,dev
+J0017,Backend Developer,Bluepeak Systems,Java;SQL;REST API,,dev
+J0018,Business Analyst,Meridian Apps,Power BI;Statistics;Communication;SQL;Data Visualization,TensorFlow,test
+J0019,Frontend Developer,Bluepeak Systems,JavaScript;TypeScript;React;Git;HTML,Agile,test
+J0020,Data Scientist,Orbit Cloud Co,Deep Learning;Machine Learning;SQL,Selenium,test
+J0021,Frontend Developer,Driftwood Analytics,CSS;Git;TypeScript;React;HTML,,dev
+J0022,Full Stack Developer,Crestline Digital,SQL;REST API;Git;JavaScript,Manual Testing,dev
+J0023,Backend Developer,Bluepeak Systems,REST API;SQL;Git;Java,Selenium,dev
+J0024,Full Stack Developer,Lumen Stack,React;Git;SQL;REST API;JavaScript,Machine Learning,dev
+J0025,ML Engineer,Lumen Stack,TensorFlow;Docker;Python,,dev
+J0026,QA Engineer,Westgate Solutions,Git;SQL;Test Automation;Selenium;Java,Microservices;Agile,dev
+J0027,Data Analyst,Granite Edge Tech,Excel;SQL;Data Visualization;Statistics;Power BI,,dev
+J0028,Backend Developer,Westgate Solutions,Microservices;Java;Spring Boot;SQL;REST API,Agile;GCP,test
+J0029,DevOps Engineer,Lumen Stack,Docker;Linux;AWS,GCP;Pandas,test
+J0030,Backend Developer,Meridian Apps,Microservices;SQL;Git;Spring Boot;Java,Docker;CSS,test
+J0031,Business Analyst,Driftwood Analytics,Communication;Statistics;Data Visualization;Excel;Power BI,JavaScript,dev
+J0032,DevOps Engineer,Crestline Digital,Docker;AWS;Kubernetes,Pandas,dev
+J0033,DevOps Engineer,Bluepeak Systems,Git;CI/CD;Docker;Kubernetes,Pandas,dev
+J0034,Full Stack Developer,Lumen Stack,Git;React;JavaScript;SQL,CI/CD,dev
+J0035,Data Analyst,Bluepeak Systems,Statistics;SQL;Power BI;Data Visualization;Excel,Java;REST API,dev
+J0036,Data Scientist,Orbit Cloud Co,Deep Learning;SQL;Statistics;Machine Learning,React,dev
+J0037,DevOps Engineer,Driftwood Analytics,Linux;Git;CI/CD;Kubernetes,Selenium;Pandas,dev
+J0038,DevOps Engineer,Bluepeak Systems,Kubernetes;AWS;CI/CD;Docker,Stakeholder Management,test
+J0039,Backend Developer,Lumen Stack,SQL;Spring Boot;Java;Microservices,Python,test
+J0040,Full Stack Developer,Westgate Solutions,React;Git;JavaScript,Kubernetes,test
