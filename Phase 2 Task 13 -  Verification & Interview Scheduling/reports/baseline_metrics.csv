@@ -1,0 +1,7 @@
+model,split,precision,recall,fpr,tp,fp,fn,tn,review_count
+naive_rules,train,0.407,0.987,0.615,231,336,3,210,
+logreg_task11_features,train,1.0,0.966,0.0,226,0,8,546,
+naive_rules,val,0.438,1.0,0.593,57,73,0,50,
+logreg_task11_features,val,1.0,0.965,0.0,55,0,2,123,
+naive_rules,test,0.452,0.988,0.61,80,97,1,62,
+logreg_task11_features,test,1.0,0.975,0.0,79,0,2,159,

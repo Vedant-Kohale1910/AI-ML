@@ -1,0 +1,4 @@
+model,split,precision,recall,fpr,tp,fp,fn,tn,review_count
+rf_task13_all_features,train,0.979,1.0,0.009,234,5,0,541,34.0
+rf_task13_all_features,val,1.0,1.0,0.0,57,0,0,123,9.0
+rf_task13_all_features,test,1.0,1.0,0.0,81,0,0,159,13.0

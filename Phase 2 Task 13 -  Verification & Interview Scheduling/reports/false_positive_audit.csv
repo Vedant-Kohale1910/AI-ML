@@ -1,0 +1,98 @@
+session_id,true_label,baseline_decision,baseline_triggered,rf_status,rf_suspicion_score,rf_reason,fixed
+FS00588,honest,CHEATING (false positive),face missing 12s (>12s); voice detected in 2 window(s),SAFE,0.002,"Elevated signals: total face missing sec (12.5, typical honest is <11.7); score drop pct (20.0, typical honest is <14.1)",True
+FS00384,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.003,no signal significantly above the honest-session baseline,True
+FS00494,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00451,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,Elevated signals: flags clustered,True
+FS01161,honest,CHEATING (false positive),face missing 21s (>12s); multiple faces detected during session; voice detected in 2 window(s),SAFE,0.027,"Elevated signals: total face missing sec (21.4, typical honest is <11.7); any multi face detected",True
+FS00650,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00580,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.003,"Elevated signals: flag window ratio (0.3, typical honest is <0.3); flags clustered",True
+FS00967,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01071,honest,CHEATING (false positive),voice detected in 1 window(s),REVIEW,0.157,"Elevated signals: flag window ratio (0.3, typical honest is <0.3)",True
+FS00543,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.006,no signal significantly above the honest-session baseline,True
+FS01081,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.002,Elevated signals: flags clustered,True
+FS01072,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.003,Elevated signals: flags clustered,True
+FS00409,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.001,no signal significantly above the honest-session baseline,True
+FS00624,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00547,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.034,"Elevated signals: flag window ratio (0.3, typical honest is <0.3); score drop pct (15.7, typical honest is <14.1); avg head pose deviation deg (25.9, typical honest is <24.5)",True
+FS01076,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01091,honest,CHEATING (false positive),multiple faces detected during session,SAFE,0.0,Elevated signals: any multi face detected,True
+FS01155,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00672,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: flag window ratio (0.3, typical honest is <0.3)",True
+FS00803,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.001,Elevated signals: flags clustered,True
+FS00504,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01193,honest,CHEATING (false positive),multiple faces detected during session,SAFE,0.005,Elevated signals: any multi face detected,True
+FS01131,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: flag window ratio (0.3, typical honest is <0.3); flags clustered",True
+FS00513,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00430,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00604,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00957,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: score drop pct (16.7, typical honest is <14.1)",True
+FS00735,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00459,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: score drop pct (14.6, typical honest is <14.1); flags clustered",True
+FS00951,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.002,Elevated signals: flags clustered,True
+FS00746,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: flag window ratio (0.3, typical honest is <0.3)",True
+FS00916,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00802,honest,CHEATING (false positive),multiple faces detected during session; voice detected in 2 window(s),SAFE,0.021,Elevated signals: flags clustered; any multi face detected,True
+FS01142,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00375,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00585,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.023,"Elevated signals: flag window ratio (0.3, typical honest is <0.3); flags clustered",True
+FS00482,honest,CHEATING (false positive),face missing 15s (>12s); voice detected in 1 window(s),SAFE,0.01,"Elevated signals: total face missing sec (15.1, typical honest is <11.7)",True
+FS00941,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,Elevated signals: flags clustered,True
+FS00817,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00862,honest,CHEATING (false positive),multiple faces detected during session,SAFE,0.003,Elevated signals: any multi face detected,True
+FS01187,honest,CHEATING (false positive),voice detected in 1 window(s),REVIEW,0.085,"Elevated signals: total tab switches (7.0, typical honest is <5.0)",True
+FS01053,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00478,honest,CHEATING (false positive),face missing 13s (>12s); voice detected in 2 window(s),SAFE,0.021,"Elevated signals: flag window ratio (0.3, typical honest is <0.3); total face missing sec (12.6, typical honest is <11.7); avg head pose deviation deg (24.9, typical honest is <24.5)",True
+FS00822,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.004,"Elevated signals: flag window ratio (0.3, typical honest is <0.3); total tab switches (6.0, typical honest is <5.0)",True
+FS00748,honest,CHEATING (false positive),multiple faces detected during session,SAFE,0.0,Elevated signals: any multi face detected,True
+FS00416,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.017,no signal significantly above the honest-session baseline,True
+FS00546,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01135,honest,CHEATING (false positive),multiple faces detected during session; voice detected in 1 window(s),SAFE,0.009,Elevated signals: flags clustered; any multi face detected,True
+FS01149,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00481,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00386,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.002,no signal significantly above the honest-session baseline,True
+FS00736,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: score drop pct (17.2, typical honest is <14.1)",True
+FS01163,honest,CHEATING (false positive),multiple faces detected during session,SAFE,0.0,Elevated signals: any multi face detected,True
+FS00564,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.001,no signal significantly above the honest-session baseline,True
+FS00855,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00877,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.002,Elevated signals: flags clustered,True
+FS00569,honest,CHEATING (false positive),multiple faces detected during session; voice detected in 2 window(s),SAFE,0.035,"Elevated signals: total eye away sec (21.2, typical honest is <19.3); any multi face detected",True
+FS00515,honest,CHEATING (false positive),voice detected in 1 window(s),REVIEW,0.096,"Elevated signals: total eye away sec (24.8, typical honest is <19.3); flag window ratio (0.3, typical honest is <0.3); total focus loss (5.0, typical honest is <4.0)",True
+FS01010,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00660,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01090,honest,CHEATING (false positive),face missing 13s (>12s); voice detected in 1 window(s),SAFE,0.007,"Elevated signals: flag window ratio (0.3, typical honest is <0.3); total face missing sec (13.0, typical honest is <11.7)",True
+FS01082,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.003,Elevated signals: flags clustered,True
+FS00447,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,Elevated signals: flags clustered,True
+FS00820,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.015,no signal significantly above the honest-session baseline,True
+FS00554,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00886,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.001,"Elevated signals: score drop pct (14.8, typical honest is <14.1)",True
+FS00465,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.004,no signal significantly above the honest-session baseline,True
+FS00677,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.006,"Elevated signals: total eye away sec (19.9, typical honest is <19.3); score drop pct (20.0, typical honest is <14.1)",True
+FS00796,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00849,honest,CHEATING (false positive),multiple faces detected during session; voice detected in 1 window(s),SAFE,0.0,Elevated signals: any multi face detected,True
+FS00962,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00476,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00721,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00821,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.003,no signal significantly above the honest-session baseline,True
+FS01195,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: flag window ratio (0.3, typical honest is <0.3)",True
+FS00659,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00568,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01143,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00505,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01048,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.01,Elevated signals: flags clustered,True
+FS00422,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: score drop pct (18.3, typical honest is <14.1)",True
+FS00703,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.023,"Elevated signals: avg head pose deviation deg (24.9, typical honest is <24.5)",True
+FS01070,honest,CHEATING (false positive),multiple faces detected during session; voice detected in 1 window(s),SAFE,0.0,Elevated signals: any multi face detected,True
+FS00525,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS01194,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00413,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00976,honest,CHEATING (false positive),voice detected in 1 window(s),REVIEW,0.056,"Elevated signals: total eye away sec (20.4, typical honest is <19.3); flags clustered",True
+FS00433,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.001,Elevated signals: flags clustered,True
+FS00661,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,Elevated signals: flags clustered,True
+FS00414,honest,CHEATING (false positive),voice detected in 2 window(s),SAFE,0.0,"Elevated signals: flag window ratio (0.3, typical honest is <0.3)",True
+FS01175,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.015,"Elevated signals: total eye away sec (19.7, typical honest is <19.3); score drop pct (15.3, typical honest is <14.1)",True
+FS00945,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.019,"Elevated signals: avg head pose deviation deg (25.8, typical honest is <24.5)",True
+FS01016,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,no signal significantly above the honest-session baseline,True
+FS00648,honest,CHEATING (false positive),face missing 12s (>12s); voice detected in 2 window(s),SAFE,0.023,"Elevated signals: total face missing sec (12.5, typical honest is <11.7)",True
+FS01069,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.0,"Elevated signals: avg head pose deviation deg (24.9, typical honest is <24.5)",True
+FS00921,honest,CHEATING (false positive),voice detected in 1 window(s),SAFE,0.001,"Elevated signals: score drop pct (15.1, typical honest is <14.1); flags clustered",True
+FS00667,honest,CHEATING (false positive),multiple faces detected during session,SAFE,0.0,Elevated signals: any multi face detected,True
