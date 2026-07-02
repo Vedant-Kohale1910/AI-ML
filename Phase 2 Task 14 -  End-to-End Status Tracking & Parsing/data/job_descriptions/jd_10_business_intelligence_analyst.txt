@@ -1,0 +1,11 @@
+Job Title: Business Intelligence Analyst (Junior)
+
+About the Role
+We are hiring a Business Intelligence Analyst to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+Tableau, SQL, Data Visualization, Communication
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

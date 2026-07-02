@@ -1,0 +1,11 @@
+Job Title: Full Stack Developer (Junior)
+
+About the Role
+We are hiring a Full Stack Developer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+JavaScript, React, Node.js, MongoDB
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

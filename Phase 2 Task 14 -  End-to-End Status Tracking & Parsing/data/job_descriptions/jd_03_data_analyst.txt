@@ -1,0 +1,11 @@
+Job Title: Data Analyst (Senior)
+
+About the Role
+We are hiring a Data Analyst to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+SQL, Power BI, Excel, Data Analysis
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

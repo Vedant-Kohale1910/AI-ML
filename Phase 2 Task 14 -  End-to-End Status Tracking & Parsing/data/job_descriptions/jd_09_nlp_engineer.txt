@@ -1,0 +1,11 @@
+Job Title: NLP Engineer (Senior)
+
+About the Role
+We are hiring a NLP Engineer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+NLP, Python, PyTorch, Machine Learning
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

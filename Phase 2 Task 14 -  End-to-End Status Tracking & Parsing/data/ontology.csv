@@ -1,0 +1,148 @@
+alias,standard_skill,category
+Python,Python,Programming Language
+Py,Python,Programming Language
+Python3,Python,Programming Language
+Python 3,Python,Programming Language
+Python Programming,Python,Programming Language
+Python Development,Python,Programming Language
+Core Python,Python,Programming Language
+ML,Machine Learning,AI/ML
+Machine Learning,Machine Learning,AI/ML
+ML Engineer,Machine Learning,AI/ML
+Machine Learning Engineering,Machine Learning,AI/ML
+Applied ML,Machine Learning,AI/ML
+Machine learning algorithms,Machine Learning,AI/ML
+DL,Deep Learning,AI/ML
+Deep Learning,Deep Learning,AI/ML
+Deep Neural Networks,Deep Learning,AI/ML
+Neural Networks,Deep Learning,AI/ML
+NN,Deep Learning,AI/ML
+NLP,Natural Language Processing,AI/ML
+Natural Language Processing,Natural Language Processing,AI/ML
+Text Mining,Natural Language Processing,AI/ML
+CV,Computer Vision,AI/ML
+Computer Vision,Computer Vision,AI/ML
+Image Processing,Computer Vision,AI/ML
+SQL,SQL,Database
+Structured Query Language,SQL,Database
+MySQL,MySQL,Database
+My SQL,MySQL,Database
+Postgres,PostgreSQL,Database
+PostgreSQL,PostgreSQL,Database
+Postgre SQL,PostgreSQL,Database
+Mongo,MongoDB,Database
+MongoDB,MongoDB,Database
+Mongo DB,MongoDB,Database
+NoSQL,NoSQL,Database
+Redis,Redis,Database
+Java,Java,Programming Language
+Core Java,Java,Programming Language
+JavaScript,JavaScript,Programming Language
+Javascript,JavaScript,Programming Language
+JS,JavaScript,Programming Language
+Vanilla JS,JavaScript,Programming Language
+TypeScript,TypeScript,Programming Language
+TS,TypeScript,Programming Language
+React,React,Frontend
+ReactJS,React,Frontend
+React.js,React,Frontend
+React JS,React,Frontend
+Angular,Angular,Frontend
+AngularJS,Angular,Frontend
+Vue,Vue.js,Frontend
+Vue.js,Vue.js,Frontend
+VueJS,Vue.js,Frontend
+HTML,HTML,Frontend
+HTML5,HTML,Frontend
+CSS,CSS,Frontend
+CSS3,CSS,Frontend
+Node,Node.js,Backend
+Node.js,Node.js,Backend
+NodeJS,Node.js,Backend
+Express,Express.js,Backend
+Express.js,Express.js,Backend
+ExpressJS,Express.js,Backend
+Django,Django,Backend
+Flask,Flask,Backend
+FastAPI,FastAPI,Backend
+Fast API,FastAPI,Backend
+REST API,REST APIs,Backend
+REST APIs,REST APIs,Backend
+RESTful API,REST APIs,Backend
+RESTful Services,REST APIs,Backend
+API Development,REST APIs,Backend
+AWS,AWS,Cloud
+Amazon Web Services,AWS,Cloud
+Azure,Azure,Cloud
+Microsoft Azure,Azure,Cloud
+GCP,Google Cloud Platform,Cloud
+Google Cloud,Google Cloud Platform,Cloud
+Google Cloud Platform,Google Cloud Platform,Cloud
+Docker,Docker,DevOps
+Dockerization,Docker,DevOps
+Containerization,Docker,DevOps
+Kubernetes,Kubernetes,DevOps
+K8s,Kubernetes,DevOps
+CI/CD,CI/CD,DevOps
+CI CD,CI/CD,DevOps
+Continuous Integration,CI/CD,DevOps
+Jenkins,Jenkins,DevOps
+Git,Git,DevOps
+GitHub,Git,DevOps
+Git Version Control,Git,DevOps
+Version Control,Git,DevOps
+Linux,Linux,DevOps
+Unix,Linux,DevOps
+Bash,Shell Scripting,DevOps
+Shell Scripting,Shell Scripting,DevOps
+Shell,Shell Scripting,DevOps
+Power BI,Power BI,Data Analytics
+PowerBI,Power BI,Data Analytics
+Power-BI,Power BI,Data Analytics
+Tableau,Tableau,Data Analytics
+Excel,Microsoft Excel,Data Analytics
+MS Excel,Microsoft Excel,Data Analytics
+Advanced Excel,Microsoft Excel,Data Analytics
+Excel Pivot Tables,Microsoft Excel,Data Analytics
+Data Analysis,Data Analysis,Data Analytics
+Data Analytics,Data Analysis,Data Analytics
+Data Visualization,Data Visualization,Data Analytics
+Statistics,Statistics,Data Analytics
+Statistical Analysis,Statistics,Data Analytics
+Pandas,Pandas,AI/ML Tooling
+Numpy,NumPy,AI/ML Tooling
+NumPy,NumPy,AI/ML Tooling
+Scikit Learn,Scikit-learn,AI/ML Tooling
+Scikit-learn,Scikit-learn,AI/ML Tooling
+sklearn,Scikit-learn,AI/ML Tooling
+TensorFlow,TensorFlow,AI/ML Tooling
+Tensor Flow,TensorFlow,AI/ML Tooling
+PyTorch,PyTorch,AI/ML Tooling
+Torch,PyTorch,AI/ML Tooling
+Keras,Keras,AI/ML Tooling
+Spark,Apache Spark,Big Data
+Apache Spark,Apache Spark,Big Data
+PySpark,Apache Spark,Big Data
+Hadoop,Hadoop,Big Data
+C++,C++,Programming Language
+Cpp,C++,Programming Language
+C,C,Programming Language
+C#,C#,Programming Language
+C Sharp,C#,Programming Language
+Go,Go,Programming Language
+Golang,Go,Programming Language
+R,R,Programming Language
+R Programming,R,Programming Language
+Communication,Communication,Soft Skill
+Communication Skills,Communication,Soft Skill
+Verbal Communication,Communication,Soft Skill
+Leadership,Leadership,Soft Skill
+Team Leadership,Leadership,Soft Skill
+Project Management,Project Management,Soft Skill
+Agile,Agile,Soft Skill
+Agile Methodology,Agile,Soft Skill
+Scrum,Scrum,Soft Skill
+Scrum Master,Scrum,Soft Skill
+Problem Solving,Problem Solving,Soft Skill
+Teamwork,Teamwork,Soft Skill
+Time Management,Time Management,Soft Skill

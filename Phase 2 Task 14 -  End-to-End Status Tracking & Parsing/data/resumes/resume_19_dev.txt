@@ -1,0 +1,14 @@
+Resume - Dev
+
+Summary
+Enthusiastic engineering graduate looking for opportunities to apply data
+and software skills on real projects.
+
+Skills
+Shell Scripting, Linux, Bash, Unix, Unreal Engine
+
+Education
+BCA, Nagpur University
+
+Experience
+2 years as a Software Engineer at a product company

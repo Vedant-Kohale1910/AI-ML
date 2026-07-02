@@ -1,0 +1,61 @@
+raw_skill,expected_standard,should_map
+power bi,Power BI,True
+mongo,MongoDB,True
+python3,Python,True
+Zapier,,False
+advanced excel,Microsoft Excel,True
+Mongo DB,MongoDB,True
+kubernetes,Kubernetes,True
+Scikit Learn,Scikit-learn,True
+Tensor Flow,TensorFlow,True
+3D Printing,,False
+Figma,,False
+react.js,React,True
+apache spark,Apache Spark,True
+Py,Python,True
+agile methodology,Agile,True
+PySpark,Apache Spark,True
+K8s,Kubernetes,True
+MS Excel,Microsoft Excel,True
+Structured Query Language,SQL,True
+tensorflow,TensorFlow,True
+Salesforce Admin,,False
+Unreal Engine,,False
+Public Speaking,,False
+sklearn,Scikit-learn,True
+go,Go,True
+Power-BI,Power BI,True
+Cpp,C++,True
+Cooking,,False
+NodeJS,Node.js,True
+AutoCAD,,False
+Tally,,False
+node,Node.js,True
+PowerBI,Power BI,True
+SAP,,False
+Photoshop,,False
+shell,Shell Scripting,True
+CI CD,CI/CD,True
+Sequel,SQL,True
+Notion,,False
+Blender,,False
+scrum master,Scrum,True
+Pythonic Development,Python,True
+unix,Linux,True
+JS,JavaScript,True
+sql,SQL,True
+restful api,REST APIs,True
+React Native,,False
+Adobe Premiere,,False
+Fast API,FastAPI,True
+Cricket Coaching,,False
+ReactJS,React,True
+Machinee Learning,Machine Learning,True
+continuous integration,CI/CD,True
+Golang,Go,True
+machine learning algorithms,Machine Learning,True
+Python Programming,Python,True
+Javascript,JavaScript,True
+c sharp,C#,True
+PL/SQL,,False
+ML,Machine Learning,True

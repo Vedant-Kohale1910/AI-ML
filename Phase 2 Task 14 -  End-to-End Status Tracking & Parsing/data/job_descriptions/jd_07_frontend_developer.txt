@@ -1,0 +1,11 @@
+Job Title: Frontend Developer (Junior)
+
+About the Role
+We are hiring a Frontend Developer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+HTML, CSS, JavaScript, Vue.js
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

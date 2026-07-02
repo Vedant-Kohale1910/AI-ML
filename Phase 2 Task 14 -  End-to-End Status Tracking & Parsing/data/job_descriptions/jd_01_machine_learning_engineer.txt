@@ -1,0 +1,11 @@
+Job Title: Machine Learning Engineer (Junior)
+
+About the Role
+We are hiring a Machine Learning Engineer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+Python, Machine Learning, SQL, Statistics
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

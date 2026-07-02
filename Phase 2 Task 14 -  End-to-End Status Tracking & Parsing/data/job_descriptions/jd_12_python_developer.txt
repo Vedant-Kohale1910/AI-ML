@@ -1,0 +1,11 @@
+Job Title: Python Developer (Senior)
+
+About the Role
+We are hiring a Python Developer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+Python, FastAPI, PostgreSQL, Docker
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

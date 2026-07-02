@@ -1,0 +1,14 @@
+Resume - Rohan
+
+Summary
+Enthusiastic engineering graduate looking for opportunities to apply data
+and software skills on real projects.
+
+Skills
+JavaScript, React JS, Node, MongoDB, REST API
+
+Education
+M.Tech in Data Science, IIT Bombay
+
+Experience
+Fresher, completed 2 academic projects in ML

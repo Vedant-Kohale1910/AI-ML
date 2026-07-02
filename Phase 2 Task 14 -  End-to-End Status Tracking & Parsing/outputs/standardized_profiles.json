@@ -1,0 +1,2210 @@
+{
+  "generated_from": {
+    "resumes": 30,
+    "job_descriptions": 15
+  },
+  "ontology_coverage": 0.88,
+  "resumes": [
+    {
+      "source_file": "resume_01_aarav.txt",
+      "original_skills": [
+        "Py",
+        "ML",
+        "Power BI",
+        "SQL",
+        "Git",
+        "Photoshop"
+      ],
+      "standard_skills": [
+        "Python",
+        "Machine Learning",
+        "Power BI",
+        "SQL",
+        "Git",
+        "Photoshop"
+      ],
+      "mappings": [
+        {
+          "original": "Py",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Py' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "ML",
+          "standard": "Machine Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'ML' is a known alias for 'Machine Learning' in the ontology."
+        },
+        {
+          "original": "Power BI",
+          "standard": "Power BI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Power BI' is a known alias for 'Power BI' in the ontology."
+        },
+        {
+          "original": "SQL",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'SQL' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "Git",
+          "standard": "Git",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Git' is a known alias for 'Git' in the ontology."
+        },
+        {
+          "original": "Photoshop",
+          "standard": "Photoshop",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Photoshop'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_02_isha.txt",
+      "original_skills": [
+        "Python Programming",
+        "Machine learning algorithms",
+        "Excel Pivot Tables",
+        "Tableau"
+      ],
+      "standard_skills": [
+        "Python",
+        "Machine Learning",
+        "Microsoft Excel",
+        "Tableau"
+      ],
+      "mappings": [
+        {
+          "original": "Python Programming",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python Programming' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "Machine learning algorithms",
+          "standard": "Machine Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Machine learning algorithms' is a known alias for 'Machine Learning' in the ontology."
+        },
+        {
+          "original": "Excel Pivot Tables",
+          "standard": "Microsoft Excel",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Excel Pivot Tables' is a known alias for 'Microsoft Excel' in the ontology."
+        },
+        {
+          "original": "Tableau",
+          "standard": "Tableau",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Tableau' is a known alias for 'Tableau' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_03_rohan.txt",
+      "original_skills": [
+        "JavaScript",
+        "React JS",
+        "Node",
+        "MongoDB",
+        "REST API"
+      ],
+      "standard_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "mappings": [
+        {
+          "original": "JavaScript",
+          "standard": "JavaScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'JavaScript' is a known alias for 'JavaScript' in the ontology."
+        },
+        {
+          "original": "React JS",
+          "standard": "React",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'React JS' is a known alias for 'React' in the ontology."
+        },
+        {
+          "original": "Node",
+          "standard": "Node.js",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Node' is a known alias for 'Node.js' in the ontology."
+        },
+        {
+          "original": "MongoDB",
+          "standard": "MongoDB",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MongoDB' is a known alias for 'MongoDB' in the ontology."
+        },
+        {
+          "original": "REST API",
+          "standard": "REST APIs",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'REST API' is a known alias for 'REST APIs' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_04_sneha.txt",
+      "original_skills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Git Version Control",
+        "Notion"
+      ],
+      "standard_skills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Git",
+        "Notion"
+      ],
+      "mappings": [
+        {
+          "original": "Java",
+          "standard": "Java",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Java' is a known alias for 'Java' in the ontology."
+        },
+        {
+          "original": "Spring",
+          "standard": "Spring",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Spring'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "MySQL",
+          "standard": "MySQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MySQL' is a known alias for 'MySQL' in the ontology."
+        },
+        {
+          "original": "Git Version Control",
+          "standard": "Git",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Git Version Control' is a known alias for 'Git' in the ontology."
+        },
+        {
+          "original": "Notion",
+          "standard": "Notion",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Notion'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_05_kabir.txt",
+      "original_skills": [
+        "Python3",
+        "Numpy",
+        "Pandas",
+        "Scikit Learn",
+        "Statistics"
+      ],
+      "standard_skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "mappings": [
+        {
+          "original": "Python3",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python3' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "Numpy",
+          "standard": "NumPy",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Numpy' is a known alias for 'NumPy' in the ontology."
+        },
+        {
+          "original": "Pandas",
+          "standard": "Pandas",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Pandas' is a known alias for 'Pandas' in the ontology."
+        },
+        {
+          "original": "Scikit Learn",
+          "standard": "Scikit-learn",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Scikit Learn' is a known alias for 'Scikit-learn' in the ontology."
+        },
+        {
+          "original": "Statistics",
+          "standard": "Statistics",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Statistics' is a known alias for 'Statistics' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_06_meera.txt",
+      "original_skills": [
+        "Structured Query Language",
+        "PowerBI",
+        "MS Excel",
+        "Communication Skills"
+      ],
+      "standard_skills": [
+        "SQL",
+        "Power BI",
+        "Microsoft Excel",
+        "Communication"
+      ],
+      "mappings": [
+        {
+          "original": "Structured Query Language",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Structured Query Language' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "PowerBI",
+          "standard": "Power BI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'PowerBI' is a known alias for 'Power BI' in the ontology."
+        },
+        {
+          "original": "MS Excel",
+          "standard": "Microsoft Excel",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MS Excel' is a known alias for 'Microsoft Excel' in the ontology."
+        },
+        {
+          "original": "Communication Skills",
+          "standard": "Communication",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Communication Skills' is a known alias for 'Communication' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_07_aditya.txt",
+      "original_skills": [
+        "Machinee Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras",
+        "Blender"
+      ],
+      "standard_skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras",
+        "Blender"
+      ],
+      "mappings": [
+        {
+          "original": "Machinee Learning",
+          "standard": "Machine Learning",
+          "method": "fuzzy",
+          "confidence": 0.97,
+          "reason": "'Machinee Learning' closely matched an existing ontology alias for 'Machine Learning' (similarity 0.97), likely a typo or minor wording difference."
+        },
+        {
+          "original": "Deep Learning",
+          "standard": "Deep Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Deep Learning' is a known alias for 'Deep Learning' in the ontology."
+        },
+        {
+          "original": "TensorFlow",
+          "standard": "TensorFlow",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'TensorFlow' is a known alias for 'TensorFlow' in the ontology."
+        },
+        {
+          "original": "Keras",
+          "standard": "Keras",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Keras' is a known alias for 'Keras' in the ontology."
+        },
+        {
+          "original": "Blender",
+          "standard": "Blender",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Blender'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_08_priya.txt",
+      "original_skills": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "Vue.js",
+        "Bootstrap"
+      ],
+      "standard_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "Bootstrap"
+      ],
+      "mappings": [
+        {
+          "original": "HTML5",
+          "standard": "HTML",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'HTML5' is a known alias for 'HTML' in the ontology."
+        },
+        {
+          "original": "CSS3",
+          "standard": "CSS",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CSS3' is a known alias for 'CSS' in the ontology."
+        },
+        {
+          "original": "Javascript",
+          "standard": "JavaScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Javascript' is a known alias for 'JavaScript' in the ontology."
+        },
+        {
+          "original": "Vue.js",
+          "standard": "Vue.js",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Vue.js' is a known alias for 'Vue.js' in the ontology."
+        },
+        {
+          "original": "Bootstrap",
+          "standard": "Bootstrap",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Bootstrap'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_09_vikram.txt",
+      "original_skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI CD",
+        "Jenkins"
+      ],
+      "standard_skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Jenkins"
+      ],
+      "mappings": [
+        {
+          "original": "AWS",
+          "standard": "AWS",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'AWS' is a known alias for 'AWS' in the ontology."
+        },
+        {
+          "original": "Docker",
+          "standard": "Docker",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Docker' is a known alias for 'Docker' in the ontology."
+        },
+        {
+          "original": "Kubernetes",
+          "standard": "Kubernetes",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Kubernetes' is a known alias for 'Kubernetes' in the ontology."
+        },
+        {
+          "original": "CI CD",
+          "standard": "CI/CD",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CI CD' is a known alias for 'CI/CD' in the ontology."
+        },
+        {
+          "original": "Jenkins",
+          "standard": "Jenkins",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Jenkins' is a known alias for 'Jenkins' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_10_ananya.txt",
+      "original_skills": [
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Problem Solving",
+        "Zapier"
+      ],
+      "standard_skills": [
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Problem Solving",
+        "Zapier"
+      ],
+      "mappings": [
+        {
+          "original": "C++",
+          "standard": "C++",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'C++' is a known alias for 'C++' in the ontology."
+        },
+        {
+          "original": "Data Structures",
+          "standard": "Data Structures",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Data Structures'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Algorithms",
+          "standard": "Algorithms",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Algorithms'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Problem Solving",
+          "standard": "Problem Solving",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Problem Solving' is a known alias for 'Problem Solving' in the ontology."
+        },
+        {
+          "original": "Zapier",
+          "standard": "Zapier",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Zapier'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_11_karan.txt",
+      "original_skills": [
+        "R Programming",
+        "Data Analysis",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "standard_skills": [
+        "R",
+        "Data Analysis",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "mappings": [
+        {
+          "original": "R Programming",
+          "standard": "R",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'R Programming' is a known alias for 'R' in the ontology."
+        },
+        {
+          "original": "Data Analysis",
+          "standard": "Data Analysis",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Data Analysis' is a known alias for 'Data Analysis' in the ontology."
+        },
+        {
+          "original": "Data Visualization",
+          "standard": "Data Visualization",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Data Visualization' is a known alias for 'Data Visualization' in the ontology."
+        },
+        {
+          "original": "Statistics",
+          "standard": "Statistics",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Statistics' is a known alias for 'Statistics' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_12_diya.txt",
+      "original_skills": [
+        "Django",
+        "Flask",
+        "Fast API",
+        "Postgres"
+      ],
+      "standard_skills": [
+        "Django",
+        "Flask",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "mappings": [
+        {
+          "original": "Django",
+          "standard": "Django",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Django' is a known alias for 'Django' in the ontology."
+        },
+        {
+          "original": "Flask",
+          "standard": "Flask",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Flask' is a known alias for 'Flask' in the ontology."
+        },
+        {
+          "original": "Fast API",
+          "standard": "FastAPI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Fast API' is a known alias for 'FastAPI' in the ontology."
+        },
+        {
+          "original": "Postgres",
+          "standard": "PostgreSQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Postgres' is a known alias for 'PostgreSQL' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_13_rahul.txt",
+      "original_skills": [
+        "NLP",
+        "Text Mining",
+        "PyTorch",
+        "sklearn",
+        "Figma"
+      ],
+      "standard_skills": [
+        "Natural Language Processing",
+        "PyTorch",
+        "Scikit-learn",
+        "Figma"
+      ],
+      "mappings": [
+        {
+          "original": "NLP",
+          "standard": "Natural Language Processing",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'NLP' is a known alias for 'Natural Language Processing' in the ontology."
+        },
+        {
+          "original": "Text Mining",
+          "standard": "Natural Language Processing",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Text Mining' is a known alias for 'Natural Language Processing' in the ontology."
+        },
+        {
+          "original": "PyTorch",
+          "standard": "PyTorch",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'PyTorch' is a known alias for 'PyTorch' in the ontology."
+        },
+        {
+          "original": "sklearn",
+          "standard": "Scikit-learn",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'sklearn' is a known alias for 'Scikit-learn' in the ontology."
+        },
+        {
+          "original": "Figma",
+          "standard": "Figma",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Figma'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_14_neha.txt",
+      "original_skills": [
+        "Golang",
+        "Microservices",
+        "Docker",
+        "Kubernetes"
+      ],
+      "standard_skills": [
+        "Go",
+        "Microservices",
+        "Docker",
+        "Kubernetes"
+      ],
+      "mappings": [
+        {
+          "original": "Golang",
+          "standard": "Go",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Golang' is a known alias for 'Go' in the ontology."
+        },
+        {
+          "original": "Microservices",
+          "standard": "Microservices",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Microservices'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Docker",
+          "standard": "Docker",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Docker' is a known alias for 'Docker' in the ontology."
+        },
+        {
+          "original": "Kubernetes",
+          "standard": "Kubernetes",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Kubernetes' is a known alias for 'Kubernetes' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_15_arjun.txt",
+      "original_skills": [
+        "Excel",
+        "Power-BI",
+        "SQL",
+        "Data Analytics"
+      ],
+      "standard_skills": [
+        "Microsoft Excel",
+        "Power BI",
+        "SQL",
+        "Data Analysis"
+      ],
+      "mappings": [
+        {
+          "original": "Excel",
+          "standard": "Microsoft Excel",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Excel' is a known alias for 'Microsoft Excel' in the ontology."
+        },
+        {
+          "original": "Power-BI",
+          "standard": "Power BI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Power-BI' is a known alias for 'Power BI' in the ontology."
+        },
+        {
+          "original": "SQL",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'SQL' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "Data Analytics",
+          "standard": "Data Analysis",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Data Analytics' is a known alias for 'Data Analysis' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_16_tara.txt",
+      "original_skills": [
+        "Core Java",
+        "Spring Boot",
+        "Mongo DB",
+        "Agile Methodology",
+        "Figma"
+      ],
+      "standard_skills": [
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "Agile",
+        "Figma"
+      ],
+      "mappings": [
+        {
+          "original": "Core Java",
+          "standard": "Java",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Core Java' is a known alias for 'Java' in the ontology."
+        },
+        {
+          "original": "Spring Boot",
+          "standard": "Spring Boot",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Spring Boot'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Mongo DB",
+          "standard": "MongoDB",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Mongo DB' is a known alias for 'MongoDB' in the ontology."
+        },
+        {
+          "original": "Agile Methodology",
+          "standard": "Agile",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Agile Methodology' is a known alias for 'Agile' in the ontology."
+        },
+        {
+          "original": "Figma",
+          "standard": "Figma",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Figma'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_17_yash.txt",
+      "original_skills": [
+        "Computer Vision",
+        "Image Processing",
+        "Tensor Flow",
+        "CV"
+      ],
+      "standard_skills": [
+        "Computer Vision",
+        "TensorFlow"
+      ],
+      "mappings": [
+        {
+          "original": "Computer Vision",
+          "standard": "Computer Vision",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Computer Vision' is a known alias for 'Computer Vision' in the ontology."
+        },
+        {
+          "original": "Image Processing",
+          "standard": "Computer Vision",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Image Processing' is a known alias for 'Computer Vision' in the ontology."
+        },
+        {
+          "original": "Tensor Flow",
+          "standard": "TensorFlow",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Tensor Flow' is a known alias for 'TensorFlow' in the ontology."
+        },
+        {
+          "original": "CV",
+          "standard": "Computer Vision",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CV' is a known alias for 'Computer Vision' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_18_pooja.txt",
+      "original_skills": [
+        "TypeScript",
+        "Angular",
+        "Azure",
+        "Git"
+      ],
+      "standard_skills": [
+        "TypeScript",
+        "Angular",
+        "Azure",
+        "Git"
+      ],
+      "mappings": [
+        {
+          "original": "TypeScript",
+          "standard": "TypeScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'TypeScript' is a known alias for 'TypeScript' in the ontology."
+        },
+        {
+          "original": "Angular",
+          "standard": "Angular",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Angular' is a known alias for 'Angular' in the ontology."
+        },
+        {
+          "original": "Azure",
+          "standard": "Azure",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Azure' is a known alias for 'Azure' in the ontology."
+        },
+        {
+          "original": "Git",
+          "standard": "Git",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Git' is a known alias for 'Git' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_19_dev.txt",
+      "original_skills": [
+        "Shell Scripting",
+        "Linux",
+        "Bash",
+        "Unix",
+        "Unreal Engine"
+      ],
+      "standard_skills": [
+        "Shell Scripting",
+        "Linux",
+        "Unreal Engine"
+      ],
+      "mappings": [
+        {
+          "original": "Shell Scripting",
+          "standard": "Shell Scripting",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Shell Scripting' is a known alias for 'Shell Scripting' in the ontology."
+        },
+        {
+          "original": "Linux",
+          "standard": "Linux",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Linux' is a known alias for 'Linux' in the ontology."
+        },
+        {
+          "original": "Bash",
+          "standard": "Shell Scripting",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Bash' is a known alias for 'Shell Scripting' in the ontology."
+        },
+        {
+          "original": "Unix",
+          "standard": "Linux",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Unix' is a known alias for 'Linux' in the ontology."
+        },
+        {
+          "original": "Unreal Engine",
+          "standard": "Unreal Engine",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Unreal Engine'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_20_simran.txt",
+      "original_skills": [
+        "Apache Spark",
+        "PySpark",
+        "Hadoop",
+        "Big Data"
+      ],
+      "standard_skills": [
+        "Apache Spark",
+        "Hadoop",
+        "Big Data"
+      ],
+      "mappings": [
+        {
+          "original": "Apache Spark",
+          "standard": "Apache Spark",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Apache Spark' is a known alias for 'Apache Spark' in the ontology."
+        },
+        {
+          "original": "PySpark",
+          "standard": "Apache Spark",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'PySpark' is a known alias for 'Apache Spark' in the ontology."
+        },
+        {
+          "original": "Hadoop",
+          "standard": "Hadoop",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Hadoop' is a known alias for 'Hadoop' in the ontology."
+        },
+        {
+          "original": "Big Data",
+          "standard": "Big Data",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Big Data'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_21_nikhil.txt",
+      "original_skills": [
+        "Py",
+        "ML",
+        "Power BI",
+        "SQL",
+        "Git"
+      ],
+      "standard_skills": [
+        "Python",
+        "Machine Learning",
+        "Power BI",
+        "SQL",
+        "Git"
+      ],
+      "mappings": [
+        {
+          "original": "Py",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Py' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "ML",
+          "standard": "Machine Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'ML' is a known alias for 'Machine Learning' in the ontology."
+        },
+        {
+          "original": "Power BI",
+          "standard": "Power BI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Power BI' is a known alias for 'Power BI' in the ontology."
+        },
+        {
+          "original": "SQL",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'SQL' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "Git",
+          "standard": "Git",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Git' is a known alias for 'Git' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_22_riya.txt",
+      "original_skills": [
+        "Python Programming",
+        "Machine learning algorithms",
+        "Excel Pivot Tables",
+        "Tableau",
+        "Figma"
+      ],
+      "standard_skills": [
+        "Python",
+        "Machine Learning",
+        "Microsoft Excel",
+        "Tableau",
+        "Figma"
+      ],
+      "mappings": [
+        {
+          "original": "Python Programming",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python Programming' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "Machine learning algorithms",
+          "standard": "Machine Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Machine learning algorithms' is a known alias for 'Machine Learning' in the ontology."
+        },
+        {
+          "original": "Excel Pivot Tables",
+          "standard": "Microsoft Excel",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Excel Pivot Tables' is a known alias for 'Microsoft Excel' in the ontology."
+        },
+        {
+          "original": "Tableau",
+          "standard": "Tableau",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Tableau' is a known alias for 'Tableau' in the ontology."
+        },
+        {
+          "original": "Figma",
+          "standard": "Figma",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Figma'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_23_sameer.txt",
+      "original_skills": [
+        "JavaScript",
+        "React JS",
+        "Node",
+        "MongoDB",
+        "REST API"
+      ],
+      "standard_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "mappings": [
+        {
+          "original": "JavaScript",
+          "standard": "JavaScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'JavaScript' is a known alias for 'JavaScript' in the ontology."
+        },
+        {
+          "original": "React JS",
+          "standard": "React",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'React JS' is a known alias for 'React' in the ontology."
+        },
+        {
+          "original": "Node",
+          "standard": "Node.js",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Node' is a known alias for 'Node.js' in the ontology."
+        },
+        {
+          "original": "MongoDB",
+          "standard": "MongoDB",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MongoDB' is a known alias for 'MongoDB' in the ontology."
+        },
+        {
+          "original": "REST API",
+          "standard": "REST APIs",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'REST API' is a known alias for 'REST APIs' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_24_kavya.txt",
+      "original_skills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Git Version Control"
+      ],
+      "standard_skills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Git"
+      ],
+      "mappings": [
+        {
+          "original": "Java",
+          "standard": "Java",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Java' is a known alias for 'Java' in the ontology."
+        },
+        {
+          "original": "Spring",
+          "standard": "Spring",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Spring'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "MySQL",
+          "standard": "MySQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MySQL' is a known alias for 'MySQL' in the ontology."
+        },
+        {
+          "original": "Git Version Control",
+          "standard": "Git",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Git Version Control' is a known alias for 'Git' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_25_manav.txt",
+      "original_skills": [
+        "Python3",
+        "Numpy",
+        "Pandas",
+        "Scikit Learn",
+        "Statistics",
+        "Photoshop"
+      ],
+      "standard_skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "Statistics",
+        "Photoshop"
+      ],
+      "mappings": [
+        {
+          "original": "Python3",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python3' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "Numpy",
+          "standard": "NumPy",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Numpy' is a known alias for 'NumPy' in the ontology."
+        },
+        {
+          "original": "Pandas",
+          "standard": "Pandas",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Pandas' is a known alias for 'Pandas' in the ontology."
+        },
+        {
+          "original": "Scikit Learn",
+          "standard": "Scikit-learn",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Scikit Learn' is a known alias for 'Scikit-learn' in the ontology."
+        },
+        {
+          "original": "Statistics",
+          "standard": "Statistics",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Statistics' is a known alias for 'Statistics' in the ontology."
+        },
+        {
+          "original": "Photoshop",
+          "standard": "Photoshop",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Photoshop'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_26_ira.txt",
+      "original_skills": [
+        "Structured Query Language",
+        "PowerBI",
+        "MS Excel",
+        "Communication Skills"
+      ],
+      "standard_skills": [
+        "SQL",
+        "Power BI",
+        "Microsoft Excel",
+        "Communication"
+      ],
+      "mappings": [
+        {
+          "original": "Structured Query Language",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Structured Query Language' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "PowerBI",
+          "standard": "Power BI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'PowerBI' is a known alias for 'Power BI' in the ontology."
+        },
+        {
+          "original": "MS Excel",
+          "standard": "Microsoft Excel",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MS Excel' is a known alias for 'Microsoft Excel' in the ontology."
+        },
+        {
+          "original": "Communication Skills",
+          "standard": "Communication",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Communication Skills' is a known alias for 'Communication' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_27_harsh.txt",
+      "original_skills": [
+        "Machinee Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras"
+      ],
+      "standard_skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras"
+      ],
+      "mappings": [
+        {
+          "original": "Machinee Learning",
+          "standard": "Machine Learning",
+          "method": "fuzzy",
+          "confidence": 0.97,
+          "reason": "'Machinee Learning' closely matched an existing ontology alias for 'Machine Learning' (similarity 0.97), likely a typo or minor wording difference."
+        },
+        {
+          "original": "Deep Learning",
+          "standard": "Deep Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Deep Learning' is a known alias for 'Deep Learning' in the ontology."
+        },
+        {
+          "original": "TensorFlow",
+          "standard": "TensorFlow",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'TensorFlow' is a known alias for 'TensorFlow' in the ontology."
+        },
+        {
+          "original": "Keras",
+          "standard": "Keras",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Keras' is a known alias for 'Keras' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_28_zoya.txt",
+      "original_skills": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "Vue.js",
+        "Bootstrap",
+        "Unreal Engine"
+      ],
+      "standard_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "Bootstrap",
+        "Unreal Engine"
+      ],
+      "mappings": [
+        {
+          "original": "HTML5",
+          "standard": "HTML",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'HTML5' is a known alias for 'HTML' in the ontology."
+        },
+        {
+          "original": "CSS3",
+          "standard": "CSS",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CSS3' is a known alias for 'CSS' in the ontology."
+        },
+        {
+          "original": "Javascript",
+          "standard": "JavaScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Javascript' is a known alias for 'JavaScript' in the ontology."
+        },
+        {
+          "original": "Vue.js",
+          "standard": "Vue.js",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Vue.js' is a known alias for 'Vue.js' in the ontology."
+        },
+        {
+          "original": "Bootstrap",
+          "standard": "Bootstrap",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Bootstrap'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Unreal Engine",
+          "standard": "Unreal Engine",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Unreal Engine'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_29_ravi.txt",
+      "original_skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI CD",
+        "Jenkins"
+      ],
+      "standard_skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Jenkins"
+      ],
+      "mappings": [
+        {
+          "original": "AWS",
+          "standard": "AWS",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'AWS' is a known alias for 'AWS' in the ontology."
+        },
+        {
+          "original": "Docker",
+          "standard": "Docker",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Docker' is a known alias for 'Docker' in the ontology."
+        },
+        {
+          "original": "Kubernetes",
+          "standard": "Kubernetes",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Kubernetes' is a known alias for 'Kubernetes' in the ontology."
+        },
+        {
+          "original": "CI CD",
+          "standard": "CI/CD",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CI CD' is a known alias for 'CI/CD' in the ontology."
+        },
+        {
+          "original": "Jenkins",
+          "standard": "Jenkins",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Jenkins' is a known alias for 'Jenkins' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "resume_30_anika.txt",
+      "original_skills": [
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Problem Solving"
+      ],
+      "standard_skills": [
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Problem Solving"
+      ],
+      "mappings": [
+        {
+          "original": "C++",
+          "standard": "C++",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'C++' is a known alias for 'C++' in the ontology."
+        },
+        {
+          "original": "Data Structures",
+          "standard": "Data Structures",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Data Structures'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Algorithms",
+          "standard": "Algorithms",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Algorithms'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Problem Solving",
+          "standard": "Problem Solving",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Problem Solving' is a known alias for 'Problem Solving' in the ontology."
+        }
+      ]
+    }
+  ],
+  "job_descriptions": [
+    {
+      "source_file": "jd_01_machine_learning_engineer.txt",
+      "original_required_skills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Statistics"
+      ],
+      "standard_required_skills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Statistics"
+      ],
+      "mappings": [
+        {
+          "original": "Python",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "Machine Learning",
+          "standard": "Machine Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Machine Learning' is a known alias for 'Machine Learning' in the ontology."
+        },
+        {
+          "original": "SQL",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'SQL' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "Statistics",
+          "standard": "Statistics",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Statistics' is a known alias for 'Statistics' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_02_backend_developer.txt",
+      "original_required_skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "REST APIs"
+      ],
+      "standard_required_skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "REST APIs"
+      ],
+      "mappings": [
+        {
+          "original": "Java",
+          "standard": "Java",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Java' is a known alias for 'Java' in the ontology."
+        },
+        {
+          "original": "Spring Boot",
+          "standard": "Spring Boot",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'Spring Boot'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "MySQL",
+          "standard": "MySQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MySQL' is a known alias for 'MySQL' in the ontology."
+        },
+        {
+          "original": "REST APIs",
+          "standard": "REST APIs",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'REST APIs' is a known alias for 'REST APIs' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_03_data_analyst.txt",
+      "original_required_skills": [
+        "SQL",
+        "Power BI",
+        "Excel",
+        "Data Analysis"
+      ],
+      "standard_required_skills": [
+        "SQL",
+        "Power BI",
+        "Microsoft Excel",
+        "Data Analysis"
+      ],
+      "mappings": [
+        {
+          "original": "SQL",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'SQL' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "Power BI",
+          "standard": "Power BI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Power BI' is a known alias for 'Power BI' in the ontology."
+        },
+        {
+          "original": "Excel",
+          "standard": "Microsoft Excel",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Excel' is a known alias for 'Microsoft Excel' in the ontology."
+        },
+        {
+          "original": "Data Analysis",
+          "standard": "Data Analysis",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Data Analysis' is a known alias for 'Data Analysis' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_04_full_stack_developer.txt",
+      "original_required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "standard_required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "mappings": [
+        {
+          "original": "JavaScript",
+          "standard": "JavaScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'JavaScript' is a known alias for 'JavaScript' in the ontology."
+        },
+        {
+          "original": "React",
+          "standard": "React",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'React' is a known alias for 'React' in the ontology."
+        },
+        {
+          "original": "Node.js",
+          "standard": "Node.js",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Node.js' is a known alias for 'Node.js' in the ontology."
+        },
+        {
+          "original": "MongoDB",
+          "standard": "MongoDB",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'MongoDB' is a known alias for 'MongoDB' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_05_devops_engineer.txt",
+      "original_required_skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD"
+      ],
+      "standard_required_skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD"
+      ],
+      "mappings": [
+        {
+          "original": "Docker",
+          "standard": "Docker",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Docker' is a known alias for 'Docker' in the ontology."
+        },
+        {
+          "original": "Kubernetes",
+          "standard": "Kubernetes",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Kubernetes' is a known alias for 'Kubernetes' in the ontology."
+        },
+        {
+          "original": "AWS",
+          "standard": "AWS",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'AWS' is a known alias for 'AWS' in the ontology."
+        },
+        {
+          "original": "CI/CD",
+          "standard": "CI/CD",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CI/CD' is a known alias for 'CI/CD' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_06_data_scientist.txt",
+      "original_required_skills": [
+        "Python",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "standard_required_skills": [
+        "Python",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "mappings": [
+        {
+          "original": "Python",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "Deep Learning",
+          "standard": "Deep Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Deep Learning' is a known alias for 'Deep Learning' in the ontology."
+        },
+        {
+          "original": "TensorFlow",
+          "standard": "TensorFlow",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'TensorFlow' is a known alias for 'TensorFlow' in the ontology."
+        },
+        {
+          "original": "PyTorch",
+          "standard": "PyTorch",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'PyTorch' is a known alias for 'PyTorch' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_07_frontend_developer.txt",
+      "original_required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js"
+      ],
+      "standard_required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js"
+      ],
+      "mappings": [
+        {
+          "original": "HTML",
+          "standard": "HTML",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'HTML' is a known alias for 'HTML' in the ontology."
+        },
+        {
+          "original": "CSS",
+          "standard": "CSS",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CSS' is a known alias for 'CSS' in the ontology."
+        },
+        {
+          "original": "JavaScript",
+          "standard": "JavaScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'JavaScript' is a known alias for 'JavaScript' in the ontology."
+        },
+        {
+          "original": "Vue.js",
+          "standard": "Vue.js",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Vue.js' is a known alias for 'Vue.js' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_08_cloud_engineer.txt",
+      "original_required_skills": [
+        "Azure",
+        "Docker",
+        "Linux",
+        "Shell Scripting"
+      ],
+      "standard_required_skills": [
+        "Azure",
+        "Docker",
+        "Linux",
+        "Shell Scripting"
+      ],
+      "mappings": [
+        {
+          "original": "Azure",
+          "standard": "Azure",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Azure' is a known alias for 'Azure' in the ontology."
+        },
+        {
+          "original": "Docker",
+          "standard": "Docker",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Docker' is a known alias for 'Docker' in the ontology."
+        },
+        {
+          "original": "Linux",
+          "standard": "Linux",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Linux' is a known alias for 'Linux' in the ontology."
+        },
+        {
+          "original": "Shell Scripting",
+          "standard": "Shell Scripting",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Shell Scripting' is a known alias for 'Shell Scripting' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_09_nlp_engineer.txt",
+      "original_required_skills": [
+        "NLP",
+        "Python",
+        "PyTorch",
+        "Machine Learning"
+      ],
+      "standard_required_skills": [
+        "Natural Language Processing",
+        "Python",
+        "PyTorch",
+        "Machine Learning"
+      ],
+      "mappings": [
+        {
+          "original": "NLP",
+          "standard": "Natural Language Processing",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'NLP' is a known alias for 'Natural Language Processing' in the ontology."
+        },
+        {
+          "original": "Python",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "PyTorch",
+          "standard": "PyTorch",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'PyTorch' is a known alias for 'PyTorch' in the ontology."
+        },
+        {
+          "original": "Machine Learning",
+          "standard": "Machine Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Machine Learning' is a known alias for 'Machine Learning' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_10_business_intelligence_analyst.txt",
+      "original_required_skills": [
+        "Tableau",
+        "SQL",
+        "Data Visualization",
+        "Communication"
+      ],
+      "standard_required_skills": [
+        "Tableau",
+        "SQL",
+        "Data Visualization",
+        "Communication"
+      ],
+      "mappings": [
+        {
+          "original": "Tableau",
+          "standard": "Tableau",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Tableau' is a known alias for 'Tableau' in the ontology."
+        },
+        {
+          "original": "SQL",
+          "standard": "SQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'SQL' is a known alias for 'SQL' in the ontology."
+        },
+        {
+          "original": "Data Visualization",
+          "standard": "Data Visualization",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Data Visualization' is a known alias for 'Data Visualization' in the ontology."
+        },
+        {
+          "original": "Communication",
+          "standard": "Communication",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Communication' is a known alias for 'Communication' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_11_java_developer.txt",
+      "original_required_skills": [
+        "Java",
+        "Git",
+        "Agile",
+        "Scrum"
+      ],
+      "standard_required_skills": [
+        "Java",
+        "Git",
+        "Agile",
+        "Scrum"
+      ],
+      "mappings": [
+        {
+          "original": "Java",
+          "standard": "Java",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Java' is a known alias for 'Java' in the ontology."
+        },
+        {
+          "original": "Git",
+          "standard": "Git",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Git' is a known alias for 'Git' in the ontology."
+        },
+        {
+          "original": "Agile",
+          "standard": "Agile",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Agile' is a known alias for 'Agile' in the ontology."
+        },
+        {
+          "original": "Scrum",
+          "standard": "Scrum",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Scrum' is a known alias for 'Scrum' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_12_python_developer.txt",
+      "original_required_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "standard_required_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "mappings": [
+        {
+          "original": "Python",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "FastAPI",
+          "standard": "FastAPI",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'FastAPI' is a known alias for 'FastAPI' in the ontology."
+        },
+        {
+          "original": "PostgreSQL",
+          "standard": "PostgreSQL",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'PostgreSQL' is a known alias for 'PostgreSQL' in the ontology."
+        },
+        {
+          "original": "Docker",
+          "standard": "Docker",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Docker' is a known alias for 'Docker' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_13_mlops_engineer.txt",
+      "original_required_skills": [
+        "Machine Learning",
+        "MLOps",
+        "AWS",
+        "CI/CD"
+      ],
+      "standard_required_skills": [
+        "Machine Learning",
+        "Mlops",
+        "AWS",
+        "CI/CD"
+      ],
+      "mappings": [
+        {
+          "original": "Machine Learning",
+          "standard": "Machine Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Machine Learning' is a known alias for 'Machine Learning' in the ontology."
+        },
+        {
+          "original": "MLOps",
+          "standard": "Mlops",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'MLOps'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "AWS",
+          "standard": "AWS",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'AWS' is a known alias for 'AWS' in the ontology."
+        },
+        {
+          "original": "CI/CD",
+          "standard": "CI/CD",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'CI/CD' is a known alias for 'CI/CD' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_14_react_developer.txt",
+      "original_required_skills": [
+        "React",
+        "TypeScript",
+        "REST APIs",
+        "Git"
+      ],
+      "standard_required_skills": [
+        "React",
+        "TypeScript",
+        "REST APIs",
+        "Git"
+      ],
+      "mappings": [
+        {
+          "original": "React",
+          "standard": "React",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'React' is a known alias for 'React' in the ontology."
+        },
+        {
+          "original": "TypeScript",
+          "standard": "TypeScript",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'TypeScript' is a known alias for 'TypeScript' in the ontology."
+        },
+        {
+          "original": "REST APIs",
+          "standard": "REST APIs",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'REST APIs' is a known alias for 'REST APIs' in the ontology."
+        },
+        {
+          "original": "Git",
+          "standard": "Git",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Git' is a known alias for 'Git' in the ontology."
+        }
+      ]
+    },
+    {
+      "source_file": "jd_15_software_engineer_-_ai.txt",
+      "original_required_skills": [
+        "Python",
+        "Computer Vision",
+        "OpenCV",
+        "Deep Learning"
+      ],
+      "standard_required_skills": [
+        "Python",
+        "Computer Vision",
+        "Opencv",
+        "Deep Learning"
+      ],
+      "mappings": [
+        {
+          "original": "Python",
+          "standard": "Python",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Python' is a known alias for 'Python' in the ontology."
+        },
+        {
+          "original": "Computer Vision",
+          "standard": "Computer Vision",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Computer Vision' is a known alias for 'Computer Vision' in the ontology."
+        },
+        {
+          "original": "OpenCV",
+          "standard": "Opencv",
+          "method": "unmapped",
+          "confidence": 0.0,
+          "reason": "No ontology entry matched 'OpenCV'. Kept as-is so it isn't silently dropped - consider adding it to ontology.csv."
+        },
+        {
+          "original": "Deep Learning",
+          "standard": "Deep Learning",
+          "method": "exact",
+          "confidence": 1.0,
+          "reason": "'Deep Learning' is a known alias for 'Deep Learning' in the ontology."
+        }
+      ]
+    }
+  ]
+}

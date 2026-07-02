@@ -1,0 +1,14 @@
+Resume - Tara
+
+Summary
+Enthusiastic engineering graduate looking for opportunities to apply data
+and software skills on real projects.
+
+Skills
+Core Java, Spring Boot, Mongo DB, Agile Methodology, Figma
+
+Education
+B.Tech in Computer Science, VNIT Nagpur
+
+Experience
+6-month internship as a Data Analyst at a fintech startup

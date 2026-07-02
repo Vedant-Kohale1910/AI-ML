@@ -1,0 +1,14 @@
+Resume - Anika
+
+Summary
+Enthusiastic engineering graduate looking for opportunities to apply data
+and software skills on real projects.
+
+Skills
+C++, Data Structures, Algorithms, Problem Solving
+
+Education
+B.Sc in Statistics, Mumbai University
+
+Experience
+Internship building dashboards for a retail analytics team

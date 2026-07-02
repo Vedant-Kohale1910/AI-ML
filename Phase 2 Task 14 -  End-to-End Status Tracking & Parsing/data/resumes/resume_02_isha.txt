@@ -1,0 +1,14 @@
+Resume - Isha
+
+Summary
+Enthusiastic engineering graduate looking for opportunities to apply data
+and software skills on real projects.
+
+Skills
+Python Programming, Machine learning algorithms, Excel Pivot Tables, Tableau
+
+Education
+B.E. in Information Technology, COEP Pune
+
+Experience
+1 year experience as a Backend Developer

@@ -1,0 +1,11 @@
+Job Title: Java Developer (Mid-level)
+
+About the Role
+We are hiring a Java Developer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+Java, Git, Agile, Scrum
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

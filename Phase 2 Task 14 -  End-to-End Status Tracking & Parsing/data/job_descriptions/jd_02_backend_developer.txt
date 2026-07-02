@@ -1,0 +1,11 @@
+Job Title: Backend Developer (Mid-level)
+
+About the Role
+We are hiring a Backend Developer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+Java, Spring Boot, MySQL, REST APIs
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

@@ -1,0 +1,11 @@
+Job Title: MLOps Engineer (Junior)
+
+About the Role
+We are hiring a MLOps Engineer to join our product engineering team and work
+across the stack on real customer-facing features.
+
+Required Skills
+Machine Learning, MLOps, AWS, CI/CD
+
+Qualifications
+Bachelor's degree in Computer Science, Engineering or a related field.

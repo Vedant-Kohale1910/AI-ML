@@ -1,0 +1,14 @@
+Resume - Sneha
+
+Summary
+Enthusiastic engineering graduate looking for opportunities to apply data
+and software skills on real projects.
+
+Skills
+Java, Spring, MySQL, Git Version Control, Notion
+
+Education
+BCA, Nagpur University
+
+Experience
+2 years as a Software Engineer at a product company
