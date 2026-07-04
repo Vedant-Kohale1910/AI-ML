@@ -1,0 +1,77 @@
+{
+  "skills": {
+    "programming_languages": [
+      {"name": "Python", "category": "language", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Java", "category": "language", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "JavaScript", "category": "language", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "C++", "category": "language", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Go", "category": "language", "level_required": ["beginner", "intermediate"]},
+      {"name": "R", "category": "language", "level_required": ["beginner", "intermediate", "advanced"]}
+    ],
+    "databases": [
+      {"name": "SQL", "category": "database", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "PostgreSQL", "category": "database", "level_required": ["beginner", "intermediate"]},
+      {"name": "MongoDB", "category": "database", "level_required": ["beginner", "intermediate"]},
+      {"name": "Redis", "category": "database", "level_required": ["beginner", "intermediate"]}
+    ],
+    "ml_frameworks": [
+      {"name": "Machine Learning", "category": "ml", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Deep Learning", "category": "ml", "level_required": ["intermediate", "advanced"]},
+      {"name": "TensorFlow", "category": "ml", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "PyTorch", "category": "ml", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Scikit-learn", "category": "ml", "level_required": ["beginner", "intermediate"]},
+      {"name": "Computer Vision", "category": "ml", "level_required": ["intermediate", "advanced"]}
+    ],
+    "web_frameworks": [
+      {"name": "Django", "category": "web", "level_required": ["beginner", "intermediate"]},
+      {"name": "Spring Boot", "category": "web", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "React", "category": "web", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Node.js", "category": "web", "level_required": ["beginner", "intermediate"]}
+    ],
+    "cloud_platforms": [
+      {"name": "AWS", "category": "cloud", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "GCP", "category": "cloud", "level_required": ["beginner", "intermediate"]},
+      {"name": "Azure", "category": "cloud", "level_required": ["beginner", "intermediate"]}
+    ],
+    "devops_tools": [
+      {"name": "Docker", "category": "devops", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Kubernetes", "category": "devops", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Jenkins", "category": "devops", "level_required": ["beginner", "intermediate"]},
+      {"name": "Terraform", "category": "devops", "level_required": ["beginner", "intermediate"]},
+      {"name": "Linux", "category": "devops", "level_required": ["beginner", "intermediate", "advanced"]}
+    ],
+    "data_tools": [
+      {"name": "SQL", "category": "data", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Spark", "category": "data", "level_required": ["intermediate", "advanced"]},
+      {"name": "Hadoop", "category": "data", "level_required": ["intermediate", "advanced"]},
+      {"name": "Tableau", "category": "data", "level_required": ["beginner", "intermediate"]},
+      {"name": "Data Analysis", "category": "data", "level_required": ["beginner", "intermediate", "advanced"]},
+      {"name": "Statistics", "category": "data", "level_required": ["beginner", "intermediate", "advanced"]}
+    ],
+    "specializations": [
+      {"name": "System Design", "category": "specialization", "level_required": ["intermediate", "advanced"]},
+      {"name": "Data Science", "category": "specialization", "level_required": ["intermediate", "advanced"]},
+      {"name": "Data Visualization", "category": "specialization", "level_required": ["beginner", "intermediate"]},
+      {"name": "Networking", "category": "specialization", "level_required": ["beginner", "intermediate"]}
+    ]
+  },
+  "synonyms": {
+    "ML": "Machine Learning",
+    "DL": "Deep Learning",
+    "CV": "Computer Vision",
+    "NLP": "Natural Language Processing",
+    "DB": "Database",
+    "DevOps": "DevOps",
+    "SDE": "Software Engineer"
+  },
+  "skill_relationships": {
+    "Python": ["Machine Learning", "Data Science", "Django"],
+    "Java": ["Spring Boot", "System Design"],
+    "SQL": ["Data Analysis", "Data Engineering"],
+    "Docker": ["Kubernetes", "DevOps"],
+    "AWS": ["Cloud Computing", "DevOps"],
+    "Machine Learning": ["Deep Learning", "TensorFlow", "PyTorch"],
+    "React": ["JavaScript", "Web Development"],
+    "Django": ["Python", "Backend Development"]
+  }
+}
