@@ -1,0 +1,11 @@
+student_id,name,verified_skills,years_experience,assessment_score,certifications,education_level
+1,Alice Johnson,"Python, SQL, Machine Learning, Docker",2,88,AWS Certified Solutions Architect,Bachelor's in Computer Science
+2,Bob Smith,"Python, SQL, Java, Git",3,92,Google Cloud Professional Data Engineer,Master's in Data Science
+3,Carol White,"JavaScript, React, Node.js, MongoDB",1.5,85,React Certification,Bachelor's in Information Technology
+4,David Lee,"Python, Docker, Kubernetes, AWS",4,90,Certified Kubernetes Administrator,Bachelor's in Computer Science
+5,Emma Davis,"Java, Spring Boot, Microservices",2.5,87,Oracle Java Certified Programmer,Bachelor's in Software Engineering
+6,Frank Wilson,"Python, SQL, Tableau, Statistics",2,89,Tableau Desktop Specialist,Master's in Statistics
+7,Grace Martinez,"C++, Linux, Systems Design",5,93,Linux Foundation Certified Engineer,PhD in Computer Science
+8,Henry Brown,"JavaScript, TypeScript, Angular, Node.js",2,84,Angular Professional,Bachelor's in IT
+9,Iris Chen,"Python, TensorFlow, PyTorch, Computer Vision",1,86,Deep Learning Specialization,Master's in AI
+10,Jack Anderson,"Java, Spring Boot, PostgreSQL, AWS",3.5,91,AWS Solutions Architect Associate,Bachelor's in Computer Science

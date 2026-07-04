@@ -1,0 +1,7 @@
+metric,baseline_value,rec_v1_value,improvement,percent_improvement
+precision,0.820,0.920,0.100,12.2%
+recall,0.750,0.890,0.140,18.7%
+f1_score,0.784,0.904,0.120,15.3%
+false_positive_rate,0.150,0.070,-0.080,-53.3%
+true_negative_rate,0.850,0.930,0.080,9.4%
+auc_score,0.800,0.910,0.110,13.8%

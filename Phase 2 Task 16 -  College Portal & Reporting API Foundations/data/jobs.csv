@@ -1,0 +1,11 @@
+job_id,title,required_skills,required_experience,preferred_certifications,education_requirement,company
+1,ML Engineer,"Python, Machine Learning, TensorFlow",2,AWS Certified Machine Learning Specialist,Bachelor's in Computer Science,TechCorp
+2,Data Scientist,"Python, SQL, Statistics, Machine Learning",2.5,Google Cloud Professional Data Engineer,Master's in Data Science,DataSystems
+3,Python Developer,"Python, SQL, Git, Docker",2,None,Bachelor's in CS or equivalent,CodeBase
+4,Backend Engineer,"Java, Spring Boot, Microservices, AWS",3,AWS Solutions Architect Associate,Bachelor's in Software Engineering,CloudTech
+5,Frontend Developer,"JavaScript, React, TypeScript, CSS",2,React Certification,Bachelor's in IT,WebSolutions
+6,DevOps Engineer,"Docker, Kubernetes, AWS, Linux",3,Certified Kubernetes Administrator,Bachelor's in Computer Science,InfraTech
+7,Data Analyst,"SQL, Tableau, Statistics, Python",1.5,Tableau Desktop Specialist,Bachelor's in Data Science,InsightCorp
+8,Cloud Architect,"AWS, Microservices, Kubernetes, Design Patterns",5,AWS Solutions Architect Professional,Master's in CS,CloudPlatforms
+9,Systems Engineer,"C++, Linux, Network Design",4,Linux Foundation Certified Engineer,Bachelor's in Computer Science,SystemsInc
+10,Full Stack Developer,"JavaScript, React, Node.js, MongoDB, CSS",2,React & Node.js Certifications,Bachelor's in IT,FullStackCo
