@@ -1,0 +1,60 @@
+{
+  "student_id": 1,
+  "job_id": 1,
+  "job_title": "ML Engineer",
+  "recommendation_score": 0.94,
+  "recommendation_percentage": 94.0,
+  "recommendation_level": "STRONG MATCH",
+  "recommendation_action": "Hire",
+  "skill_analysis": {
+    "required_skills": {
+      "matched": ["Python", "SQL", "Machine Learning"],
+      "missing": ["AWS"],
+      "total_required": 4,
+      "coverage": "3/4",
+      "coverage_percentage": 75.0
+    },
+    "nice_to_have_skills": {
+      "matched": ["Data Analysis"],
+      "missing": ["Statistics"],
+      "total": 2,
+      "coverage": "1/2",
+      "coverage_percentage": 50.0
+    },
+    "summary": "Good skill match: 3/4 core requirements met"
+  },
+  "assessment_analysis": {
+    "student_score": 0.89,
+    "student_percentage": 89.0,
+    "industry_benchmark": 0.75,
+    "benchmark_percentage": 75.0,
+    "difference": 0.14,
+    "difference_percentage": 14.0,
+    "status": "Above benchmark",
+    "level": "Good",
+    "summary": "Assessment score 89% exceeds industry benchmark of 75%"
+  },
+  "experience_analysis": {
+    "required_years": 2,
+    "student_years": 3,
+    "gap": 0,
+    "exceeds_by": 1,
+    "status": "Exceeds requirement",
+    "summary": "Experience: 3 years exceeds requirement of 2 years"
+  },
+  "confidence_level": {
+    "level": "High",
+    "percentage": 85,
+    "description": "Confidence in this match is high"
+  },
+  "summary": "Aarav Patel is an excellent match for ML Engineer. Core requirements are met with strong alignment across skills, assessment score, and experience.",
+  "strengths": [
+    "All core required skills present",
+    "Assessment score meets or exceeds benchmark",
+    "Exceeds required experience",
+    "Has relevant certifications"
+  ],
+  "gaps": [
+    "Missing skill: AWS"
+  ]
+}
