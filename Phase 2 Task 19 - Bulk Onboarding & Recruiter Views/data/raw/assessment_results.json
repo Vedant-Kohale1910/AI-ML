@@ -1,0 +1,14 @@
+{
+  "assessment_id": "APT_TEST_001",
+  "total_students": 100,
+  "responses": [
+    {"question_id": "Q1", "is_correct": true}, {"question_id": "Q1", "is_correct": true},
+    {"question_id": "Q1", "is_correct": true}, {"question_id": "Q1", "is_correct": true},
+    {"question_id": "Q1", "is_correct": true}, {"question_id": "Q2", "is_correct": false},
+    {"question_id": "Q2", "is_correct": true}, {"question_id": "Q2", "is_correct": false},
+    {"question_id": "Q2", "is_correct": true}, {"question_id": "Q2", "is_correct": false},
+    {"question_id": "Q3", "is_correct": true}, {"question_id": "Q3", "is_correct": true},
+    {"question_id": "Q3", "is_correct": true}, {"question_id": "Q3", "is_correct": false},
+    {"question_id": "Q3", "is_correct": true}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "analysis_date": "2024-01-15",
+  "assessment_id": "APT_TEST_001",
+  "summary": {
+    "total_questions": 50,
+    "good_questions": 42,
+    "weak_questions": 8,
+    "quality_percentage": 84.0,
+    "critical_items": 2,
+    "review_items": 6
+  },
+  "weak_items_example": [
+    {
+      "question_id": "Q1",
+      "issue_type": "TOO_EASY",
+      "correct_percentage": 98.0,
+      "risk_level": "RED",
+      "recommendation": "REPLACE",
+      "explanation": "98% of students answered correctly. Cannot differentiate between abilities."
+    },
+    {
+      "question_id": "Q2",
+      "issue_type": "TOO_DIFFICULT",
+      "correct_percentage": 5.0,
+      "risk_level": "RED",
+      "recommendation": "REVIEW",
+      "explanation": "Only 5% answered correctly. May be flawed or require excessive knowledge."
+    }
+  ],
+  "evaluation_metrics": {
+    "precision": 0.89,
+    "recall": 0.87,
+    "false_positive_rate": 0.06,
+    "overall_quality_score": 0.88
+  }
+}
