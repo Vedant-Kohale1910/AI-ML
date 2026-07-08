@@ -1,0 +1,40 @@
+{
+    "student_profile": {
+        "student_id": 101,
+        "skills": [
+            "Python",
+            "SQL",
+            "Machine Learning"
+        ],
+        "experience_years": 2
+    },
+    "recommendations": [
+        {
+            "job_id": 1,
+            "job_title": "ML Engineer",
+            "score": 85.0,
+            "skills_matched": [
+                "python",
+                "sql",
+                "machine learning"
+            ],
+            "skills_missing": [
+                "aws"
+            ],
+            "explanation": "\u2713 Python matched\n\u2713 Sql matched\n\u2713 Machine learning matched\n\u2713 Experience matched (2 years)\n\nMissing:\n\u2717 Aws"
+        },
+        {
+            "job_id": 2,
+            "job_title": "Data Scientist",
+            "score": 76.67,
+            "skills_matched": [
+                "python",
+                "sql"
+            ],
+            "skills_missing": [
+                "statistics"
+            ],
+            "explanation": "\u2713 Python matched\n\u2713 Sql matched\n\u2713 Experience matched (2 years)\n\nMissing:\n\u2717 Statistics"
+        }
+    ]
+}
