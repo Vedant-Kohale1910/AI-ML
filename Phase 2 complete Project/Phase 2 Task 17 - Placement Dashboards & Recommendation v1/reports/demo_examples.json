@@ -1,0 +1,42 @@
+{
+  "student_id": 1,
+  "student_name": "Aarav Patel",
+  "recommendations": [
+    {
+      "rank": 1,
+      "job_id": 1,
+      "title": "ML Engineer",
+      "company": "TechAI Corp",
+      "score": 0.868
+    },
+    {
+      "rank": 2,
+      "job_id": 2,
+      "title": "Data Scientist",
+      "company": "DataInsight LLC",
+      "score": 0.707
+    },
+    {
+      "rank": 3,
+      "job_id": 12,
+      "title": "Full Stack Developer",
+      "company": "StartupHub",
+      "score": 0.707
+    },
+    {
+      "rank": 4,
+      "job_id": 3,
+      "title": "AI Engineer",
+      "company": "AIFirst Labs",
+      "score": 0.702
+    },
+    {
+      "rank": 5,
+      "job_id": 6,
+      "title": "Data Analyst",
+      "company": "Analytics Pro",
+      "score": 0.702
+    }
+  ],
+  "evaluation_date": "2024-01-15"
+}

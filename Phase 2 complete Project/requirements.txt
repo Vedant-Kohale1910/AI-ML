@@ -1,0 +1,37 @@
+# PlaceMux — Phase 2 · consolidated dependencies for all 25 tasks
+# One environment that runs every task. Version floors are chosen to have
+# prebuilt wheels on Python 3.11–3.13 (no compiler needed on Windows).
+#
+#   python -m venv .venv
+#   .venv\Scripts\pip install -r requirements.txt      (Windows)
+#   .venv/bin/pip install -r requirements.txt           (macOS/Linux)
+
+# --- core data / ML ---
+numpy>=2.1
+pandas>=2.2
+scikit-learn>=1.5
+scipy>=1.13
+joblib>=1.4
+
+# --- API layer ---
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.9
+python-multipart>=0.0.9
+
+# --- parsing / text (Tasks 12, 14, 15) ---
+pdfplumber>=0.11
+python-docx>=1.1
+rapidfuzz>=3.9
+
+# --- plots / reports (Tasks 5, 6, ...) ---
+matplotlib>=3.9
+seaborn>=0.13
+
+# --- utilities / testing ---
+python-dotenv>=1.0
+requests>=2.32
+httpx>=0.27
+tqdm>=4.66
+jinja2>=3.1
+pytest>=8.2

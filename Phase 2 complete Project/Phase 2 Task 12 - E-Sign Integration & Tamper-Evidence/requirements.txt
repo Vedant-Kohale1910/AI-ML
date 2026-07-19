@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=2.1
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.9
+jupyter>=1.0
+ipykernel>=6.29
+
+# kept here for v1 - this v0 parses plain text only, but the study guide's
+# Step 3 calls out PDF/DOCX extraction as the natural next step once real
+# resume uploads (not pre-extracted text) are in scope.
+pdfplumber>=0.11
+python-docx>=1.1

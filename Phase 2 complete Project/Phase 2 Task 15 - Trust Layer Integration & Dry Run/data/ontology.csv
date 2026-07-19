@@ -1,0 +1,77 @@
+raw_skill,standard_skill
+python,Python
+py,Python
+python3,Python
+javascript,JavaScript
+js,JavaScript
+java,Java
+c++,C++
+cpp,C++
+machine learning,Machine Learning
+ml,Machine Learning
+deep learning,Deep Learning
+dl,Deep Learning
+nlp,NLP
+computer vision,Computer Vision
+sql,SQL
+mysql,SQL
+postgres,SQL
+nosql,NoSQL
+mongodb,NoSQL
+data science,Data Science
+data analysis,Data Science
+analytics,Data Science
+aws,AWS
+gcp,GCP
+azure,Azure
+cloud,Cloud
+react,React
+vue,Vue
+angular,Angular
+frontend,Frontend Development
+django,Django
+flask,Flask
+fastapi,FastAPI
+backend,Backend Development
+docker,Docker
+kubernetes,Kubernetes
+devops,DevOps
+ci/cd,CI/CD
+git,Git
+version control,Git
+github,Git
+agile,Agile
+scrum,Agile
+kanban,Agile
+project management,Project Management
+communication,Communication
+leadership,Leadership
+teamwork,Teamwork
+tensorflow,TensorFlow
+torch,PyTorch
+keras,Keras
+pytorch,PyTorch
+pandas,Pandas
+numpy,NumPy
+scipy,SciPy
+scikit-learn,Scikit-Learn
+tableau,Tableau
+powerbi,Power BI
+visualization,Data Visualization
+bi,Business Intelligence
+rest api,REST API
+api design,API Design
+microservices,Microservices
+html,HTML
+css,CSS
+responsive design,Responsive Design
+testing,Testing
+pytest,Testing
+unit testing,Testing
+linux,Linux
+bash,Bash
+shell scripting,Bash
+spark,Spark
+hadoop,Hadoop
+bigdata,Big Data
+big data,Big Data

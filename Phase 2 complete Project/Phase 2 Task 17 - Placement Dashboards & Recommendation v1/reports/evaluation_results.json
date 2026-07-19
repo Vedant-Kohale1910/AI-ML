@@ -1,0 +1,40 @@
+{
+  "evaluation_date": "2024-01-15",
+  "sample_size": {
+    "students": 10,
+    "jobs": 12,
+    "total_student_job_pairs": 120
+  },
+  "baseline_metrics": {
+    "baseline_accuracy": 0.281,
+    "baseline_avg_score": 0.281,
+    "recommendations_above_threshold": 32
+  },
+  "recommendation_metrics": {
+    "accuracy": 0.639,
+    "improvement_over_baseline": "127.4%",
+    "total_recommendations": 57
+  },
+  "quality_metrics": {
+    "total": 57,
+    "valid": 57,
+    "invalid": 0,
+    "validity_rate": "100.0%",
+    "issues": []
+  },
+  "diversity_metrics": {
+    "avg_score_spread": 0.367,
+    "max_score": 0.877,
+    "min_score": 0.51,
+    "score_std_dev": 0.111,
+    "recommendation_count": 57
+  },
+  "recommendation_tier_distribution": {
+    "TIER_A": 7,
+    "TIER_B": 13,
+    "TIER_C": 17,
+    "TIER_D": 20
+  },
+  "data_quality_score": 100,
+  "system_readiness": "NOT_READY"
+}

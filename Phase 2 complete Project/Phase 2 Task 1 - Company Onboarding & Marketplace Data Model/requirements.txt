@@ -1,0 +1,17 @@
+# PlaceMux — Matching Engine
+# Install with: pip install -r requirements.txt
+
+# API
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.9
+
+# Data & ML
+pandas>=2.2
+numpy>=2.1
+scikit-learn>=1.5
+
+# Jupyter (notebook demo)
+ipykernel>=6.29
+nbformat>=5.10
+nbconvert>=7.16
