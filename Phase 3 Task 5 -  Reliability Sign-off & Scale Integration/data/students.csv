@@ -1,0 +1,801 @@
+student_id,name,target_role,skills,avg_skill_score
+1577,Arnav Suri,Business Analyst,"SQL,Communication,Data Visualization,Excel,PowerBI",76
+1205,Arnav Choudhary,DevOps Engineer,"JavaScript,CI/CD,Linux,Git,Kubernetes",65
+1108,Komal Naidu,Full Stack Developer,"Node.js,Test Automation,Git,React,REST API",81
+1767,Bhavya Trivedi,Backend Developer,"Microservices,Java,REST API,SQL,Git,Spring Boot,Docker",79
+1296,Pranav Shah,Business Analyst,"SQL,Communication,Excel,Git",86
+1018,Harsh Goyal,ML Engineer,"SQL,Deep Learning,Machine Learning,TensorFlow,Python",63
+1777,Krishna Mathur,ML Engineer,"Test Automation,TensorFlow,Python,Deep Learning,Docker",79
+1367,Krishna Dutta,QA Engineer,"Manual Testing,Test Automation,Git,Java,Python,Deep Learning",61
+1267,Simran Pandey,Data Scientist,"ML,Statistics,SQL",94
+1624,Manav Mathur,QA Engineer,"Java,Test Automation,Git,AWS",96
+1144,Manav Malhotra,Business Analyst,"Data Visualization,SQL,Power BI,Communication",54
+1376,Bhavya Bhatt,Backend Developer,"SQL,Java,Git,REST API",78
+1521,Pranav Dutta,Backend Developer,"Microservices,SQL,Git,Spring Boot",68
+1136,Pranav Trivedi,Backend Developer,"REST API,Spring Boot,Java,SQL",50
+1023,Anjali Trivedi,Frontend Developer,"CSS,TypeScript,Git,JavaScript",59
+1511,Manav Sinha,DevOps Engineer,"Java,AWS,Docker,CI/CD,Git",73
+1101,Oviya Malhotra,Data Scientist,"Python,Deep Learning,Statistics,CSS,SQL",56
+1270,Jhanvi Tiwari,Business Analyst,"SQL,Power BI,Excel,Communication",61
+1327,Anjali Bhatt,DevOps Engineer,"Docker,SQL,Linux,Kubernetes,CI/CD,Git",45
+1359,Jhanvi Ghosh,ML Engineer,"ML,SQL,Docker,Git,Java",59
+1049,Veer Malhotra,Full Stack Developer,"Node.js,Git,JavaScript,CSS,React",85
+1141,Krishna Ahluwalia,Data Analyst,"Python,SQL,Statistics",74
+1665,Eshani Chandra,Data Analyst,"Kubernetes,Data Visualization,Power BI,Python,SQL,Statistics",55
+1593,Charvi Rastogi,Product Manager,"AWS,SQL,Stakeholder Management,Excel,Docker,Agile",54
+1137,Krishna Trivedi,ML Engineer,"JavaScript,Deep Learning,Docker,SQL",60
+1192,Naina Malhotra,Product Manager,"Communication,Stakeholder Management,Excel,Microservices",71
+1645,Aman Bhatt,Full Stack Developer,"Node.js,Excel,Roadmapping,Git,REST API,JavaScript",49
+1082,Mihir Mathur,QA Engineer,"SQL,Manual Testing,Java,Python,Git,Selenium",67
+1460,Gauri Tiwari,Data Analyst,"Roadmapping,Power BI,Statistics,SQL,Communication,Data Visualization,Excel",68
+1721,Mihir Rastogi,Business Analyst,"Power BI,Excel,Communication,Data Visualization,Statistics,SQL",97
+1153,Ira Menon,QA Engineer,"Java,Selenium,ML,Manual Testing,Git",58
+1477,Oviya Ahluwalia,Backend Developer,"Spring Boot,Microservices,Git,SQL,REST API,Communication",76
+1127,Eshani Shah,Data Analyst,"Excel,Power BI,SQL,Python",80
+1548,Mihir Goyal,ML Engineer,"Machine Learning,SQL,TensorFlow,Python",71
+1440,Oviya Khatri,ML Engineer,"TensorFlow,Machine Learning,Deep Learning,Microservices,Docker",77
+1329,Eshani Khatri,Backend Developer,"SQL,REST API,Git,HTML,Spring Boot",86
+1626,Simran Khatri,Product Manager,"Roadmapping,SQL,Agile",58
+1218,Bhavya Trivedi,Backend Developer,"REST API,Spring Boot,SQL,Java",72
+1457,Anjali Bose,Backend Developer,"REST API,Microservices,SQL",68
+1756,Charvi Ahluwalia,Full Stack Developer,"REST API,SQL,Node.js",71
+1007,Manav Goyal,Frontend Developer,"Git,CSS,React,SQL",80
+1339,Om Khatri,Product Manager,"Excel,Agile,SQL,Communication,Stakeholder Management,Docker,Roadmapping",66
+1598,Ira Tiwari,ML Engineer,"TensorFlow,Docker,ML,Deep Learning,Statistics,Python",85
+1512,Naina Choudhary,QA Engineer,"Git,Test Automation,Selenium,Manual Testing,SQL",71
+1416,Naina Bose,Data Scientist,"Python,SQL,Pandas,Deep Learning,Kubernetes,Statistics",54
+1527,Anjali Choudhary,Backend Developer,"SQL,Spring Boot,Java",62
+1712,Charvi Choudhary,Data Analyst,"Excel,Machine Learning,Python,Power BI,SQL",63
+1259,Manav Naidu,QA Engineer,"Manual Testing,Git,Java,SQL",78
+1054,Ira Menon,Full Stack Developer,"REST API,JavaScript,React,Node.js,SQL",80
+1075,Manav Trivedi,Backend Developer,"Microservices,Java,Git,REST API,SQL",81
+1798,Komal Choudhary,Data Analyst,"SQL,Data Visualization,Docker,Excel,Deep Learning",54
+1254,Rudra Naidu,Full Stack Developer,"Node.js,JavaScript,REST API,Git,SQL",54
+1004,Om Khatri,Business Analyst,"Data Visualization,Power BI,Statistics,Excel,SQL",88
+1704,Om Shah,Data Analyst,"Python,Power BI,Statistics",52
+1719,Vihaan Shah,ML Engineer,"Docker,Python,Deep Learning,SQL,Machine Learning,TensorFlow",45
+1634,Gauri Tiwari,DevOps Engineer,"Kubernetes,Linux,AWS",86
+1603,Jhanvi Suri,Business Analyst,"Communication,PowerBI,SQL,Excel,Statistics",74
+1116,Vihaan Ahluwalia,Data Scientist,"SQL,Communication,Python,Pandas,ML,Statistics",57
+1787,Manav Bose,Data Analyst,"Power BI,Data Visualization,Python,Statistics,SQL,Excel",80
+1701,Chirag Rastogi,QA Engineer,"Git,Test Automation,Java,Selenium,SQL",61
+1722,Rudra Rastogi,QA Engineer,"SQL,Manual Testing,Test Automation,Java",74
+1295,Om Bose,DevOps Engineer,"AWS,CI/CD,Kubernetes,Git,Linux",86
+1600,Anjali Khatri,QA Engineer,"Java,Selenium,Manual Testing,SQL,Test Automation",55
+1666,Oviya Rastogi,Data Analyst,"AWS,Python,Git,Excel,SQL,Statistics",67
+1543,Bhavya Pandey,QA Engineer,"Manual Testing,Git,JavaScript,SQL,Test Automation,Java",68
+1031,Divya Suri,Frontend Developer,"TypeScript,React,JavaScript,CSS",63
+1567,Lavanya Chandra,Full Stack Developer,"JavaScript,Node.js,REST API,Git,SQL",85
+1631,Manav Ghosh,Product Manager,"Stakeholder Management,Docker,Roadmapping,Excel,Communication,Agile",64
+1016,Naina Tiwari,Data Scientist,"Deep Learning,Docker,Pandas,Python,SQL",52
+1649,Lavanya Rastogi,Business Analyst,"Communication,Statistics,SQL,Excel",77
+1231,Rudra Menon,Data Analyst,"SQL,Data Visualization,Statistics,Power BI,Python,Java,Excel",92
+1550,Lakshay Naidu,Frontend Developer,"React,JavaScript,TypeScript,HTML",92
+1575,Vihaan Bose,Business Analyst,"Excel,Power BI,Statistics,Communication,SQL",50
+1065,Lavanya Chandra,Full Stack Developer,"Node.js,SQL,CSS,Git,REST API",69
+1729,Aman Khatri,Frontend Developer,"Git,React,JavaScript,CSS,HTML",76
+1125,Charvi Malhotra,Backend Developer,"Microservices,REST API,Roadmapping,SQL",84
+1114,Pranav Ahluwalia,DevOps Engineer,"Linux,AWS,Docker,CI/CD,DL",73
+1576,Pranav Bose,Frontend Developer,"Git,Machine Learning,HTML,JavaScript,CSS",59
+1428,Anika Malhotra,Data Scientist,"Machine Learning,Pandas,Deep Learning,SQL,Python,Excel",86
+1276,Lavanya Sinha,ML Engineer,"Python,TensorFlow,SQL,Machine Learning,Deep Learning,Docker",80
+1572,Lavanya Malhotra,Business Analyst,"Communication,SQL,Data Visualization,Excel,Power BI",52
+1656,Komal Bhatt,Frontend Developer,"TypeScript,HTML,Git,React,JavaScript",86
+1570,Radhika Mathur,Data Scientist,"ML,Statistics,Deep Learning,Pandas,SQL,Python",77
+1541,Bhavya Pandey,Data Analyst,"Excel,Data Visualization,SQL,Python,Power BI,Statistics",89
+1130,Manav Menon,QA Engineer,"Selenium,Test Automation,Java,SQL",77
+1041,Anjali Rastogi,Frontend Developer,"React,Git,TypeScript,CSS",93
+1463,Naina Ahluwalia,Business Analyst,"SQL,Communication,Statistics,REST API,Excel,Data Visualization",62
+1464,Mihir Bhatt,Data Scientist,"Deep Learning,Git,Python,Machine Learning",82
+1515,Rudra Trivedi,Data Scientist,"Deep Learning,Statistics,Python,Machine Learning",56
+1513,Arnav Bhatt,Frontend Developer,"Data Visualization,HTML,React,CSS,TypeScript",62
+1273,Lavanya Sinha,Data Scientist,"Statistics,Python,Git,Pandas,SQL",94
+1632,Aman Choudhary,ML Engineer,"SQL,TensorFlow,Deep Learning,Git,CI/CD,Machine Learning",61
+1126,Manav Bhatt,Data Scientist,"ML,Statistics,Pandas,SQL",83
+1344,Oviya Menon,Business Analyst,"PowerBI,SQL,Statistics,Linux,Communication",80
+1132,Jhanvi Pandey,Data Scientist,"Deep Learning,AWS,CI/CD,Machine Learning,Python",61
+1731,Veer Tiwari,Full Stack Developer,"REST API,SQL,JavaScript,React,Node.js",93
+1766,Lavanya Dutta,DevOps Engineer,"AWS,Kubernetes,CI/CD,Docker",81
+1019,Vihaan Rastogi,QA Engineer,"Selenium,Test Automation,Java",64
+1680,Komal Trivedi,Data Analyst,"PowerBI,Statistics,Excel",60
+1225,Vihaan Khatri,QA Engineer,"Test Automation,SQL,Manual Testing,Java",71
+1175,Krishna Tiwari,Frontend Developer,"HTML,Git,JavaScript,CSS,TypeScript",70
+1284,Lakshay Mathur,ML Engineer,"Deep Learning,Machine Learning,Python,SQL",59
+1718,Komal Dutta,Data Analyst,"Git,Python,Power BI,SQL,Excel,Statistics,Data Visualization",81
+1650,Lakshay Suri,Frontend Developer,"React,TypeScript,Git,Excel,JavaScript",99
+1739,Oviya Malhotra,Data Scientist,"ML,Statistics,Pandas,SQL,Python",66
+1435,Vihaan Mathur,Data Scientist,"Linux,SQL,Pandas,Machine Learning,Deep Learning,Statistics,Python",83
+1387,Vihaan Ghosh,Backend Developer,"Microservices,Git,Spring Boot,REST API",67
+1614,Mihir Chandra,DevOps Engineer,"Kubernetes,Statistics,Docker,CI/CD,Git",82
+1079,Bhavya Mathur,Product Manager,"SQL,Agile,Stakeholder Management",49
+1633,Chirag Khatri,Business Analyst,"Statistics,PowerBI,Python,Pandas,Data Visualization",76
+1370,Bhavya Ahluwalia,Data Analyst,"Python,Power BI,Statistics,Data Visualization",39
+1220,Harsh Malhotra,Business Analyst,"Statistics,Linux,SQL,Power BI,Excel,Communication,Data Visualization",80
+1260,Anjali Naidu,Data Scientist,"Data Visualization,Python,Machine Learning,Statistics,Pandas",69
+1085,Harsh Chandra,Data Analyst,"Statistics,Python,Data Visualization",37
+1246,Anika Naidu,Data Scientist,"Machine Learning,Statistics,CSS,Pandas,SQL,Deep Learning",85
+1792,Chirag Malhotra,ML Engineer,"Python,Machine Learning,TensorFlow,SQL,Docker",52
+1301,Komal Ahluwalia,QA Engineer,"SQL,Java,Selenium,Manual Testing,Node.js",80
+1264,Anjali Shah,Backend Developer,"SQL,Spring Boot,Microservices",93
+1033,Anika Goyal,Frontend Developer,"JavaScript,Git,CSS,Pandas,React,Statistics,TypeScript",99
+1135,Charvi Choudhary,Data Analyst,"Excel,SQL,CSS,Power BI,Python",66
+1492,Krishna Bhatt,Frontend Developer,"Git,CSS,React,TypeScript,JavaScript",63
+1120,Radhika Ghosh,Data Analyst,"Data Visualization,PowerBI,Statistics,SQL",79
+1368,Divya Trivedi,Data Scientist,"Machine Learning,Docker,SQL,Statistics,Deep Learning",58
+1028,Samar Naidu,ML Engineer,"Docker,SQL,Python,Deep Learning,TensorFlow",70
+1106,Divya Chandra,Frontend Developer,"Pandas,HTML,Git,JavaScript,TypeScript,React,CSS",92
+1306,Komal Shah,Backend Developer,"SQL,Spring Boot,Java,REST API,Git,Microservices",80
+1584,Oviya Bhatt,Frontend Developer,"HTML,TensorFlow,React,CSS,JavaScript",81
+1746,Manav Bose,Data Scientist,"Statistics,Communication,DL,ML,Python",52
+1209,Aman Suri,Frontend Developer,"React,Docker,TypeScript,JavaScript,Git",65
+1750,Gauri Bose,Full Stack Developer,"JavaScript,React,REST API,Node.js,PowerBI",68
+1133,Veer Khatri,Backend Developer,"Microservices,SQL,REST API",93
+1288,Tejas Menon,DevOps Engineer,"React,CI/CD,AWS,Docker",79
+1500,Aman Dutta,Product Manager,"Communication,Roadmapping,Agile,Excel",97
+1636,Jhanvi Trivedi,DevOps Engineer,"AWS,Git,TypeScript,Kubernetes",73
+1290,Pranav Chandra,ML Engineer,"Deep Learning,Docker,SQL,TensorFlow,Python,Machine Learning",78
+1657,Oviya Trivedi,Backend Developer,"Agile,Java,Microservices,Git,SQL",92
+1557,Lakshay Khatri,Business Analyst,"Communication,Statistics,Power BI,Excel,Python",38
+1308,Mihir Mathur,ML Engineer,"AWS,DL,SQL,Machine Learning,Docker,TensorFlow",60
+1498,Tejas Ahluwalia,Product Manager,"Roadmapping,SQL,Stakeholder Management,Communication,Agile",90
+1027,Pranav Naidu,ML Engineer,"ML,Docker,Deep Learning,TensorFlow",60
+1422,Ira Dutta,Data Analyst,"Statistics,SQL,Python,Excel",78
+1383,Anjali Tiwari,ML Engineer,"Deep Learning,SQL,TensorFlow,Python",76
+1706,Radhika Menon,ML Engineer,"TensorFlow,Machine Learning,SQL,Python,Deep Learning,Docker",84
+1397,Jhanvi Ahluwalia,ML Engineer,"SQL,Docker,Linux,TensorFlow,Python",66
+1562,Arnav Choudhary,DevOps Engineer,"Excel,Kubernetes,Python,Linux,Git,Docker,CI/CD",48
+1780,Komal Ahluwalia,ML Engineer,"Deep Learning,Machine Learning,Docker",62
+1102,Ira Chandra,ML Engineer,"Machine Learning,Deep Learning,Python,Docker,TensorFlow",81
+1537,Anjali Naidu,Backend Developer,"Java,Machine Learning,Spring Boot,SQL,Microservices",61
+1637,Ira Dutta,DevOps Engineer,"Kubernetes,Deep Learning,Docker,Git",75
+1481,Arnav Naidu,DevOps Engineer,"Git,Docker,AWS,Manual Testing,Kubernetes",82
+1100,Divya Goyal,QA Engineer,"Selenium,Git,SQL",90
+1470,Krishna Malhotra,Frontend Developer,"Agile,Git,Communication,HTML,TypeScript,JavaScript",69
+1372,Divya Ghosh,Product Manager,"Agile,Roadmapping,Communication,Stakeholder Management,Excel,SQL",86
+1708,Krishna Mathur,Frontend Developer,"JavaScript,TypeScript,React,HTML,Git",64
+1771,Rudra Sinha,DevOps Engineer,"Kubernetes,Linux,Git,Excel,Stakeholder Management",84
+1686,Rudra Sinha,QA Engineer,"Manual Testing,Selenium,Java,Test Automation,SQL,Git",76
+1467,Anjali Tiwari,Product Manager,"Communication,Stakeholder Management,SQL,AWS,Agile",65
+1363,Samar Menon,Full Stack Developer,"React,SQL,REST API,Git,Excel",76
+1173,Om Malhotra,Backend Developer,"Machine Learning,REST API,Git,Java,Microservices,Deep Learning",67
+1139,Aman Dutta,Business Analyst,"Excel,SQL,Communication",67
+1542,Tejas Ghosh,Business Analyst,"Statistics,SQL,Power BI,Data Visualization",66
+1379,Lavanya Naidu,QA Engineer,"Manual Testing,Git,Java,Python,Selenium",57
+1568,Chirag Goyal,Product Manager,"Roadmapping,Excel,Communication",56
+1214,Tejas Menon,ML Engineer,"SQL,Git,Deep Learning,Machine Learning,Docker,Python,AWS,TensorFlow",63
+1713,Radhika Ahluwalia,ML Engineer,"Spring Boot,Docker,TensorFlow,Machine Learning",67
+1561,Tejas Pandey,ML Engineer,"Machine Learning,Docker,Python,PowerBI,SQL,TensorFlow",67
+1010,Anjali Bose,Data Scientist,"SQL,Statistics,Deep Learning,JavaScript,Python,Pandas,Machine Learning",40
+1011,Rudra Suri,QA Engineer,"Manual Testing,SQL,Kubernetes,CI/CD,Test Automation",68
+1289,Pranav Ahluwalia,Product Manager,"Excel,SQL,Roadmapping,Agile,Stakeholder Management,Communication",47
+1442,Vihaan Menon,Business Analyst,"Communication,Data Visualization,SQL,Statistics,Kubernetes,Excel",68
+1119,Bhavya Chandra,Backend Developer,"Microservices,Java,REST API,SQL,Roadmapping,Git",69
+1585,Tejas Suri,Backend Developer,"Spring Boot,SQL,Machine Learning,REST API,Java",65
+1727,Samar Naidu,Data Analyst,"SQL,Data Visualization,Power BI",86
+1475,Aman Tiwari,Frontend Developer,"Microservices,React,HTML,Git,JavaScript,Java,CSS",79
+1050,Krishna Goyal,QA Engineer,"Manual Testing,SQL,Java,Agile,Git",58
+1026,Bhavya Rastogi,ML Engineer,"Excel,TensorFlow,SQL,ML,Deep Learning,Python",64
+1155,Gauri Tiwari,Business Analyst,"Power BI,Data Visualization,Statistics,Excel,SQL",80
+1579,Rudra Tiwari,Data Analyst,"Excel,PowerBI,Statistics,Data Visualization,SQL",64
+1496,Samar Bose,Business Analyst,"Excel,SQL,Statistics,Power BI,Communication,Data Visualization",83
+1571,Tejas Ahluwalia,ML Engineer,"SQL,Python,Deep Learning",61
+1439,Pranav Goyal,Backend Developer,"Spring Boot,REST API,Java,Git,Microservices,SQL",85
+1145,Naina Goyal,QA Engineer,"Git,Java,TypeScript,SQL,Manual Testing,Selenium,Test Automation",75
+1333,Lakshay Chandra,Product Manager,"Agile,Stakeholder Management,SQL,Communication,Excel",77
+1795,Harsh Ahluwalia,Product Manager,"Roadmapping,SQL,Excel,Stakeholder Management,Agile,Communication",70
+1113,Anika Khatri,ML Engineer,"Machine Learning,Python,DL,Docker",69
+1705,Rudra Ghosh,Data Scientist,"Java,Machine Learning,Pandas,Deep Learning,Statistics",86
+1534,Mihir Dutta,Full Stack Developer,"Docker,React,REST API,Node.js,SQL,JavaScript,Git",65
+1168,Manav Ghosh,ML Engineer,"Docker,Deep Learning,ML,Python,TensorFlow",78
+1337,Anjali Naidu,DevOps Engineer,"CI/CD,Git,Kubernetes,Docker,AWS",82
+1147,Arnav Choudhary,Full Stack Developer,"Node.js,SQL,Git,React,JavaScript",68
+1523,Eshani Sinha,Product Manager,"Stakeholder Management,Machine Learning,SQL,Pandas,Communication,Roadmapping",66
+1501,Simran Pandey,ML Engineer,"Python,Deep Learning,REST API,ML,TensorFlow",67
+1520,Divya Malhotra,ML Engineer,"Python,Docker,REST API,Deep Learning,ML",87
+1607,Anjali Suri,DevOps Engineer,"SQL,Agile,Kubernetes,Linux,CI/CD,Docker",63
+1412,Gauri Mathur,ML Engineer,"TensorFlow,Docker,SQL,Deep Learning,ML,Python",79
+1737,Krishna Bhatt,ML Engineer,"Agile,Deep Learning,SQL,Docker,TensorFlow",61
+1519,Divya Naidu,Frontend Developer,"CSS,Git,TypeScript,JavaScript",79
+1587,Veer Goyal,DevOps Engineer,"AWS,Git,Excel,Docker,Kubernetes,Statistics,CI/CD",73
+1215,Manav Bhatt,Product Manager,"Communication,SQL,Manual Testing,Test Automation,Agile,Stakeholder Management,Excel,Roadmapping",89
+1398,Eshani Tiwari,QA Engineer,"Git,SQL,Selenium,Manual Testing",77
+1502,Naina Chandra,Full Stack Developer,"Node.js,React,Data Visualization,JavaScript,SQL,Git,REST API",83
+1345,Anika Menon,DevOps Engineer,"Linux,CI/CD,AWS",86
+1156,Lavanya Sinha,Data Analyst,"Python,SQL,Statistics,Power BI,Excel,Data Visualization",46
+1743,Chirag Dutta,Data Analyst,"SQL,Python,Power BI",70
+1317,Tejas Suri,Frontend Developer,"Git,HTML,TypeScript,CSS,React",70
+1472,Komal Dutta,Data Analyst,"Power BI,Python,Data Visualization",66
+1465,Mihir Rastogi,Frontend Developer,"Docker,CSS,JavaScript,HTML,Git,Kubernetes,React",69
+1696,Krishna Naidu,QA Engineer,"Test Automation,Manual Testing,Selenium",64
+1586,Anjali Malhotra,ML Engineer,"Machine Learning,SQL,DL,TensorFlow,Python",61
+1612,Jhanvi Ghosh,Data Analyst,"SQL,Data Visualization,Python,Power BI,Excel,Spring Boot",64
+1184,Aman Khatri,QA Engineer,"Selenium,Git,Manual Testing,Test Automation,Java",83
+1720,Om Naidu,Data Scientist,"Pandas,Python,Machine Learning,SQL,Deep Learning",66
+1268,Gauri Bhatt,QA Engineer,"Manual Testing,Java,Git,Selenium,SQL",54
+1456,Rudra Rastogi,DevOps Engineer,"Linux,Git,Kubernetes",65
+1605,Krishna Sinha,Frontend Developer,"CSS,TypeScript,JavaScript,Linux,Git,HTML",99
+1087,Radhika Mathur,Data Scientist,"Machine Learning,Statistics,Deep Learning",63
+1051,Mihir Dutta,Data Analyst,"Statistics,Data Visualization,Excel,PowerBI,Python,SQL",67
+1754,Gauri Pandey,Data Analyst,"SQL,Statistics,TensorFlow,Power BI,Python",66
+1781,Komal Menon,Frontend Developer,"CSS,HTML,React,TypeScript,Deep Learning,Pandas",68
+1038,Pranav Ahluwalia,Full Stack Developer,"REST API,Excel,Git,JavaScript",67
+1058,Harsh Ahluwalia,DevOps Engineer,"Docker,AWS,Linux,Kubernetes,CI/CD,Git",99
+1740,Krishna Goyal,Product Manager,"Communication,Excel,Agile,Java,Roadmapping",84
+1508,Anjali Choudhary,Data Analyst,"Power BI,Python,SQL,Data Visualization,Statistics,Excel",72
+1189,Naina Chandra,Backend Developer,"REST API,Git,SQL,Spring Boot,Microservices",68
+1366,Tejas Rastogi,Full Stack Developer,"SQL,Node.js,Git,REST API,Statistics",68
+1037,Arnav Shah,Business Analyst,"Communication,Power BI,SQL,Python,Statistics,Data Visualization",48
+1539,Rudra Bose,Full Stack Developer,"SQL,Git,REST API,React,Node.js,JavaScript,Microservices",76
+1248,Lakshay Pandey,DevOps Engineer,"Git,Docker,Kubernetes,Manual Testing",68
+1406,Pranav Tiwari,DevOps Engineer,"Linux,Docker,Git,AWS,CI/CD,Kubernetes",66
+1716,Harsh Mathur,Backend Developer,"SQL,Microservices,Java,Git,REST API",67
+1661,Eshani Choudhary,Data Analyst,"SQL,PowerBI,Excel,Statistics,Python",68
+1438,Krishna Sinha,Frontend Developer,"HTML,CSS,Roadmapping,JavaScript,Communication,React,Git",71
+1597,Vihaan Trivedi,QA Engineer,"SQL,Test Automation,Manual Testing,Java,Selenium",71
+1234,Aman Bhatt,Full Stack Developer,"Git,React,Linux,Node.js",63
+1318,Samar Chandra,Backend Developer,"Microservices,REST API,Java,Git,Spring Boot,Manual Testing,SQL",73
+1670,Bhavya Goyal,QA Engineer,"Java,Git,Selenium,Manual Testing",76
+1263,Arnav Goyal,Business Analyst,"Statistics,SQL,Excel,PowerBI,Communication",62
+1558,Lakshay Sinha,QA Engineer,"Selenium,CI/CD,SQL,AWS,Manual Testing",71
+1066,Chirag Naidu,Data Scientist,"Python,SQL,Deep Learning,Statistics",87
+1404,Samar Chandra,Data Analyst,"CSS,Python,Excel,Data Visualization",52
+1178,Anika Khatri,Data Analyst,"Data Visualization,Power BI,Python,Statistics,Excel,SQL",60
+1164,Harsh Dutta,Full Stack Developer,"REST API,React,JavaScript,SQL,Python",99
+1008,Divya Goyal,ML Engineer,"Docker,TensorFlow,Deep Learning,SQL,Python",81
+1310,Tejas Pandey,Data Scientist,"Python,Machine Learning,Statistics,Pandas,REST API,Deep Learning,SQL",74
+1675,Ira Naidu,Data Analyst,"Statistics,Power BI,Data Visualization,Python,SQL,Excel",62
+1655,Aman Tiwari,Product Manager,"Stakeholder Management,Excel,SQL",92
+1462,Manav Bose,Product Manager,"Excel,Communication,Agile,SQL,Roadmapping",61
+1617,Naina Goyal,ML Engineer,"Machine Learning,Docker,SQL,Python,Deep Learning",99
+1668,Veer Shah,Business Analyst,"Excel,CSS,SQL,Power BI,TypeScript,Communication,Data Visualization",62
+1573,Arnav Trivedi,Data Scientist,"Statistics,Machine Learning,Python,Java,Selenium,Pandas,SQL,Deep Learning",74
+1167,Anjali Ahluwalia,Data Scientist,"Deep Learning,SQL,Python,Machine Learning,Statistics",69
+1047,Komal Dutta,ML Engineer,"ML,Deep Learning,Python,Docker,SQL",60
+1072,Manav Menon,Business Analyst,"PowerBI,Statistics,Communication,REST API,SQL,Excel",63
+1797,Harsh Dutta,QA Engineer,"Git,Power BI,Java,Test Automation,Statistics",79
+1200,Eshani Ghosh,Full Stack Developer,"Node.js,JavaScript,Communication,SQL",76
+1399,Om Chandra,Product Manager,"AWS,Agile,Excel,SQL,Stakeholder Management,Docker",63
+1361,Om Bhatt,ML Engineer,"Deep Learning,Python,ML,Git,SQL,Docker",75
+1454,Mihir Shah,QA Engineer,"Java,Manual Testing,Git,Test Automation,SQL",51
+1760,Pranav Khatri,Full Stack Developer,"Power BI,React,SQL,Node.js",59
+1351,Krishna Dutta,Frontend Developer,"TypeScript,CSS,HTML,React,Git,Test Automation",62
+1421,Anjali Ghosh,Data Scientist,"JavaScript,Machine Learning,Python,Statistics,SQL,Pandas",68
+1385,Samar Menon,ML Engineer,"Docker,SQL,Python",62
+1730,Samar Pandey,Backend Developer,"SQL,Microservices,REST API,Java,Spring Boot",81
+1692,Om Malhotra,Data Scientist,"Pandas,React,Statistics,Python,Deep Learning,SQL,ML",79
+1307,Chirag Naidu,Frontend Developer,"HTML,JavaScript,React,Git,TypeScript,CI/CD",73
+1417,Charvi Pandey,Data Analyst,"Statistics,Python,SQL",75
+1595,Ira Sinha,Data Analyst,"Excel,PowerBI,Data Visualization,SQL",54
+1112,Harsh Goyal,Product Manager,"Agile,Excel,Stakeholder Management,Roadmapping,Communication,Spring Boot",77
+1699,Simran Goyal,Data Scientist,"ML,Pandas,DL,SQL,Python",63
+1300,Anika Sinha,DevOps Engineer,"Linux,Git,CI/CD,Docker,Kubernetes",46
+1227,Divya Pandey,ML Engineer,"Python,Java,Docker,TensorFlow,SQL,Machine Learning,Git",64
+1375,Pranav Bose,Data Analyst,"Data Visualization,SQL,Python,Microservices,Excel,Power BI,Statistics,REST API",67
+1196,Anika Malhotra,Data Analyst,"Excel,SQL,Python,Statistics,Power BI,Data Visualization",58
+1495,Chirag Rastogi,QA Engineer,"Selenium,Manual Testing,Java,Git,Test Automation,SQL",92
+1608,Arnav Shah,QA Engineer,"Selenium,Java,Git",82
+1138,Komal Goyal,Frontend Developer,"TypeScript,Git,CSS,HTML,JavaScript,React",77
+1596,Vihaan Naidu,Backend Developer,"Spring Boot,SQL,Git",72
+1434,Ira Dutta,QA Engineer,"Test Automation,Selenium,Manual Testing",54
+1786,Divya Mathur,Full Stack Developer,"Node.js,Statistics,SQL,React",78
+1783,Vihaan Shah,ML Engineer,"Python,Excel,SQL,TensorFlow",59
+1302,Pranav Goyal,Backend Developer,"SQL,REST API,Spring Boot,Java,Git,Kubernetes,Microservices",50
+1469,Oviya Goyal,Frontend Developer,"Roadmapping,Git,JavaScript,HTML,Excel,React,CSS",84
+1602,Lakshay Trivedi,Business Analyst,"Communication,Statistics,Spring Boot,SQL",87
+1611,Komal Suri,Business Analyst,"Python,Communication,Docker,SQL,Statistics,Power BI",81
+1726,Harsh Shah,DevOps Engineer,"Kubernetes,CI/CD,Git,Docker,Node.js",82
+1207,Arnav Khatri,Backend Developer,"Spring Boot,REST API,Microservices,JavaScript,Java,SQL,Git",66
+1104,Pranav Sinha,Product Manager,"Roadmapping,Stakeholder Management,SQL",91
+1728,Charvi Ahluwalia,Frontend Developer,"React,TypeScript,JavaScript,Git,CSS",95
+1223,Naina Choudhary,ML Engineer,"Deep Learning,Docker,Machine Learning,Python,SQL,Microservices",73
+1154,Manav Choudhary,ML Engineer,"Stakeholder Management,Deep Learning,Docker,SQL,TensorFlow",52
+1181,Anjali Naidu,DevOps Engineer,"Statistics,CI/CD,Git,AWS,Kubernetes,Docker,Linux",32
+1402,Rudra Rastogi,Full Stack Developer,"ML,JavaScript,REST API,Git,React",57
+1702,Komal Mathur,Backend Developer,"REST API,Java,Git,TensorFlow",56
+1142,Samar Pandey,Data Analyst,"Python,Power BI,Excel,SQL",68
+1349,Harsh Bose,Data Scientist,"Pandas,Excel,SQL,Deep Learning,Machine Learning",80
+1211,Tejas Ahluwalia,Product Manager,"SQL,Roadmapping,Excel,Stakeholder Management,Communication,Agile",68
+1332,Radhika Dutta,Data Scientist,"Machine Learning,Statistics,Python,Excel,SQL,Pandas,Deep Learning",58
+1143,Komal Chandra,Full Stack Developer,"Node.js,JavaScript,Git",65
+1003,Rudra Bhatt,Frontend Developer,"HTML,Java,React,CSS,Git,JavaScript",74
+1005,Gauri Naidu,Product Manager,"Agile,SQL,Excel",68
+1330,Tejas Suri,Backend Developer,"Java,SQL,REST API,Spring Boot,Manual Testing,Git,Microservices",67
+1282,Harsh Bhatt,Full Stack Developer,"REST API,SQL,React",67
+1203,Vihaan Naidu,Full Stack Developer,"React,SQL,Communication,JavaScript,Git",63
+1303,Veer Goyal,Data Analyst,"Excel,Data Visualization,SQL,Power BI,Python,Statistics",53
+1388,Harsh Malhotra,Product Manager,"Git,Excel,SQL,Roadmapping",60
+1369,Rudra Bose,Business Analyst,"Excel,PowerBI,Statistics,REST API,Java,Data Visualization",87
+1559,Rudra Sinha,Data Analyst,"SQL,Python,Statistics",69
+1436,Lakshay Shah,Frontend Developer,"TypeScript,Git,HTML,JavaScript,React",83
+1426,Bhavya Ghosh,Frontend Developer,"Kubernetes,Git,JavaScript,React",52
+1232,Vihaan Menon,Full Stack Developer,"React,Git,JavaScript,REST API",67
+1238,Aman Malhotra,ML Engineer,"TensorFlow,Python,CSS,SQL,Docker,Deep Learning,TypeScript",65
+1466,Radhika Choudhary,Frontend Developer,"CSS,Java,HTML,TypeScript,React,JavaScript",86
+1172,Aman Trivedi,Frontend Developer,"CSS,TypeScript,JavaScript,Stakeholder Management,React,HTML",60
+1274,Divya Shah,Backend Developer,"Excel,REST API,Microservices,Agile,Java,SQL",84
+1683,Charvi Khatri,Full Stack Developer,"Python,Git,React,SQL,JavaScript,Node.js,REST API",42
+1195,Charvi Naidu,Full Stack Developer,"Node.js,JavaScript,REST API,Git,React,SQL",68
+1566,Samar Bose,Backend Developer,"Git,Java,SQL,REST API,Spring Boot",81
+1103,Radhika Choudhary,Full Stack Developer,"Node.js,SQL,Power BI,Git,JavaScript",60
+1606,Komal Ghosh,Full Stack Developer,"SQL,AWS,React,REST API",63
+1210,Manav Ghosh,Full Stack Developer,"SQL,Git,Node.js,CSS,JavaScript",80
+1163,Simran Goyal,Business Analyst,"PowerBI,Stakeholder Management,Excel,Statistics,SQL,Roadmapping,Data Visualization",56
+1471,Veer Tiwari,Frontend Developer,"React,SQL,TypeScript,Git,JavaScript",67
+1509,Aman Ahluwalia,DevOps Engineer,"Data Visualization,Git,Docker,CI/CD,AWS",75
+1088,Tejas Goyal,Product Manager,"Agile,Roadmapping,Excel,SQL",68
+1343,Oviya Rastogi,Product Manager,"Stakeholder Management,SQL,Excel,Communication,Agile,Roadmapping",78
+1191,Oviya Bose,ML Engineer,"TensorFlow,SQL,CI/CD,Python,DL,Docker",58
+1357,Chirag Menon,Full Stack Developer,"JavaScript,SQL,Node.js,CSS,REST API,React,Git",78
+1179,Komal Dutta,Frontend Developer,"JavaScript,SQL,Docker,CSS,React",42
+1615,Om Tiwari,QA Engineer,"Manual Testing,SQL,Git,Test Automation,Java",67
+1045,Harsh Bose,Business Analyst,"Power BI,SQL,Data Visualization,Statistics,Excel",55
+1393,Eshani Goyal,Data Scientist,"SQL,Deep Learning,Java,Statistics,Pandas,Machine Learning",75
+1789,Oviya Khatri,Business Analyst,"Excel,Statistics,Communication,SQL,Data Visualization,ML",76
+1613,Mihir Naidu,Full Stack Developer,"React,Node.js,JavaScript,SQL",85
+1374,Harsh Khatri,DevOps Engineer,"AWS,Communication,Kubernetes,Statistics,Git,Linux",70
+1233,Radhika Menon,Business Analyst,"SQL,Data Visualization,Agile,Statistics,Communication",88
+1503,Lakshay Suri,Full Stack Developer,"React,JavaScript,REST API,SQL",96
+1794,Naina Ahluwalia,DevOps Engineer,"AWS,CI/CD,Kubernetes,Git,Docker",81
+1358,Rudra Chandra,Data Analyst,"Excel,JavaScript,Data Visualization,SQL,Power BI,Statistics",77
+1371,Jhanvi Dutta,Data Analyst,"Python,PowerBI,Data Visualization,SQL,Statistics",68
+1564,Veer Bose,QA Engineer,"Test Automation,Git,Manual Testing,Statistics",99
+1217,Naina Ghosh,Full Stack Developer,"React,Git,REST API,Node.js,JavaScript",87
+1799,Pranav Naidu,Full Stack Developer,"JavaScript,React,Git,Excel",42
+1549,Lakshay Shah,QA Engineer,"Manual Testing,Java,Git,Test Automation,SQL,Selenium",83
+1437,Jhanvi Menon,Data Scientist,"DL,Pandas,SQL,React",72
+1581,Veer Sinha,Frontend Developer,"JavaScript,TypeScript,Git,React,CSS,HTML",65
+1378,Jhanvi Tiwari,Product Manager,"Communication,Selenium,Roadmapping,Stakeholder Management,Excel,Agile",65
+1044,Gauri Naidu,ML Engineer,"Machine Learning,SQL,TensorFlow,Python,DL",56
+1671,Aman Ahluwalia,Frontend Developer,"Git,HTML,JavaScript,TypeScript,React,CSS",78
+1384,Rudra Dutta,Backend Developer,"Stakeholder Management,Microservices,Spring Boot,Java,REST API,Git,SQL",79
+1623,Eshani Mathur,Full Stack Developer,"React,Node.js,JavaScript,REST API,SQL,Roadmapping,Git",79
+1229,Aman Rastogi,ML Engineer,"Python,Machine Learning,TensorFlow,SQL",79
+1490,Bhavya Malhotra,Data Analyst,"SQL,Data Visualization,Python,Statistics,Excel,Power BI",47
+1006,Manav Choudhary,QA Engineer,"Docker,SQL,Java,Selenium,Manual Testing",70
+1262,Vihaan Ghosh,Product Manager,"Stakeholder Management,Excel,SQL,Communication,Roadmapping,Agile",86
+1609,Simran Ghosh,Business Analyst,"Communication,Statistics,Excel,Power BI,SQL,Data Visualization",67
+1775,Om Dutta,Business Analyst,"Communication,Power BI,Excel,Statistics,Data Visualization",95
+1640,Naina Ghosh,Product Manager,"Pandas,Agile,Stakeholder Management,SQL,Roadmapping,Excel,Communication",60
+1710,Samar Rastogi,Data Scientist,"SQL,Pandas,Deep Learning",54
+1782,Mihir Ghosh,Product Manager,"Stakeholder Management,Agile,Git,Excel,Roadmapping,Communication,SQL",89
+1319,Gauri Mathur,Data Analyst,"Data Visualization,Python,SQL,Statistics",77
+1118,Anika Sinha,Business Analyst,"SQL,PowerBI,Statistics",78
+1715,Eshani Khatri,Frontend Developer,"Communication,HTML,Git,TypeScript,CSS",56
+1758,Vihaan Rastogi,Frontend Developer,"HTML,React,Git,JavaScript,TypeScript",58
+1313,Om Rastogi,Product Manager,"Excel,Roadmapping,Docker,Stakeholder Management,Agile",62
+1411,Harsh Pandey,Data Scientist,"Pandas,DL,Machine Learning,SQL,Statistics",59
+1076,Chirag Chandra,ML Engineer,"SQL,Java,REST API,Machine Learning,Python,Docker",87
+1174,Pranav Trivedi,ML Engineer,"Deep Learning,SQL,Python,Docker,TensorFlow",82
+1725,Simran Goyal,QA Engineer,"Selenium,Git,Test Automation,Deep Learning,Manual Testing,SQL,Machine Learning",74
+1052,Oviya Pandey,Data Analyst,"TypeScript,CSS,Power BI,Python,SQL",69
+1483,Anjali Bose,Data Scientist,"Deep Learning,SQL,Roadmapping,Statistics,Pandas,Machine Learning,Python",64
+1755,Gauri Shah,DevOps Engineer,"Linux,CI/CD,AWS,Docker,Kubernetes,Git",69
+1320,Manav Goyal,Frontend Developer,"CSS,Manual Testing,JavaScript,Git,HTML",76
+1314,Chirag Tiwari,Data Analyst,"SQL,Data Visualization,Python,Excel,Power BI",63
+1236,Divya Dutta,Data Analyst,"Excel,Python,SQL,Data Visualization,Power BI,Statistics,Machine Learning",65
+1700,Jhanvi Tiwari,ML Engineer,"Deep Learning,Machine Learning,Python,Docker",76
+1667,Bhavya Bose,ML Engineer,"Docker,SQL,Data Visualization,Machine Learning,Python,TensorFlow",93
+1408,Anjali Mathur,Data Scientist,"DL,Python,Pandas,Machine Learning",80
+1479,Lavanya Shah,Data Scientist,"React,Statistics,JavaScript,Pandas,SQL,Python,Machine Learning,Deep Learning",76
+1094,Harsh Bose,Product Manager,"Java,Excel,Stakeholder Management,Roadmapping,Communication",66
+1690,Bhavya Khatri,Backend Developer,"REST API,Spring Boot,Git,Microservices,SQL,Excel,Java",53
+1761,Mihir Shah,ML Engineer,"SQL,Docker,Deep Learning,Python,TensorFlow",81
+1430,Oviya Goyal,ML Engineer,"Communication,TensorFlow,DL,Docker",35
+1628,Komal Chandra,DevOps Engineer,"Git,Docker,Linux,Agile",55
+1149,Anjali Bhatt,ML Engineer,"TensorFlow,Machine Learning,Stakeholder Management,Docker",87
+1554,Harsh Khatri,Product Manager,"Communication,Excel,Stakeholder Management,Agile,Python",68
+1250,Veer Dutta,QA Engineer,"Java,Test Automation,Git,Kubernetes,Selenium,SQL,Manual Testing",75
+1341,Gauri Goyal,DevOps Engineer,"Linux,AWS,CI/CD,Power BI",99
+1468,Lavanya Rastogi,Frontend Developer,"REST API,React,CSS,TypeScript",63
+1201,Chirag Trivedi,QA Engineer,"Python,Java,Git,SQL,Selenium,Test Automation,Manual Testing",88
+1553,Divya Naidu,QA Engineer,"Python,SQL,Test Automation,Manual Testing",70
+1092,Jhanvi Tiwari,Data Analyst,"HTML,SQL,Python,Statistics,Excel,Power BI,Data Visualization",74
+1221,Rudra Malhotra,Data Scientist,"SQL,Statistics,Deep Learning,Pandas",78
+1029,Pranav Naidu,Full Stack Developer,"JavaScript,REST API,Python,Node.js,SQL,React",72
+1672,Gauri Goyal,ML Engineer,"Deep Learning,Machine Learning,SQL,Python,Docker,TensorFlow",79
+1073,Eshani Bhatt,Data Scientist,"Statistics,Pandas,Deep Learning",43
+1525,Simran Sinha,Backend Developer,"Java,SQL,Microservices,REST API,Git",52
+1772,Eshani Goyal,Product Manager,"Communication,Agile,Stakeholder Management,Git,SQL,Roadmapping,Excel",85
+1281,Simran Goyal,Business Analyst,"Statistics,SQL,Data Visualization,Communication,PowerBI",55
+1090,Aman Pandey,Backend Developer,"SQL,Git,REST API,Spring Boot,Java,Microservices",81
+1552,Bhavya Trivedi,Product Manager,"Stakeholder Management,Communication,SQL,Selenium,Excel,Agile",74
+1419,Ira Mathur,Backend Developer,"Git,REST API,Spring Boot,SQL,Microservices",99
+1183,Veer Trivedi,Data Analyst,"SQL,Excel,Statistics,PowerBI,Python",76
+1176,Ira Dutta,Business Analyst,"Statistics,PowerBI,Communication,Excel,SQL",66
+1336,Samar Pandey,ML Engineer,"Statistics,Python,TensorFlow,SQL",62
+1517,Aman Mathur,Data Scientist,"Machine Learning,Statistics,Python",59
+1684,Chirag Ghosh,Frontend Developer,"Git,REST API,TypeScript,React,CSS",75
+1271,Harsh Bhatt,QA Engineer,"Selenium,Manual Testing,Test Automation,Machine Learning,SQL",81
+1452,Vihaan Sinha,Product Manager,"Communication,Roadmapping,Excel,Stakeholder Management,Git,Agile",59
+1724,Rudra Khatri,Backend Developer,"Java,Microservices,Roadmapping,SQL,Git",61
+1110,Naina Dutta,Backend Developer,"Microservices,SQL,Spring Boot,Git,Java,REST API",77
+1589,Om Pandey,Frontend Developer,"Excel,HTML,Git,JavaScript,TypeScript",75
+1594,Harsh Mathur,ML Engineer,"SQL,TensorFlow,Python,Deep Learning,Docker",58
+1482,Samar Naidu,Data Scientist,"Pandas,Statistics,Python,SQL,Deep Learning",74
+1323,Om Malhotra,DevOps Engineer,"Kubernetes,Docker,Git,AWS,CI/CD",76
+1081,Om Suri,Business Analyst,"Communication,Excel,Python,Power BI,Statistics,Data Visualization,SQL",56
+1514,Gauri Sinha,Business Analyst,"Excel,PowerBI,SQL,Statistics",57
+1677,Anjali Pandey,Business Analyst,"SQL,Machine Learning,Statistics,Data Visualization,PowerBI,Excel",66
+1334,Divya Bose,Product Manager,"SQL,Git,Test Automation,Agile,Communication,Excel",52
+1528,Lakshay Goyal,Frontend Developer,"Git,JavaScript,HTML,TypeScript,CSS,Node.js",76
+1064,Simran Khatri,Full Stack Developer,"React,JavaScript,SQL,Node.js,REST API",79
+1062,Naina Sinha,DevOps Engineer,"Docker,Kubernetes,CI/CD,AWS,SQL",67
+1373,Ira Khatri,Product Manager,"Roadmapping,Excel,Agile,Communication",57
+1279,Lavanya Bose,Data Analyst,"Statistics,Excel,REST API,SQL,Python,Power BI",99
+1652,Om Sinha,Frontend Developer,"Git,React,TypeScript,HTML,REST API",70
+1226,Manav Mathur,Full Stack Developer,"SQL,Git,Node.js,Manual Testing,React",86
+1280,Radhika Trivedi,Product Manager,"Agile,SQL,Roadmapping,Git",86
+1757,Jhanvi Dutta,DevOps Engineer,"CI/CD,Git,Linux,Kubernetes",79
+1338,Lakshay Pandey,Full Stack Developer,"Git,SQL,Manual Testing,React,JavaScript",73
+1228,Bhavya Malhotra,Product Manager,"SQL,Excel,Stakeholder Management,Communication,Roadmapping",67
+1187,Gauri Naidu,Full Stack Developer,"JavaScript,Git,React,Power BI",57
+1009,Aman Khatri,QA Engineer,"SQL,Selenium,Manual Testing",69
+1086,Samar Rastogi,ML Engineer,"Python,TensorFlow,Deep Learning",57
+1043,Harsh Khatri,Business Analyst,"Data Visualization,Excel,Spring Boot,SQL",93
+1735,Vihaan Suri,QA Engineer,"Selenium,Test Automation,Manual Testing,Java,Git,CSS",94
+1569,Oviya Naidu,Product Manager,"SQL,Excel,Stakeholder Management,Communication,Agile",58
+1681,Samar Pandey,Product Manager,"Node.js,Communication,Agile,Git,SQL,Roadmapping,Stakeholder Management",76
+1097,Anika Rastogi,Data Scientist,"Java,Pandas,Statistics,DL,Python",91
+1342,Charvi Rastogi,Full Stack Developer,"SQL,React,JavaScript,Node.js,REST API",62
+1443,Arnav Rastogi,Product Manager,"Roadmapping,Stakeholder Management,Agile,Statistics,Communication,Excel",77
+1157,Lakshay Chandra,Business Analyst,"Excel,SQL,Agile,Data Visualization",80
+1034,Chirag Ghosh,Data Scientist,"Deep Learning,SQL,ML,Python,Git",76
+1693,Charvi Bhatt,Frontend Developer,"TypeScript,React,CSS",81
+1122,Bhavya Khatri,Data Analyst,"Data Visualization,Python,SQL,Statistics",57
+1796,Divya Chandra,Data Analyst,"Statistics,SQL,Data Visualization,Power BI,Excel",65
+1212,Oviya Choudhary,DevOps Engineer,"Docker,Git,AWS,Agile,Linux,CI/CD,Excel",53
+1294,Komal Ghosh,Full Stack Developer,"JavaScript,Git,REST API,Node.js,SQL",52
+1499,Samar Pandey,Product Manager,"Communication,Excel,Stakeholder Management,Test Automation,Roadmapping",83
+1800,Krishna Malhotra,Full Stack Developer,"JavaScript,Node.js,Selenium,Git,SQL",73
+1582,Divya Bose,QA Engineer,"Manual Testing,React,SQL,Selenium,Java,Test Automation",67
+1237,Pranav Ghosh,Product Manager,"Power BI,Excel,Stakeholder Management,Roadmapping,Communication",50
+1165,Divya Bhatt,Frontend Developer,"Excel,CSS,React,TypeScript,Git",65
+1583,Manav Sinha,QA Engineer,"Java,SQL,Selenium,Test Automation,CI/CD",62
+1394,Lavanya Khatri,ML Engineer,"SQL,TensorFlow,Agile,ML",72
+1474,Tejas Rastogi,Full Stack Developer,"Test Automation,SQL,Git,Node.js,React",71
+1283,Krishna Tiwari,Data Scientist,"SQL,Pandas,Statistics",80
+1365,Naina Suri,Data Scientist,"Deep Learning,Python,Pandas",73
+1235,Rudra Bose,ML Engineer,"Docker,TensorFlow,Deep Learning",80
+1311,Chirag Rastogi,DevOps Engineer,"Docker,AWS,Linux,CI/CD,Kubernetes,Git,Python",80
+1180,Veer Bose,DevOps Engineer,"Docker,CI/CD,Linux",64
+1400,Chirag Goyal,Backend Developer,"Microservices,SQL,Manual Testing,Spring Boot,Java",70
+1646,Chirag Mathur,Full Stack Developer,"React,Node.js,SQL",63
+1309,Harsh Pandey,Frontend Developer,"HTML,JavaScript,Git,CSS",60
+1070,Charvi Goyal,Data Analyst,"Power BI,Statistics,Excel,Python",63
+1272,Mihir Khatri,Product Manager,"Stakeholder Management,Communication,Excel,SQL,Roadmapping,Agile",89
+1453,Veer Dutta,Data Analyst,"Data Visualization,Power BI,Microservices,Excel,Git,Statistics",68
+1770,Bhavya Sinha,Data Analyst,"Data Visualization,Excel,SQL,Python,Statistics",83
+1024,Vihaan Sinha,DevOps Engineer,"CI/CD,AWS,Git,CSS,Kubernetes,Docker",68
+1533,Divya Sinha,Product Manager,"Communication,Agile,SQL,Stakeholder Management,Excel,REST API,Roadmapping",64
+1293,Arnav Naidu,Full Stack Developer,"React,Node.js,JavaScript,SQL,REST API,Agile",50
+1507,Harsh Tiwari,Data Analyst,"Statistics,Python,Power BI",63
+1747,Anika Goyal,Product Manager,"Communication,Excel,Agile,SQL",79
+1352,Ira Pandey,DevOps Engineer,"Docker,CI/CD,Linux,Git,CSS,AWS",65
+1059,Jhanvi Malhotra,Backend Developer,"Spring Boot,REST API,Java,Microservices",81
+1707,Lakshay Mathur,Full Stack Developer,"DL,SQL,JavaScript,Git,Python,React",54
+1784,Jhanvi Shah,Product Manager,"Stakeholder Management,Communication,Roadmapping,SQL,Agile",82
+1080,Aman Naidu,Business Analyst,"Power BI,Excel,Microservices,Data Visualization,Communication,SQL,Statistics",73
+1266,Tejas Trivedi,Backend Developer,"Microservices,Java,AWS,Git,SQL",83
+1322,Arnav Chandra,QA Engineer,"REST API,SQL,Git,Java,React",71
+1601,Harsh Chandra,Data Scientist,"Machine Learning,Deep Learning,SQL",90
+1625,Naina Sinha,Backend Developer,"Spring Boot,Microservices,Java",74
+1381,Jhanvi Khatri,Business Analyst,"Statistics,Communication,Selenium,Git,Excel,Power BI",96
+1093,Chirag Naidu,QA Engineer,"Selenium,Test Automation,SQL,Git,Java",67
+1765,Ira Sinha,DevOps Engineer,"AWS,Linux,Kubernetes,SQL,JavaScript",65
+1599,Mihir Mathur,QA Engineer,"Manual Testing,Test Automation,SQL,Java,Kubernetes",68
+1669,Anjali Malhotra,Product Manager,"SQL,Roadmapping,Excel,Communication,Stakeholder Management,Agile",73
+1148,Komal Goyal,Business Analyst,"Statistics,Communication,Excel,SQL",86
+1252,Anjali Menon,Product Manager,"Stakeholder Management,Excel,Communication,Pandas,Roadmapping,SQL",81
+1494,Eshani Mathur,Full Stack Developer,"Node.js,SQL,REST API,Git",74
+1682,Krishna Bose,Data Analyst,"Data Visualization,Excel,SQL,Test Automation,Python,PowerBI",97
+1213,Bhavya Suri,ML Engineer,"DL,TensorFlow,Machine Learning,Docker,REST API,Git",69
+1441,Tejas Rastogi,Business Analyst,"Statistics,Communication,SQL,PowerBI,Data Visualization",67
+1391,Vihaan Chandra,DevOps Engineer,"Git,Docker,CI/CD,Linux,AWS,Kubernetes",73
+1647,Pranav Khatri,Frontend Developer,"Deep Learning,TensorFlow,Git,HTML,CSS,TypeScript,JavaScript,React",75
+1769,Bhavya Tiwari,Data Scientist,"Python,SQL,Pandas",78
+1331,Rudra Choudhary,QA Engineer,"Java,Selenium,Git,Test Automation,SQL",92
+1610,Mihir Mathur,Data Analyst,"Statistics,Excel,Data Visualization,SQL,PowerBI,Python",82
+1277,Arnav Tiwari,Full Stack Developer,"Node.js,Power BI,React,JavaScript,SQL,Git",99
+1510,Chirag Shah,Business Analyst,"Data Visualization,Statistics,Communication,Power BI",93
+1516,Arnav Goyal,QA Engineer,"Test Automation,Selenium,Manual Testing,SQL,Docker,Java",82
+1678,Charvi Naidu,Full Stack Developer,"SQL,JavaScript,Git,REST API",65
+1390,Tejas Menon,Data Scientist,"Pandas,DL,SQL,Statistics",67
+1449,Om Chandra,Business Analyst,"Excel,SQL,Power BI,Communication,Statistics",59
+1791,Pranav Tiwari,Data Analyst,"Python,Data Visualization,Power BI,SQL,Statistics,Excel",73
+1709,Jhanvi Sinha,Full Stack Developer,"Manual Testing,SQL,REST API,Git,Node.js,React,Java",70
+1013,Manav Khatri,Frontend Developer,"React,JavaScript,Git,CSS,TypeScript,HTML",71
+1478,Charvi Dutta,Backend Developer,"REST API,Git,Java,Spring Boot,SQL",57
+1304,Jhanvi Tiwari,DevOps Engineer,"Linux,Kubernetes,AWS,Docker",72
+1488,Charvi Sinha,Product Manager,"Stakeholder Management,TensorFlow,Agile,Roadmapping",59
+1574,Bhavya Choudhary,Data Scientist,"SQL,Statistics,Pandas,DL",99
+1616,Samar Mathur,Product Manager,"Stakeholder Management,SQL,Communication,Agile,Roadmapping,Excel",86
+1753,Chirag Choudhary,QA Engineer,"Test Automation,Java,SQL,TypeScript,Manual Testing,Selenium",80
+1604,Eshani Rastogi,QA Engineer,"Excel,Manual Testing,Git,Test Automation,Selenium,Java,SQL",95
+1688,Rudra Sinha,Product Manager,"Excel,Stakeholder Management,Agile,Selenium,Communication",62
+1020,Rudra Khatri,DevOps Engineer,"Git,CI/CD,Kubernetes",78
+1325,Mihir Malhotra,Data Analyst,"Excel,Power BI,Statistics,Python,SQL",65
+1261,Tejas Pandey,Frontend Developer,"HTML,CSS,React,Agile",64
+1736,Jhanvi Tiwari,Data Scientist,"Statistics,Python,Pandas",74
+1410,Lakshay Malhotra,Product Manager,"Communication,Stakeholder Management,Roadmapping",76
+1401,Aman Ghosh,Data Scientist,"ML,SQL,Statistics,Git,JavaScript,Pandas,Python",57
+1788,Vihaan Dutta,ML Engineer,"SQL,Docker,Statistics,ML,Python,TensorFlow,Deep Learning",74
+1055,Radhika Malhotra,DevOps Engineer,"AWS,Kubernetes,Docker,CI/CD,Git",69
+1698,Pranav Rastogi,ML Engineer,"Deep Learning,Docker,Pandas,SQL,Python",85
+1151,Naina Rastogi,Product Manager,"Agile,Data Visualization,Communication,Stakeholder Management,SQL,Roadmapping",30
+1540,Anika Pandey,QA Engineer,"Manual Testing,Test Automation,SQL,Git,Selenium,Java",88
+1556,Mihir Goyal,Product Manager,"SQL,Power BI,Roadmapping,Excel,Communication,Agile,Stakeholder Management",54
+1545,Oviya Bose,Product Manager,"Excel,Docker,Roadmapping,Stakeholder Management,Machine Learning",87
+1107,Gauri Naidu,Backend Developer,"Microservices,Spring Boot,REST API,Git",91
+1563,Anika Suri,Frontend Developer,"Communication,SQL,TypeScript,CSS,JavaScript,React,Git",79
+1025,Vihaan Naidu,Backend Developer,"Spring Boot,Git,Java,REST API,Microservices",66
+1638,Anika Shah,Data Scientist,"Selenium,Python,Statistics,Manual Testing,Machine Learning,SQL",68
+1083,Harsh Khatri,QA Engineer,"Git,Test Automation,Java,Manual Testing,SQL,Selenium",89
+1660,Chirag Suri,Frontend Developer,"Git,CSS,TypeScript,HTML,Microservices,React",72
+1676,Pranav Shah,Data Analyst,"Statistics,Python,Excel,SQL",83
+1380,Bhavya Goyal,Frontend Developer,"React,Machine Learning,JavaScript,Git,HTML,Statistics",62
+1077,Anjali Rastogi,Business Analyst,"Excel,Communication,Statistics,Power BI,Data Visualization,Agile",80
+1389,Bhavya Bose,Business Analyst,"Communication,Data Visualization,Power BI,Statistics,SQL",74
+1407,Veer Trivedi,Data Scientist,"DL,SQL,ML,Python,Statistics",71
+1292,Lakshay Suri,DevOps Engineer,"Git,CI/CD,Kubernetes,Docker,AWS",83
+1111,Harsh Tiwari,Product Manager,"Excel,Roadmapping,Communication,SQL",82
+1620,Lavanya Rastogi,DevOps Engineer,"Git,Kubernetes,Linux,AWS,Deep Learning,CI/CD,Docker",67
+1247,Simran Trivedi,DevOps Engineer,"JavaScript,Docker,CI/CD,Git,Linux,AWS",66
+1146,Gauri Dutta,Backend Developer,"Git,REST API,Microservices,SQL,Power BI,Java",57
+1129,Gauri Sinha,Business Analyst,"Communication,Data Visualization,SQL,JavaScript,Statistics,Power BI,TypeScript",61
+1764,Jhanvi Goyal,Backend Developer,"Microservices,REST API,Java,Git,Spring Boot,SQL",75
+1744,Naina Ahluwalia,Data Scientist,"Deep Learning,Python,Pandas,Statistics,Node.js",71
+1487,Manav Pandey,Product Manager,"Communication,Roadmapping,SQL,Agile,Excel,Stakeholder Management",87
+1711,Rudra Ahluwalia,ML Engineer,"TensorFlow,SQL,Python,ML",71
+1091,Radhika Choudhary,Full Stack Developer,"REST API,JavaScript,Git,Node.js",81
+1206,Komal Khatri,QA Engineer,"Java,SQL,Git,Manual Testing,Test Automation,REST API,Selenium",72
+1768,Pranav Tiwari,Full Stack Developer,"Git,REST API,SQL,JavaScript,Node.js,React",84
+1171,Chirag Trivedi,DevOps Engineer,"Linux,Git,Kubernetes",68
+1057,Jhanvi Shah,Business Analyst,"Power BI,Data Visualization,Communication,Excel,SQL",84
+1405,Divya Goyal,Business Analyst,"Manual Testing,Communication,Data Visualization,SQL,PowerBI,Excel",72
+1242,Radhika Shah,Backend Developer,"Java,SQL,REST API,DL,Git,Microservices,Spring Boot,Machine Learning",77
+1347,Oviya Trivedi,Backend Developer,"Java,SQL,REST API",56
+1098,Lavanya Goyal,DevOps Engineer,"CI/CD,Kubernetes,Linux,REST API,Docker,AWS",72
+1117,Chirag Trivedi,DevOps Engineer,"AWS,Linux,CI/CD,Git,Docker",79
+1202,Lakshay Naidu,Data Scientist,"Machine Learning,Python,Excel,Pandas",58
+1697,Lakshay Ahluwalia,DevOps Engineer,"Git,Kubernetes,CI/CD,Linux,Docker",77
+1480,Gauri Chandra,Data Scientist,"Machine Learning,Statistics,DL,Git,Python,SQL",87
+1324,Vihaan Chandra,DevOps Engineer,"Linux,Kubernetes,CI/CD,AWS,Spring Boot",62
+1194,Naina Choudhary,Business Analyst,"SQL,PowerBI,Communication,Statistics,Data Visualization",47
+1444,Divya Bhatt,Full Stack Developer,"SQL,React,REST API,JavaScript,Git",94
+1455,Lavanya Mathur,Data Analyst,"Excel,SQL,Power BI,Statistics",70
+1529,Aman Goyal,Data Analyst,"Python,Statistics,SQL,Power BI,Excel,Data Visualization",75
+1629,Lavanya Pandey,Frontend Developer,"CSS,Git,HTML,React,TypeScript",83
+1551,Charvi Khatri,Data Analyst,"Data Visualization,SQL,Excel,Power BI",68
+1639,Komal Malhotra,Full Stack Developer,"Git,React,Selenium,REST API",59
+1793,Chirag Ghosh,Data Scientist,"SQL,Statistics,Python,Machine Learning,Excel,Deep Learning,Pandas",72
+1778,Arnav Mathur,Frontend Developer,"CSS,HTML,Git,Node.js,SQL",91
+1297,Pranav Khatri,Full Stack Developer,"Java,React,JavaScript,Git",57
+1703,Mihir Pandey,Product Manager,"Excel,Agile,SQL,Communication,Roadmapping",86
+1717,Ira Choudhary,Data Scientist,"JavaScript,Deep Learning,Python,React,SQL,Statistics,Machine Learning",76
+1396,Lavanya Sinha,ML Engineer,"SQL,Docker,TensorFlow,Deep Learning,Python",80
+1427,Charvi Menon,DevOps Engineer,"Git,DL,Docker,Kubernetes",65
+1641,Veer Ahluwalia,ML Engineer,"Git,Docker,Python,TensorFlow,Machine Learning",89
+1560,Komal Shah,Business Analyst,"Statistics,PowerBI,Data Visualization,Communication,SQL",81
+1526,Krishna Ahluwalia,Full Stack Developer,"TensorFlow,Git,SQL,REST API,React,Node.js,Docker",53
+1759,Bhavya Chandra,Data Scientist,"Statistics,Deep Learning,Python,Machine Learning",80
+1015,Chirag Bhatt,ML Engineer,"SQL,Docker,Python,TensorFlow,Deep Learning,Machine Learning",74
+1253,Lakshay Menon,QA Engineer,"Java,Test Automation,Selenium",69
+1239,Manav Suri,Data Scientist,"SQL,Statistics,Machine Learning,CI/CD",69
+1121,Naina Suri,DevOps Engineer,"CI/CD,Git,AWS",86
+1286,Samar Sinha,ML Engineer,"Docker,Python,ML,Deep Learning,TypeScript,TensorFlow",46
+1555,Naina Dutta,Frontend Developer,"React,CSS,JavaScript",62
+1197,Tejas Choudhary,QA Engineer,"Manual Testing,Test Automation,Git,Selenium,SQL,Java",77
+1346,Om Khatri,Data Analyst,"Git,Excel,Python,Statistics,Data Visualization,Power BI,SQL",85
+1546,Samar Sinha,ML Engineer,"SQL,Python,TensorFlow,DL",69
+1251,Om Pandey,Business Analyst,"Power BI,Data Visualization,React,Statistics,REST API,Communication",63
+1648,Naina Menon,Business Analyst,"Git,Excel,PowerBI,Statistics",68
+1413,Anjali Chandra,Business Analyst,"Excel,Power BI,Data Visualization,REST API,Communication",90
+1486,Bhavya Trivedi,DevOps Engineer,"AWS,Git,Kubernetes,Linux,Docker",85
+1431,Harsh Rastogi,Product Manager,"SQL,Agile,Roadmapping,Stakeholder Management,Excel,Communication",76
+1619,Gauri Naidu,Product Manager,"Excel,Communication,Agile,Stakeholder Management,Roadmapping,SQL",53
+1291,Tejas Bhatt,Data Analyst,"Data Visualization,Agile,SQL,Python,Statistics,Power BI",83
+1017,Lavanya Khatri,DevOps Engineer,"CI/CD,Kubernetes,Git,Docker",82
+1159,Veer Rastogi,Product Manager,"Excel,Deep Learning,SQL,Stakeholder Management",77
+1244,Harsh Trivedi,DevOps Engineer,"AWS,Linux,Git,CI/CD",45
+1067,Manav Goyal,Full Stack Developer,"SQL,React,JavaScript,Git,REST API,Node.js",57
+1360,Radhika Mathur,Backend Developer,"Java,SQL,Spring Boot,REST API,Git",49
+1749,Veer Ghosh,Full Stack Developer,"Node.js,React,PowerBI,SQL,JavaScript,Git,REST API",36
+1505,Anika Naidu,Data Analyst,"SQL,Data Visualization,Git,Power BI,Statistics",80
+1473,Divya Suri,ML Engineer,"Machine Learning,React,Python,SQL,Docker,Deep Learning,JavaScript",89
+1578,Bhavya Ghosh,Product Manager,"Stakeholder Management,Communication,Excel,Agile,Roadmapping",62
+1522,Charvi Ahluwalia,DevOps Engineer,"Git,Kubernetes,Linux,Docker,CI/CD",90
+1687,Mihir Bhatt,QA Engineer,"Selenium,Manual Testing,Test Automation,Git",43
+1531,Eshani Pandey,Product Manager,"Excel,SQL,Stakeholder Management,Java",74
+1409,Radhika Chandra,Backend Developer,"Git,Java,Spring Boot,SQL",84
+1685,Vihaan Khatri,ML Engineer,"Docker,Python,DL,SQL,Machine Learning",40
+1433,Pranav Bhatt,Full Stack Developer,"SQL,JavaScript,React,Node.js,Git,Excel,REST API",73
+1432,Tejas Choudhary,Data Analyst,"Excel,Power BI,Data Visualization,SQL,CSS,Python,TypeScript",66
+1485,Harsh Sinha,Frontend Developer,"TypeScript,React,HTML",47
+1152,Veer Bhatt,ML Engineer,"TensorFlow,Machine Learning,Python,DL,Docker",80
+1328,Chirag Suri,Full Stack Developer,"Node.js,JavaScript,React,SQL,Git,REST API",99
+1257,Radhika Dutta,Business Analyst,"SQL,Excel,Statistics,Data Visualization",46
+1312,Om Ahluwalia,Full Stack Developer,"JavaScript,Git,Node.js,REST API",59
+1305,Oviya Mathur,Backend Developer,"Microservices,Java,React,REST API,SQL,Git",80
+1414,Krishna Trivedi,Product Manager,"Stakeholder Management,Agile,Communication,Docker",75
+1134,Divya Suri,Data Scientist,"Git,Machine Learning,Test Automation,Python,SQL",81
+1032,Anika Chandra,Data Analyst,"Data Visualization,SQL,Excel,PowerBI",71
+1459,Tejas Shah,Frontend Developer,"Git,TypeScript,React,Selenium,JavaScript,HTML,CSS",71
+1162,Naina Menon,DevOps Engineer,"AWS,CI/CD,Kubernetes,Linux,Git",64
+1340,Om Dutta,Data Analyst,"SQL,Data Visualization,Excel,Power BI",64
+1287,Jhanvi Suri,QA Engineer,"SQL,Manual Testing,Selenium",70
+1249,Gauri Goyal,Data Analyst,"Python,Statistics,Data Visualization,Power BI,SQL",64
+1738,Pranav Goyal,ML Engineer,"TensorFlow,DL,SQL,Python,Machine Learning,Docker",78
+1580,Eshani Dutta,Data Analyst,"PowerBI,Python,Excel,Statistics,SQL",67
+1654,Eshani Tiwari,QA Engineer,"Git,Data Visualization,Selenium,Manual Testing,Test Automation,Java",68
+1002,Charvi Trivedi,Data Scientist,"Statistics,Pandas,Machine Learning,Excel,Python,Data Visualization,SQL,DL",97
+1208,Tejas Sinha,DevOps Engineer,"Docker,CI/CD,AWS,SQL,Kubernetes",67
+1630,Ira Naidu,Data Scientist,"Python,Statistics,Pandas",74
+1733,Divya Chandra,QA Engineer,"Git,SQL,Test Automation,Selenium",70
+1674,Rudra Ghosh,DevOps Engineer,"SQL,JavaScript,CI/CD,Git,Docker,Linux,AWS",83
+1265,Anjali Ahluwalia,Frontend Developer,"Statistics,Git,JavaScript,TypeScript,HTML",61
+1275,Divya Chandra,Frontend Developer,"DL,JavaScript,TypeScript,React,CSS,Git",66
+1071,Komal Tiwari,ML Engineer,"SQL,DL,Python,Machine Learning,Docker,TensorFlow",64
+1445,Pranav Suri,QA Engineer,"Docker,Java,SQL,Python,Selenium,Test Automation",64
+1663,Om Rastogi,Data Scientist,"Deep Learning,Excel,Machine Learning,Statistics,Power BI,SQL,Pandas",81
+1099,Oviya Ahluwalia,DevOps Engineer,"AWS,Python,Machine Learning,Git,CI/CD",74
+1679,Pranav Shah,Data Analyst,"Statistics,Excel,Git,Power BI,Data Visualization,SQL",70
+1022,Anjali Dutta,Full Stack Developer,"SQL,REST API,Git,JavaScript",74
+1415,Radhika Malhotra,Frontend Developer,"TypeScript,React,CSS,Node.js,HTML",46
+1518,Bhavya Pandey,Frontend Developer,"React,Power BI,JavaScript,HTML,Git,TypeScript",92
+1150,Tejas Menon,QA Engineer,"Git,Test Automation,Selenium,CI/CD,Java",69
+1355,Lavanya Ahluwalia,QA Engineer,"Git,Selenium,Manual Testing,Java,SQL,Python,TensorFlow",70
+1748,Arnav Khatri,ML Engineer,"Node.js,ML,Python,SQL,DL",85
+1053,Veer Mathur,ML Engineer,"Python,TensorFlow,Excel,Docker,DL,SQL,ML",75
+1199,Naina Trivedi,DevOps Engineer,"AWS,Docker,Linux,CI/CD,Deep Learning,Statistics,Git",80
+1123,Simran Naidu,Frontend Developer,"SQL,HTML,TensorFlow,JavaScript,TypeScript",90
+1204,Rudra Pandey,Backend Developer,"REST API,Spring Boot,Microservices,SQL,Git",73
+1068,Chirag Trivedi,DevOps Engineer,"AWS,Kubernetes,Deep Learning,CI/CD,Git,Linux,Docker,Python",88
+1224,Tejas Malhotra,DevOps Engineer,"CI/CD,Linux,Git,Docker",88
+1128,Harsh Khatri,Backend Developer,"Microservices,SQL,Spring Boot,REST API",71
+1140,Divya Mathur,Data Scientist,"Git,ML,Pandas,Statistics",53
+1418,Komal Pandey,Data Analyst,"React,SQL,TypeScript,Python,Data Visualization,PowerBI,Statistics",67
+1219,Jhanvi Malhotra,QA Engineer,"React,Manual Testing,Git,Selenium,Java",82
+1547,Om Dutta,QA Engineer,"Git,SQL,Selenium,Manual Testing,Test Automation",80
+1158,Aman Choudhary,Full Stack Developer,"Git,Node.js,REST API",82
+1095,Charvi Pandey,Full Stack Developer,"JavaScript,Git,SQL",76
+1256,Samar Goyal,Product Manager,"Stakeholder Management,Communication,Roadmapping,SQL,Excel,Agile",77
+1774,Ira Trivedi,DevOps Engineer,"Linux,Kubernetes,Git,CI/CD,Test Automation",80
+1644,Tejas Rastogi,Data Analyst,"Power BI,Excel,Data Visualization,SQL,Statistics,Python",63
+1040,Divya Ghosh,Data Scientist,"Statistics,Python,Deep Learning,Java",82
+1131,Divya Dutta,ML Engineer,"Docker,TensorFlow,Python,Git,CSS,Machine Learning",72
+1790,Anjali Khatri,Business Analyst,"Communication,Power BI,Statistics,Data Visualization,SQL,Excel",73
+1190,Aman Ahluwalia,Backend Developer,"REST API,Java,Microservices,AWS,SQL,Git",59
+1590,Tejas Goyal,QA Engineer,"Java,SQL,Manual Testing,Selenium,Test Automation",77
+1403,Krishna Choudhary,Backend Developer,"Spring Boot,Git,Stakeholder Management,Microservices,REST API,SQL",72
+1039,Mihir Naidu,Data Scientist,"SQL,Machine Learning,Statistics,Deep Learning",43
+1243,Tejas Khatri,Product Manager,"React,Communication,Agile,Roadmapping,SQL",67
+1354,Tejas Trivedi,Backend Developer,"REST API,SQL,Java,Git,Microservices,Spring Boot",56
+1621,Oviya Goyal,QA Engineer,"Test Automation,SQL,Git,Selenium,Java",65
+1651,Mihir Suri,Data Analyst,"Python,ML,Excel,Data Visualization,PowerBI",75
+1535,Radhika Mathur,Business Analyst,"Communication,Kubernetes,Statistics,Linux,Power BI,SQL",77
+1504,Ira Shah,DevOps Engineer,"Manual Testing,Docker,Linux,Kubernetes,Git",46
+1160,Komal Sinha,QA Engineer,"SQL,Java,Selenium,Test Automation,Manual Testing,Git",73
+1395,Eshani Dutta,Data Analyst,"Statistics,Data Visualization,Excel,PowerBI,Deep Learning",95
+1538,Eshani Bose,DevOps Engineer,"Docker,Linux,Git,Kubernetes,AWS",51
+1241,Gauri Chandra,DevOps Engineer,"Kubernetes,CI/CD,Linux",60
+1014,Anika Choudhary,Data Scientist,"Python,Statistics,Deep Learning,SQL,Machine Learning",76
+1658,Pranav Goyal,Backend Developer,"Spring Boot,SQL,REST API,Pandas,Microservices,Git",74
+1476,Veer Rastogi,Data Analyst,"Statistics,Excel,Data Visualization,SQL,Power BI",85
+1694,Mihir Chandra,Frontend Developer,"TypeScript,React,CSS,HTML,Git",53
+1315,Krishna Pandey,Business Analyst,"SQL,Manual Testing,Communication,Excel,Statistics,PowerBI,Data Visualization",71
+1362,Lavanya Chandra,QA Engineer,"Manual Testing,SQL,Test Automation",61
+1591,Chirag Suri,Data Scientist,"SQL,Deep Learning,ML,Excel,Statistics",87
+1321,Harsh Naidu,QA Engineer,"Selenium,Test Automation,Manual Testing,Java",54
+1673,Charvi Mathur,ML Engineer,"SQL,Python,Machine Learning,Docker,Deep Learning,Excel",63
+1565,Chirag Tiwari,Full Stack Developer,"Node.js,React,CI/CD,Git",65
+1356,Charvi Dutta,QA Engineer,"Manual Testing,Selenium,Statistics,Power BI,Git,SQL,Java",78
+1035,Veer Bose,QA Engineer,"Manual Testing,Test Automation,Selenium",77
+1335,Divya Bhatt,ML Engineer,"Deep Learning,ML,Python,TensorFlow,SQL,Docker",91
+1689,Mihir Tiwari,Product Manager,"Agile,Stakeholder Management,Excel,Communication",73
+1377,Anika Rastogi,Data Analyst,"Data Visualization,Excel,PowerBI,SQL,Statistics,Spring Boot",89
+1185,Komal Menon,Full Stack Developer,"Node.js,Git,SQL,REST API,JavaScript",77
+1424,Anjali Trivedi,Full Stack Developer,"Node.js,Git,SQL,React",82
+1326,Anika Tiwari,Data Scientist,"Statistics,SQL,Python,Pandas",89
+1188,Simran Chandra,Full Stack Developer,"Docker,React,SQL,REST API,Python",56
+1285,Lakshay Chandra,Frontend Developer,"React,TypeScript,REST API,Git,JavaScript,HTML",80
+1392,Simran Naidu,Full Stack Developer,"Git,REST API,CI/CD,JavaScript",70
+1773,Rudra Bose,Product Manager,"Stakeholder Management,SQL,Agile,Communication,Excel",56
+1166,Aman Shah,Data Analyst,"Statistics,SQL,Python,Data Visualization",58
+1348,Bhavya Naidu,Full Stack Developer,"React,Git,JavaScript,SQL,REST API",71
+1299,Anika Suri,Full Stack Developer,"Microservices,JavaScript,Node.js,React,SQL",84
+1536,Rudra Rastogi,ML Engineer,"Python,Deep Learning,TensorFlow,ML,Git,SQL",81
+1230,Anjali Tiwari,Business Analyst,"Statistics,Data Visualization,Excel,PowerBI",52
+1695,Anjali Tiwari,Business Analyst,"Communication,Statistics,Power BI,Excel,Data Visualization",81
+1042,Krishna Ahluwalia,Backend Developer,"Python,Git,Spring Boot,Microservices,REST API,Java",64
+1588,Anjali Shah,Business Analyst,"Power BI,Excel,SQL",79
+1544,Charvi Sinha,Business Analyst,"Data Visualization,Statistics,Excel,Communication,Power BI",63
+1447,Aman Tiwari,Data Scientist,"Machine Learning,Pandas,Deep Learning,Statistics",81
+1448,Lakshay Trivedi,QA Engineer,"SQL,Spring Boot,Selenium,Test Automation,Git,Java,Manual Testing",64
+1350,Oviya Shah,Backend Developer,"REST API,Git,Spring Boot,Microservices,Java",75
+1046,Divya Goyal,ML Engineer,"Docker,ML,Python,DL,TensorFlow",78
+1109,Eshani Mathur,Business Analyst,"SQL,Data Visualization,Power BI,Statistics",57
+1618,Oviya Sinha,Frontend Developer,"TypeScript,HTML,Git,JavaScript",81
+1662,Om Chandra,Backend Developer,"Git,Spring Boot,SQL,Selenium,Microservices",89
+1030,Charvi Choudhary,Frontend Developer,"React,HTML,TypeScript",83
+1182,Radhika Rastogi,QA Engineer,"SQL,Java,Git,Selenium",67
+1622,Chirag Suri,ML Engineer,"Python,Docker,Deep Learning,TensorFlow,SQL,Machine Learning",61
+1420,Komal Choudhary,QA Engineer,"Selenium,Communication,Java,Test Automation,Git",64
+1635,Chirag Bhatt,Full Stack Developer,"SQL,REST API,Node.js,Git,JavaScript",89
+1105,Lakshay Mathur,Data Analyst,"Test Automation,Data Visualization,Statistics,SQL,Python,Excel",89
+1061,Ira Malhotra,Business Analyst,"Communication,Excel,Power BI,Statistics,Data Visualization,Python",66
+1659,Anika Menon,Business Analyst,"Communication,React,SQL,PowerBI",63
+1084,Divya Naidu,Product Manager,"Agile,Stakeholder Management,Excel,SQL",71
+1491,Lavanya Ghosh,Product Manager,"Stakeholder Management,SQL,Communication,Agile",70
+1316,Om Bhatt,Product Manager,"Roadmapping,Communication,Stakeholder Management,REST API,SQL,Agile,Excel",58
+1451,Eshani Rastogi,Data Scientist,"Manual Testing,SQL,Python,Pandas,Machine Learning",89
+1382,Ira Trivedi,Product Manager,"SQL,Linux,Agile,Communication",96
+1423,Pranav Ahluwalia,Backend Developer,"Java,Git,Communication,Microservices,REST API,Spring Boot",39
+1497,Eshani Sinha,ML Engineer,"Statistics,ML,Docker,TensorFlow",65
+1752,Veer Trivedi,Data Scientist,"Docker,Pandas,SQL,Machine Learning,Python",68
+1524,Lavanya Shah,QA Engineer,"Manual Testing,Git,Java,Selenium,React,Test Automation",71
+1446,Lavanya Bhatt,ML Engineer,"TensorFlow,Stakeholder Management,Deep Learning,Docker",65
+1664,Simran Choudhary,Data Scientist,"Statistics,Deep Learning,Python,Kubernetes",47
+1001,Jhanvi Dutta,DevOps Engineer,"CI/CD,Kubernetes,Docker,Git",69
+1776,Manav Goyal,Product Manager,"Agile,Communication,SQL,Stakeholder Management,Data Visualization",64
+1627,Arnav Naidu,Product Manager,"Roadmapping,Agile,Excel,SQL,Communication,Statistics",78
+1458,Charvi Suri,Product Manager,"Agile,SQL,Excel,Roadmapping,Docker,Stakeholder Management",65
+1489,Vihaan Rastogi,QA Engineer,"Selenium,Java,Test Automation,Stakeholder Management",72
+1089,Lavanya Trivedi,DevOps Engineer,"Linux,Docker,Git,CI/CD,Test Automation",83
+1484,Krishna Tiwari,Data Analyst,"Excel,Python,Statistics,Power BI,SQL,Docker,TensorFlow,Data Visualization",83
+1461,Oviya Tiwari,QA Engineer,"Git,Manual Testing,SQL,Java,Deep Learning,Test Automation,Selenium",68
+1078,Pranav Goyal,Product Manager,"Excel,SQL,Communication,Agile,Stakeholder Management,Roadmapping",79
+1269,Veer Bhatt,Full Stack Developer,"REST API,Power BI,SQL,Node.js,JavaScript",77
+1124,Charvi Suri,Business Analyst,"Statistics,Git,Excel,SQL,Data Visualization,Power BI",84
+1298,Anika Menon,Backend Developer,"SQL,Microservices,Statistics,Git,Spring Boot",54
+1096,Naina Khatri,Backend Developer,"Git,Microservices,Node.js,Spring Boot,Java",83
+1734,Bhavya Sinha,Product Manager,"Communication,SQL,Roadmapping,Excel,Stakeholder Management",74
+1012,Arnav Rastogi,Full Stack Developer,"JavaScript,Git,React,Node.js,Deep Learning,REST API,TensorFlow,SQL",79
+1115,Tejas Shah,Business Analyst,"Data Visualization,Excel,Communication,Statistics,Linux",76
+1429,Mihir Dutta,Product Manager,"SQL,Roadmapping,Git,Agile,Stakeholder Management",74
+1258,Tejas Dutta,Backend Developer,"Docker,Spring Boot,REST API,SQL,Git,Microservices",73
+1732,Simran Shah,Backend Developer,"Java,Git,Spring Boot,Statistics,Microservices,SQL,REST API",97
+1353,Aman Rastogi,Product Manager,"Stakeholder Management,Roadmapping,SQL,React,Communication,Excel",70
+1779,Naina Pandey,Product Manager,"Stakeholder Management,Communication,Power BI,Roadmapping,SQL",81
+1691,Samar Choudhary,Full Stack Developer,"JavaScript,REST API,SQL,Git,React,Node.js,Docker",72
+1532,Aman Ghosh,Product Manager,"Excel,Stakeholder Management,Communication,SQL,Roadmapping",49
+1170,Simran Bose,Product Manager,"Roadmapping,Communication,Agile,SQL,Stakeholder Management,Data Visualization",68
+1240,Radhika Pandey,Frontend Developer,"TypeScript,CSS,JavaScript",77
+1278,Lakshay Naidu,Product Manager,"Communication,SQL,Agile,HTML,Stakeholder Management",87
+1161,Divya Tiwari,DevOps Engineer,"Linux,Git,Docker,Kubernetes,CI/CD,AWS",69
+1074,Oviya Trivedi,Business Analyst,"Communication,Power BI,SQL",79
+1530,Vihaan Ahluwalia,Data Scientist,"SQL,Deep Learning,Machine Learning,JavaScript,Pandas,Python",81
+1063,Tejas Bose,ML Engineer,"SQL,Docker,TensorFlow,DL,Machine Learning,Python",52
+1762,Anika Shah,Frontend Developer,"TypeScript,JavaScript,CSS,Git,React,HTML",67
+1493,Divya Ahluwalia,Backend Developer,"Microservices,SQL,Git,Spring Boot,Java",53
+1741,Anjali Choudhary,Backend Developer,"Data Visualization,Java,REST API,Microservices,Git,SQL",64
+1751,Oviya Bose,QA Engineer,"Test Automation,Java,Git,Selenium",73
+1742,Komal Menon,Data Scientist,"Statistics,Machine Learning,Pandas,SQL,DL,HTML,Python",97
+1048,Simran Malhotra,QA Engineer,"SQL,Spring Boot,Selenium,Manual Testing,Git",64
+1763,Manav Shah,Data Scientist,"Linux,AWS,Statistics,DL,Pandas",47
+1592,Om Ahluwalia,Frontend Developer,"Git,JavaScript,HTML",44
+1785,Jhanvi Sinha,Business Analyst,"Data Visualization,Statistics,Excel,Communication,SQL,Spring Boot,REST API",84
+1506,Divya Ahluwalia,Data Analyst,"Power BI,Python,Statistics",57
+1021,Mihir Ghosh,ML Engineer,"TensorFlow,Python,Docker,Machine Learning,SQL",61
+1425,Rudra Tiwari,QA Engineer,"SQL,Selenium,Git,Test Automation",67
+1653,Oviya Ghosh,Data Analyst,"Python,Statistics,Data Visualization,Excel",64
+1193,Lavanya Tiwari,Business Analyst,"Statistics,Communication,Excel,Data Visualization,SQL",59
+1643,Harsh Ghosh,Business Analyst,"SQL,PowerBI,Statistics",91
+1216,Ira Pandey,Frontend Developer,"TypeScript,HTML,JavaScript,Git,CSS",75
+1245,Gauri Choudhary,DevOps Engineer,"Statistics,Git,CI/CD,AWS,Docker,Linux,Kubernetes",83
+1364,Jhanvi Rastogi,Backend Developer,"Microservices,SQL,Node.js,Spring Boot",91
+1060,Gauri Rastogi,ML Engineer,"Docker,SQL,Spring Boot,Deep Learning,Machine Learning,TensorFlow",78
+1222,Simran Naidu,Frontend Developer,"Git,HTML,Excel,CSS,React",48
+1177,Jhanvi Ahluwalia,Backend Developer,"Spring Boot,Microservices,JavaScript,Java",73
+1450,Om Suri,Full Stack Developer,"Node.js,JavaScript,SQL,AWS,React,REST API,Git",57
+1056,Gauri Naidu,ML Engineer,"Docker,Communication,SQL,ML,Deep Learning",55
+1255,Pranav Naidu,Business Analyst,"SQL,Data Visualization,Statistics,Kubernetes,Excel",79
+1386,Divya Choudhary,Product Manager,"Roadmapping,Spring Boot,REST API,Agile,Communication,Excel",84
+1198,Naina Suri,Data Scientist,"Manual Testing,Pandas,Python,Statistics,DL,SQL",87
+1069,Anika Pandey,ML Engineer,"Machine Learning,Deep Learning,TensorFlow",66
+1723,Arnav Khatri,Data Analyst,"Statistics,Excel,Power BI,CSS,Data Visualization",52
+1745,Komal Sinha,DevOps Engineer,"Kubernetes,AWS,Git",75
+1714,Manav Trivedi,Business Analyst,"SQL,Power BI,Communication,Data Visualization",53
+1169,Charvi Trivedi,Frontend Developer,"React,HTML,Git,JavaScript,TypeScript,CSS",84
+1186,Tejas Pandey,DevOps Engineer,"AWS,Docker,Git,Power BI,Linux",71
+1036,Naina Naidu,Business Analyst,"Statistics,Excel,Power BI,Data Visualization",76
+1642,Veer Mathur,Business Analyst,"Communication,SQL,Statistics,Excel",61
