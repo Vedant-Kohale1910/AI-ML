@@ -86,27 +86,6 @@ will ask for. Current run: **1.0** (see verification_report.md).
 
 ---
 
-# How to create & present the live demo (Stage E)
-
-The study guide requires a **2-minute live demo with real numbers and one
-failure scenario**. Here's the exact script:
-
-### Before the demo
-1. Run `python generate_logs.py` once beforehand so `reports/` is populated
-   with real numbers you can quote.
-2. Open `reports/verification_report.md` in a second window/tab to have
-   the real CTR/apply-rate/joinability numbers ready to read out loud.
-
-### During the demo — run `python demo.py` live and narrate each step
-
-| Time | What you say | What's on screen |
-|---|---|---|
-| 0:00–0:15 | "This is Task 6 — not a new model, it's the instrumentation layer for our Phase-2 recommendation engine." | Step 1 output: student profile |
-| 0:15–0:35 | "The engine ranks jobs for this student — same engine from Phase 2 Task 17, untouched." | Step 2: ranked list with scores |
-| 0:35–0:55 | "The instant that list is shown, we log an impression per job — with its rank position and the exact model version, `reco-v1.3`." | Step 3 output |
-| 0:55–1:15 | "Now simulate real behaviour: student clicks the #1 job, applies, and a recruiter shortlists them." | Steps 4–6 |
-| 1:15–1:40 | "Here's the payoff: I can take that one impression and trace its entire journey — click, apply, shortlist — all joined by student, job and session." | Step 7 JSON trace |
-| 1:40–2:00 | "Now the failure scenario: turn impression logging OFF. The apply event still fires — but watch: joinability drops from 1.0 to **0.0**. We can no longer say which model or rank position produced this apply. That's the exact risk this task exists to prevent." | Step 8 output |
 
 ### Closing line for evaluator questions
 Reference `reports/verification_report.md` directly:
