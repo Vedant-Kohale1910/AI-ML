@@ -1,0 +1,70 @@
+{
+  "complete_journey_example": {
+    "student_id": 1,
+    "job_id": 1,
+    "session_id": "SESS-e2ac2b67",
+    "model_version": "reco-v1.3",
+    "rank_position": 1,
+    "score": 0.868,
+    "impression_ts": 1784640383.577,
+    "click": {
+      "student_id": 1,
+      "job_id": 1,
+      "session_id": "SESS-e2ac2b67",
+      "event_type": "click",
+      "event_id": "EVT-2B99EA285E",
+      "recruiter_id": null,
+      "timestamp": 1784640383.577
+    },
+    "apply": {
+      "student_id": 1,
+      "job_id": 1,
+      "session_id": "SESS-e2ac2b67",
+      "event_type": "apply",
+      "event_id": "EVT-2BB4D9A687",
+      "recruiter_id": null,
+      "timestamp": 1784640383.577
+    },
+    "shortlist": {
+      "student_id": 1,
+      "job_id": 1,
+      "session_id": "SESS-e2ac2b67",
+      "event_type": "shortlist",
+      "event_id": "EVT-7BDA4DB8DF",
+      "recruiter_id": "REC-001",
+      "timestamp": 1784640383.577
+    }
+  },
+  "partial_journey_clicked_no_apply": {
+    "student_id": 1,
+    "job_id": 2,
+    "session_id": "SESS-e2ac2b67",
+    "model_version": "reco-v1.3",
+    "rank_position": 2,
+    "score": 0.707,
+    "impression_ts": 1784640383.577,
+    "click": {
+      "student_id": 1,
+      "job_id": 2,
+      "session_id": "SESS-e2ac2b67",
+      "event_type": "click",
+      "event_id": "EVT-342F902F76",
+      "recruiter_id": null,
+      "timestamp": 1784640383.577
+    },
+    "apply": null,
+    "shortlist": null
+  },
+  "impression_only_no_engagement": {
+    "student_id": 1,
+    "job_id": 12,
+    "session_id": "SESS-e2ac2b67",
+    "model_version": "reco-v1.3",
+    "rank_position": 3,
+    "score": 0.707,
+    "impression_ts": 1784640383.577,
+    "click": null,
+    "apply": null,
+    "shortlist": null
+  }
+}

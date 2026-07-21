@@ -1,0 +1,6 @@
+metric,baseline_click_only,v1_full_pipeline_this_task
+logs_position,False,True
+logs_model_version,False,True
+traces_apply_to_impression,False,True
+click_events_captured,23,23
+applies_traceable_to_model_and_position,0,11

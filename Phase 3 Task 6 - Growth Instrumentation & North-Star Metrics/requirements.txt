@@ -1,0 +1,3 @@
+# Stdlib only for this task (json, csv, uuid, random, dataclasses, time)
+# Listed for parity with the suggested stack in the study guide:
+pandas
