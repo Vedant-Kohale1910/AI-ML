@@ -1,0 +1,81 @@
+job_id,title,company,role,required_skills,seats
+131,Backend Developer,Granite Edge Tech,Backend Developer,"Spring Boot,Microservices,REST API,Java,Git",2
+101,Data Analyst,Crestline Digital,Data Analyst,"Python,Data Visualization,Excel,Statistics,Power BI",1
+123,ML Engineer,Ferrous Tech,ML Engineer,"Python,Deep Learning,Docker",1
+132,Backend Developer,Granite Edge Tech,Backend Developer,"Java,REST API,SQL",4
+119,ML Engineer,Harborview Software,ML Engineer,"SQL,Python,Deep Learning",1
+129,Backend Developer,Skyline Softworks,Backend Developer,"Git,Java,Spring Boot",1
+111,Data Scientist,Driftwood Analytics,Data Scientist,"Pandas,Machine Learning,Deep Learning,Python,SQL",3
+171,QA Engineer,Bluepeak Systems,QA Engineer,"Test Automation,Java,SQL,Manual Testing",1
+105,Data Analyst,Northbridge Data Labs,Data Analyst,"Excel,SQL,Statistics,Power BI",1
+113,Data Scientist,Skyline Softworks,Data Scientist,"Statistics,SQL,Pandas",2
+150,DevOps Engineer,Quanta Robotics,DevOps Engineer,"Docker,Git,Kubernetes,Linux",5
+134,Frontend Developer,Lumen Stack,Frontend Developer,"React,Git,TypeScript",2
+168,QA Engineer,Granite Edge Tech,QA Engineer,"Test Automation,Manual Testing,Java,Selenium",4
+136,Frontend Developer,Bluepeak Systems,Frontend Developer,"JavaScript,Git,TypeScript,CSS,HTML",4
+169,QA Engineer,Quanta Robotics,QA Engineer,"Test Automation,Java,Manual Testing,Git,Selenium",3
+146,Full Stack Developer,Skyline Softworks,Full Stack Developer,"SQL,Git,JavaScript",5
+174,Product Manager,Orbit Cloud Co,Product Manager,"Stakeholder Management,Communication,Excel,Agile",4
+162,Business Analyst,Driftwood Analytics,Business Analyst,"Power BI,SQL,Data Visualization,Excel",5
+156,DevOps Engineer,Cobalt Cloud Studio,DevOps Engineer,"AWS,Git,Docker",2
+141,Full Stack Developer,Vertex Analytics,Full Stack Developer,"Git,SQL,React",5
+110,Data Scientist,Meridian Apps,Data Scientist,"Statistics,Machine Learning,Pandas,Deep Learning,Python",1
+165,QA Engineer,Meridian Apps,QA Engineer,"Git,Selenium,SQL,Manual Testing,Test Automation",1
+106,Data Analyst,Meridian Apps,Data Analyst,"Python,Excel,Statistics,Power BI",1
+148,Full Stack Developer,Lumen Stack,Full Stack Developer,"Node.js,REST API,React",5
+135,Frontend Developer,Skyline Softworks,Frontend Developer,"React,HTML,CSS,JavaScript",4
+163,Business Analyst,Meridian Apps,Business Analyst,"SQL,Data Visualization,Power BI,Statistics",1
+143,Full Stack Developer,Skyline Softworks,Full Stack Developer,"Git,React,JavaScript",4
+155,DevOps Engineer,Granite Edge Tech,DevOps Engineer,"Kubernetes,CI/CD,Docker,Git,Linux",2
+117,ML Engineer,Bluepeak Systems,ML Engineer,"Python,SQL,Docker,TensorFlow",4
+140,Frontend Developer,Harborview Software,Frontend Developer,"TypeScript,Git,JavaScript",1
+157,Business Analyst,Crestline Digital,Business Analyst,"Excel,SQL,Power BI,Communication,Data Visualization",2
+180,Product Manager,Crestline Digital,Product Manager,"SQL,Roadmapping,Communication,Excel",2
+108,Data Analyst,Ferrous Tech,Data Analyst,"Statistics,SQL,Python,Power BI",3
+151,DevOps Engineer,Meridian Apps,DevOps Engineer,"Git,AWS,Kubernetes",5
+154,DevOps Engineer,Northbridge Data Labs,DevOps Engineer,"Linux,CI/CD,Git,AWS,Docker",1
+120,ML Engineer,Meridian Apps,ML Engineer,"TensorFlow,Machine Learning,SQL,Python",5
+167,QA Engineer,Granite Edge Tech,QA Engineer,"Manual Testing,Selenium,Test Automation,SQL,Java",3
+126,Backend Developer,Driftwood Analytics,Backend Developer,"REST API,Spring Boot,Microservices,SQL,Git",3
+145,Full Stack Developer,Harborview Software,Full Stack Developer,"SQL,React,Node.js,Git",1
+114,Data Scientist,Driftwood Analytics,Data Scientist,"Pandas,Statistics,Machine Learning,Deep Learning,SQL",4
+177,Product Manager,Granite Edge Tech,Product Manager,"Agile,Excel,SQL,Roadmapping",5
+104,Data Analyst,Bluepeak Systems,Data Analyst,"SQL,Power BI,Excel,Python",4
+118,ML Engineer,Meridian Apps,ML Engineer,"Python,TensorFlow,Docker,Deep Learning,Machine Learning",5
+139,Frontend Developer,Quanta Robotics,Frontend Developer,"Git,TypeScript,CSS,JavaScript,HTML",2
+109,Data Scientist,Meridian Apps,Data Scientist,"Machine Learning,Python,SQL",4
+166,QA Engineer,Skyline Softworks,QA Engineer,"SQL,Selenium,Java,Test Automation,Manual Testing",3
+107,Data Analyst,Quanta Robotics,Data Analyst,"Power BI,Statistics,Python,SQL,Data Visualization",5
+137,Frontend Developer,Bluepeak Systems,Frontend Developer,"CSS,React,Git,JavaScript",4
+173,Product Manager,Vertex Analytics,Product Manager,"Agile,Roadmapping,Communication",2
+159,Business Analyst,Northbridge Data Labs,Business Analyst,"Data Visualization,Excel,Power BI,SQL",4
+147,Full Stack Developer,Cobalt Cloud Studio,Full Stack Developer,"Git,Node.js,React",1
+179,Product Manager,Quanta Robotics,Product Manager,"Excel,Agile,SQL,Stakeholder Management,Communication",2
+116,Data Scientist,Crestline Digital,Data Scientist,"Deep Learning,SQL,Statistics,Python",5
+128,Backend Developer,Ferrous Tech,Backend Developer,"Java,Microservices,Spring Boot,SQL",1
+142,Full Stack Developer,Ferrous Tech,Full Stack Developer,"React,JavaScript,Git",4
+127,Backend Developer,Ferrous Tech,Backend Developer,"Microservices,REST API,Java,Git",1
+149,DevOps Engineer,Northbridge Data Labs,DevOps Engineer,"AWS,CI/CD,Docker,Git,Kubernetes",2
+125,Backend Developer,Meridian Apps,Backend Developer,"Spring Boot,Git,REST API,SQL,Java",5
+144,Full Stack Developer,Harborview Software,Full Stack Developer,"Git,REST API,Node.js,React,JavaScript",2
+178,Product Manager,Ferrous Tech,Product Manager,"Agile,Excel,Stakeholder Management,Roadmapping",3
+158,Business Analyst,Bluepeak Systems,Business Analyst,"Excel,Communication,SQL",3
+112,Data Scientist,Vertex Analytics,Data Scientist,"Pandas,Deep Learning,Machine Learning,Statistics,SQL",2
+133,Frontend Developer,Driftwood Analytics,Frontend Developer,"Git,JavaScript,TypeScript,CSS",3
+176,Product Manager,Ferrous Tech,Product Manager,"Agile,Roadmapping,Excel,Communication",1
+160,Business Analyst,Lumen Stack,Business Analyst,"Communication,Excel,Statistics",3
+164,Business Analyst,Harborview Software,Business Analyst,"Statistics,Communication,Power BI",4
+170,QA Engineer,Lumen Stack,QA Engineer,"SQL,Git,Manual Testing",4
+138,Frontend Developer,Quanta Robotics,Frontend Developer,"CSS,HTML,Git",4
+130,Backend Developer,Westgate Solutions,Backend Developer,"Java,Microservices,Spring Boot,REST API",2
+102,Data Analyst,Vertex Analytics,Data Analyst,"Data Visualization,Statistics,Python,Excel,SQL",1
+153,DevOps Engineer,Meridian Apps,DevOps Engineer,"Docker,AWS,Kubernetes",2
+122,ML Engineer,Harborview Software,ML Engineer,"Machine Learning,Docker,Python,Deep Learning",4
+103,Data Analyst,Orbit Cloud Co,Data Analyst,"SQL,Data Visualization,Python",5
+124,ML Engineer,Westgate Solutions,ML Engineer,"Docker,Python,SQL",1
+175,Product Manager,Altrodav Technologies,Product Manager,"Excel,Agile,Stakeholder Management,SQL",1
+121,ML Engineer,Orbit Cloud Co,ML Engineer,"Docker,Python,Deep Learning",2
+161,Business Analyst,Orbit Cloud Co,Business Analyst,"Excel,Data Visualization,SQL,Power BI",4
+172,QA Engineer,Ferrous Tech,QA Engineer,"Git,Test Automation,Manual Testing,Selenium",3
+115,Data Scientist,Meridian Apps,Data Scientist,"Statistics,Machine Learning,Deep Learning",5
+152,DevOps Engineer,Granite Edge Tech,DevOps Engineer,"AWS,Docker,CI/CD,Git",3
