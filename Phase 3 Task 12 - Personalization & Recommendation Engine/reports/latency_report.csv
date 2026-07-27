@@ -1,0 +1,11 @@
+student_id,latency_ms,slo_met
+1,0.22,True
+2,0.54,True
+3,0.14,True
+4,0.14,True
+5,0.14,True
+6,0.15,True
+7,0.13,True
+8,0.13,True
+9,0.13,True
+10,0.13,True

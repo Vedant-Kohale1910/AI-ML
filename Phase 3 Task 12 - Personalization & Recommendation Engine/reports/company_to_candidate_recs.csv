@@ -1,0 +1,61 @@
+job_id,job_title,rank,student_id,name,score,explanation,latency_ms,model_version
+1,ML Engineer,1,1,Aarav Patel,0.978,"Skills matched: machine learning, python, sql | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before",0.09,reco-v2.0-hybrid
+1,ML Engineer,2,6,Neha Gupta,0.7994,"Skills matched: python, sql | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before",0.09,reco-v2.0-hybrid
+1,ML Engineer,3,3,Ravi Desai,0.7674,"Skills matched: python, sql | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before",0.09,reco-v2.0-hybrid
+1,ML Engineer,4,2,Priya Sharma,0.5617,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (85%) | Shortlisted by similar companies before,0.09,reco-v2.0-hybrid
+1,ML Engineer,5,5,Vikram Kumar,0.5467,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (90%),0.09,reco-v2.0-hybrid
+2,Data Scientist,1,6,Neha Gupta,0.966,"Skills matched: python, sql, statistics | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+2,Data Scientist,2,1,Aarav Patel,0.8114,"Skills matched: python, sql | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+2,Data Scientist,3,3,Ravi Desai,0.7674,"Skills matched: python, sql | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+2,Data Scientist,4,10,Meera Bansal,0.7054,"Skills matched: python, statistics | High assessment score (81%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+2,Data Scientist,5,2,Priya Sharma,0.5617,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (85%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+3,AI Engineer,1,1,Aarav Patel,0.8114,"Skills matched: machine learning, python | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+3,AI Engineer,2,6,Neha Gupta,0.6327,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+3,AI Engineer,3,3,Ravi Desai,0.6007,Skills matched: python | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+3,AI Engineer,4,2,Priya Sharma,0.5617,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (85%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+3,AI Engineer,5,5,Vikram Kumar,0.5467,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (90%),0.08,reco-v2.0-hybrid
+4,Backend Developer,1,3,Ravi Desai,0.7674,"Skills matched: java, sql | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before",0.09,reco-v2.0-hybrid
+4,Backend Developer,2,4,Anjali Singh,0.7074,"Skills matched: java, spring boot | Strong experience fit (3 yrs) | High assessment score (87%)",0.09,reco-v2.0-hybrid
+4,Backend Developer,3,1,Aarav Patel,0.6447,Skills matched: sql | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before,0.09,reco-v2.0-hybrid
+4,Backend Developer,4,6,Neha Gupta,0.6327,Skills matched: sql | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before,0.09,reco-v2.0-hybrid
+4,Backend Developer,5,9,Sanjay Reddy,0.432,Strong experience fit (4 yrs) | High assessment score (91%) | Shortlisted by similar companies before,0.09,reco-v2.0-hybrid
+5,Python Developer,1,8,Divya Menon,0.868,"Skills matched: django, python | Strong experience fit (2 yrs) | High assessment score (84%)",0.08,reco-v2.0-hybrid
+5,Python Developer,2,1,Aarav Patel,0.728,Skills matched: python | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+5,Python Developer,3,6,Neha Gupta,0.716,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+5,Python Developer,4,3,Ravi Desai,0.684,Skills matched: python | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+5,Python Developer,5,10,Meera Bansal,0.662,Skills matched: python | Strong experience fit (1 yrs) | High assessment score (81%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+6,Data Analyst,1,6,Neha Gupta,0.966,"Skills matched: python, sql, tableau | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+6,Data Analyst,2,1,Aarav Patel,0.8114,"Skills matched: python, sql | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+6,Data Analyst,3,3,Ravi Desai,0.7674,"Skills matched: python, sql | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+6,Data Analyst,4,10,Meera Bansal,0.5787,Skills matched: python | Strong experience fit (1 yrs) | High assessment score (81%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+6,Data Analyst,5,2,Priya Sharma,0.5617,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (85%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+7,DevOps Engineer,1,9,Sanjay Reddy,0.932,"Skills matched: aws, docker, kubernetes | Strong experience fit (4 yrs) | High assessment score (91%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+7,DevOps Engineer,2,4,Anjali Singh,0.7074,"Skills matched: aws, kubernetes | Strong experience fit (3 yrs) | High assessment score (87%)",0.08,reco-v2.0-hybrid
+7,DevOps Engineer,3,8,Divya Menon,0.5347,Skills matched: docker | Strong experience fit (2 yrs) | High assessment score (84%),0.08,reco-v2.0-hybrid
+7,DevOps Engineer,4,1,Aarav Patel,0.478,Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+7,DevOps Engineer,5,6,Neha Gupta,0.466,Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+8,Frontend Developer,1,2,Priya Sharma,0.895,"Skills matched: javascript, react | Strong experience fit (2 yrs) | High assessment score (85%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+8,Frontend Developer,2,1,Aarav Patel,0.478,Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+8,Frontend Developer,3,6,Neha Gupta,0.466,Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+8,Frontend Developer,4,3,Ravi Desai,0.434,Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+8,Frontend Developer,5,9,Sanjay Reddy,0.432,Strong experience fit (4 yrs) | High assessment score (91%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+9,Systems Engineer,1,7,Arjun Nair,0.926,"Skills matched: c++, linux, system design | Strong experience fit (3 yrs) | High assessment score (88%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+9,Systems Engineer,2,1,Aarav Patel,0.478,Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+9,Systems Engineer,3,6,Neha Gupta,0.466,Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+9,Systems Engineer,4,3,Ravi Desai,0.434,Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+9,Systems Engineer,5,9,Sanjay Reddy,0.432,Strong experience fit (4 yrs) | High assessment score (91%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+10,Data Engineer,1,1,Aarav Patel,0.8114,"Skills matched: python, sql | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+10,Data Engineer,2,6,Neha Gupta,0.7994,"Skills matched: python, sql | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+10,Data Engineer,3,3,Ravi Desai,0.7674,"Skills matched: python, sql | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+10,Data Engineer,4,2,Priya Sharma,0.5617,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (85%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+10,Data Engineer,5,5,Vikram Kumar,0.5467,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (90%),0.08,reco-v2.0-hybrid
+11,Senior ML Engineer,1,1,Aarav Patel,0.7714,"Skills matched: machine learning, python | High assessment score (89%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+11,Senior ML Engineer,2,3,Ravi Desai,0.6007,Skills matched: python | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+11,Senior ML Engineer,3,6,Neha Gupta,0.5526,Skills matched: python | High assessment score (83%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+11,Senior ML Engineer,4,2,Priya Sharma,0.4816,Skills matched: python | High assessment score (85%) | Shortlisted by similar companies before,0.08,reco-v2.0-hybrid
+11,Senior ML Engineer,5,5,Vikram Kumar,0.4667,Skills matched: python | High assessment score (90%),0.08,reco-v2.0-hybrid
+12,Full Stack Developer,1,1,Aarav Patel,0.8114,"Skills matched: python, sql | Strong experience fit (3 yrs) | High assessment score (89%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+12,Full Stack Developer,2,6,Neha Gupta,0.7994,"Skills matched: python, sql | Strong experience fit (2 yrs) | High assessment score (83%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+12,Full Stack Developer,3,3,Ravi Desai,0.7674,"Skills matched: python, sql | Strong experience fit (4 yrs) | High assessment score (92%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+12,Full Stack Developer,4,2,Priya Sharma,0.7284,"Skills matched: javascript, python | Strong experience fit (2 yrs) | High assessment score (85%) | Shortlisted by similar companies before",0.08,reco-v2.0-hybrid
+12,Full Stack Developer,5,5,Vikram Kumar,0.5467,Skills matched: python | Strong experience fit (2 yrs) | High assessment score (90%),0.08,reco-v2.0-hybrid
