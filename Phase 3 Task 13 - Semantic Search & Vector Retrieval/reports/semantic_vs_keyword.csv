@@ -1,0 +1,4 @@
+metric,keyword_baseline,semantic,hybrid_07_03,semantic_delta,hybrid_delta
+ndcg@5,0.9094,0.9319,0.9365,0.0225,0.0271
+map@5,0.8444,0.8895,0.8963,0.0451,0.0519
+precision@5,0.3778,0.3556,0.3556,-0.0222,-0.0222
