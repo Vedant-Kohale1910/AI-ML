@@ -1,0 +1,7 @@
+phase,group_col,group,rec_rate,tpr
+before,experience_tier,senior,0.5,0.9
+before,experience_tier,junior,0.25,1.0
+before,experience_tier,DPD/EOD,0.25,0.1
+before,assessment_tier,high,0.4167,0.8571
+before,assessment_tier,standard,0.5625,1.0
+before,assessment_tier,DPD/EOD,0.1458,0.1429
