@@ -1,0 +1,4 @@
+run_id,name,version,status,registered_at,training_data,metric_ndcg_at_5,metric_precision_at_5,metric_dpd_experience
+RUN-392BAEC3,reco-ranker,v1.0,archived,2026-07-30T10:20:41,"data/event_logs.csv (Task-6 logs, 50 rows)",0.6062,0.36,0.25
+RUN-39EC9E28,reco-ranker,v2.0,production,2026-07-30T10:20:41,"data/event_logs.csv (Task-6 logs, 50 rows + Task-11 LTR labels)",0.6062,0.44,0.09
+RUN-2FB01409,reco-ranker,v3.0,staging,2026-07-30T10:20:41,"data/event_logs.csv (Task-6 logs, 50 rows + Task-11 + Task-14 fairness labels)",0.5693,0.46,0.08

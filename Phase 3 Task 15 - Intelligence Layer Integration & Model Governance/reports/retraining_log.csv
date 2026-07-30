@@ -1,0 +1,9 @@
+week,ndcg,baseline_ndcg,current_ndcg,drop,threshold,retraining_triggered,alert
+1,0.5975,0.6062,0.5975,0.0087,0.05,False,✓ Performance stable (drop=0.0087 < 0.05)
+2,0.583,0.6062,0.583,0.0232,0.05,False,✓ Performance stable (drop=0.0232 < 0.05)
+3,0.5707,0.6062,0.5707,0.0355,0.05,False,✓ Performance stable (drop=0.0355 < 0.05)
+4,0.5597,0.6062,0.5597,0.0465,0.05,False,✓ Performance stable (drop=0.0465 < 0.05)
+5,0.5531,0.6062,0.5531,0.0531,0.05,True,⚠ DRIFT ALERT: nDCG@5 dropped 0.0531 (>0.05). Retraining triggered.
+6,0.5465,0.6062,0.5465,0.0597,0.05,True,⚠ DRIFT ALERT: nDCG@5 dropped 0.0597 (>0.05). Retraining triggered.
+7,0.5409,0.6062,0.5409,0.0653,0.05,True,⚠ DRIFT ALERT: nDCG@5 dropped 0.0653 (>0.05). Retraining triggered.
+8,0.5272,0.6062,0.5272,0.079,0.05,True,⚠ DRIFT ALERT: nDCG@5 dropped 0.0790 (>0.05). Retraining triggered.

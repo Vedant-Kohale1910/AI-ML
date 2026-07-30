@@ -1,0 +1,76 @@
+{
+  "models": [
+    {
+      "run_id": "RUN-392BAEC3",
+      "name": "reco-ranker",
+      "version": "v1.0",
+      "status": "archived",
+      "metrics": {
+        "ndcg_at_5": 0.6062,
+        "precision_at_5": 0.36,
+        "dpd_experience": 0.25
+      },
+      "training_data": "data/event_logs.csv (Task-6 logs, 50 rows)",
+      "feature_names": [
+        "skill_match",
+        "exp_match",
+        "assess_score",
+        "cert_match"
+      ],
+      "registered_at": "2026-07-30T10:20:41",
+      "lineage": {
+        "source_data": "data/event_logs.csv (Task-6 logs, 50 rows)",
+        "pipeline": "run_pipeline.py",
+        "reproducible": true
+      }
+    },
+    {
+      "run_id": "RUN-39EC9E28",
+      "name": "reco-ranker",
+      "version": "v2.0",
+      "status": "production",
+      "metrics": {
+        "ndcg_at_5": 0.6062,
+        "precision_at_5": 0.44,
+        "dpd_experience": 0.09
+      },
+      "training_data": "data/event_logs.csv (Task-6 logs, 50 rows + Task-11 LTR labels)",
+      "feature_names": [
+        "skill_match",
+        "exp_match",
+        "assess_score",
+        "cert_match"
+      ],
+      "registered_at": "2026-07-30T10:20:41",
+      "lineage": {
+        "source_data": "data/event_logs.csv (Task-6 logs, 50 rows + Task-11 LTR labels)",
+        "pipeline": "run_pipeline.py",
+        "reproducible": true
+      }
+    },
+    {
+      "run_id": "RUN-2FB01409",
+      "name": "reco-ranker",
+      "version": "v3.0",
+      "status": "rolled_back",
+      "metrics": {
+        "ndcg_at_5": 0.5693,
+        "precision_at_5": 0.46,
+        "dpd_experience": 0.08
+      },
+      "training_data": "data/event_logs.csv (Task-6 logs, 50 rows + Task-11 + Task-14 fairness labels)",
+      "feature_names": [
+        "skill_match",
+        "exp_match",
+        "assess_score",
+        "cert_match"
+      ],
+      "registered_at": "2026-07-30T10:20:41",
+      "lineage": {
+        "source_data": "data/event_logs.csv (Task-6 logs, 50 rows + Task-11 + Task-14 fairness labels)",
+        "pipeline": "run_pipeline.py",
+        "reproducible": true
+      }
+    }
+  ]
+}
