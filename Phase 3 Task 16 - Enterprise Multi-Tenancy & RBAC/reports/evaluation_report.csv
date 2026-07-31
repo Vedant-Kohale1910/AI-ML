@@ -1,0 +1,11 @@
+tenant_id,student_id,ndcg_baseline,ndcg_tenant,n_recs_baseline,n_recs_tenant
+amazon,8,1.0,1.0,2,2
+amazon,9,0.0,0.0,0,0
+amazon,10,0.0,0.0,0,0
+google,1,1.0,1.0,5,4
+google,2,1.0,1.0,4,1
+google,3,1.0,1.0,5,4
+google,4,1.0,1.0,1,1
+microsoft,5,1.0,1.0,1,4
+microsoft,6,1.0,1.0,1,4
+microsoft,7,1.0,1.0,1,4

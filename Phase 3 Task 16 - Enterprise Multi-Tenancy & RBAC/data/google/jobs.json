@@ -1,0 +1,107 @@
+[
+  {
+    "job_id": 1,
+    "title": "ML Engineer",
+    "company": "TechAI Corp",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "AWS",
+      "TensorFlow",
+      "Spark"
+    ],
+    "required_experience_years": 2,
+    "education_requirement": "B.Tech Computer Science or equivalent",
+    "preferred_certifications": [
+      "AWS ML Certification"
+    ],
+    "job_description": "Develop and deploy machine learning models...",
+    "seniority_level": "mid"
+  },
+  {
+    "job_id": 2,
+    "title": "Data Scientist",
+    "company": "DataInsight LLC",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": [
+      "R",
+      "Tableau",
+      "Spark"
+    ],
+    "required_experience_years": 2,
+    "education_requirement": "B.Tech CS or B.Sc Data Science",
+    "preferred_certifications": [],
+    "job_description": "Build predictive models and derive business insights...",
+    "seniority_level": "mid"
+  },
+  {
+    "job_id": 3,
+    "title": "AI Engineer",
+    "company": "AIFirst Labs",
+    "required_skills": [
+      "Python",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "nice_to_have_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Computer Vision"
+    ],
+    "required_experience_years": 2,
+    "education_requirement": "B.Tech AI/ML or M.Tech",
+    "preferred_certifications": [
+      "Deep Learning Certification"
+    ],
+    "job_description": "Develop cutting-edge AI solutions...",
+    "seniority_level": "mid"
+  },
+  {
+    "job_id": 4,
+    "title": "Backend Developer",
+    "company": "WebSolutions Inc",
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ],
+    "required_experience_years": 2,
+    "education_requirement": "B.Tech IT/CS",
+    "preferred_certifications": [
+      "AWS Solutions Architect"
+    ],
+    "job_description": "Build scalable backend services...",
+    "seniority_level": "mid"
+  },
+  {
+    "job_id": 5,
+    "title": "Python Developer",
+    "company": "CodeFactory",
+    "required_skills": [
+      "Python",
+      "Django"
+    ],
+    "nice_to_have_skills": [
+      "PostgreSQL",
+      "Docker",
+      "Redis"
+    ],
+    "required_experience_years": 1,
+    "education_requirement": "B.Tech CS/IT",
+    "preferred_certifications": [],
+    "job_description": "Develop web applications using Python...",
+    "seniority_level": "junior"
+  }
+]

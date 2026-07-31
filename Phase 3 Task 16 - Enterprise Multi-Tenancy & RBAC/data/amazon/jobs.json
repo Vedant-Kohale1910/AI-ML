@@ -1,0 +1,64 @@
+[
+  {
+    "job_id": 10,
+    "title": "Data Engineer",
+    "company": "BigData Corp",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Spark"
+    ],
+    "nice_to_have_skills": [
+      "Hadoop",
+      "Kafka",
+      "AWS"
+    ],
+    "required_experience_years": 2,
+    "education_requirement": "B.Tech CS",
+    "preferred_certifications": [
+      "GCP Data Engineer"
+    ],
+    "job_description": "Build ETL pipelines and data infrastructure...",
+    "seniority_level": "mid"
+  },
+  {
+    "job_id": 11,
+    "title": "Senior ML Engineer",
+    "company": "DeepMind Research",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "nice_to_have_skills": [
+      "Research Publication",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "required_experience_years": 4,
+    "education_requirement": "M.Tech AI/ML or equivalent",
+    "preferred_certifications": [],
+    "job_description": "Lead ML research initiatives...",
+    "seniority_level": "senior"
+  },
+  {
+    "job_id": 12,
+    "title": "Full Stack Developer",
+    "company": "StartupHub",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "SQL"
+    ],
+    "nice_to_have_skills": [
+      "React",
+      "Django",
+      "Docker"
+    ],
+    "required_experience_years": 2,
+    "education_requirement": "B.Tech IT",
+    "preferred_certifications": [],
+    "job_description": "Build end-to-end web applications...",
+    "seniority_level": "mid"
+  }
+]

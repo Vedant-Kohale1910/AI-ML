@@ -1,0 +1,9 @@
+matching_threshold: 0.45
+skill_weight: 0.55
+experience_weight: 0.25
+assessment_weight: 0.10
+cert_weight: 0.10
+top_k: 5
+model_version: "reco-v2.0-default"
+data_isolation: strict
+consent_pooling: false

@@ -1,0 +1,77 @@
+[
+  {
+    "student_id": 5,
+    "name": "Vikram Kumar",
+    "email": "vikram.kumar@college.edu",
+    "verified_skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Computer Vision"
+    ],
+    "skill_levels": {
+      "Python": "advanced",
+      "TensorFlow": "intermediate",
+      "PyTorch": "intermediate",
+      "Computer Vision": "intermediate"
+    },
+    "years_experience": 2,
+    "assessment_score": 0.9,
+    "education": "M.Tech Artificial Intelligence",
+    "certifications": [
+      "Deep Learning Specialization by Andrew Ng"
+    ],
+    "experience_summary": "ML researcher, published 2 papers on CV, interned at AI Lab",
+    "resume_text": "AI researcher focused on computer vision and deep learning applications..."
+  },
+  {
+    "student_id": 6,
+    "name": "Neha Gupta",
+    "email": "neha.gupta@college.edu",
+    "verified_skills": [
+      "Python",
+      "SQL",
+      "Tableau",
+      "Statistics"
+    ],
+    "skill_levels": {
+      "Python": "intermediate",
+      "SQL": "advanced",
+      "Tableau": "advanced",
+      "Statistics": "intermediate"
+    },
+    "years_experience": 2,
+    "assessment_score": 0.83,
+    "education": "B.Sc Data Science",
+    "certifications": [
+      "Google Analytics IQ"
+    ],
+    "experience_summary": "Data analyst at RetailCo, business intelligence dashboards",
+    "resume_text": "Data analyst with expertise in SQL and Tableau for business insights..."
+  },
+  {
+    "student_id": 7,
+    "name": "Arjun Nair",
+    "email": "arjun.nair@college.edu",
+    "verified_skills": [
+      "C++",
+      "System Design",
+      "Linux",
+      "Networking"
+    ],
+    "skill_levels": {
+      "C++": "advanced",
+      "System Design": "intermediate",
+      "Linux": "advanced",
+      "Networking": "beginner"
+    },
+    "years_experience": 3,
+    "assessment_score": 0.88,
+    "education": "B.Tech Computer Science",
+    "certifications": [
+      "Linux Foundation Certified Associate"
+    ],
+    "experience_summary": "Systems engineer at InfraCo, kernel development, DevOps",
+    "resume_text": "Systems engineer with expertise in C++ and Linux kernel development..."
+  }
+]

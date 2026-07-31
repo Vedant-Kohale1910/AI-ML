@@ -1,0 +1,11 @@
+tenant_id: microsoft
+display_name: "Microsoft Corp"
+matching_threshold: 0.40
+skill_weight: 0.45
+experience_weight: 0.30
+assessment_weight: 0.15
+cert_weight: 0.10
+top_k: 5
+model_version: "reco-v2.0-microsoft"
+data_isolation: strict
+consent_pooling: false

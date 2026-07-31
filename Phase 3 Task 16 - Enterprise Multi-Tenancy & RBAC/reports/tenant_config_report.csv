@@ -1,0 +1,4 @@
+tenant_id,matching_threshold,skill_weight,experience_weight,assessment_weight,cert_weight,model_version,config_source
+amazon,0.5,0.5,0.25,0.15,0.1,reco-v2.0-amazon,configs/amazon.yaml
+google,0.55,0.6,0.2,0.12,0.08,reco-v2.0-google,configs/google.yaml
+microsoft,0.4,0.45,0.3,0.15,0.1,reco-v2.0-microsoft,configs/microsoft.yaml

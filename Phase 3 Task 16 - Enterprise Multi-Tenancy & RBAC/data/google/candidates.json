@@ -1,0 +1,104 @@
+[
+  {
+    "student_id": 1,
+    "name": "Aarav Patel",
+    "email": "aarav.patel@college.edu",
+    "verified_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "skill_levels": {
+      "Python": "intermediate",
+      "SQL": "intermediate",
+      "Machine Learning": "intermediate",
+      "Data Analysis": "beginner"
+    },
+    "years_experience": 3,
+    "assessment_score": 0.89,
+    "education": "B.Tech Computer Science",
+    "certifications": [
+      "AWS Associate Developer",
+      "Coursera ML Specialization"
+    ],
+    "experience_summary": "Internship at TechCorp (ML), Freelance data analysis projects",
+    "resume_text": "Experienced ML engineer with 3 years in data science and ML projects..."
+  },
+  {
+    "student_id": 2,
+    "name": "Priya Sharma",
+    "email": "priya.sharma@college.edu",
+    "verified_skills": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "skill_levels": {
+      "Python": "beginner",
+      "JavaScript": "advanced",
+      "React": "intermediate",
+      "Node.js": "intermediate"
+    },
+    "years_experience": 2,
+    "assessment_score": 0.85,
+    "education": "B.Tech Information Technology",
+    "certifications": [
+      "Full Stack Web Development Nanodegree"
+    ],
+    "experience_summary": "Frontend internship at StartupXYZ, personal web projects",
+    "resume_text": "Full-stack developer with strong React and Node.js experience..."
+  },
+  {
+    "student_id": 3,
+    "name": "Ravi Desai",
+    "email": "ravi.desai@college.edu",
+    "verified_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "Data Science"
+    ],
+    "skill_levels": {
+      "Python": "advanced",
+      "Java": "intermediate",
+      "SQL": "advanced",
+      "Data Science": "intermediate"
+    },
+    "years_experience": 4,
+    "assessment_score": 0.92,
+    "education": "B.Tech Computer Engineering",
+    "certifications": [
+      "Google Cloud Professional Data Engineer",
+      "Advanced Python Certfication"
+    ],
+    "experience_summary": "Data engineer at DataCorp, 2 years backend development",
+    "resume_text": "Senior data engineer with expertise in ETL pipelines and data warehousing..."
+  },
+  {
+    "student_id": 4,
+    "name": "Anjali Singh",
+    "email": "anjali.singh@college.edu",
+    "verified_skills": [
+      "Java",
+      "Spring Boot",
+      "Kubernetes",
+      "AWS"
+    ],
+    "skill_levels": {
+      "Java": "advanced",
+      "Spring Boot": "intermediate",
+      "Kubernetes": "beginner",
+      "AWS": "intermediate"
+    },
+    "years_experience": 3,
+    "assessment_score": 0.87,
+    "education": "B.Tech Software Engineering",
+    "certifications": [
+      "AWS Solutions Architect Associate"
+    ],
+    "experience_summary": "Backend engineer at CloudTech, microservices experience",
+    "resume_text": "Backend engineer specializing in Spring Boot and cloud-native architecture..."
+  }
+]

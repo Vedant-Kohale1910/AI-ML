@@ -1,0 +1,11 @@
+tenant_id: google
+display_name: "Google LLC"
+matching_threshold: 0.55
+skill_weight: 0.60
+experience_weight: 0.20
+assessment_weight: 0.12
+cert_weight: 0.08
+top_k: 5
+model_version: "reco-v2.0-google"
+data_isolation: strict
+consent_pooling: false

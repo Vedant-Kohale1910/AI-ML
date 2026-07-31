@@ -1,0 +1,7 @@
+requesting_tenant,target_tenant,student_id,student_name,result,pass
+microsoft,amazon,8,Divya Menon,ACCESS_DENIED,True
+microsoft,google,1,Aarav Patel,ACCESS_DENIED,True
+amazon,microsoft,5,Vikram Kumar,ACCESS_DENIED,True
+amazon,google,1,Aarav Patel,ACCESS_DENIED,True
+google,microsoft,5,Vikram Kumar,ACCESS_DENIED,True
+google,amazon,8,Divya Menon,ACCESS_DENIED,True
