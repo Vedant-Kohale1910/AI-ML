@@ -1,0 +1,31 @@
+student_id,student_name,job_id,job_title,allowed,match,confidence_band,explanation,model_id,api_version
+1,Aarav Patel,1,ML Engineer,True,True,HIGH,"Required skills matched: machine learning, python, sql | Experience satisfied (3 yrs ≥ 2 required)",reco-v2.0,v2
+1,Aarav Patel,2,Data Scientist,True,True,MEDIUM,"Required skills matched: python, sql | Experience satisfied (3 yrs ≥ 2 required)",reco-v2.0,v2
+1,Aarav Patel,3,AI Engineer,True,True,MEDIUM,"Required skills matched: machine learning, python | Experience satisfied (3 yrs ≥ 2 required)",reco-v2.0,v2
+2,Priya Sharma,1,ML Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+2,Priya Sharma,2,Data Scientist,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+2,Priya Sharma,3,AI Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+3,Ravi Desai,1,ML Engineer,True,True,MEDIUM,"Required skills matched: python, sql | Experience satisfied (4 yrs ≥ 2 required)",reco-v2.0,v2
+3,Ravi Desai,2,Data Scientist,True,True,MEDIUM,"Required skills matched: python, sql | Experience satisfied (4 yrs ≥ 2 required)",reco-v2.0,v2
+3,Ravi Desai,3,AI Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (4 yrs ≥ 2 required),reco-v2.0,v2
+4,Anjali Singh,1,ML Engineer,True,False,LOW,Experience satisfied (3 yrs ≥ 2 required),reco-v2.0,v2
+4,Anjali Singh,2,Data Scientist,True,False,LOW,Experience satisfied (3 yrs ≥ 2 required),reco-v2.0,v2
+4,Anjali Singh,3,AI Engineer,True,False,LOW,Experience satisfied (3 yrs ≥ 2 required),reco-v2.0,v2
+5,Vikram Kumar,1,ML Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+5,Vikram Kumar,2,Data Scientist,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+5,Vikram Kumar,3,AI Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+6,Neha Gupta,1,ML Engineer,True,True,MEDIUM,"Required skills matched: python, sql | Experience satisfied (2 yrs ≥ 2 required)",reco-v2.0,v2
+6,Neha Gupta,2,Data Scientist,True,True,HIGH,"Required skills matched: python, sql, statistics | Experience satisfied (2 yrs ≥ 2 required)",reco-v2.0,v2
+6,Neha Gupta,3,AI Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+7,Arjun Nair,1,ML Engineer,True,False,LOW,Experience satisfied (3 yrs ≥ 2 required),reco-v2.0,v2
+7,Arjun Nair,2,Data Scientist,True,False,LOW,Experience satisfied (3 yrs ≥ 2 required),reco-v2.0,v2
+7,Arjun Nair,3,AI Engineer,True,False,LOW,Experience satisfied (3 yrs ≥ 2 required),reco-v2.0,v2
+8,Divya Menon,1,ML Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+8,Divya Menon,2,Data Scientist,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+8,Divya Menon,3,AI Engineer,True,True,MEDIUM,Required skills matched: python | Experience satisfied (2 yrs ≥ 2 required),reco-v2.0,v2
+9,Sanjay Reddy,1,ML Engineer,True,False,LOW,Experience satisfied (4 yrs ≥ 2 required),reco-v2.0,v2
+9,Sanjay Reddy,2,Data Scientist,True,False,LOW,Experience satisfied (4 yrs ≥ 2 required),reco-v2.0,v2
+9,Sanjay Reddy,3,AI Engineer,True,False,LOW,Experience satisfied (4 yrs ≥ 2 required),reco-v2.0,v2
+10,Meera Bansal,1,ML Engineer,True,False,LOW,"Required skills matched: python | Skills to develop: machine learning, sql",reco-v2.0,v2
+10,Meera Bansal,2,Data Scientist,True,True,MEDIUM,"Required skills matched: python, statistics | Skills to develop: sql",reco-v2.0,v2
+10,Meera Bansal,3,AI Engineer,True,False,LOW,"Required skills matched: python | Skills to develop: deep learning, machine learning",reco-v2.0,v2
