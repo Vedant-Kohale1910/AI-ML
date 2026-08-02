@@ -1,0 +1,2 @@
+metric,baseline,personalized,delta
+nDCG@5,0.9469,0.9469,0.0

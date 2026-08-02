@@ -1,0 +1,5 @@
+recruiter_id,current_org,target_org,signals_exposed,isolated,result
+R001,google,microsoft,0,True,✓ ISOLATED — no signal bleed
+R001,google,amazon,0,True,✓ ISOLATED — no signal bleed
+R002,microsoft,google,0,True,✓ ISOLATED — no signal bleed
+R002,microsoft,amazon,0,True,✓ ISOLATED — no signal bleed
