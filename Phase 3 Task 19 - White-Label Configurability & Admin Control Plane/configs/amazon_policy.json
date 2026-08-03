@@ -1,0 +1,1 @@
+{"tenant":"amazon","version":"1.0","weights":{"skill":0.50,"experience":0.25,"assessment":0.15,"cert":0.10},"min_experience_years":1,"required_skills_min":2,"boost_recent_grads":true}

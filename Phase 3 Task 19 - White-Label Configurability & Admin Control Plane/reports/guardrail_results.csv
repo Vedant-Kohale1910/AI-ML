@@ -1,0 +1,6 @@
+test,valid,errors
+weights_sum_wrong,False,Weights must sum to 1.0 (got 0.65). Tip: adjust weights so they add up to exactly 100%.
+negative_weight,False,Weight for 'skill' is negative (-0.1). All weights must be ≥ 0.
+single_weight_high,False,Weight for 'skill' is 0.9 — exceeds maximum 0.8. Concentrating too much on one feature makes the ranking brittle.
+age_proxy_exp_gate,False,min_experience_years=10 exceeds safe limit 8. High experience gates act as proxies for age discrimination (DPDP/labour law risk).
+protected_attr_key,False,Policy contains protected-attribute keys: ['gender']. Filtering on these attributes (directly or as proxies) is prohibited under DPDP.

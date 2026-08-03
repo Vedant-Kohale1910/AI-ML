@@ -1,0 +1,1 @@
+{"tenant":"google","version":"1.0","weights":{"skill":0.60,"experience":0.25,"assessment":0.10,"cert":0.05},"min_experience_years":1,"required_skills_min":2,"boost_recent_grads":false}

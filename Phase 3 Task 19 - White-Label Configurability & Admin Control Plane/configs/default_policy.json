@@ -1,0 +1,1 @@
+{"tenant":"default","version":"1.0","weights":{"skill":0.55,"experience":0.25,"assessment":0.10,"cert":0.10},"min_experience_years":0,"required_skills_min":0,"boost_recent_grads":false}

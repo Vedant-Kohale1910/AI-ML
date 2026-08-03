@@ -1,0 +1,1 @@
+{"tenant":"microsoft","version":"1.0","weights":{"skill":0.45,"experience":0.35,"assessment":0.10,"cert":0.10},"min_experience_years":2,"required_skills_min":1,"boost_recent_grads":false}

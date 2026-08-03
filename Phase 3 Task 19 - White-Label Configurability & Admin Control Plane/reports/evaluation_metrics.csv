@@ -1,0 +1,5 @@
+tenant,ndcg_at_5,top_candidate,skill_weight
+google,0.8503,Aarav Patel,0.6
+microsoft,0.8503,Aarav Patel,0.45
+amazon,0.8503,Aarav Patel,0.5
+default,0.8503,Aarav Patel,0.55
