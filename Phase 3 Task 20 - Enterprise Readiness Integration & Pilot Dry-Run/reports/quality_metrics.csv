@@ -1,0 +1,5 @@
+tenant,metric,baseline,pilot,target,pass
+google,precision_at_5,0.55,0.45,0.6,False
+google,ndcg_at_5,0.8228,0.7251,0.7,True
+google,dpd,N/A,0.175,0.15,False
+google,latency_p95_ms,N/A,0.34,200.0,True

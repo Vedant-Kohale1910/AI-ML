@@ -1,0 +1,612 @@
+[
+  {
+    "student_id": 1,
+    "name": "Candidate_01",
+    "verified_skills": [
+      "Python",
+      "PostgreSQL",
+      "Azure",
+      "AWS",
+      "Kafka",
+      "Data Science",
+      "FastAPI",
+      "SQL"
+    ],
+    "years_experience": 1,
+    "assessment_score": 0.86,
+    "education": "B.Tech ECE",
+    "certifications": [],
+    "experience_summary": "1 years in software and AI development",
+    "resume_text": "Engineer with 1 years experience. Skills: MLOps, Node.js, Java, Python, Machine Learning, PyTorch, AWS, NLP",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 2,
+    "name": "Candidate_02",
+    "verified_skills": [
+      "Computer Vision",
+      "PyTorch",
+      "Scala",
+      "C++",
+      "Elasticsearch",
+      "Spring Boot",
+      "Node.js"
+    ],
+    "years_experience": 0,
+    "assessment_score": 0.69,
+    "education": "B.Tech ECE",
+    "certifications": [
+      "AWS-ML"
+    ],
+    "experience_summary": "0 years in software and AI development",
+    "resume_text": "Engineer with 0 years experience. Skills: MongoDB, Redis, TensorFlow, Scala, Node.js, Kubernetes, Azure",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 3,
+    "name": "Candidate_03",
+    "verified_skills": [
+      "MongoDB",
+      "Kubernetes",
+      "SQL",
+      "Machine Learning"
+    ],
+    "years_experience": 3,
+    "assessment_score": 0.75,
+    "education": "B.Tech IT",
+    "certifications": [
+      "CKA"
+    ],
+    "experience_summary": "3 years in software and AI development",
+    "resume_text": "Engineer with 3 years experience. Skills: Azure, Redis, Java, PostgreSQL",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 4,
+    "name": "Candidate_04",
+    "verified_skills": [
+      "SQL",
+      "React",
+      "Machine Learning",
+      "Computer Vision",
+      "GCP",
+      "C++"
+    ],
+    "years_experience": 8,
+    "assessment_score": 0.84,
+    "education": "B.Tech IT",
+    "certifications": [
+      "GCP-ML",
+      "AWS-ML"
+    ],
+    "experience_summary": "8 years in software and AI development",
+    "resume_text": "Engineer with 8 years experience. Skills: Java, Golang, AWS, MongoDB, GCP, Machine Learning",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 5,
+    "name": "Candidate_05",
+    "verified_skills": [
+      "React",
+      "Azure",
+      "Spark",
+      "C++"
+    ],
+    "years_experience": 1,
+    "assessment_score": 0.93,
+    "education": "M.Tech AI",
+    "certifications": [
+      "Azure-AI"
+    ],
+    "experience_summary": "1 years in software and AI development",
+    "resume_text": "Engineer with 1 years experience. Skills: PyTorch, Golang, Azure, Scala",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 6,
+    "name": "Candidate_06",
+    "verified_skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "C++",
+      "TensorFlow",
+      "Computer Vision",
+      "PostgreSQL",
+      "AWS",
+      "Kafka"
+    ],
+    "years_experience": 10,
+    "assessment_score": 0.78,
+    "education": "B.Tech IT",
+    "certifications": [
+      "CKA",
+      "GCP-ML"
+    ],
+    "experience_summary": "10 years in software and AI development",
+    "resume_text": "Engineer with 10 years experience. Skills: Golang, Kubernetes, Kafka, MongoDB, Elasticsearch, Java, AWS, Redis",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 7,
+    "name": "Candidate_07",
+    "verified_skills": [
+      "Azure",
+      "Machine Learning",
+      "PyTorch",
+      "Spring Boot",
+      "MLOps"
+    ],
+    "years_experience": 6,
+    "assessment_score": 0.94,
+    "education": "B.Tech IT",
+    "certifications": [],
+    "experience_summary": "6 years in software and AI development",
+    "resume_text": "Engineer with 6 years experience. Skills: C++, Airflow, React, FastAPI, Spring Boot",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 8,
+    "name": "Candidate_08",
+    "verified_skills": [
+      "Data Science",
+      "Azure",
+      "Spring Boot",
+      "AWS",
+      "PostgreSQL",
+      "Computer Vision",
+      "MongoDB",
+      "FastAPI"
+    ],
+    "years_experience": 7,
+    "assessment_score": 0.89,
+    "education": "M.Sc Data Science",
+    "certifications": [
+      "TF-Dev",
+      "Azure-AI"
+    ],
+    "experience_summary": "7 years in software and AI development",
+    "resume_text": "Engineer with 7 years experience. Skills: AWS, Data Science, NLP, Airflow, Machine Learning, MongoDB, Java, SQL",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 9,
+    "name": "Candidate_09",
+    "verified_skills": [
+      "TensorFlow",
+      "Redis",
+      "Golang",
+      "Node.js"
+    ],
+    "years_experience": 10,
+    "assessment_score": 0.83,
+    "education": "M.Sc Data Science",
+    "certifications": [
+      "CKA"
+    ],
+    "experience_summary": "10 years in software and AI development",
+    "resume_text": "Engineer with 10 years experience. Skills: Spark, NLP, Azure, Computer Vision",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 10,
+    "name": "Candidate_10",
+    "verified_skills": [
+      "PostgreSQL",
+      "SQL",
+      "Golang"
+    ],
+    "years_experience": 10,
+    "assessment_score": 0.95,
+    "education": "B.Tech IT",
+    "certifications": [
+      "Azure-AI",
+      "AWS-ML"
+    ],
+    "experience_summary": "10 years in software and AI development",
+    "resume_text": "Engineer with 10 years experience. Skills: GCP, Node.js, TensorFlow",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 11,
+    "name": "Candidate_11",
+    "verified_skills": [
+      "PostgreSQL",
+      "FastAPI",
+      "Spring Boot",
+      "Azure",
+      "NLP",
+      "MongoDB"
+    ],
+    "years_experience": 0,
+    "assessment_score": 0.67,
+    "education": "B.Tech CS",
+    "certifications": [
+      "Azure-AI",
+      "GCP-ML"
+    ],
+    "experience_summary": "0 years in software and AI development",
+    "resume_text": "Engineer with 0 years experience. Skills: Data Science, Docker, MongoDB, TensorFlow, Computer Vision, Elasticsearch",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 12,
+    "name": "Candidate_12",
+    "verified_skills": [
+      "Data Engineering",
+      "Kubernetes",
+      "Airflow",
+      "Python",
+      "SQL",
+      "Docker",
+      "GCP"
+    ],
+    "years_experience": 0,
+    "assessment_score": 0.69,
+    "education": "M.Tech AI",
+    "certifications": [
+      "AWS-ML",
+      "CKA"
+    ],
+    "experience_summary": "0 years in software and AI development",
+    "resume_text": "Engineer with 0 years experience. Skills: PostgreSQL, Airflow, Kafka, Machine Learning, MongoDB, Computer Vision, Data Science",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 13,
+    "name": "Candidate_13",
+    "verified_skills": [
+      "Airflow",
+      "Computer Vision",
+      "TensorFlow",
+      "Azure"
+    ],
+    "years_experience": 10,
+    "assessment_score": 0.81,
+    "education": "B.Tech ECE",
+    "certifications": [
+      "GCP-ML"
+    ],
+    "experience_summary": "10 years in software and AI development",
+    "resume_text": "Engineer with 10 years experience. Skills: Spring Boot, Computer Vision, MongoDB, PostgreSQL",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 14,
+    "name": "Candidate_14",
+    "verified_skills": [
+      "Scala",
+      "GCP",
+      "React",
+      "Golang",
+      "C++",
+      "Docker",
+      "Spark",
+      "NLP"
+    ],
+    "years_experience": 3,
+    "assessment_score": 0.78,
+    "education": "M.Tech AI",
+    "certifications": [],
+    "experience_summary": "3 years in software and AI development",
+    "resume_text": "Engineer with 3 years experience. Skills: Machine Learning, Kubernetes, Python, MLOps, Computer Vision, AWS, Kafka, MongoDB",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 15,
+    "name": "Candidate_15",
+    "verified_skills": [
+      "Scala",
+      "C++",
+      "Java"
+    ],
+    "years_experience": 1,
+    "assessment_score": 0.69,
+    "education": "B.Tech CS",
+    "certifications": [
+      "AWS-ML"
+    ],
+    "experience_summary": "1 years in software and AI development",
+    "resume_text": "Engineer with 1 years experience. Skills: NLP, AWS, Azure",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 16,
+    "name": "Candidate_16",
+    "verified_skills": [
+      "PyTorch",
+      "Computer Vision",
+      "Data Science",
+      "PostgreSQL",
+      "MLOps",
+      "Redis",
+      "Airflow",
+      "AWS"
+    ],
+    "years_experience": 7,
+    "assessment_score": 0.91,
+    "education": "M.Sc Data Science",
+    "certifications": [],
+    "experience_summary": "7 years in software and AI development",
+    "resume_text": "Engineer with 7 years experience. Skills: SQL, Spring Boot, Golang, Node.js, Docker, Kafka, MongoDB, Spark",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 17,
+    "name": "Candidate_17",
+    "verified_skills": [
+      "Golang",
+      "C++",
+      "FastAPI",
+      "SQL",
+      "Java",
+      "React",
+      "PostgreSQL",
+      "Kubernetes"
+    ],
+    "years_experience": 0,
+    "assessment_score": 0.91,
+    "education": "B.Tech CS",
+    "certifications": [],
+    "experience_summary": "0 years in software and AI development",
+    "resume_text": "Engineer with 0 years experience. Skills: PyTorch, Spring Boot, Computer Vision, Spark, Data Science, Node.js, TensorFlow, Azure",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 18,
+    "name": "Candidate_18",
+    "verified_skills": [
+      "Elasticsearch",
+      "Machine Learning",
+      "Spark",
+      "Redis",
+      "Computer Vision",
+      "SQL"
+    ],
+    "years_experience": 3,
+    "assessment_score": 0.62,
+    "education": "B.Tech ECE",
+    "certifications": [],
+    "experience_summary": "3 years in software and AI development",
+    "resume_text": "Engineer with 3 years experience. Skills: Machine Learning, MongoDB, Elasticsearch, AWS, TensorFlow, Node.js",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 19,
+    "name": "Candidate_19",
+    "verified_skills": [
+      "PyTorch",
+      "Elasticsearch",
+      "React",
+      "Java",
+      "TensorFlow",
+      "FastAPI"
+    ],
+    "years_experience": 7,
+    "assessment_score": 0.6,
+    "education": "M.Sc Data Science",
+    "certifications": [
+      "TF-Dev"
+    ],
+    "experience_summary": "7 years in software and AI development",
+    "resume_text": "Engineer with 7 years experience. Skills: GCP, Node.js, Scala, PostgreSQL, Redis, Computer Vision",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 20,
+    "name": "Candidate_20",
+    "verified_skills": [
+      "Data Science",
+      "PyTorch",
+      "GCP",
+      "FastAPI",
+      "Java",
+      "MLOps",
+      "PostgreSQL",
+      "Computer Vision"
+    ],
+    "years_experience": 7,
+    "assessment_score": 0.62,
+    "education": "B.Tech IT",
+    "certifications": [],
+    "experience_summary": "7 years in software and AI development",
+    "resume_text": "Engineer with 7 years experience. Skills: Java, MLOps, Airflow, NLP, Kafka, TensorFlow, Spring Boot, Redis",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 21,
+    "name": "Candidate_21",
+    "verified_skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "Golang"
+    ],
+    "years_experience": 2,
+    "assessment_score": 0.94,
+    "education": "M.Sc Data Science",
+    "certifications": [],
+    "experience_summary": "2 years in software and AI development",
+    "resume_text": "Engineer with 2 years experience. Skills: FastAPI, MLOps, AWS",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 22,
+    "name": "Candidate_22",
+    "verified_skills": [
+      "Java",
+      "Data Engineering",
+      "Machine Learning",
+      "Node.js",
+      "Golang",
+      "MLOps",
+      "MongoDB"
+    ],
+    "years_experience": 9,
+    "assessment_score": 0.8,
+    "education": "B.Tech IT",
+    "certifications": [],
+    "experience_summary": "9 years in software and AI development",
+    "resume_text": "Engineer with 9 years experience. Skills: Golang, Scala, Kubernetes, AWS, Azure, React, Data Science",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 23,
+    "name": "Candidate_23",
+    "verified_skills": [
+      "GCP",
+      "Spark",
+      "Kubernetes",
+      "MongoDB",
+      "Machine Learning",
+      "Python",
+      "FastAPI",
+      "Data Engineering"
+    ],
+    "years_experience": 10,
+    "assessment_score": 0.99,
+    "education": "B.Tech CS",
+    "certifications": [],
+    "experience_summary": "10 years in software and AI development",
+    "resume_text": "Engineer with 10 years experience. Skills: Computer Vision, PyTorch, NLP, Azure, Data Science, Docker, Machine Learning, AWS",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 24,
+    "name": "Candidate_24",
+    "verified_skills": [
+      "TensorFlow",
+      "Spark",
+      "Kafka",
+      "Computer Vision",
+      "Scala"
+    ],
+    "years_experience": 4,
+    "assessment_score": 0.72,
+    "education": "PhD CS",
+    "certifications": [
+      "AWS-ML",
+      "Azure-AI"
+    ],
+    "experience_summary": "4 years in software and AI development",
+    "resume_text": "Engineer with 4 years experience. Skills: Spring Boot, Golang, SQL, FastAPI, Data Science",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 25,
+    "name": "Candidate_25",
+    "verified_skills": [
+      "FastAPI",
+      "SQL",
+      "PostgreSQL",
+      "Computer Vision",
+      "Data Science"
+    ],
+    "years_experience": 1,
+    "assessment_score": 0.71,
+    "education": "B.Tech ECE",
+    "certifications": [],
+    "experience_summary": "1 years in software and AI development",
+    "resume_text": "Engineer with 1 years experience. Skills: Scala, Kubernetes, PyTorch, Golang, C++",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 26,
+    "name": "Candidate_26",
+    "verified_skills": [
+      "Airflow",
+      "Azure",
+      "FastAPI",
+      "Spring Boot",
+      "Elasticsearch"
+    ],
+    "years_experience": 8,
+    "assessment_score": 0.62,
+    "education": "PhD CS",
+    "certifications": [
+      "Azure-AI"
+    ],
+    "experience_summary": "8 years in software and AI development",
+    "resume_text": "Engineer with 8 years experience. Skills: Java, Python, Kubernetes, MongoDB, Data Science",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 27,
+    "name": "Candidate_27",
+    "verified_skills": [
+      "TensorFlow",
+      "PostgreSQL",
+      "Spark",
+      "Computer Vision",
+      "Scala",
+      "Node.js",
+      "Kafka",
+      "Python"
+    ],
+    "years_experience": 4,
+    "assessment_score": 0.64,
+    "education": "PhD CS",
+    "certifications": [],
+    "experience_summary": "4 years in software and AI development",
+    "resume_text": "Engineer with 4 years experience. Skills: Computer Vision, Java, Kafka, Docker, MLOps, Spring Boot, Data Science, Node.js",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 28,
+    "name": "Candidate_28",
+    "verified_skills": [
+      "GCP",
+      "Docker",
+      "FastAPI",
+      "Spring Boot"
+    ],
+    "years_experience": 0,
+    "assessment_score": 0.91,
+    "education": "B.Tech CS",
+    "certifications": [
+      "GCP-ML"
+    ],
+    "experience_summary": "0 years in software and AI development",
+    "resume_text": "Engineer with 0 years experience. Skills: Golang, AWS, SQL, Docker",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 29,
+    "name": "Candidate_29",
+    "verified_skills": [
+      "Data Engineering",
+      "PostgreSQL",
+      "Data Science",
+      "AWS",
+      "TensorFlow",
+      "Redis",
+      "Node.js"
+    ],
+    "years_experience": 6,
+    "assessment_score": 0.61,
+    "education": "PhD CS",
+    "certifications": [
+      "TF-Dev"
+    ],
+    "experience_summary": "6 years in software and AI development",
+    "resume_text": "Engineer with 6 years experience. Skills: Redis, Golang, Elasticsearch, PostgreSQL, Spring Boot, AWS, Azure",
+    "skill_levels": {}
+  },
+  {
+    "student_id": 30,
+    "name": "Candidate_30",
+    "verified_skills": [
+      "React",
+      "Elasticsearch",
+      "Java",
+      "Airflow"
+    ],
+    "years_experience": 1,
+    "assessment_score": 0.69,
+    "education": "M.Sc Data Science",
+    "certifications": [
+      "Azure-AI"
+    ],
+    "experience_summary": "1 years in software and AI development",
+    "resume_text": "Engineer with 1 years experience. Skills: Kafka, Redis, Elasticsearch, AWS",
+    "skill_levels": {}
+  }
+]

@@ -1,0 +1,13 @@
+job_id,job_title,latency_ms,slo_ok
+1,ML Engineer,0.23,True
+2,Data Scientist,0.16,True
+3,Data Engineer,0.15,True
+4,AI Research Scientist,0.27,True
+5,Platform Engineer,0.34,True
+6,Backend Developer,0.15,True
+7,MLOps Engineer,0.15,True
+8,Analytics Engineer,0.23,True
+9,NLP Scientist,0.24,True
+10,Computer Vision Engineer,0.31,True
+11,Robotics Engineer,0.16,True
+12,Chip Designer,0.21,True

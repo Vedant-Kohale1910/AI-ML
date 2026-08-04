@@ -1,0 +1,262 @@
+[
+  {
+    "job_id": 1,
+    "title": "ML Engineer",
+    "company": "Google",
+    "required_skills": [
+      "Python",
+      "Golang",
+      "PyTorch"
+    ],
+    "nice_to_have_skills": [
+      "React",
+      "Kubernetes"
+    ],
+    "required_experience_years": 3,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "AWS-ML"
+    ],
+    "job_description": "We are hiring a ML Engineer at Google.",
+    "seniority_level": "Mid"
+  },
+  {
+    "job_id": 2,
+    "title": "Data Scientist",
+    "company": "Google",
+    "required_skills": [
+      "Docker",
+      "C++",
+      "NLP",
+      "React"
+    ],
+    "nice_to_have_skills": [
+      "Golang",
+      "Kafka"
+    ],
+    "required_experience_years": 5,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "GCP-ML"
+    ],
+    "job_description": "We are hiring a Data Scientist at Google.",
+    "seniority_level": "Mid"
+  },
+  {
+    "job_id": 3,
+    "title": "Data Engineer",
+    "company": "Google",
+    "required_skills": [
+      "SQL",
+      "FastAPI"
+    ],
+    "nice_to_have_skills": [
+      "Azure",
+      "TensorFlow"
+    ],
+    "required_experience_years": 5,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "GCP-ML"
+    ],
+    "job_description": "We are hiring a Data Engineer at Google.",
+    "seniority_level": "Mid"
+  },
+  {
+    "job_id": 4,
+    "title": "AI Research Scientist",
+    "company": "Google",
+    "required_skills": [
+      "SQL",
+      "Data Engineering"
+    ],
+    "nice_to_have_skills": [
+      "Node.js",
+      "Docker"
+    ],
+    "required_experience_years": 6,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "GCP-ML"
+    ],
+    "job_description": "We are hiring a AI Research Scientist at Google.",
+    "seniority_level": "Mid"
+  },
+  {
+    "job_id": 5,
+    "title": "Platform Engineer",
+    "company": "Google",
+    "required_skills": [
+      "Data Engineering",
+      "NLP",
+      "SQL",
+      "React",
+      "FastAPI"
+    ],
+    "nice_to_have_skills": [
+      "MLOps",
+      "PyTorch"
+    ],
+    "required_experience_years": 3,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "AWS-ML"
+    ],
+    "job_description": "We are hiring a Platform Engineer at Google.",
+    "seniority_level": "Mid"
+  },
+  {
+    "job_id": 6,
+    "title": "Backend Developer",
+    "company": "Google",
+    "required_skills": [
+      "Python",
+      "NLP",
+      "Spring Boot",
+      "Redis",
+      "Computer Vision"
+    ],
+    "nice_to_have_skills": [
+      "Golang",
+      "PostgreSQL"
+    ],
+    "required_experience_years": 6,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "TF-Dev"
+    ],
+    "job_description": "We are hiring a Backend Developer at Google.",
+    "seniority_level": "Mid"
+  },
+  {
+    "job_id": 7,
+    "title": "MLOps Engineer",
+    "company": "Google",
+    "required_skills": [
+      "Docker",
+      "Node.js",
+      "Machine Learning"
+    ],
+    "nice_to_have_skills": [
+      "Golang",
+      "Spring Boot"
+    ],
+    "required_experience_years": 3,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "TF-Dev"
+    ],
+    "job_description": "We are hiring a MLOps Engineer at Google.",
+    "seniority_level": "Senior"
+  },
+  {
+    "job_id": 8,
+    "title": "Analytics Engineer",
+    "company": "Google",
+    "required_skills": [
+      "Golang",
+      "Elasticsearch",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "GCP"
+    ],
+    "required_experience_years": 5,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "GCP-ML"
+    ],
+    "job_description": "We are hiring a Analytics Engineer at Google.",
+    "seniority_level": "Senior"
+  },
+  {
+    "job_id": 9,
+    "title": "NLP Scientist",
+    "company": "Google",
+    "required_skills": [
+      "Kubernetes",
+      "React",
+      "Scala",
+      "GCP",
+      "Computer Vision"
+    ],
+    "nice_to_have_skills": [
+      "Data Science",
+      "PyTorch"
+    ],
+    "required_experience_years": 4,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "TF-Dev"
+    ],
+    "job_description": "We are hiring a NLP Scientist at Google.",
+    "seniority_level": "Senior"
+  },
+  {
+    "job_id": 10,
+    "title": "Computer Vision Engineer",
+    "company": "Google",
+    "required_skills": [
+      "Golang",
+      "PostgreSQL",
+      "FastAPI",
+      "TensorFlow",
+      "Data Engineering"
+    ],
+    "nice_to_have_skills": [
+      "MLOps",
+      "GCP"
+    ],
+    "required_experience_years": 4,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "TF-Dev"
+    ],
+    "job_description": "We are hiring a Computer Vision Engineer at Google.",
+    "seniority_level": "Senior"
+  },
+  {
+    "job_id": 11,
+    "title": "Robotics Engineer",
+    "company": "Google",
+    "required_skills": [
+      "GCP",
+      "PyTorch"
+    ],
+    "nice_to_have_skills": [
+      "Node.js",
+      "Redis"
+    ],
+    "required_experience_years": 5,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "TF-Dev"
+    ],
+    "job_description": "We are hiring a Robotics Engineer at Google.",
+    "seniority_level": "Senior"
+  },
+  {
+    "job_id": 12,
+    "title": "Chip Designer",
+    "company": "Google",
+    "required_skills": [
+      "Spark",
+      "Golang",
+      "PyTorch",
+      "NLP"
+    ],
+    "nice_to_have_skills": [
+      "Airflow",
+      "Redis"
+    ],
+    "required_experience_years": 6,
+    "education_requirement": "B.Tech or higher",
+    "preferred_certifications": [
+      "AWS-ML"
+    ],
+    "job_description": "We are hiring a Chip Designer at Google.",
+    "seniority_level": "Senior"
+  }
+]
