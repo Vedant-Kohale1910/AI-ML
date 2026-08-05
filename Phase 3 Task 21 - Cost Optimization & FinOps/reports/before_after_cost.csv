@@ -1,0 +1,7 @@
+metric,before,after,savings_pct
+cost_per_inference_usd,2e-10,0.0,98.5
+cost_per_shortlist_inr,0.0,0.0,98.5
+cost_per_1000_inferences_usd,0.0,0.0,98.5
+daily_serving_usd,1e-05,0.0,99.5
+avg_latency_ms,0.0133,0.001,92.5
+ndcg_at_5,0.9196,0.9196,0.0
