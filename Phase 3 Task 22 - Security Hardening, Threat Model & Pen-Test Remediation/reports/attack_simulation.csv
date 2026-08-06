@@ -1,0 +1,4 @@
+candidate,raw_skills,flags,base_score,final_score,action
+Aarav Patel,4,NONE,0.889,0.889,CLEAN
+Attacker (keyword stuffed),30,T01: 'python' repeated 10× (limit 3); T01: duplicate skill ratio 90% exceeds 50%,0.889,0.32,DOWN_RANKED
+Attacker (prompt injection),6,T06: prompt injection pattern detected in resume text,0.889,0.0,BLOCKED

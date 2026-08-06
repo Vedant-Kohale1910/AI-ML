@@ -1,0 +1,5 @@
+threat,attacks_simulated,detected,detection_rate,false_positives,action
+T01 Keyword Stuffing,2,2,1.0,0,DOWN_RANKED/BLOCKED
+T03 Data Poisoning,1,1,1.0,0,QUARANTINE
+T04 Model Extraction,1,1,1.0,0,BLOCK
+T06 Prompt Injection,1,1,1.0,0,BLOCKED (score=0)
