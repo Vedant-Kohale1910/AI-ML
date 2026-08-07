@@ -1,0 +1,183 @@
+[
+  {
+    "student_id": 1,
+    "name": "Aarav Patel",
+    "email": "aarav.patel@college.edu",
+    "verified_skills": ["Python", "SQL", "Machine Learning", "Data Analysis"],
+    "skill_levels": {
+      "Python": "intermediate",
+      "SQL": "intermediate",
+      "Machine Learning": "intermediate",
+      "Data Analysis": "beginner"
+    },
+    "years_experience": 3,
+    "assessment_score": 0.89,
+    "education": "B.Tech Computer Science",
+    "certifications": ["AWS Associate Developer", "Coursera ML Specialization"],
+    "experience_summary": "Internship at TechCorp (ML), Freelance data analysis projects",
+    "resume_text": "Experienced ML engineer with 3 years in data science and ML projects..."
+  },
+  {
+    "student_id": 2,
+    "name": "Priya Sharma",
+    "email": "priya.sharma@college.edu",
+    "verified_skills": ["Python", "JavaScript", "React", "Node.js"],
+    "skill_levels": {
+      "Python": "beginner",
+      "JavaScript": "advanced",
+      "React": "intermediate",
+      "Node.js": "intermediate"
+    },
+    "years_experience": 2,
+    "assessment_score": 0.85,
+    "education": "B.Tech Information Technology",
+    "certifications": ["Full Stack Web Development Nanodegree"],
+    "experience_summary": "Frontend internship at StartupXYZ, personal web projects",
+    "resume_text": "Full-stack developer with strong React and Node.js experience..."
+  },
+  {
+    "student_id": 3,
+    "name": "Ravi Desai",
+    "email": "ravi.desai@college.edu",
+    "verified_skills": ["Python", "Java", "SQL", "Data Science"],
+    "skill_levels": {
+      "Python": "advanced",
+      "Java": "intermediate",
+      "SQL": "advanced",
+      "Data Science": "intermediate"
+    },
+    "years_experience": 4,
+    "assessment_score": 0.92,
+    "education": "B.Tech Computer Engineering",
+    "certifications": ["Google Cloud Professional Data Engineer", "Advanced Python Certfication"],
+    "experience_summary": "Data engineer at DataCorp, 2 years backend development",
+    "resume_text": "Senior data engineer with expertise in ETL pipelines and data warehousing..."
+  },
+  {
+    "student_id": 4,
+    "name": "Anjali Singh",
+    "email": "anjali.singh@college.edu",
+    "verified_skills": ["Java", "Spring Boot", "Kubernetes", "AWS"],
+    "skill_levels": {
+      "Java": "advanced",
+      "Spring Boot": "intermediate",
+      "Kubernetes": "beginner",
+      "AWS": "intermediate"
+    },
+    "years_experience": 3,
+    "assessment_score": 0.87,
+    "education": "B.Tech Software Engineering",
+    "certifications": ["AWS Solutions Architect Associate"],
+    "experience_summary": "Backend engineer at CloudTech, microservices experience",
+    "resume_text": "Backend engineer specializing in Spring Boot and cloud-native architecture..."
+  },
+  {
+    "student_id": 5,
+    "name": "Vikram Kumar",
+    "email": "vikram.kumar@college.edu",
+    "verified_skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision"],
+    "skill_levels": {
+      "Python": "advanced",
+      "TensorFlow": "intermediate",
+      "PyTorch": "intermediate",
+      "Computer Vision": "intermediate"
+    },
+    "years_experience": 2,
+    "assessment_score": 0.90,
+    "education": "M.Tech Artificial Intelligence",
+    "certifications": ["Deep Learning Specialization by Andrew Ng"],
+    "experience_summary": "ML researcher, published 2 papers on CV, interned at AI Lab",
+    "resume_text": "AI researcher focused on computer vision and deep learning applications..."
+  },
+  {
+    "student_id": 6,
+    "name": "Neha Gupta",
+    "email": "neha.gupta@college.edu",
+    "verified_skills": ["Python", "SQL", "Tableau", "Statistics"],
+    "skill_levels": {
+      "Python": "intermediate",
+      "SQL": "advanced",
+      "Tableau": "advanced",
+      "Statistics": "intermediate"
+    },
+    "years_experience": 2,
+    "assessment_score": 0.83,
+    "education": "B.Sc Data Science",
+    "certifications": ["Google Analytics IQ"],
+    "experience_summary": "Data analyst at RetailCo, business intelligence dashboards",
+    "resume_text": "Data analyst with expertise in SQL and Tableau for business insights..."
+  },
+  {
+    "student_id": 7,
+    "name": "Arjun Nair",
+    "email": "arjun.nair@college.edu",
+    "verified_skills": ["C++", "System Design", "Linux", "Networking"],
+    "skill_levels": {
+      "C++": "advanced",
+      "System Design": "intermediate",
+      "Linux": "advanced",
+      "Networking": "beginner"
+    },
+    "years_experience": 3,
+    "assessment_score": 0.88,
+    "education": "B.Tech Computer Science",
+    "certifications": ["Linux Foundation Certified Associate"],
+    "experience_summary": "Systems engineer at InfraCo, kernel development, DevOps",
+    "resume_text": "Systems engineer with expertise in C++ and Linux kernel development..."
+  },
+  {
+    "student_id": 8,
+    "name": "Divya Menon",
+    "email": "divya.menon@college.edu",
+    "verified_skills": ["Python", "Django", "PostgreSQL", "Docker"],
+    "skill_levels": {
+      "Python": "advanced",
+      "Django": "intermediate",
+      "PostgreSQL": "intermediate",
+      "Docker": "beginner"
+    },
+    "years_experience": 2,
+    "assessment_score": 0.84,
+    "education": "B.Tech IT",
+    "certifications": ["Django for Beginners"],
+    "experience_summary": "Backend developer at WebStudio, Django REST APIs",
+    "resume_text": "Backend developer specializing in Django and PostgreSQL..."
+  },
+  {
+    "student_id": 9,
+    "name": "Sanjay Reddy",
+    "email": "sanjay.reddy@college.edu",
+    "verified_skills": ["Go", "Kubernetes", "Docker", "AWS", "GCP"],
+    "skill_levels": {
+      "Go": "intermediate",
+      "Kubernetes": "intermediate",
+      "Docker": "advanced",
+      "AWS": "intermediate",
+      "GCP": "beginner"
+    },
+    "years_experience": 4,
+    "assessment_score": 0.91,
+    "education": "B.Tech Computer Science",
+    "certifications": ["Kubernetes Administrator", "Docker Certified Associate"],
+    "experience_summary": "DevOps engineer at CloudScale, container orchestration expert",
+    "resume_text": "DevOps engineer with 4 years in Kubernetes and cloud infrastructure..."
+  },
+  {
+    "student_id": 10,
+    "name": "Meera Bansal",
+    "email": "meera.bansal@college.edu",
+    "verified_skills": ["Python", "R", "Statistics", "Data Visualization"],
+    "skill_levels": {
+      "Python": "intermediate",
+      "R": "advanced",
+      "Statistics": "advanced",
+      "Data Visualization": "intermediate"
+    },
+    "years_experience": 1,
+    "assessment_score": 0.81,
+    "education": "M.Sc Statistics",
+    "certifications": [],
+    "experience_summary": "Research intern in statistics, academic projects",
+    "resume_text": "Statistician with expertise in R and statistical modeling..."
+  }
+]

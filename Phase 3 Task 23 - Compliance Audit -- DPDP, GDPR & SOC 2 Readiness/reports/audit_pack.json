@@ -1,0 +1,65 @@
+{
+  "model_card": {
+    "name": "reco-v2.0",
+    "purpose": "Rank and recommend jobs to candidates on PlaceMux marketplace",
+    "algorithm": "Weighted feature scoring (skill, experience, assessment, cert)",
+    "features": [
+      "experience_summary",
+      "certifications",
+      "assessment_score",
+      "education",
+      "verified_skills",
+      "years_experience"
+    ],
+    "pii_in_model": [],
+    "training_data": "Phase-2 interaction logs (50 rows, 10 students, 12 jobs)",
+    "fairness_audit": {
+      "experience_tier": {
+        "dpd_before": 0.25,
+        "dpd_after": 0.09,
+        "pass": true
+      },
+      "assessment_tier": {
+        "dpd_before": 0.15,
+        "dpd_after": 0.24,
+        "note": "needs monitoring"
+      }
+    },
+    "offline_metrics": {
+      "ndcg_at_5": 0.73,
+      "precision_at_5": 0.44,
+      "model_version": "reco-v2.0"
+    },
+    "known_limits": [
+      "Cold-start candidates",
+      "Domain shift for specialised roles"
+    ],
+    "versioned": true,
+    "human_review": true
+  },
+  "lineage": {
+    "training_data_source": "data/event_logs.csv (Task-6 logs)",
+    "feature_computation": "src/recommendation/feature_engineering.py",
+    "reproducible": true,
+    "seed": 42,
+    "pipeline": "run_pipeline.py"
+  },
+  "data_subject_rights": {
+    "right_of_access": "Implemented (right_of_access() function)",
+    "right_to_delete": "Implemented (right_to_delete() \u2014 feature store immediate, model 90d)",
+    "right_to_contest": "Implemented (disclosure_notice() + human review ticket)",
+    "automated_decision_notice": "Returned with every recommendation response"
+  },
+  "compliance_checklist": {
+    "DPDP_data_minimisation": true,
+    "DPDP_automated_decision_notice": true,
+    "DPDP_right_to_delete": true,
+    "DPDP_human_review_path": true,
+    "GDPR_Article_22_disclosure": true,
+    "GDPR_Article_17_deletion": true,
+    "SOC2_audit_log": true,
+    "SOC2_model_versioning": true,
+    "SOC2_access_controls": true
+  },
+  "generated_at": "2026-08-07T05:43:55"
+}
