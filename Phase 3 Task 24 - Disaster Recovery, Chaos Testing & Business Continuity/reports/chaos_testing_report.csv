@@ -1,0 +1,7 @@
+scenario,path,score,degraded,availability,model_version
+NORMAL,ML_MODEL,0.889,False,maintained,reco-v2.0
+CHAOS-01 Model Down,HEURISTIC_FALLBACK,1.0,True,maintained,heuristic-v1
+CHAOS-02 FeatureStore Down,ML_MODEL,0.889,False,maintained,reco-v2.0
+CHAOS-03 Corrupted Data,REJECTED,,False,training_blocked,reco-v2.0
+CHAOS-04 Stale Features,STALE_WARNING,0.889,True,maintained,reco-v2.0
+CHAOS-05 NaN Model Output,HEURISTIC_FALLBACK,1.0,True,maintained,heuristic-v1

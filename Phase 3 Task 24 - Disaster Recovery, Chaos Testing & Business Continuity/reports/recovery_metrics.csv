@@ -1,0 +1,2 @@
+metric,normal,fallback,delta,availability
+nDCG@5,0.9675,0.9469,-0.0206,maintained
