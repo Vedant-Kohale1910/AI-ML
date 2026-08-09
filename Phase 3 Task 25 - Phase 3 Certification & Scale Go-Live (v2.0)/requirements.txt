@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+lightgbm
+xgboost
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+mlflow
+evidently
+prometheus-client
+sqlalchemy
+python-dotenv
+pytest
+matplotlib
+psutil
