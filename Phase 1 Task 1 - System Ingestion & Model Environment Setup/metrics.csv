@@ -1,0 +1,3 @@
+timestamp,model,accuracy,f1_score,dataset,params
+2026-08-10 05:57:23,DummyClassifier,0.7933,0.8848,loan_default_dataset.csv,strategy=most_frequent
+2026-08-10 11:40:47,DummyClassifier,0.7933,0.8848,loan_default_dataset.csv,strategy=most_frequent
