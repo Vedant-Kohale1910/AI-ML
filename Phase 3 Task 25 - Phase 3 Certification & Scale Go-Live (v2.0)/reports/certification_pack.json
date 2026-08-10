@@ -1,6 +1,6 @@
 {
   "pack_version": "v2.0",
-  "generated_at": "2026-08-09T20:06:53.161425",
+  "generated_at": "2026-08-09T20:27:18.828777",
   "model_version": "reco-v2.0",
   "quality": {
     "precision_at_5": 0.92,
