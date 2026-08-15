@@ -1,0 +1,5 @@
+timestamp,model,split,accuracy,precision,recall,f1_macro
+2026-08-15 07:27:10,logistic,val,0.7867,0.7477,0.6993,0.7147
+2026-08-15 07:27:10,logistic,test,0.7556,0.7044,0.6454,0.6584
+2026-08-15 14:05:53,logistic,val,0.7867,0.7477,0.6993,0.7147
+2026-08-15 14:05:53,logistic,test,0.7556,0.7044,0.6454,0.6584

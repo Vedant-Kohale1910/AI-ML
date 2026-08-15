@@ -1,0 +1,23 @@
+data:
+  path: "data/credit_fraud_dataset.csv"
+  target_col: "is_fraud"
+  drop_cols: []
+
+training:
+  random_seed: 42
+  val_size: 0.15
+  test_size: 0.15
+
+preprocessing:
+  numeric_strategy: "median"
+  categorical_strategy: "most_frequent"
+  scaler: "standard"
+  encoder: "onehot"
+
+model:
+  name: "logistic"
+  params: {}
+
+experiment:
+  log_path: "experiments/metrics.csv"
+  artifact_path: "artifacts/preprocessor.pkl"
