@@ -1,0 +1,17 @@
+data:
+  path: "data/credit_fraud_dataset.csv"
+  target_col: "is_fraud"
+  drop_cols: []
+
+training:
+  random_seed: 42
+  val_size: 0.15
+  test_size: 0.15
+
+model:
+  name: "dummy"           # options: dummy | logistic | random_forest
+  params:
+    strategy: "most_frequent"
+
+experiment:
+  log_path: "experiments/metrics.csv"
