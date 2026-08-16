@@ -2,3 +2,4 @@ exp_id,timestamp,model,seed,train_size,val_size,test_size,baseline_f1,baseline_a
 EXP-001,2026-08-16 07:26:28,logistic,42,1050,225,225,0.4156,0.7111,0.7147,0.7867,0.7477,0.6993,0.6584,0.7556,0.2991,48,33,15,Try Decision Tree; investigate class-weight balancing to improve recall on fraud class
 EXP-002,2026-08-16 07:26:28,decision_tree,42,1050,225,225,0.4156,0.7111,0.6583,0.7244,0.6617,0.6555,0.6101,0.6711,0.2427,62,33,29,Tune max_depth; try class_weight=balanced
 EXP-001,2026-08-16 13:17:09,logistic,42,1050,225,225,0.4156,0.7111,0.7147,0.7867,0.7477,0.6993,0.6584,0.7556,0.2991,48,33,15,Try Decision Tree; investigate class-weight balancing to improve recall on fraud class
+EXP-001,2026-08-16 13:33:11,logistic,42,1050,225,225,0.4156,0.7111,0.7147,0.7867,0.7477,0.6993,0.6584,0.7556,0.2991,48,33,15,Try Decision Tree; investigate class-weight balancing to improve recall on fraud class
