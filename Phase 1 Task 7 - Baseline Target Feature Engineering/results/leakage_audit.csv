@@ -1,0 +1,24 @@
+feature,available_at_prediction,uses_future_data,leakage_risk,reason
+age,True,False,False,Applicant attribute — known at application
+income,True,False,False,Declared on application form
+monthly_expense,True,False,False,Declared / bank-statement derived at application
+credit_score,True,False,False,Bureau pull at application time
+loan_amount,True,False,False,Requested amount — known at application
+loan_tenure_months,True,False,False,Chosen at application
+num_existing_loans,True,False,False,Bureau pull at application time
+num_late_payments,True,False,False,Historical record — available at application
+employment_type,True,False,False,Declared at application
+education,True,False,False,Declared at application
+years_employed,True,False,False,Declared at application
+num_dependents,True,False,False,Declared at application
+debt_to_income_ratio,True,False,False,Derived from loan_amount/income — both available
+expense_ratio,True,False,False,Derived from expense/income — both available
+monthly_loan_payment,True,False,False,Derived from amount/tenure — both available
+payment_to_income_ratio,True,False,False,Derived from monthly_payment/monthly_income
+total_debt_burden,True,False,False,Derived from existing_loans & loan_amount/income
+credit_score_band,True,False,False,Derived from credit_score (binned)
+late_payment_rate,True,False,False,Derived from history/tenure — both available
+employment_stability,True,False,False,Derived from years_employed (binned)
+default_recovery_amount,False,True,True,⚠️ LEAKY — only known after default occurs
+loan_closure_date,False,True,True,⚠️ LEAKY — only known after loan is closed
+post_approval_income,False,True,True,⚠️ LEAKY — future income not known at approval
