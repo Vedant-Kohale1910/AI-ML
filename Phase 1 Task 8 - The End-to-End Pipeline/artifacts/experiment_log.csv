@@ -1,0 +1,3 @@
+run_id,timestamp,model,seed,train_rows,val_rows,test_rows,val_f1,val_acc,val_roc_auc,test_f1,test_acc,test_roc_auc
+EXP-20260817-113648,2026-08-17 11:36:48,random_forest,42,1400,300,300,0.7869,0.7933,0.8488,0.6961,0.7067,0.7917
+EXP-20260817-173403,2026-08-17 17:34:03,random_forest,42,1400,300,300,0.7869,0.7933,0.8488,0.6961,0.7067,0.7917
