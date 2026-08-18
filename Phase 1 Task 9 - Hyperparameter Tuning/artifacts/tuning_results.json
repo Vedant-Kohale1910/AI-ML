@@ -1,0 +1,20 @@
+{
+  "best_parameters": {
+    "n_estimators": 300,
+    "min_samples_split": 5,
+    "min_samples_leaf": 4,
+    "max_features": "log2",
+    "max_depth": 15
+  },
+  "best_cv_f1_macro": 0.7765,
+  "cv_folds": 5,
+  "n_iterations": 30,
+  "baseline_test_f1": 0.6961,
+  "tuned_test_f1": 0.7257,
+  "f1_gain": 0.0296,
+  "baseline_test_acc": 0.7067,
+  "tuned_test_acc": 0.7333,
+  "baseline_roc_auc": 0.7917,
+  "tuned_roc_auc": 0.8001,
+  "improvement_confirmed": true
+}

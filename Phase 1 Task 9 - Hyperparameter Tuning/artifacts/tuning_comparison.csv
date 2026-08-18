@@ -1,0 +1,4 @@
+model,test_f1,test_acc,test_roc_auc
+RF_baseline (Task8),0.6961,0.7067,0.7917
+RF_tuned (Task9),0.7257,0.7333,0.8001
+Improvement,0.0296,0.0266,0.0084
