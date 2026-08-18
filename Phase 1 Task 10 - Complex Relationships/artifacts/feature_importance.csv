@@ -1,0 +1,11 @@
+feature,importance
+loan_amount,0.021142269
+total_debt_burden,0.021530602
+monthly_income,0.023258923
+income_to_loan_ratio,0.032850537
+debt_to_income_ratio,0.041160032
+employment_stability,0.043245044
+late_payment_rate,0.05036106
+high_late_payment,0.06008276
+credit_score,0.16788085
+credit_risk_flag,0.5384879
