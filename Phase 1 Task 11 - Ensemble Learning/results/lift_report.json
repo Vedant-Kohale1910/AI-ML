@@ -1,0 +1,12 @@
+{
+  "best_single_model": "XGBoost",
+  "best_single_f1": 0.6181,
+  "best_single_roc_auc": 0.8786,
+  "ensemble_f1": 0.6127,
+  "ensemble_roc_auc": 0.8877,
+  "absolute_f1_lift": -0.0054,
+  "relative_f1_lift_pct": -0.87,
+  "roc_auc_lift": 0.0091,
+  "best_latency_ms": 1.601,
+  "ensemble_latency_ms": 19.634
+}
