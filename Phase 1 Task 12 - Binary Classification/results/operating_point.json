@@ -1,0 +1,18 @@
+{
+  "operating_point": {
+    "threshold": 0.35,
+    "justification": "Cost-optimal: minimises FP\u00d7\u20b95 + FN\u00d7\u20b950",
+    "precision": 0.5719,
+    "recall": 0.8578,
+    "f1": 0.6863,
+    "roc_auc": 0.7563,
+    "false_positive_rate": 0.5325,
+    "false_negative_rate": 0.1422,
+    "true_positives": 350,
+    "false_positives": 262,
+    "false_negatives": 58,
+    "expected_total_cost": "\u20b94210",
+    "brier_score": 0.1997,
+    "pr_auc": 0.7022
+  }
+}
