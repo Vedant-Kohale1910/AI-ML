@@ -1,0 +1,71 @@
+{
+  "interface_version": "1.0.0",
+  "endpoints": {
+    "GET /health": "Health check + model version",
+    "GET /model/info": "Full model metadata",
+    "POST /score/single": "Score one customer record",
+    "POST /score/batch": "Score up to 10,000 records"
+  },
+  "input_contract": {
+    "tenure": "{'description': 'Months as customer (0-120)', 'maximum': 120, 'minimum': 0, 'title': 'Tenure', 'type': 'number'}",
+    "monthly_charges": "{'description': 'Monthly bill in \u20b9', 'maximum': 500, 'minimum': 0, 'title': 'Monthly Charges', 'type': 'number'}",
+    "total_charges": "{'description': 'Total billed so far in \u20b9', 'minimum': 0, 'title': 'Total Charges', 'type': 'number'}",
+    "num_products": "{'description': 'Number of subscribed products', 'maximum': 10, 'minimum': 1, 'title': 'Num Products', 'type': 'integer'}",
+    "support_calls": "{'description': 'Support calls in past year', 'maximum': 50, 'minimum': 0, 'title': 'Support Calls', 'type': 'integer'}",
+    "contract_type": "{'description': '0=Month-to-Month, 1=One Year, 2=Two Year', 'maximum': 2, 'minimum': 0, 'title': 'Contract Type', 'type': 'integer'}",
+    "payment_method": "{'description': '0-3 payment method codes', 'maximum': 3, 'minimum': 0, 'title': 'Payment Method', 'type': 'integer'}",
+    "age_group": "{'description': '0=18-25, 1=26-40, 2=41-60, 3=60+', 'maximum': 3, 'minimum': 0, 'title': 'Age Group', 'type': 'integer'}",
+    "region": "{'description': '0=North, 1=South, 2=East, 3=West', 'maximum': 3, 'minimum': 0, 'title': 'Region', 'type': 'integer'}",
+    "internet_service": "{'description': '0=None, 1=DSL, 2=Fiber', 'maximum': 2, 'minimum': 0, 'title': 'Internet Service', 'type': 'integer'}",
+    "online_backup": "{'description': '1=Yes, 0=No', 'maximum': 1, 'minimum': 0, 'title': 'Online Backup', 'type': 'integer'}",
+    "tech_support": "{'description': '1=Yes, 0=No', 'maximum': 1, 'minimum': 0, 'title': 'Tech Support', 'type': 'integer'}"
+  },
+  "output_contract": {
+    "score": "float 0.0-1.0 \u2014 calibrated churn probability",
+    "score_band": "LOW | MEDIUM-LOW | MEDIUM-HIGH | HIGH",
+    "prediction": "0=NO_CHURN, 1=CHURN",
+    "prediction_label": "NO_CHURN | CHURN",
+    "threshold_used": "Decision boundary used",
+    "score_meaning": "Calibrated probability of customer churn in next billing cycle",
+    "model_version": "Semantic version of scoring model",
+    "model_hash": "MD5 hash of model artifact",
+    "scored_at": "UTC timestamp of scoring"
+  },
+  "score_bands": {
+    "LOW": "<0.20",
+    "MEDIUM-LOW": "0.20-0.40",
+    "MEDIUM-HIGH": "0.40-0.60",
+    "HIGH": ">=0.60"
+  },
+  "model_metadata": {
+    "model_version": "v1.0.0",
+    "model_hash": "af74b39f",
+    "trained_at": "2026-08-21T04:21:52.040179Z",
+    "algorithm": "XGBoost + Isotonic Calibration",
+    "feature_cols": [
+      "tenure",
+      "monthly_charges",
+      "total_charges",
+      "num_products",
+      "support_calls",
+      "contract_type",
+      "payment_method",
+      "age_group",
+      "region",
+      "internet_service",
+      "online_backup",
+      "tech_support",
+      "charges_per_tenure",
+      "high_support"
+    ],
+    "target": "churn",
+    "threshold": 0.35,
+    "score_semantics": "Calibrated probability of customer churn (0.0\u20131.0)",
+    "cost_fp": 5,
+    "cost_fn": 50,
+    "test_roc_auc": 0.7726,
+    "test_f1": 0.7072,
+    "training_rows": 4200,
+    "data_source": "data/churn_data.csv"
+  }
+}

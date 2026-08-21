@@ -1,0 +1,31 @@
+{
+  "model_version": "v1.0.0",
+  "model_hash": "af74b39f",
+  "trained_at": "2026-08-21T04:21:52.040179Z",
+  "algorithm": "XGBoost + Isotonic Calibration",
+  "feature_cols": [
+    "tenure",
+    "monthly_charges",
+    "total_charges",
+    "num_products",
+    "support_calls",
+    "contract_type",
+    "payment_method",
+    "age_group",
+    "region",
+    "internet_service",
+    "online_backup",
+    "tech_support",
+    "charges_per_tenure",
+    "high_support"
+  ],
+  "target": "churn",
+  "threshold": 0.35,
+  "score_semantics": "Calibrated probability of customer churn (0.0\u20131.0)",
+  "cost_fp": 5,
+  "cost_fn": 50,
+  "test_roc_auc": 0.7726,
+  "test_f1": 0.7072,
+  "training_rows": 4200,
+  "data_source": "data/churn_data.csv"
+}
