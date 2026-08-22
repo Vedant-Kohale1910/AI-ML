@@ -40,7 +40,7 @@
   "model_metadata": {
     "model_version": "v1.0.0",
     "model_hash": "af74b39f",
-    "trained_at": "2026-08-21T04:21:52.040179Z",
+    "trained_at": "2026-08-21T04:42:40.275665Z",
     "algorithm": "XGBoost + Isotonic Calibration",
     "feature_cols": [
       "tenure",
