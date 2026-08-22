@@ -1,0 +1,76 @@
+{
+  "selected_features": [
+    "age",
+    "annual_income",
+    "spending_score",
+    "num_purchases",
+    "account_balance"
+  ],
+  "excluded_features": [
+    "tenure_months",
+    "support_calls",
+    "region",
+    "noise_feature1",
+    "noise_feature2"
+  ],
+  "scaling_method": "StandardScaler (mean=0, std=1)",
+  "pca_n_components": 3,
+  "pca_variance_explained": 0.9216,
+  "justified_k": 4,
+  "elbow_k": 4,
+  "silhouette_peak_k": 4,
+  "silhouette_at_justified_k": 0.6068,
+  "inertia_at_justified_k": 1783.34,
+  "davies_bouldin_at_justified_k": 0.5622,
+  "inter_intra_distance_ratio": 4.6018,
+  "distance_metric": "Euclidean (default for KMeans)",
+  "dataset_rows": 3000,
+  "k_sweep_results": {
+    "2": {
+      "inertia": 6542.72,
+      "silhouette": 0.4926,
+      "davies_bouldin": 0.9027
+    },
+    "3": {
+      "inertia": 3874.55,
+      "silhouette": 0.5555,
+      "davies_bouldin": 0.6346
+    },
+    "4": {
+      "inertia": 1783.34,
+      "silhouette": 0.6068,
+      "davies_bouldin": 0.5622
+    },
+    "5": {
+      "inertia": 1608.72,
+      "silhouette": 0.5161,
+      "davies_bouldin": 0.8793
+    },
+    "6": {
+      "inertia": 1444.35,
+      "silhouette": 0.4376,
+      "davies_bouldin": 1.1195
+    },
+    "7": {
+      "inertia": 1341.72,
+      "silhouette": 0.3696,
+      "davies_bouldin": 1.3177
+    },
+    "8": {
+      "inertia": 1254.93,
+      "silhouette": 0.3686,
+      "davies_bouldin": 1.2533
+    },
+    "9": {
+      "inertia": 1178.9,
+      "silhouette": 0.3612,
+      "davies_bouldin": 1.2333
+    },
+    "10": {
+      "inertia": 1114.71,
+      "silhouette": 0.242,
+      "davies_bouldin": 1.3733
+    }
+  },
+  "justification": "k=4 selected because silhouette score peaks at this value (0.6068), consistent with elbow in inertia curve at k=4. Inter/intra distance ratio=4.60>1.5 confirms meaningful cluster separation."
+}
